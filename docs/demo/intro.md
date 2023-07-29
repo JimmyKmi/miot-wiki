@@ -90,8 +90,9 @@ sidebar_position: 1
 ```
 
 ### 编辑词条
-编写内容主要包含两步：
+编写内容主要包含三步：
 
+0. 找：找到你要编辑的词条（百科页面左下角点编辑）
 1. 码字：编写词条内容
 2. 美化：词条[内容排版](#文本的排版)、[图片的插入](#图片的插入)、[视频的插入](#视频的插入)
 
@@ -101,7 +102,14 @@ sidebar_position: 1
 
 ### 文本的排版
 
-不用担心，很简单Markdown的使用只需要记住十个标记符号。
+十分简单：  
+使用Markdown进行排版（只需要记住几个标记符号）。
+
+Markdown 的使用方法：
+- 如果你是一个喜欢看文字的人：参考 [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
+- 如果你是一个喜欢通过视频学习的人，可以看这里：
+
+<iframe src="//player.bilibili.com/player.html?aid=680649371&bvid=BV1eS4y1j7jb&cid=486609656&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 :::tip
 如果你直接点击页面底部“编辑器”并成功进入在线编辑器进行编写，可以点击右上角的预览按钮实时预览。
@@ -109,12 +117,6 @@ sidebar_position: 1
 ![1690654288266.jpeg](https://image.static.miot.wiki/2023/07/30/64c5565454c2e.jpeg)
 
 :::
-
-Markdown 的使用方法：
-- 如果你是一个喜欢看文字的人：参考 [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
-- 如果你是一个喜欢通过视频学习的人，可以看这里：
-
-<iframe src="//player.bilibili.com/player.html?aid=680649371&bvid=BV1eS4y1j7jb&cid=486609656&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 图片的插入
 
