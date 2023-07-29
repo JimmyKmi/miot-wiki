@@ -7,7 +7,9 @@ sidebar_label: '小米人体传感器'
 2017-11-16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sensor_motion.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sensor_motion.v2&region=cn)
 
 ## 规格  
-> **通讯协议**：Zigbee  
+> 
+**设备 ID** ：lumi.sensor_motion.v2
+**通讯协议** ：Zigbee  
 **最大距离** ：7m  
 **最大角度** ：170°  
 
