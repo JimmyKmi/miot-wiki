@@ -19,4 +19,4 @@ tags: []
 ### 人人可参与的
 「米家全书」由 Git 的方法进行版本控制，你可以通过 [贡献方式](/blog/contributing) 参与。在参与时请遵守 [社区准则](/blog/rules)。
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+<!-- ![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg) -->
