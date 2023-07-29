@@ -84,7 +84,8 @@ const config = {
             position: 'left'
           },
           {
-            href: '/blog/contributing',
+            // href: '/blog/contributing',
+            href:'/blog/contributing',
             label: '加入我们',
             position: 'right',
           },

@@ -46,7 +46,7 @@ tags: []
 
 ::: tip
 
-新建词条或目录务必遵循[命名规则](/docs/demo/intro.md#命名规则)！
+新建词条或目录务必遵循[命名规则](../docs/demo/intro.md#命名规则)！
 
 :::
 
