@@ -24,7 +24,8 @@ const AdmonitionTypes = {
 
   // Add all your custom admonition types here...
   // You can also override the default ones if you want
-  'my-custom-admonition': MyCustomAdmonition,
+  'event': event,
+  'condition': condition,
 };
 
 export default AdmonitionTypes;
