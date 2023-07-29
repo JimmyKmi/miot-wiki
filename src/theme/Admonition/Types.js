@@ -4,7 +4,7 @@ import DefaultAdmonitionTypes from '@theme-original/Admonition/Types';
 function Event(props) {
   return (
     <div style={{border: 'solid red', padding: 10}}>
-      <h5 style={{color: 'blue', fontSize: 30}}>{props.title}</h5>
+      <h5 style={{color: 'blue', fontSize: 30}}>触发事件</h5>
       <div>{props.children}</div>
     </div>
   );
