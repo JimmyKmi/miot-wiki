@@ -1,7 +1,7 @@
 ---
 date: 9999-01-01T00:08 #列表按日期排序，不要更改日期
 slug: contributing
-title: 2 参与方式
+title: 2 加入我们
 authors: []
 tags: []
 ---
