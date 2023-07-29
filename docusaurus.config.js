@@ -44,11 +44,11 @@ const config = {
           editUrl:
             'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
 
-          // admonitions: {
-          //   keywords: ['event',`condition`],
-          //   extendDefaults: true,
-          //   },
-          
+          //自定义告示框
+          admonitions: {
+            keywords: ['event','condition'],
+            extendDefaults: true,
+            },
         },
         blog: {
           blogSidebarTitle: '关于米家全书.',
