@@ -87,7 +87,7 @@ const config = {
             label: '进阶教程',
           },
           {
-            to: '/blog',
+            to: '/blog/readme',
             label: '社区',
             position: 'left'
           },
