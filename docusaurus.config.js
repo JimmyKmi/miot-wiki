@@ -44,10 +44,10 @@ const config = {
           editUrl:
             'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
 
-          admonitions: {
-            keywords: ['event',`condition`],
-            extendDefaults: true,
-            },
+          // admonitions: {
+          //   keywords: ['event',`condition`],
+          //   extendDefaults: true,
+          //   },
           
         },
         blog: {
