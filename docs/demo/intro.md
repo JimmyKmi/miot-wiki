@@ -46,7 +46,7 @@ sidebar_position: 1
 需要建立目录时，在 `/docs` 下创建文件夹并以英文名命名。  
 当然你也可以创建多级目录，如： `/docs/lights/yeelight`。
 
-#### 目录标题
+### 目录标题
 在需要创建标题的目录下新建一个名为 `_category_.json` 的文件。
 
 黏贴以下内容进行修改
@@ -86,7 +86,7 @@ sidebar_position: 1
 这两步可以同时进行，也可以分开来做。
 :::
 
-#### 文本的排版
+### 文本的排版
 
 你可以直接使用在线编辑器进行编写。
 Markdown 的使用方法，你可以参考 [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
@@ -95,7 +95,7 @@ Markdown 的使用方法，你可以参考 [Markdown 快速标记指南](https:/
 不用担心，很简单Markdown的使用只需要记住十个标记符号。
 :::
 
-#### 图片的插入
+### 图片的插入
 
 [点击打开MIoTWiki图床](https://ima.miot.wiki/)，并注册一个账号。
 
