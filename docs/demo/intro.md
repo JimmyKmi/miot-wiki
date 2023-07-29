@@ -90,11 +90,14 @@ sidebar_position: 1
 
 ### 文本的排版
 
-:::tip
 不用担心，很简单Markdown的使用只需要记住十个标记符号。
-:::
 
-你可以直接使用在线编辑器进行编写。
+:::tip
+如果你直接点击页面底部“编辑器”并成功进入在线编辑器进行编写，可以点击右上角的预览按钮实时预览。
+
+![1690654288266.jpeg](https://image.static.miot.wiki/2023/07/30/64c5565454c2e.jpeg)
+
+:::
 
 Markdown 的使用方法：
 - 如果你是一个喜欢看文字的人：参考 [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
