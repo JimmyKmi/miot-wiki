@@ -43,7 +43,7 @@ tags: []
 > 成为常驻贡献者的条件
 
 
-- 点击[申请加入](#)成为常驻开发者，并将你的ID发送给我们仓库管理员进行审核。
+- 点击[申请加入](https://gitlab.com/jimmykmi/miot-wiki/-/project_members/request_access)成为常驻开发者，并将你的ID发送给我们仓库管理员进行审核。
 - 在审核通过后，您就可以在仓库中直接编辑词条。  
 
 
