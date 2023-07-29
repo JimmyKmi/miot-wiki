@@ -9,6 +9,6 @@ sidebar_position: 1
 :::
 ## 想找点什么？
 
-要查看设备信息，可以 [按分类找设备](/docs/category/按分类找设备)，也可以 [按品牌找设备](/docs/category/按品牌找设备)。
+要查看设备信息，可以 [按分类找设备](/docs/category/按分类找设备)，也可以[按品牌找设备](/docs/category/按品牌找设备)。
 
-想找关于自动化的设置？可以 [通过米家APP设置](/docs/category/米家app)，也可以 [通过中枢网关设置](/docs/category/中枢极客版)。
+想找关于自动化的设置？可以 [通过米家APP设置](/docs/category/米家app)，也可以[通过中枢网关设置](/docs/category/中枢极客版)。
