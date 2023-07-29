@@ -70,12 +70,6 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'MIoT百科',
-          },
-          {
-            type: 'docSidebar',
             sidebarId: 'devicesSidebar',
             position: 'left',
             label: '设备百科',
