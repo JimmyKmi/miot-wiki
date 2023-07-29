@@ -8,7 +8,7 @@ tags: []
 
 # 从这入门
 
-::: tip
+:::tip
 不用担心，参与我们并不需要编程能力。只需要记住十个Markdown标记符号
 可以参考 [Markdown 一分钟看完](https://markdown.com.cn/basic-syntax/)。
 :::
@@ -44,7 +44,7 @@ tags: []
 
 ## 新建词条
 
-::: tip
+:::tip
 
 新建词条或目录务必遵循[命名规则](https://miot.wiki/docs/demo/intro#命名规则)！
 
