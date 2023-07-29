@@ -7,9 +7,8 @@ sidebar_position: 1
 
 百科使用 markdown 格式编写，即 `先码字` + `一点标记` =  `好看的词条`。如果你不知道这是什么，我们回会带你入门。
 
-1. 如果你不知从何下手，可以从[编辑一个词条](#编辑词条)开始，再尝试[创建词条](#创建新词条)，再尝试[创建新分类](#创建新目录)。
+1. 如果你不知从何下手，可以从[编辑一个词条](#编辑词条)开始，再尝试[创建词条](#创建新词条)，再尝试[创建新分类](#创建新目录)，而不是按照此页的目录入门。
 2. 如果你想尝试看懂百科目录结构，请只看 `/docs` 目录下的文件。
-3. [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
 
 :::tip
 千万不要自己吓到自己，Markdown 是一种常见的笔记方式，市面上常见的笔记软件大多提供此格式的支持。
@@ -82,8 +81,8 @@ sidebar_position: 1
 ### 编辑词条
 编写内容主要包含两步：
 
-1. 编写词条内容
-2. 词条内容排版图片的插入
+1. 码字：编写词条内容
+2. 美化：词条[内容排版](#文本的排版)、[图片的插入](#图片的插入)
 
 :::tip
 这两步可以同时进行，也可以分开来做。
@@ -96,8 +95,11 @@ sidebar_position: 1
 :::
 
 你可以直接使用在线编辑器进行编写。
-Markdown 的使用方法，你可以参考 [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
-如果你是一个喜欢通过视频学习的人，可以看这里：
+
+Markdown 的使用方法：
+- 如果你是一个喜欢看文字的人：参考 [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
+- 如果你是一个喜欢通过视频学习的人，可以看这里：
+
 <iframe src="//player.bilibili.com/player.html?aid=680649371&bvid=BV1eS4y1j7jb&cid=486609656&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 图片的插入
