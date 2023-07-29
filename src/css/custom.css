@@ -44,7 +44,7 @@
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-img[data-theme='dark']{
+[data-theme='dark'] img{
     filter: brightness(0.8);
 }
 
