@@ -4,13 +4,16 @@ sidebar_position: 1
 ---
 
 # 从这入门
-1. 不需看别的文件，只看 `/docs` 目录下的文件。
-2. 使用 markdown 格式编写，即 `先码字` + `一点标记` =  `好看的词条`。
-3.  [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
+
+百科使用 markdown 格式编写，即 `先码字` + `一点标记` =  `好看的词条`。如果你不知道这是什么，我们回会带你入门。
+
+1. 如果你不知从何下手，可以从[编辑一个词条](#编辑词条)开始，再尝试[创建词条](#创建新词条)，再尝试[创建新分类](#创建新目录)。
+2. 如果你想尝试看懂百科目录结构，请只看 `/docs` 目录下的文件。
+3. [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
 
 :::tip
-千万不要被「标记」、「语言」吓到，Markdown的语法十分简单，常用的标记符号不超过十个，用于日常写作记录绰绰有余，不到半小时就能完全掌握。
-
+千万不要自己吓到自己，Markdown 是一种常见的笔记方式，市面上常见的笔记软件大多提供此格式的支持。
+它十分简单，常用的标记符号不超过十个，用于日常写作记录绰绰有余，10分钟就能完全掌握。
 就是这十个不到的标记符号，却能让人优雅地沉浸式记录，专注内容而不是纠结排版，达到「心中无尘，码字入神」的境界。
 :::
 
@@ -19,7 +22,7 @@ sidebar_position: 1
 ``` title="你只需要关注/docs目录下的文件。"
 根目录
 ├── docs
-│   ├── 文件夹
+│   ├── 文件夹（分类）
         ├──文档.md
     ├──文档.md
     ├──......
@@ -88,12 +91,14 @@ sidebar_position: 1
 
 ### 文本的排版
 
-你可以直接使用在线编辑器进行编写。
-Markdown 的使用方法，你可以参考 [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
-
 :::tip
 不用担心，很简单Markdown的使用只需要记住十个标记符号。
 :::
+
+你可以直接使用在线编辑器进行编写。
+Markdown 的使用方法，你可以参考 [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
+如果你是一个喜欢通过视频学习的人，可以看这里：
+<iframe src="//player.bilibili.com/player.html?aid=680649371&bvid=BV1eS4y1j7jb&cid=486609656&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 图片的插入
 
