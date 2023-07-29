@@ -1,0 +1,8 @@
+{
+  "label": "设备信息",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "按照设备种类进行分类"
+  }
+}
