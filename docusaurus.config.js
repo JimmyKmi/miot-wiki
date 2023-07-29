@@ -84,8 +84,8 @@ const config = {
             position: 'left'
           },
           {
-            href: 'https://gitee.com/jimmykmi/miot-wiki',
-            label: 'Gitee',
+            href: '/blog/contributing',
+            label: '加入我们',
             position: 'right',
           },
         ],
@@ -124,7 +124,7 @@ const config = {
               },
               {
                 label: '项目仓库',
-                href: 'https://gitee.com/jimmykmi/miot-wiki',
+                href: 'https://gitlab.com/jimmykmi/miot-wiki',
               },
             ],
           },

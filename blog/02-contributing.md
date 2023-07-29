@@ -6,40 +6,55 @@ authors: []
 tags: []
 ---
 
-# 项目仓库
-
-[//]: # (这个链接待定，夜间模式有点辣眼睛)
-[![JimmyKmi/miot-wiki](https://gitee.com/jimmykmi/miot-wiki/widgets/widget_card.svg?colors=eae9d7,2e2f29,272822,484a45,eae9d7,747571)](https://gitee.com/jimmykmi/miot-wiki)
-
 # 从这入门
+
+::: tip
+不用担心，参与我们并不需要编程能力。只需要记住十个Markdown标记符号：
+可以参考 [Markdown 一分钟看完](https://markdown.com.cn/basic-syntax/)。
+:::
+
 参与方式如开源项目一样，有多种方式：
-- 对于开发者：请看完 [社区参与准则](/blog/rules) 与 [标准模板](/docs/category/标准模板) 后在右上角仓库提交 PR 即可，本文不再细讲。
-- [对于非开发者](#正常人法)：继续往下看
+1. 请先阅读
+    - [社区参与准则](/blog/rules)
+    - [命名规则](/docs/demo/intro.md#命名规则)
+    - [标准模板](/docs/category/标准模板) 
+2. [注册GitLab账号](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com&glm_content=default-saas-trial)
+3. 参与方式：
+    - [成为普通贡献者](#如何成为普通贡献者)：通过 `PR | 合并请求` 或者 `issues | 议题` 参与编辑词条。
+    - [成为常驻贡献者](#如何成为常驻贡献者)：加入我们，成为仓库成员即可直接编辑词条。
 
-不用担心，参与我们并不需要编程能力。只需要按照以下步骤来：
+## 如何成为普通贡献者
 
-首先，词条使用 Markdown 格式编辑，参考 [Markdown 一分钟看完](https://markdown.com.cn/basic-syntax/)。
+### 使用 【issues | 议题】 参与
 
-## 词条编辑
+- 在页面右上角点击 `项目仓库` 进入仓库，在左侧工具栏选择 `计划（Plan）` > `议题（issues）` 或者[点击这里](https://gitlab.com/jimmykmi/miot-wiki/-/issues)发起议题（issues）我们将会对修改的内容进行审核后添加到词条中。
+
+### 使用 【PR | 合并请求】 参与
+
+- 在页面右上角点击 `项目仓库` 进入仓库，点击右上角的 `派生(Fork)` 到自己仓库,编辑后在左侧工具栏选择 `代码（code）` > `合并请求（codemerge_requests）`后点击 `新建合并请求` 提交你修改的词条。我们将会对修改的内容进行审核后添加到词条中。
+
+
+## 如何成为常驻贡献者
+
+点击[申请加入]()成为常驻开发者，并将你的ID发送给我们仓库管理员进行审核。
+
+# 词条编辑
 
 进入对应的词条页面，点击词条页面左下角的 `编辑此页` 进入编辑页面。
 
-:::tip
-如果没有账号，请[注册一个账号](https://gitee.com/signup)后再进行编辑。
-:::
-
-点击下方卡片进入项目，如果没有账号请先[注册一个](https://gitee.com/signup)。
-
 ## 新建词条
 
-### 打开编辑器
- [点击打开编辑器](https://gitee.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/) ，并查看页面的左侧文件目录；只需查看 `/docs` 下的文件
+::: tip
 
-:::tip
-如果没有账号，请[注册一个账号](https://gitee.com/signup)后再进行编辑。
+新建词条或目录务必遵循[命名规则](/docs/demo/intro.md#命名规则)！
+
 :::
+
+### 打开编辑器
+
+ [点击打开编辑器](https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/) ，并查看页面的左侧目录区查看 `/docs` 下的文件并在需要新增词条的目录下新建`.md`文件即可新建并编辑词条。
+
 
 ### 开始编辑
 
 至此，你可以对我们的内容进行修改或者创建新的词条，更加详细的教程请参考[编辑器的使用](https://miot.wiki/docs/demo/intro) 
-
