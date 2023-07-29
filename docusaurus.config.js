@@ -147,4 +147,20 @@ const config = {
     }),
 };
 
-module.exports = config;
+  module.exports = {
+    config,
+    presets: [
+      [
+        '@docusaurus/preset-classic',
+        {
+          docs: {
+            admonitions: {
+              keywords: ['note', 'tip', 'info', 'caution', 'danger','event',`condition`],
+              extendDefaults: true,
+            },
+          },
+        },
+      ],
+    ],
+  };
+// module.exports = config;
