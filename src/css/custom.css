@@ -44,6 +44,10 @@
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+img[data-theme='dark']{
+    filter: brightness(0.8);
+}
+
 /* 标题栏 */
 /* 虚拟对象实现模糊 直接实现会触发作者遗留bug */
 .navbar--fixed-top:after {
