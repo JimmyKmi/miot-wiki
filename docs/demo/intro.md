@@ -90,9 +90,13 @@ sidebar_position: 1
 你可以直接使用在线编辑器进行编写。
 Markdown 的使用方法，你可以参考 [Markdown 快速标记指南](https://markdown.com.cn/basic-syntax/links.html) 快速上手。
 
+::: tip
+不用担心，很简单Markdown的使用只需要记住十个标记符号。
+:::
+
 #### 图片的插入
 
-[点击打开MIoTWiki图床]()，并注册一个账号。
+[点击打开MIoTWiki图床](https://ima.miot.wiki/)，并注册一个账号。
 
 ### 提交更改
 
