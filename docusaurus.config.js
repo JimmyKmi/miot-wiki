@@ -76,9 +76,27 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'devicesSidebar',
+            position: 'left',
+            label: '设备百科',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'automationSidebar',
             position: 'left',
-            label: '自动化',
+            label: '联动设置',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'extendSidebar',
+            position: 'left',
+            label: '进阶教程',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'demoSidebar',
+            position: 'left',
+            label: '标准模板',
           },
           {
             to: '/blog',
