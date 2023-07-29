@@ -45,7 +45,7 @@ const config = {
             'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
 
           admonitions: {
-            keywords: ['note', 'tip', 'info', 'caution', 'danger','event',`condition`],
+            keywords: ['event',`condition`],
             extendDefaults: true,
             },
           
