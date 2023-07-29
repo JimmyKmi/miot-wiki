@@ -42,7 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://gitee.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
+            'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
         },
         blog: {
           blogSidebarTitle: 'BLOG.',
