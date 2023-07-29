@@ -6,7 +6,7 @@ authors: []
 tags: []
 ---
 
-# 从这入门
+## 从这入门
 
 :::tip
 不用担心，参与我们并不需要编程能力。只需要记住十个Markdown标记符号
@@ -16,7 +16,7 @@ tags: []
 参与方式如开源项目一样，有多种方式：
 1. 请先阅读
     - [社区参与准则](/blog/rules)
-    - [命名规则](https://miot.wiki/docs/demo/intro#命名规则)
+    - [命名规则](../docs/demo/intro#命名规则)
     - [标准模板](/docs/category/标准模板) 
 2. [注册GitLab账号](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com&glm_content=default-saas-trial)
 3. 参与方式：
