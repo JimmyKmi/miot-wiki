@@ -8,7 +8,7 @@ sidebar_label: '小米人体传感器'
 
 ## 规格  
 > 
-**设备 ID** ：lumi.sensor_motion.v2
+**设备 ID** ：lumi.sensor_motion.v2  
 **通讯协议** ：Zigbee  
 **最大距离** ：7m  
 **最大角度** ：170°  
