@@ -75,13 +75,6 @@ const config = {
             label: 'MIoT百科',
           },
           {
-            to: '/docs/automation',
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: '联动设置',
-          },
-          {
             to: '/blog',
             label: '关于',
             position: 'left'
