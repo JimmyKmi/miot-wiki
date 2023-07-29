@@ -6,9 +6,15 @@ export default function AdmonitionWrapper(props) {
   {
 
     case 'event':
+
+    if(props.title == null)
+    {
+      props.title = '触发事件';
+    }
+
       return (
         <div class="theme-admonition theme-admonition-info alert alert--info admonition_node_modules-@docusaurus-theme-classic-lib-theme-Admonition-styles-module">
-          <div class="admonitionHeading_node_modules-@docusaurus-theme-classic-lib-theme-Admonition-styles-module">触发事件</div>
+          <div class="admonitionHeading_node_modules-@docusaurus-theme-classic-lib-theme-Admonition-styles-module">{props.title}</div>
           <div class="admonitionContent_node_modules-@docusaurus-theme-classic-lib-theme-Admonition-styles-module">{props.children}</div>
         </div>);
 
