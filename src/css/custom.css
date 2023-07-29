@@ -25,6 +25,7 @@
     --ifm-blockquote-padding-vertical: 0.4em;
     --ifm-blockquote-padding-horizontal: 0.4em;
     --ifm-global-radius: 0.6rem;
+    --ifm-global-shadow-lw: 1px 2px 3px 0 #00000020, 0 0 1px 0 #00000020, 0 1px 10px 0 #00000010;
     color: var(--jmy-color-primary);
 }
 
