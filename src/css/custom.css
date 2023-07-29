@@ -192,7 +192,7 @@ blockquote > p {
     position: absolute;
     transform: scale(3) translateX(-0.7em) translateY(-0.1em);
     opacity: 0.4;
-    filter: blur(1px);
+    filter: blur(2px);
 }
 
 iframe {
