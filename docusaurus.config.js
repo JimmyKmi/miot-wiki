@@ -43,6 +43,12 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
+
+          admonitions: {
+            keywords: ['note', 'tip', 'info', 'caution', 'danger','event',`condition`],
+            extendDefaults: true,
+            },
+          
         },
         blog: {
           blogSidebarTitle: '关于米家全书.',
@@ -53,15 +59,6 @@ const config = {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
-      '@docusaurus/preset-classic',
-      {
-        docs: {
-          admonitions: {
-            keywords: ['note', 'tip', 'info', 'caution', 'danger','event',`condition`],
-            extendDefaults: true,
-          },
-        },
-      },
     ],
   ],
 
