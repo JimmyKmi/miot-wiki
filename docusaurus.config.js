@@ -87,20 +87,14 @@ const config = {
             label: '进阶教程',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'demoSidebar',
-            position: 'left',
-            label: '标准模板',
-          },
-          {
             to: '/blog',
-            label: '关于',
+            label: '社区',
             position: 'left'
           },
           {
             // href: '/blog/contributing',
             href:'/blog/contributing',
-            label: '加入我们',
+            label: '参与编辑',
             position: 'right',
           },
         ],
