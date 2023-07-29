@@ -1,41 +1,12 @@
-# Website
+欢迎来到「米家全书」！这是一个比米家百科多那么一点点内容的小米智能家居参考书（由米家玩家用爱发电提供）。
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+我们的目标是为所有米家产品的用户提供一个丰富、实用、通俗易懂的知识库。在这里，您可以找到关于米家产品的使用指南、故障排除方法、技巧分享等内容。我们希望通过众多米家用户的积极贡献，将这个百科打造成为帮助用户更好地使用和了解米家产品的社区平台。
 
-### Installation
+### 通俗易懂
+「米家全书」提供简明易懂的文档，让用户轻松理解，同时拥有丰富的拓展内容，助力用户获得更多有用的信息和技巧。
 
-```
-$ yarn
-```
+### 保持内容中立
+我们维护「米家全书」的纯净性，不允许发布任何商业广告、抹黑或吹捧任何品牌商，只从自动化设置角度出发协助用户配置更智能的家。
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+### 人人可参与的
+「米家全书」由 Git 的方法进行版本控制，你可以通过 [贡献方式](https://miot.wiki/blog/contributing) 参与。在参与时请遵守 [社区准则](https://miot.wiki/blog/rules)。
