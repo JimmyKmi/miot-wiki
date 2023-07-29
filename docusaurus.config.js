@@ -41,8 +41,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
+          editUrl: 'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
 
           //自定义告示框
           admonitions: {
