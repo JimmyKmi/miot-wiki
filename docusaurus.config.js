@@ -34,20 +34,44 @@ const config = {
 
   presets: [
     [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      // 'classic',
+      // /** @type {import('@docusaurus/preset-classic').Options} */
+      // ({
+      //   docs: {
+      //     sidebarPath: require.resolve('./sidebars.js'),
+      //     // Please change this to your repo.
+      //     // Remove this to remove the "edit this page" links.
+      //     editUrl: 'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
+
+      //     // //自定义告示框
+      //     // admonitions: {
+      //     //   keywords: ['event','condition'],
+      //     //   // extendDefaults: true,
+      //     //   },
+      //   },
+      //   blog: {
+      //     blogSidebarTitle: '关于米家全书.',
+      //     blogSidebarCount: 'ALL',
+      //     showReadingTime: true,
+      //   },
+      //   theme: {
+      //     customCss: require.resolve('./src/css/custom.css'),
+      //   },
+      // }),
+
+      '@docusaurus/preset-classic',
+      {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
 
-          // //自定义告示框
-          // admonitions: {
-          //   keywords: ['event','condition'],
-          //   extendDefaults: true,
-          //   },
+          //自定义告示框
+          admonitions: {
+            keywords: ['event','condition'],
+            // extendDefaults: true,
+            },
         },
         blog: {
           blogSidebarTitle: '关于米家全书.',
@@ -57,7 +81,7 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
