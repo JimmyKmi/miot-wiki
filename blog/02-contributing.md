@@ -17,7 +17,7 @@ tags: []
 1. 请先阅读
     - [社区参与准则](/blog/rules)
     - [命名规则](../docs/demo/intro#命名规则)
-    - [标准模板](#) 
+    - [标准模板](../docs/demo/intro) 
 2. [注册GitLab账号](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com&glm_content=default-saas-trial)
 3. 参与方式：
     - [成为普通贡献者](#如何成为普通贡献者)：通过 `PR | 合并请求` 或者 `issues | 议题` 参与编辑词条。
