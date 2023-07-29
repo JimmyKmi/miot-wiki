@@ -48,10 +48,6 @@ const config = {
           blogSidebarTitle: '关于米家全书.',
           blogSidebarCount: 'ALL',
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://gitee.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -80,7 +76,7 @@ const config = {
           },
           {
             to: '/blog',
-            label: '关于米家全书',
+            label: '关于',
             position: 'left'
           },
           {
