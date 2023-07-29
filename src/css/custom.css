@@ -24,6 +24,7 @@
     --ifm-breadcrumb-spacing: 0.3em;
     --ifm-blockquote-padding-vertical: 0.4em;
     --ifm-blockquote-padding-horizontal: 0.4em;
+    --ifm-global-radius: 0.6rem;
     color: var(--jmy-color-primary);
 }
 
@@ -84,7 +85,7 @@
 
 /* 图片圆角 */
 .markdown img {
-    border-radius: calc(var(--ifm-global-radius) * 2);
+    border-radius: var(--ifm-global-radius);
     box-shadow: var(--ifm-global-shadow-lw);
 }
 
