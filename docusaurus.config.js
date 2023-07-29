@@ -125,7 +125,7 @@ const config = {
             items: [
               {
                 label: '关于米家全书',
-                to: '/blog',
+                to: '/blog/readme',
               },
               {
                 label: '参与指南',
