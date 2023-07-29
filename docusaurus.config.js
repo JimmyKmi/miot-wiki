@@ -44,11 +44,6 @@ const config = {
           editUrl:
             'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
         },
-        docs_automation: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl:
-            'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
-        },
         blog: {
           blogSidebarTitle: '关于米家全书.',
           blogSidebarCount: 'ALL',
@@ -80,7 +75,7 @@ const config = {
             label: 'MIoT百科',
           },
           {
-            to: '/docs_automation',
+            to: '/docs/automation',
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
