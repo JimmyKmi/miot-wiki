@@ -56,11 +56,11 @@ tags: []
 
 :::
 
-### 打开编辑器
+#### 打开编辑器
 
  [点击打开编辑器](https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/) ，并查看页面的左侧目录区查看 `/docs` 下的文件并在需要新增词条的目录下新建`.md`文件即可新建并编辑词条。
 
 
-### 开始编辑
+#### 开始编辑
 
 至此，你可以对我们的内容进行修改或者创建新的词条，更加详细的教程请参考[编辑器的使用](https://miot.wiki/docs/demo/intro) 
