@@ -45,7 +45,7 @@ const config = {
             'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
         },
         blog: {
-          blogSidebarTitle: 'BLOG.',
+          blogSidebarTitle: '关于米家全书.',
           blogSidebarCount: 'ALL',
           showReadingTime: true,
           // Please change this to your repo.
