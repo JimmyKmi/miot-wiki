@@ -1,0 +1,261 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+    --ifm-color-primary: #2e8555;
+    --ifm-color-primary-dark: #29784c;
+    --ifm-color-primary-darker: #277148;
+    --ifm-color-primary-darkest: #205d3b;
+    --ifm-color-primary-light: #33925d;
+    --ifm-color-primary-lighter: #359962;
+    --ifm-color-primary-lightest: #3cad6e;
+    --ifm-navbar-background-color: rgba(255, 255, 255, .9); /* 标题栏高斯模糊 */
+    --ifm-code-font-size: 95%;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+    --ifm-menu-link-padding-vertical: 0.4rem;
+    --ifm-menu-link-padding-horizontal: 0.8rem;
+    --jmy-color-primary: #000;
+    --jmy-background-color-primary: #fff;
+    --ifm-breadcrumb-border-radius: 6px;
+    --ifm-breadcrumb-spacing: 0.3em;
+    --ifm-blockquote-padding-vertical: 0.4em;
+    --ifm-blockquote-padding-horizontal: 0.4em;
+    color: var(--jmy-color-primary);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+    /*--ifm-color-primary: #25c2a0;*/
+    /*--ifm-color-primary-dark: #21af90;*/
+    /*--ifm-color-primary-darker: #1fa588;*/
+    /*--ifm-color-primary-darkest: #1a8870;*/
+    /*--ifm-color-primary-light: #29d5b0;*/
+    /*--ifm-color-primary-lighter: #32d8b4;*/
+    /*--ifm-color-primary-lightest: #4fddbf;*/
+    --jmy-color-primary: #fff;
+    --jmy-background-color-primary: #000;
+    --ifm-navbar-background-color: rgba(35, 35, 35, .9); /* 标题栏高斯模糊 */
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* 标题栏 */
+/* 虚拟对象实现模糊 直接实现会触发作者遗留bug */
+.navbar--fixed-top:after {
+    content: '';
+    z-index: -999;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(16px);
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.navbar-sidebar__backdrop {
+    background-color: rgb(123 123 123 / 60%);
+}
+
+/* 左侧栏 选项间距调整 */
+.menu__list-item:not(:first-child) {
+    margin-top: 0.3rem;
+}
+
+.menu__list-item-collapsible {
+    border-radius: 0.3rem;
+}
+
+/* 手机菜单 菜单弹出时 后置背景模糊 */
+.navbar-sidebar__backdrop {
+    backdrop-filter: blur(30px);
+}
+
+/* 底部菜单 */
+.footer--dark {
+    background: rgb(103 103 103 / 10%);
+}
+
+.footer--dark * {
+    color: var(--jmy-color-primary);
+}
+
+/* 图片圆角 */
+.markdown img {
+    border-radius: calc(var(--ifm-global-radius) * 2);
+    box-shadow: var(--ifm-global-shadow-lw);
+}
+
+.markdown a {
+    padding: 0 0.3em;
+}
+
+/* 底部版权标识 */
+.footer__copyright {
+    font-size: 13px;
+    letter-spacing: 1px;
+    opacity: .6;
+}
+
+/* 编辑此页 */
+.theme-edit-this-page {
+    padding: 10px 16px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    border: solid 1px;
+}
+
+/* 目录增加层级 */
+.table-of-contents {
+    z-index: -1;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+/* 页脚外链加高 */
+.footer__title {
+    letter-spacing: 1px;
+}
+
+.footer__item > a {
+    display: block;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 37px;
+}
+
+/* 面包屑 */
+.breadcrumbs__link {
+    letter-spacing: 0.1em;
+    user-select: none;
+}
+
+.breadcrumbs__item--active span {
+    box-shadow: inset 0 0 5px rgb(0 0 0 / 1%), inset 0 0 3px rgb(0 0 0 / 6%);
+}
+
+.breadcrumbs__item:not(.breadcrumbs__item--active) a {
+    box-shadow: 0 0 rgb(0 0 0 / 10%), 0 0 rgb(0 0 0 / 10%);
+    transform: scale(1);
+    transition: all 0.2s ease-in-out;
+}
+
+.breadcrumbs__item:not(.breadcrumbs__item--active):hover a {
+    box-shadow: 0 0 20px rgb(0 0 0 / 10%), 0 0 3px rgb(0 0 0 / 10%);
+    transform: scale(1.05);
+    background: transparent !important;
+    transition: all 0.1s ease-in-out;
+}
+
+.breadcrumbs__item:not(.breadcrumbs__item--active):active a {
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%), 0 0 3px rgb(0 0 0 / 10%);
+    transform: scale(1);
+    transition: all 0.1s ease-in-out;
+}
+
+blockquote {
+    border-left: none;
+    background-color: hsla(0, 0%, 50%, .1);
+    border-radius: var(--ifm-global-radius);
+    box-shadow: var(--ifm-global-shadow-lw);
+    display: flex;
+}
+
+blockquote:before {
+    display: block;
+    content: "";
+    width: 4px;
+    flex: none;
+    background-color: var(--jmy-color-primary);
+    opacity: .8;
+    border-radius: calc(var(--ifm-global-radius) * 0.6);
+}
+
+blockquote > p {
+    padding: 0.1em 0.6em;
+}
+
+.theme-admonition {
+    border: solid 2px var(--ifm-alert-border-color);
+}
+
+.theme-admonition > *:first-child {
+    font-size: 1.1em;
+    letter-spacing: 0.2em;
+}
+
+.theme-admonition > *:first-child > span {
+    font-size: 0.8em;
+    position: absolute;
+    transform: scale(3) translateX(-0.7em) translateY(-0.1em);
+    opacity: 0.4;
+    filter: blur(1px);
+}
+
+iframe {
+    width: 100%;
+    height: 24vw;
+    border-radius: var(--ifm-global-radius);
+    box-shadow: var(--ifm-global-shadow-lw);
+}
+
+@media (max-width: 996px) {
+    iframe {
+        height: 53vw;
+    }
+}
+
+/* document content */
+/* for pc */
+.table-of-contents__left-border {
+    border-left: none;
+}
+
+.theme-doc-toc-desktop > .table-of-contents li {
+    margin: 0;
+    z-index: -1;
+}
+
+.theme-doc-toc-desktop > .table-of-contents li a {
+    padding: var(--ifm-toc-padding-vertical) var(--ifm-toc-padding-horizontal);
+    background: hsl(0deg 0% 50% / 0%);
+    transition: all 0.5s ease-in-out;
+    border-radius: var(--ifm-global-radius);
+}
+
+.theme-doc-toc-desktop > .table-of-contents li a.table-of-contents__link--active {
+    padding: var(--ifm-toc-padding-vertical) var(--ifm-toc-padding-horizontal);
+    background: hsl(0deg 0% 50% / 10%);
+    transition: all 0s;
+}
+
+.theme-doc-toc-desktop > .table-of-contents li a:hover {
+    padding: var(--ifm-toc-padding-vertical) var(--ifm-toc-padding-horizontal);
+    background: hsl(0deg 0% 50% / 20%);
+    transition: all 0.1s ease-in-out;
+}
+
+.table-of-contents ul {
+    padding-left: calc(var(--ifm-toc-padding-horizontal) * 2);
+}
+
+.theme-doc-toc-desktop:before {
+    content: '';
+    background: var(--ifm-color-primary);
+    width: 4px;
+    height: 100%;
+    position: absolute;
+    border-radius: 2px;
+}
+
+/* for phone */
+.theme-doc-toc-mobile li {
+    margin: 0 !important;
+}
+
+.theme-doc-toc-mobile a, .theme-doc-toc-mobile button {
+    padding: calc(var(--ifm-toc-padding-vertical) * 1.2) calc(var(--ifm-toc-padding-horizontal) * 2);
+}
