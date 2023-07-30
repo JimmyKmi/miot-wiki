@@ -57,7 +57,7 @@ export default function AdmonitionWrapper(props) {
 function getcode(props) {
 
   if(props.children == null){
-    return '<code>暂无可用的自动化</code>'
+    return '<code>待补充</code>'
   }
 
   var code = '';
