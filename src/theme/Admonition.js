@@ -24,7 +24,7 @@ export default function AdmonitionWrapper(props) {
       {
         props.title = '状态条件';
       }
-
+    return (
       <div class="card-condition" >
       <div class="card-title" >{props.title}</div>
       <div class="card-value">{props.children}</div>
