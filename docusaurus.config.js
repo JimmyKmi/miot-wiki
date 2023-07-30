@@ -140,13 +140,13 @@ const config = {
             label: '进阶教程',
           },
           {
-            to: '/blog/readme',
+            to: '/MIOT-WIKI/readme',
             label: '社区',
             position: 'left'
           },
           {
             // href: '/blog/contributing',
-            href: '/blog/contributing',
+            href: '/MIOT-WIKI/contributing',
             label: '参与编辑',
             position: 'right',
           },

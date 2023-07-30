@@ -13,9 +13,9 @@ export default function AdmonitionWrapper(props) {
     }
 
       return (
-        <div class="theme-admonition theme-admonition-info alert alert--info admonition_node_modules-@docusaurus-theme-classic-lib-theme-Admonition-styles-module">
-          <div class="admonitionHeading_node_modules-@docusaurus-theme-classic-lib-theme-Admonition-styles-module">{props.title}</div>
-          <div class="admonitionContent_node_modules-@docusaurus-theme-classic-lib-theme-Admonition-styles-module">{props.children}</div>
+        <div class="card-event" >
+          <div class="card-title" >{props.title}</div>
+          <div class="card-value" >{props.children}</div>
         </div>);
 
     case 'condition':
@@ -25,11 +25,10 @@ export default function AdmonitionWrapper(props) {
         props.title = '状态条件';
       }
 
-      return (
-        <div class="theme-admonition theme-admonition-tip alert alert--success admonition_node_modules-@docusaurus-theme-classic-lib-theme-Admonition-styles-module">
-          <div class="admonitionHeading_node_modules-@docusaurus-theme-classic-lib-theme-Admonition-styles-module">{props.title}</div>
-          <div class="admonitionContent_node_modules-@docusaurus-theme-classic-lib-theme-Admonition-styles-module">{props.children}</div>
-        </div>);
+      <div class="card-condition" >
+      <div class="card-title" >{props.title}</div>
+      <div class="card-value">{props.children}</div>
+    </div>);
     default:
       return <Admonition {...props} />;
   }
