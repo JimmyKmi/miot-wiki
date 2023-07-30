@@ -15,6 +15,7 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
+  titleDelimiter: '🦖',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -69,9 +70,9 @@ const config = {
 
           //自定义告示框
           admonitions: {
-            keywords: ['note', 'tip', 'info', 'caution', 'danger','event','condition'],
+            keywords: ['note', 'tip', 'info', 'caution', 'danger', 'event', 'condition'],
             // extendDefaults: true,
-            },
+          },
         },
         blog: {
           blogSidebarTitle: '关于米家全书.',
@@ -90,6 +91,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: '米家全书',
         logo: {
@@ -122,7 +128,7 @@ const config = {
           },
           {
             // href: '/blog/contributing',
-            href:'/blog/contributing',
+            href: '/blog/contributing',
             label: '参与编辑',
             position: 'right',
           },
