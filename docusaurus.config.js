@@ -90,6 +90,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      algolia: {
+        appId: '2S5QLE9Z1K',
+        apiKey: 'fa2e66bbc40137ffc2b33e349a41c926',
+      },
       image: 'img/docusaurus-social-card.jpg',
       colorMode: {
         defaultMode: 'light',
