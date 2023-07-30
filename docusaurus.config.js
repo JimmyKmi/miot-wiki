@@ -145,7 +145,7 @@ const config = {
             position: 'left'
           },
           {
-            href: '/blog/contributing',=
+            href: '/blog/contributing',
             label: '参与编辑',
             position: 'right',
           },
