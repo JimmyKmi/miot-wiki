@@ -7,6 +7,8 @@ sidebar_label: '小米人体传感器'
 
 ![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047509894EuYwDysp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8b1ZH0dlvoCQUGvLxww1iGWbqnA=)
 
+# ![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047509894EuYwDysp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8b1ZH0dlvoCQUGvLxww1iGWbqnA=)小米人体传感器
+
 ## 规格  
 > 
 **设备 ID** ：lumi.sensor_motion.v2  
