@@ -145,8 +145,7 @@ const config = {
             position: 'left'
           },
           {
-            // href: '/blog/contributing',
-            href: '/MIOT-WIKI/contributing',
+            href: '/blog/contributing',=
             label: '参与编辑',
             position: 'right',
           },
@@ -178,11 +177,11 @@ const config = {
             items: [
               {
                 label: '关于米家全书',
-                to: '/MIOT-WIKI/readme',
+                to: '/blog/readme',
               },
               {
                 label: '参与指南',
-                to: '/MIOT-WIKI/contributing',
+                to: '/blog/contributing',
               },
               {
                 label: '项目仓库',
