@@ -7,28 +7,41 @@ export default function AdmonitionWrapper(props) {
 
     case 'event':
 
-    if(props.title == null)
-    {
-      props.title = '触发事件';
-    }
+      //如果没有设置标题，则默认标题
+      if (props.title == null) {
+        props.title = '触发事件';
+      }
+
+      var code = '';
+      var data = props.children.props.children.toString().split('、');
+      data.map(item => {
+        code += '<code>' + item + '</code>'
+      })
 
       return (
         <div class="card-event" >
           <div class="card-title" >{props.title}</div>
-          <div class="card-value" >{props.children}</div>
+          <div class="card-value" dangerouslySetInnerHTML={{ __html: code }}></div>
         </div>);
 
     case 'condition':
 
-      if(props.title == null)
-      {
+      //如果没有设置标题，则默认标题
+      if (props.title == null) {
         props.title = '状态条件';
       }
-    return (
-      <div class="card-condition" >
-      <div class="card-title" >{props.title}</div>
-      <div class="card-value">{props.children}</div>
-    </div>);
+
+      var code = '';
+      var data = props.children.props.children.toString().split('、');
+      data.map(item => {
+        code += '<code>' + item + '</code>'
+      })
+
+      return (
+        <div class="card-condition" >
+          <div class="card-title" >{props.title}</div>
+          <div class="card-value" dangerouslySetInnerHTML={{ __html: code }}></div>
+        </div>);
     default:
       return <Admonition {...props} />;
   }
