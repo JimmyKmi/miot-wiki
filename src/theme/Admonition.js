@@ -23,7 +23,7 @@ export default function AdmonitionWrapper(props) {
 
       //如果没有设置标题，则默认标题
       if (props.title == null) {
-        props.title = '可用的状态条件';
+        props.title = '可使用的状态条件';
       }
 
       var code = getcode(props);
@@ -38,7 +38,7 @@ export default function AdmonitionWrapper(props) {
 
       //如果没有设置标题，则默认标题
       if (props.title == null) {
-        props.title = '可用的执行';
+        props.title = '可执行的功能';
       }
 
       var code = getcode(props);
@@ -57,7 +57,7 @@ export default function AdmonitionWrapper(props) {
 function getcode(props) {
 
   if(props.children == null){
-    return '<code>不可用</code>'
+    return '<code>暂无可用的自动化</code>'
   }
 
   var code = '';

@@ -1,10 +1,11 @@
 ---
 sidebar_label: '小米人体传感器'
 ---
-
+![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047509894EuYwDysp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8b1ZH0dlvoCQUGvLxww1iGWbqnA=)
 # 小米人体传感器
 
 2017-11-16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sensor_motion.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sensor_motion.v2&region=cn)
+
 
 ## 规格  
 > 
@@ -21,32 +22,29 @@ sidebar_label: '小米人体传感器'
 :::
 
 :::condition
-无可用状态条件
+
 :::
 
 :::action
-无可用执行条件
+
 :::
 
 ## 米家自动化极客版  
-
-> 中枢支持情况  
-**`✔️触发`**  **`✔️查询`**  **`❌执行`**
 
 :::event
 检测到移动、无移动状态持续时间[2-5分钟][5分钟以上] 
 :::
 
 :::condition
-无可用状态条件
+
 :::
 
-:::condition 可查询条件
+:::condition 可查询的状态条件
 电池电量[0-100]
 :::
 
 :::action
-无可用执行条件
+
 :::
 
 ## 评价
