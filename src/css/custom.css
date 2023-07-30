@@ -329,3 +329,11 @@ iframe {
 .card-action {
     border-color: #D35C7C;
 }
+
+/* 设备图标 */
+.markdown h1:first-child img {
+    height: 1em;
+    box-shadow: none;
+    transform: scale(2) translateY(0.1em);
+    margin-right: 10px;
+}
