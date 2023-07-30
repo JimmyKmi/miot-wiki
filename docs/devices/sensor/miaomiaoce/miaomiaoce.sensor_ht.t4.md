@@ -1,12 +1,11 @@
-
-           ---
+ ---
 sidebar_label: '秒秒测蓝牙温湿度计2'
 ---
 # 秒秒测蓝牙温湿度计2
 
 2023-01-17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.sensor_ht.t4/) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.sensor_ht.t4&region=cn)
 
-![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/28810ceddb5953e8554337cb787942ae_1668162204787.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZDtiJjZajFK6JPsvOX3+5dx58YU=)
+![miaomiaoce.sensor_ht.t4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/28810ceddb5953e8554337cb787942ae_1668162204787.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZDtiJjZajFK6JPsvOX3+5dx58YU=)
 
 ## 规格  
 > 

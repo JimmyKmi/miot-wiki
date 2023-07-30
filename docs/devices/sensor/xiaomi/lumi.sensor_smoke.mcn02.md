@@ -1,12 +1,11 @@
-
-           ---
+ ---
 sidebar_label: '小米烟感卫士'
 ---
 # 小米烟感卫士
 
 2021-03-25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sensor_smoke.mcn02/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sensor_smoke.mcn02&region=cn)
 
-![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071135130DElAB8WS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sTTgggg9wBkgf0LN0DbNVvEcs2c=)
+![lumi.sensor_smoke.mcn02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071135130DElAB8WS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sTTgggg9wBkgf0LN0DbNVvEcs2c=)
 
 ## 规格  
 > 

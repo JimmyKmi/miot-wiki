@@ -1,12 +1,11 @@
-
-           ---
+ ---
 sidebar_label: 'Aqara动静贴'
 ---
 # Aqara动静贴
 
 2018-08-14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.vibration.aq1/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.vibration.aq1&region=cn)
 
-![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047513058PKBwoHIA.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hQOxj5rjgI2fJ2eN+KsH/a4cny4=)
+![lumi.vibration.aq1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047513058PKBwoHIA.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hQOxj5rjgI2fJ2eN+KsH/a4cny4=)
 
 ## 规格  
 > 

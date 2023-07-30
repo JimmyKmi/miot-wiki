@@ -1,12 +1,11 @@
-
-           ---
+ ---
 sidebar_label: '小米米家电子温湿度计Pro'
 ---
 # 小米米家电子温湿度计Pro
 
 2022-08-01 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.sensor_ht.t8/) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.sensor_ht.t8&region=cn)
 
-![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ef473444b98e924a20abdfefaa106bd5_1648537510694.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9EkSM/zriZy/cGiYP85lfUHBLcY=)
+![miaomiaoce.sensor_ht.t8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ef473444b98e924a20abdfefaa106bd5_1648537510694.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9EkSM/zriZy/cGiYP85lfUHBLcY=)
 
 ## 规格  
 > 

@@ -1,12 +1,11 @@
-
-           ---
+ ---
 sidebar_label: 'Aqara温湿度传感器'
 ---
 # Aqara温湿度传感器
 
 2017-11-16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.weather.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.weather.v1&region=cn)
 
-![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047512600zbW7yhH9.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3ezhZV8rIzl0ZtWAbskTNuvfVEA=)
+![lumi.weather.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047512600zbW7yhH9.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3ezhZV8rIzl0ZtWAbskTNuvfVEA=)
 
 ## 规格  
 > 
