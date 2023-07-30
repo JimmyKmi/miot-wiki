@@ -178,11 +178,11 @@ const config = {
             items: [
               {
                 label: '关于米家全书',
-                to: '/blog/readme',
+                to: '/MIOT-WIKI/readme',
               },
               {
                 label: '参与指南',
-                to: '/blog/contributing',
+                to: '/MIOT-WIKI/contributing',
               },
               {
                 label: '项目仓库',
