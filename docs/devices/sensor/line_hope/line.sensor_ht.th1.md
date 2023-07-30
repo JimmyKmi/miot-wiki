@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'LineHope温湿度传感器TH1'
 ---
 # LineHope温湿度传感器TH1

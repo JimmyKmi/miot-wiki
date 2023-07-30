@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'MIANCHU免触传感器'
 ---
 # MIANCHU免触传感器

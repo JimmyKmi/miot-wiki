@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'Aqara门窗传感器'
 ---
 # Aqara门窗传感器

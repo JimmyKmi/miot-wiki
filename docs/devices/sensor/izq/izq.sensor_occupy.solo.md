@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: '子擎存在传感器 Solo'
 ---
 # 子擎存在传感器 Solo

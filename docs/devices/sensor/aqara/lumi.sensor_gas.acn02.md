@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'Aqara 天然气报警器'
 ---
 # Aqara 天然气报警器

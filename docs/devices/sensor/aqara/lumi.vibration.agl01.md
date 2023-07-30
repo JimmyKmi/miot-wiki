@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'Aqara动静贴T1'
 ---
 # Aqara动静贴T1

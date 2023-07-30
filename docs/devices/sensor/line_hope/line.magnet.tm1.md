@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'LineHope门窗传感器TM1'
 ---
 # LineHope门窗传感器TM1

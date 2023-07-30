@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'AInice双存在传感器'
 ---
 # AInice双存在传感器

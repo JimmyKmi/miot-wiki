@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'Aqara烟雾报警器（NB-IoT版）'
 ---
 # Aqara烟雾报警器（NB-IoT版）

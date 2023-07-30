@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'Aqara 水浸传感器 E1'
 ---
 # Aqara 水浸传感器 E1

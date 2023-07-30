@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'Yeelight Pro 门窗传感器'
 ---
 # Yeelight Pro 门窗传感器

@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'Aqara 人体传感器 E1'
 ---
 # Aqara 人体传感器 E1

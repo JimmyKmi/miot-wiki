@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'Aqara烟雾报警器'
 ---
 # Aqara烟雾报警器

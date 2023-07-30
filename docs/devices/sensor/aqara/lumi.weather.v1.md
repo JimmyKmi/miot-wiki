@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'Aqara温湿度传感器'
 ---
 # Aqara温湿度传感器

@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'AInice人体传感器'
 ---
 # AInice人体传感器

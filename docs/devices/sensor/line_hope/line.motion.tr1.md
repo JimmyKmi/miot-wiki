@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'LineHope人体移动传感器TR1'
 ---
 # LineHope人体移动传感器TR1

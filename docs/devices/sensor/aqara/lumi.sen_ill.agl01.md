@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: 'Aqara光照传感器T1'
 ---
 # Aqara光照传感器T1

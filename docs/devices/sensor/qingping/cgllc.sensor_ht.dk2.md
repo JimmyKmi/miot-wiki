@@ -1,4 +1,4 @@
- ---
+---
 sidebar_label: '青萍蓝牙温湿度计 Lite'
 ---
 # 青萍蓝牙温湿度计 Lite
