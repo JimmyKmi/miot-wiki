@@ -1,27 +1,51 @@
----
+
+           ---
 sidebar_label: '小米人体传感器2'
 ---
-
 # 小米人体传感器2
 
-2020-12-22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.motion.bmgl01#/) | [说明书](https://home.mi.com/views/introduction.html?region=cn&pdid=2701&model=lumi.motion.bmgl01)
+2020-12-22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.motion.bmgl01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.motion.bmgl01&region=cn)
 
-连接方式：蓝牙  
-极客版：支持本地触发、查询
+![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790733074588yVwADq2.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ka8nyrFdAqJcvSKX1krjeaMEPyk=)
 
-## 极客版属性
+## 规格  
+> 
+**设备 ID** ：lumi.motion.bmgl01  
+**通讯协议** ：  
+**极客版**  ：✔️触发 | ✔️查询 | ❌执行  
+**最大距离** ：  
+**最大角度** ：  
 
-| 名称        | 范围          | 注释    |
-|-----------|-------------|-------|
-| 检测到移动     | -           | 仅触发   |
-| 无移动状态持续时间 | 2-5分钟、5分钟以上 | 触发、查询 |
-| 光照度       | 亮 / 暗       | 仅查询   |
-| 电池电量      | 0-100       | 仅查询   |
+## 米家APP自动化  
 
-## 评价
-与人体传感器一样的通病，环境温度高的时候触发缓慢。
+:::event
+有人移动、2分钟无人移动、5分钟无人移动、有人移动且环境光亮、有人移动且环境光暗、环境光亮、环境光暗、超时无人移动
+:::
 
-## 评测视频
-尺寸有点小，先嵌着，后期可以统一调整
-在这里内嵌视频也算入B站播放量
-<iframe src="//player.bilibili.com/player.html?aid=714507298&bvid=BV1eX4y1V7xJ&cid=306769763&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+:::condition
+
+:::
+
+:::action
+
+:::
+
+## 米家自动化极客版  
+
+:::event
+
+:::
+
+:::condition
+
+:::
+
+:::condition 可查询的状态条件
+
+:::
+
+:::action
+
+:::
+
+        
