@@ -3,10 +3,6 @@ sidebar_label: '从这里开始'
 sidebar_position: 0
 ---
 
-:::tip 提示
-这个页面待创造
-:::  
-  
-:::tip 提示
+:::tip
 这个页面待创造
 :::
