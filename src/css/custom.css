@@ -285,24 +285,19 @@ iframe {
     border-radius: var(--ifm-global-radius);
     box-shadow: var(--ifm-global-shadow-lw);
     padding: var(--ifm-blockquote-padding-vertical) var(--ifm-blockquote-padding-horizontal);
-    border: 2px solid #ccc;
-    margin: 10px 0;
+    margin: 0 0 var(--ifm-spacing-vertical);
+    border: 2px solid;
 }
 
-.card-event {
-    border-color: slateblue;
-}
-
-.card-condition {
-    border-color: #1a8870;
-}
-
-.card-action {
-    border-color: #D35C7C;
+.card-value code {
+    display: inline-block;
+    padding: 5px 15px;
+    color: seashell;
+    margin: 5px;
 }
 
 .card-title {
-    margin: 10px 20px;
+    margin: 5px;
     font-size: 20px;
     font-weight: bold;
 }
@@ -312,26 +307,14 @@ iframe {
     white-space: pre-wrap;
 }
 
-.card-event code {
-    display: inline-block;
-    padding: 5px 15px;
-    color: seashell;
-    background-color: mediumslateblue;
-    margin: 5px;
+.card-event {
+    background: mediumslateblue;
 }
 
-.card-condition code {
-    display: inline-block;
-    padding: 5px 15px;
-    color: seashell;
-    background-color: #1a8870;
-    margin: 5px;
+.card-condition {
+    background: #1a8870;
 }
 
-.card-action code {
-    display: inline-block;
-    padding: 5px 15px;
-    color: seashell;
-    background-color: #D35C7C;
-    margin: 5px;
+.card-action {
+    background: #D35C7C;
 }
