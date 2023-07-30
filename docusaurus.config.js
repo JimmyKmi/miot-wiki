@@ -140,7 +140,7 @@ const config = {
             label: '进阶教程',
           },
           {
-            to: '/MIOT-WIKI/readme',
+            to: '/blog/readme',
             label: '社区',
             position: 'left'
           },
