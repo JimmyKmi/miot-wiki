@@ -42,7 +42,7 @@ const config = {
       //     sidebarPath: require.resolve('./sidebars.js'),
       //     // Please change this to your repo.
       //     // Remove this to remove the "edit this page" links.
-      //     editUrl: 'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
+      //     editUrl: 'https://jihulab.com/-/ide/project/miot-wiki/miot-wiki/edit/main/-/',
 
       //     // //自定义告示框
       //     // admonitions: {
@@ -66,7 +66,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/',
+          editUrl: 'https://jihulab.com/-/ide/project/miot-wiki/miot-wiki/edit/main/-/',
 
           //自定义告示框
           admonitions: {
@@ -185,7 +185,7 @@ const config = {
               },
               {
                 label: '项目仓库',
-                href: 'https://gitlab.com/jimmykmi/miot-wiki',
+                href: 'https://jihulab.com/miot-wiki/miot-wiki',
               },
             ],
           },

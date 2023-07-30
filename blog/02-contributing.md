@@ -18,7 +18,7 @@ tags: []
     - [社区参与准则](/blog/rules)
     - [命名规则](../docs/demo/intro#命名规则)
     - [标准模板](../docs/demo/intro) 
-2. [注册GitLab账号](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com&glm_content=default-saas-trial)
+2. [注册JiHuLab账号](https://jihulab.com/users/sign_up)
 3. 参与方式：
     - [成为普通贡献者](#如何成为普通贡献者)：通过 `PR | 合并请求` 或者 `issues | 议题` 参与编辑词条。
     - [成为常驻贡献者](#如何成为常驻贡献者)：加入我们，成为仓库成员即可直接编辑词条。
@@ -27,7 +27,7 @@ tags: []
 
 #### 使用 【issues | 议题】 参与
 
-- 在首页下方点击 `项目仓库` 进入仓库，在仓库页面左侧工具栏选择 `计划（Plan）` > `议题（issues）` 或者[点击这里](https://gitlab.com/jimmykmi/miot-wiki/-/issues)发起议题（issues）我们将会对修改的内容进行审核后添加到词条中。
+- 在首页下方点击 `项目仓库` 进入仓库，在仓库页面左侧工具栏选择 `计划（Plan）` > `议题（issues）` 或者[点击这里](https://jihulab.com/miot-wiki/miot-wiki/-/issues)发起议题（issues）我们将会对修改的内容进行审核后添加到词条中。
 
 #### 使用 【PR | 合并请求】 参与
 
@@ -43,7 +43,7 @@ tags: []
 > 成为常驻贡献者的条件
 
 
-- 点击[申请加入](https://gitlab.com/jimmykmi/miot-wiki/-/project_members/request_access)成为常驻开发者，并将你的ID发送给我们仓库管理员进行审核。
+- 点击[申请加入](https://jihulab.com/miot-wiki/miot-wiki/-/project_members/request_access)成为常驻开发者，并将你的ID发送给我们仓库管理员进行审核。
 - 在审核通过后，您就可以在仓库中直接编辑词条。  
 
 
@@ -61,7 +61,7 @@ tags: []
 
 #### 打开编辑器
 
- [点击打开编辑器](https://gitlab.com/-/ide/project/jimmykmi/miot-wiki/edit/main/-/) ，并查看页面的左侧目录区查看 `/docs` 下的文件并在需要新增词条的目录下新建`.md`文件即可新建并编辑词条。
+ [点击打开编辑器](https://jihulab.com/-/ide/project/miot-wiki/miot-wiki/edit/main/-/) ，并查看页面的左侧目录区查看 `/docs` 下的文件并在需要新增词条的目录下新建`.md`文件即可新建并编辑词条。
 
 
 #### 开始编辑
