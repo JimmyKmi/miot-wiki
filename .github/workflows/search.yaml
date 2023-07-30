@@ -2,17 +2,17 @@ name: 索引爬虫 docsearch-scraper
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master]
+    branches: [main]
 
 jobs:
   scan:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Sleep for 10 seconds
-        run: sleep 10s
+      - name: Sleep for 30 seconds
+        run: sleep 30s
         shell: bash
 
       - name: Checkout repo
