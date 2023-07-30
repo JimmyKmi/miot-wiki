@@ -1,5 +1,5 @@
 ---
-sidebar_label: '从这里开始'
+sidebar_label: '联动设置'
 sidebar_position: 1
 ---
 
