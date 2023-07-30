@@ -70,7 +70,7 @@ const config = {
 
           //自定义告示框
           admonitions: {
-            keywords: ['note', 'tip', 'info', 'caution', 'danger', 'event', 'condition'],
+            keywords: ['note', 'tip', 'info', 'caution', 'danger', 'event', 'condition',  'action'],
             // extendDefaults: true,
           },
         },

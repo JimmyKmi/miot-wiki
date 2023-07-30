@@ -294,6 +294,15 @@ iframe {
     border-color: #1a8870;
   }
   
+  .card-action {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px 0;
+    border-left: 6px solid #ccc;
+    border-color: #D35C7C;
+  }
+
   .card-title {
     margin: 10px 20px;
     font-size: 20px;
@@ -318,5 +327,13 @@ iframe {
     padding: 5px 15px;
     color: seashell;
     background-color:#1a8870;
+    margin: 5px;
+  }
+
+  .card-action code{
+    display: inline-block;
+    padding: 5px 15px;
+    color: seashell;
+    background-color:#D35C7C;
     margin: 5px;
   }
