@@ -285,6 +285,7 @@ iframe {
     border-radius: var(--ifm-global-radius);
     box-shadow: var(--ifm-global-shadow-lw);
     padding: var(--ifm-blockquote-padding-vertical) var(--ifm-blockquote-padding-horizontal);
+    background: hsl(0deg 0% 50% / 10%);
     margin: 0 0 var(--ifm-spacing-vertical);
     border: 2px solid;
 }
@@ -292,8 +293,8 @@ iframe {
 .card-value code {
     display: inline-block;
     padding: 5px 15px;
-    color: seashell;
     margin: 5px;
+    box-shadow: var(--ifm-global-shadow-lw);
 }
 
 .card-title {
@@ -308,13 +309,13 @@ iframe {
 }
 
 .card-event {
-    background: mediumslateblue;
+    border-color: mediumslateblue;
 }
 
 .card-condition {
-    background: #1a8870;
+    border-color: #1a8870;
 }
 
 .card-action {
-    background: #D35C7C;
+    border-color: #D35C7C;
 }
