@@ -91,9 +91,9 @@ const config = {
     ({
       // Replace with your project's social card
       algolia: {
-        appId: '2S5QLE9Z1K',
-        apiKey: 'fa2e66bbc40137ffc2b33e349a41c926',
-        indexName: 'miot_wiki',
+        appId: 'NE9TC2DN83',
+        apiKey: '15eaff6f3511cf716a926c2e1890dc00',
+        indexName: 'MIOT-WIKI',
         // Optional: see doc section below
         contextualSearch: true,
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
