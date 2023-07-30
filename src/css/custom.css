@@ -285,6 +285,7 @@ iframe {
     border-radius: var(--ifm-global-radius);
     box-shadow: var(--ifm-global-shadow-lw);
     padding: var(--ifm-blockquote-padding-vertical) var(--ifm-blockquote-padding-horizontal);
+    padding-top: 1.6em;
     background: hsl(0deg 0% 50% / 10%);
     margin: 0 0 var(--ifm-spacing-vertical);
     border: 2px solid;
@@ -297,20 +298,22 @@ iframe {
     background-color: rgba(255, 255, 255, .7);
     backdrop-filter: blur(8px);
     transition: all .2s;
-    box-shadow: 0 0 0 rgb(0 0 0 / 10%), 0 0 0 rgb(0 0 0 / 10%);
 }
 
 .card-value code:hover {
     background-color: rgba(255, 255, 255, .9);
     transition: all .1s;
-    box-shadow: 0 0 20px rgb(0 0 0 / 10%), 0 0 2px rgb(0 0 0 / 10%);
 }
 
 
 .card-title {
+    font-size: 2em;
+    font-weight: 700;
     margin: 5px;
-    font-size: 20px;
-    font-weight: bold;
+    position: absolute;
+    transform: translateY(-1.2em);
+    opacity: .6;
+    filter: blur(1px);
 }
 
 .card-value p {

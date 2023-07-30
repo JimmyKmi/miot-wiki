@@ -8,7 +8,7 @@ export default function AdmonitionWrapper(props) {
 
       //如果没有设置标题，则默认标题
       if (props.title == null) {
-        props.title = '可触发的事件';
+        props.title = '事件';
       }
 
       var code = getcode(props);
@@ -23,7 +23,7 @@ export default function AdmonitionWrapper(props) {
 
       //如果没有设置标题，则默认标题
       if (props.title == null) {
-        props.title = '可使用的状态条件';
+        props.title = '状态条件';
       }
 
       var code = getcode(props);
@@ -38,7 +38,7 @@ export default function AdmonitionWrapper(props) {
 
       //如果没有设置标题，则默认标题
       if (props.title == null) {
-        props.title = '可执行的功能';
+        props.title = '执行功能';
       }
 
       var code = getcode(props);
