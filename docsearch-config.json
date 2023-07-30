@@ -1,5 +1,5 @@
 {
-    "index_name": "blog",
+    "index_name": "MIOT-WIKI",
     "start_urls": ["https://miot.wiki/"],
     "sitemap_urls": ["https://miot.wiki/sitemap.xml"],
     "selectors": {
