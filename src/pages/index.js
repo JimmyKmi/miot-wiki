@@ -44,8 +44,8 @@ export default function Home() {
     <>
       <Analytics />
         <Layout
-          title={`${siteConfig.title}`}
-          escription="Description will go into a meta tag in <head />">
+          title={`米家产品百科`}
+          escription="比米家百科多那么一点点内容的小米智能家居参考书（由米家玩家用爱发电提供）">
           <HomepageHeader />
           <main>
             <HomepageFeatures />
