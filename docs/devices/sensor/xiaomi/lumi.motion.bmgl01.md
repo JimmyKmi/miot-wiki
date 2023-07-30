@@ -1,4 +1,5 @@
 ---
+sidebar_label: '小米人体传感器2'
 ---
 
 # 小米人体传感器2
@@ -24,7 +25,3 @@
 尺寸有点小，先嵌着，后期可以统一调整
 在这里内嵌视频也算入B站播放量
 <iframe src="//player.bilibili.com/player.html?aid=714507298&bvid=BV1eX4y1V7xJ&cid=306769763&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-人体传感器在极客中的应用
-实例
-111
-冷却时间
