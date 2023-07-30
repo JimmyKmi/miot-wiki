@@ -5,7 +5,7 @@ sidebar_label: '未来居强电插卡取电'
 
 2021-02-01 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.sensor_occupy.v3/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.sensor_occupy.v3&region=cn)
 
-![bymiot.sensor_occupy.v3]()
+<!-- ![bymiot.sensor_occupy.v3]() -->
 
 ## 规格  
 > 
