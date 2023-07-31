@@ -1,7 +1,0 @@
-{
-    "label": "德莱宝",
-    "position": 999,
-    "link": {
-        "type": "generated-index"
-    }
-} 
