@@ -1,7 +1,0 @@
-{
-    "label": "瑞柏尔",
-    "position": 999,
-    "link": {
-        "type": "generated-index"
-    }
-} 
