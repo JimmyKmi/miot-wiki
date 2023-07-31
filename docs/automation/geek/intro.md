@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 ---
 
 # 如何进入中枢极客版
