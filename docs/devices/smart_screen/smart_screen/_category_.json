@@ -1,7 +1,0 @@
-{
-    "label": "智能屏",
-    "position": 999,
-    "link": {
-        "type": "generated-index"
-    }
-} 
