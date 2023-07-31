@@ -337,3 +337,8 @@ iframe {
     transform: scale(2) translateY(0.1em);
     margin-right: 10px;
 }
+
+/* 搜索 */
+.DocSearch-Button {
+    border-radius:var(--ifm-global-radius);
+}
