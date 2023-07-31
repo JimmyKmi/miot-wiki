@@ -1,12 +1,11 @@
-
-           ---
+---
 sidebar_label: '苏米存在传感器'
 ---
-# 小米人体传感器
+# 苏米存在传感器
 
 2022-12-16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.sensor_occupy.s01/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.sensor_occupy.s01&region=cn)
 
-![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a0044e50d8cc37206a119e0a1e2515c5_1667552406764.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xqa5A/9g/PZD+CcSfL5R1XP34MA=)
+![xhuan.sensor_occupy.s01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a0044e50d8cc37206a119e0a1e2515c5_1667552406764.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xqa5A/9g/PZD+CcSfL5R1XP34MA=)
 
 ## 规格  
 > 

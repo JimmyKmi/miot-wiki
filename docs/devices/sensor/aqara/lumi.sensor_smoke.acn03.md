@@ -1,12 +1,11 @@
-
-           ---
+---
 sidebar_label: 'Aqara烟雾报警器'
 ---
-# 小米人体传感器
+# Aqara烟雾报警器
 
 2022-03-24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sensor_smoke.acn03/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sensor_smoke.acn03&region=cn)
 
-![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871035358GeEMcNHM.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gWp8/krOEQ8KgLZ1sotcxNj+Sr8=)
+![lumi.sensor_smoke.acn03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871035358GeEMcNHM.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gWp8/krOEQ8KgLZ1sotcxNj+Sr8=)
 
 ## 规格  
 > 

@@ -1,12 +1,11 @@
-
-           ---
+---
 sidebar_label: '子擎存在传感器 Lite'
 ---
-# 小米人体传感器
+# 子擎存在传感器 Lite
 
 2022-09-21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=izq.sensor_occupy.24/) | [说明书](https://home.mi.com/views/introduction.html?model=izq.sensor_occupy.24&region=cn)
 
-![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9f208cd1c2123dd2afdf61827437798f_1659538743846.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0LzGda5Pf7ViME5hmvtpnW3dgvI=)
+![izq.sensor_occupy.24](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9f208cd1c2123dd2afdf61827437798f_1659538743846.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0LzGda5Pf7ViME5hmvtpnW3dgvI=)
 
 ## 规格  
 > 

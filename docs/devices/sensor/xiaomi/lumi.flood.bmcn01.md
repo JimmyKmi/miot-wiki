@@ -1,12 +1,11 @@
-
-           ---
+---
 sidebar_label: '小米水浸卫士'
 ---
-# 小米人体传感器
+# 小米水浸卫士
 
 2020-10-26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.flood.bmcn01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.flood.bmcn01&region=cn)
 
-![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071134718z471xKuY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WG/5MDxkSLtlgGOrp5AmD8kFphk=)
+![lumi.flood.bmcn01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071134718z471xKuY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WG/5MDxkSLtlgGOrp5AmD8kFphk=)
 
 ## 规格  
 > 

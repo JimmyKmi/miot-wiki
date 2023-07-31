@@ -1,12 +1,11 @@
-
-           ---
+---
 sidebar_label: 'Aqara 人体传感器 E1'
 ---
-# 小米人体传感器
+# Aqara 人体传感器 E1
 
 2022-05-10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.motion.acn001/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.motion.acn001&region=cn)
 
-![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/69a264fe5a5f0e60907c47a11a255a3a_developer_1568790614naen5iow.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HvHqmvqxcB3DEAfFcOuh0M876sw=)
+![lumi.motion.acn001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/69a264fe5a5f0e60907c47a11a255a3a_developer_1568790614naen5iow.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HvHqmvqxcB3DEAfFcOuh0M876sw=)
 
 ## 规格  
 > 

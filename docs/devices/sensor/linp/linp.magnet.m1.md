@@ -1,12 +1,11 @@
-
-           ---
+---
 sidebar_label: '领普门窗传感器'
 ---
-# 小米人体传感器
+# 领普门窗传感器
 
 2022-05-10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.magnet.m1/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.magnet.m1&region=cn)
 
-![lumi.sensor_motion.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790689940450c5hF2wa.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Lbet5+WwulXDmv3Hw1uCJ/n0fcU=)
+![linp.magnet.m1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790689940450c5hF2wa.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Lbet5+WwulXDmv3Hw1uCJ/n0fcU=)
 
 ## 规格  
 > 
