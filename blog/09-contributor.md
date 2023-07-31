@@ -8,7 +8,7 @@ tags: []
 
 ### 编写与文稿修正作者
 :::tip
-此部分暂时需要转到[gitee.com/jimmykmi/miot-wiki/contributors](https://gitee.com/jimmykmi/miot-wiki/contributors)查看。
+常驻作者需要转到[jihulab.com/miot-wiki/miot-wiki/-/project_members](https://jihulab.com/miot-wiki/miot-wiki/-/project_members)查看。
 :::
 
 [//]: # (<iframe src="/contributor"></iframe>)
