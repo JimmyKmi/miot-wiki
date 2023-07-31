@@ -1,9 +1,9 @@
 ---
 sidebar_label: 'Aqara智能晾衣机'
 sidebar_position: 1
-image: https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069105480mKav7Vts.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AdEQ5QrUCze3xqvLxqgCpCAs8AI=
-keywords: ["米家","绿米 Aqara","Aqara智能晾衣机"]
-description: ''
+# image: https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069105480mKav7Vts.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AdEQ5QrUCze3xqvLxqgCpCAs8AI=
+# keywords: ["米家","绿米 Aqara","Aqara智能晾衣机"]
+# description: ''
 ---
 
 
