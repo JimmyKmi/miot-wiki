@@ -1,0 +1,7 @@
+{
+    "label": "宜家 Ikea",
+    "position": 999,
+    "link": {
+        "type": "generated-index"
+    }
+} 
