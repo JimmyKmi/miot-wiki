@@ -29,8 +29,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            开始探索
+            to="/docs/devices/intro">
+            开始探索MiotWiki
           </Link>
         </div>
       </div>
