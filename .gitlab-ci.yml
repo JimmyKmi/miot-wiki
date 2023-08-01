@@ -3,5 +3,7 @@ stages:
 
 deploy:
   stage: deploy
-  script: git merge main
+  script: 
+    - git checkout main
+    - git merge main
   when: manual
