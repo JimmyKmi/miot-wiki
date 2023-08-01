@@ -65,5 +65,5 @@ function getcode(props) {
   data.map(item => {
     code += '<code>' + item + '</code>'
   })
-  return code;
+  return escape(code);
 }
