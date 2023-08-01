@@ -1,0 +1,7 @@
+stages:
+  - deploy
+
+deploy:
+  stage: deploy
+  script: git merge deploy
+  when: manual
