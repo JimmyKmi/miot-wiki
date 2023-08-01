@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara智能窗帘电机 A1
 
-绿米 Aqara | 2020/6/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.hagl08/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.hagl08&region=cn)
+绿米 Aqara | 2020/6/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.hagl08) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.hagl08&region=cn)
 
 ![lumi.curtain.hagl08](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870952610D7TnHyPD.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NUUBA6MEVyEq7V0ty1/B3gzTXEE=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能开关一位
 
-居意 | 2020/3/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.switch.s1/) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.switch.s1&region=cn)
+居意 | 2020/3/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.switch.s1) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.switch.s1&region=cn)
 
 ![syniot.switch.s1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1582352521999WzH1btuW.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Gcyeh52Z1Y4XWZaMHtLqGP0PXgk=)
 

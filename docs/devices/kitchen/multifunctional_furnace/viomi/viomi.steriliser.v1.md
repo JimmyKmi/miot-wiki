@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网消毒柜（嵌入式 尊享版）
 
-云米 Viomi | 2020/1/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.steriliser.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.steriliser.v1&region=cn)
+云米 Viomi | 2020/1/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.steriliser.v1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.steriliser.v1&region=cn)
 
 ![viomi.steriliser.v1](https://static.home.mi.com/app/image/get/file/developer_1572407989j6lzqamr.png)
 

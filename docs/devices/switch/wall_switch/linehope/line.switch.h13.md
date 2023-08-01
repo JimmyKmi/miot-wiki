@@ -9,7 +9,7 @@ description : ''
 ---
 # LineHope智能墙壁开关H1（零火三键版）
 
-方舟鱼 LineHope | 2023/1/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.switch.h13/) | [说明书](https://home.mi.com/views/introduction.html?model=line.switch.h13&region=cn)
+方舟鱼 LineHope | 2023/1/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.switch.h13) | [说明书](https://home.mi.com/views/introduction.html?model=line.switch.h13&region=cn)
 
 ![line.switch.h13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/eccd297c7e7b63e61a4df5361cbf852d_1670988635309.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/ad3pRfItof4WZhZXeJPdmyfLdA=)
 

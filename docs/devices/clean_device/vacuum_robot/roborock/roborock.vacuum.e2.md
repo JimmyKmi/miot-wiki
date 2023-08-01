@@ -9,7 +9,7 @@ description : ''
 ---
 # 小瓦扫地机器人规划版
 
-石头 Roborock | 2018/5/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.e2/) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.e2&region=cn)
+石头 Roborock | 2018/5/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.e2) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.e2&region=cn)
 
 ![roborock.vacuum.e2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069107089TG7QnQ1J.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=eu+8YpdrN6nY9udf+0ig8S6modk=)
 

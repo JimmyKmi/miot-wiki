@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能开关（单开 零火版）
 
-小米/米家 | 2022/3/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.acn016/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.acn016&region=cn)
+小米/米家 | 2022/3/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.acn016) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.acn016&region=cn)
 
 ![lumi.switch.acn016](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790687374056zr2DG4X.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6WOp3M5n5hzOe92KTAMQnWd0nH4=)
 

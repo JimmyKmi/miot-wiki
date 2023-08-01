@@ -9,7 +9,7 @@ description : ''
 ---
 # 芬尼空气能热水器
 
-芬尼 | 2019/5/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=phnix.waterheater.sf/) | [说明书](https://home.mi.com/views/introduction.html?model=phnix.waterheater.sf&region=cn)
+芬尼 | 2019/5/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=phnix.waterheater.sf) | [说明书](https://home.mi.com/views/introduction.html?model=phnix.waterheater.sf&region=cn)
 
 ![phnix.waterheater.sf](https://static.home.mi.com/app/image/get/file/developer_1552320257jmv6vwyd.png)
 

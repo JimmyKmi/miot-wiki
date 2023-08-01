@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight Pro 窗帘
 
-易来 Yeelight | 2021/10/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.curtain.ywc01/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.curtain.ywc01&region=cn)
+易来 Yeelight | 2021/10/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.curtain.ywc01) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.curtain.ywc01&region=cn)
 
 ![yeelink.curtain.ywc01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047959236pT2YYNcR.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=80ZiRR88sDlf0SrMGs7aDzAGhao=)
 

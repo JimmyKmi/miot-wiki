@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能RGB灯带
 
-雷士 | 2022/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps123/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps123&region=cn)
+雷士 | 2022/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps123) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps123&region=cn)
 
 ![leishi.light.eps123](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d414b1524815f5f605e7610ea6462bf7_1663294494310.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RmfhM+Xcxe9xHUhdBeV+sFXYJTE=)
 

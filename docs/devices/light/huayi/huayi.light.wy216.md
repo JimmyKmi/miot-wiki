@@ -9,7 +9,7 @@ description : ''
 ---
 # 华艺智能筒射灯
 
-华艺 | 2023/3/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy216/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy216&region=cn)
+华艺 | 2023/3/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy216) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy216&region=cn)
 
 ![huayi.light.wy216](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6c85609008bfcf881fff6c1c39972312_1677723924200.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=u+ww1cRSpuIDomuIRRRtnDgKu6g=)
 

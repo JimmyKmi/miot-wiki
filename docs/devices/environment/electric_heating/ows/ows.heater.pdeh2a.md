@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧伟士智能电暖器3T
 
-欧伟士 | 2020/2/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ows.heater.pdeh2a/) | [说明书](https://home.mi.com/views/introduction.html?model=ows.heater.pdeh2a&region=cn)
+欧伟士 | 2020/2/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ows.heater.pdeh2a) | [说明书](https://home.mi.com/views/introduction.html?model=ows.heater.pdeh2a&region=cn)
 
 ![ows.heater.pdeh2a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871036445C4BAlEmz.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YKtmho5PKnaIH2SK+QIHa+ZJG2E=)
 

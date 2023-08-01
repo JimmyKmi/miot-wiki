@@ -9,7 +9,7 @@ description : ''
 ---
 # 峰米 × 腾讯极光 4K 激光影院 Max
 
-峰米 Fengmi | 2021/5/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l406q/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l406q&region=cn)
+峰米 Fengmi | 2021/5/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l406q) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l406q&region=cn)
 
 ![fengmi.projector.l406q](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ced5ecbccf9fcd362f4cb530c40fb151_产品拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=K5ts8hvLllzxFnfrEMHUIaCb5fo=)
 

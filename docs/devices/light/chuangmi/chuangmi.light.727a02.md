@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能筒射灯（专业版）
 
-创米小白 | 2023/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.light.727a02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.light.727a02&region=cn)
+创米小白 | 2023/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.light.727a02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.light.727a02&region=cn)
 
 ![chuangmi.light.727a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d0f13d0c4c6471b5fa4ab2a33c7a281a_1671529614455.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MUmxH5FodvNnJolEGggCFeSdCC0=)
 

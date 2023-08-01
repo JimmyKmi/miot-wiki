@@ -9,7 +9,7 @@ description : ''
 ---
 # Smart 2S 1.5P
 
-云米 Viomi | 2021/10/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y99/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y99&region=cn)
+云米 Viomi | 2021/10/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y99) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y99&region=cn)
 
 ![viomi.aircondition.y99](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bc05a9f81f494edb8410dfe6004c091d_1632468386634.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/BNz95na5SLhPnuWAoia3l4gbPM=)
 

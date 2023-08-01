@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米投影仪 mini
 
-小米/米家 | 2022/9/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.m033j/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.m033j&region=cn)
+小米/米家 | 2022/9/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.m033j) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.m033j&region=cn)
 
 ![fengmi.projector.m033j](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bf3134476bbb9995260222676891b394_168-168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=W/LPJl0xWT3NhALCyCN+oPuQ1Ng=)
 

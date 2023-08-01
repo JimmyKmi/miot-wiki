@@ -9,7 +9,7 @@ description : ''
 ---
 # V5智能二键开关（Mesh）
 
-其他品牌 | 2023/1/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.switch.v52ksm/) | [说明书](https://home.mi.com/views/introduction.html?model=giot.switch.v52ksm&region=cn)
+其他品牌 | 2023/1/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.switch.v52ksm) | [说明书](https://home.mi.com/views/introduction.html?model=giot.switch.v52ksm&region=cn)
 
 ![giot.switch.v52ksm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c6f587fe10a21d67d6833325d386c1b4_1662520950107.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nspZekrfPi6iSy4xUS6zWcWvUhQ=)
 

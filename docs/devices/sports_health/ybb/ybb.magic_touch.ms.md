@@ -9,7 +9,7 @@ description : ''
 ---
 # 眼部按摩仪
 
-眼宝宝 | 2022/1/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ybb.magic_touch.ms/) | [说明书](https://home.mi.com/views/introduction.html?model=ybb.magic_touch.ms&region=cn)
+眼宝宝 | 2022/1/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ybb.magic_touch.ms) | [说明书](https://home.mi.com/views/introduction.html?model=ybb.magic_touch.ms&region=cn)
 
 ![ybb.magic_touch.ms](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/18218ce3555ea2ccacf59ebb9497d1be_1639372340891.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SmQvsZrlEVIrAeq2mxf8MdUsGO0=)
 

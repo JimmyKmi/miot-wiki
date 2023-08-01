@@ -9,7 +9,7 @@ description : ''
 ---
 # 小猴智能激光测距仪Plus
 
-其他品牌 | 2021/12/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hoto.etool.plus01/) | [说明书](https://home.mi.com/views/introduction.html?model=hoto.etool.plus01&region=cn)
+其他品牌 | 2021/12/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hoto.etool.plus01) | [说明书](https://home.mi.com/views/introduction.html?model=hoto.etool.plus01&region=cn)
 
 ![hoto.etool.plus01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4ae9c137a8870a944d1546554e7b7c13_1638341139778.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wRcoGPJ3KIe98m2sAqXi9DBcFHw=)
 

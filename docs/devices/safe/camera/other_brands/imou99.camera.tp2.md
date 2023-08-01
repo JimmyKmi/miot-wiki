@@ -9,7 +9,7 @@ description : ''
 ---
 # 乐橙智能摄像机云台版
 
-其他品牌 | 2020/4/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=imou99.camera.tp2/) | [说明书](https://home.mi.com/views/introduction.html?model=imou99.camera.tp2&region=cn)
+其他品牌 | 2020/4/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=imou99.camera.tp2) | [说明书](https://home.mi.com/views/introduction.html?model=imou99.camera.tp2&region=cn)
 
 ![imou99.camera.tp2](https://static.home.mi.com/app/image/get/file/developer_1569723006cl949ebi.png)
 

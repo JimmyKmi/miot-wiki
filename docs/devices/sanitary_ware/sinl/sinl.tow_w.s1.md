@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能触屏毛巾烘干机
 
-SINL心力 | 2022/4/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sinl.tow_w.s1/) | [说明书](https://home.mi.com/views/introduction.html?model=sinl.tow_w.s1&region=cn)
+SINL心力 | 2022/4/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sinl.tow_w.s1) | [说明书](https://home.mi.com/views/introduction.html?model=sinl.tow_w.s1&region=cn)
 
 ![sinl.tow_w.s1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d4c031575b0ce5cae2db254b65bbe827_1647854083304.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FV3Vp/bnbZXNKg5GY8E/IVYSp9s=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 无线物联零火单键开关
 
-其他品牌 | 2021/10/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gran.switch.one/) | [说明书](https://home.mi.com/views/introduction.html?model=gran.switch.one&region=cn)
+其他品牌 | 2021/10/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gran.switch.one) | [说明书](https://home.mi.com/views/introduction.html?model=gran.switch.one&region=cn)
 
 ![gran.switch.one](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070336815UhelK72Y.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=buLwXqM7tAnLEUXesaOPIzMpPTE=)
 

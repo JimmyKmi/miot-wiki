@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家吸顶灯Pro 客厅版
 
-小米/米家 | 2022/10/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.pceil/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.pceil&region=cn)
+小米/米家 | 2022/10/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.pceil) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.pceil&region=cn)
 
 ![philips.light.pceil](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/69499e32b4bf172564800d9e84bdb748_1658120955857.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Yq8F6kfCv5svJ8/CUfL9V1c6x5A=)
 

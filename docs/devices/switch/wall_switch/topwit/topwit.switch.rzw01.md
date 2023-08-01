@@ -9,7 +9,7 @@ description : ''
 ---
 # 一位单火Mesh开关
 
-Topwit | 2021/7/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.switch.rzw01/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.switch.rzw01&region=cn)
+Topwit | 2021/7/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.switch.rzw01) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.switch.rzw01&region=cn)
 
 ![topwit.switch.rzw01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047905601j3MMZGZd.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NR1W07tODoguvKeQ2DXTfd3zCts=)
 

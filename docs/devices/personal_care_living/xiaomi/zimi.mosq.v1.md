@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家驱蚊器智能版
 
-小米/米家 | 2019/5/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.mosq.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.mosq.v1&region=cn)
+小米/米家 | 2019/5/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.mosq.v1) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.mosq.v1&region=cn)
 
 ![zimi.mosq.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070103941Zk5giOwg.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tFo6cVN4a/E3j11q6tmk2LQtk9U=)
 

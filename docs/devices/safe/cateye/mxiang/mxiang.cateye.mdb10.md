@@ -9,7 +9,7 @@ description : ''
 ---
 # 小默智能可视门铃
 
-小默 | 2019/10/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mxiang.cateye.mdb10/) | [说明书](https://home.mi.com/views/introduction.html?model=mxiang.cateye.mdb10&region=cn)
+小默 | 2019/10/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mxiang.cateye.mdb10) | [说明书](https://home.mi.com/views/introduction.html?model=mxiang.cateye.mdb10&region=cn)
 
 ![mxiang.cateye.mdb10](https://static.home.mi.com/app/image/get/file/developer_1559803995ea38ksy3.png)
 

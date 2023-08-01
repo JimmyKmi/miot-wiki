@@ -9,7 +9,7 @@ description : ''
 ---
 # 秒秒测空气质量检测仪（甲醛）
 
-秒秒测 | 2021/11/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.airm.air02/) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.airm.air02&region=cn)
+秒秒测 | 2021/11/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.airm.air02) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.airm.air02&region=cn)
 
 ![miaomiaoce.airm.air02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/70537c58577a48c2bcf8fa922498c5ae_1630403319846.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Pr74Q/xZmmc7uXfi1CWBDOQw/NY=)
 

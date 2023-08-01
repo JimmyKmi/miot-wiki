@@ -9,7 +9,7 @@ description : ''
 ---
 # LX色温灯mesh版
 
-其他品牌 | 2023/7/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.light.znd02/) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.light.znd02&region=cn)
+其他品牌 | 2023/7/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.light.znd02) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.light.znd02&region=cn)
 
 ![lxun.light.znd02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6ceced9aaf6d6d1735f755d1a06b3602_1688708403559.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qEAfSUs0LdDtH07rT0SDeOP6OxY=)
 

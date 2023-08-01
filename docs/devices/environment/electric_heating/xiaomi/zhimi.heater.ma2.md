@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能电暖器
 
-小米/米家 | 2019/10/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.heater.ma2/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.heater.ma2&region=cn)
+小米/米家 | 2019/10/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.heater.ma2) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.heater.ma2&region=cn)
 
 ![zhimi.heater.ma2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070104877A4sDO3dr.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=N0sQsbsBx2nn2tQ4iOkTOCSuVCw=)
 

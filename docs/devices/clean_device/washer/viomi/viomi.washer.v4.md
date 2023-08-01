@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网洗烘一体机（8KG乐享版）
 
-云米 Viomi | 2019/4/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.v4/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.v4&region=cn)
+云米 Viomi | 2019/4/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.v4) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.v4&region=cn)
 
 ![viomi.washer.v4](https://static.home.mi.com/app/image/get/file/developer_1552467868jp8k8g7v.png)
 

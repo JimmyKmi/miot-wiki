@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智能开关S6AM （单火线三键版)
 
-Gosund / 电小酷 | 2021/9/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.s6amts/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.s6amts&region=cn)
+Gosund / 电小酷 | 2021/9/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.s6amts) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.s6amts&region=cn)
 
 ![cuco.switch.s6amts](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048030818kTSBRVvv.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jv83iS3VqMeqeRyjgaa2TGLgnh4=)
 

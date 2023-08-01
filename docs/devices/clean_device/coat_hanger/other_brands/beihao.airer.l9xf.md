@@ -9,7 +9,7 @@ description : ''
 ---
 # 佳爵士电动晾衣架
 
-其他品牌 | 2020/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beihao.airer.l9xf/) | [说明书](https://home.mi.com/views/introduction.html?model=beihao.airer.l9xf&region=cn)
+其他品牌 | 2020/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beihao.airer.l9xf) | [说明书](https://home.mi.com/views/introduction.html?model=beihao.airer.l9xf&region=cn)
 
 ![beihao.airer.l9xf](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790478084490HREUdrN.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PL/6DI1U8+l1zQhWTM0S59DWinU=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 零火智能墙壁开关（MESH 三键）
 
-其他品牌 | 2022/11/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.wq4db3/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.wq4db3&region=cn)
+其他品牌 | 2022/11/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.wq4db3) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.wq4db3&region=cn)
 
 ![linp.switch.wq4db3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/52727c725c5bb94b80c81d7a4333ec30_1667268793099.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oF1WQbDyB7l69R0AivsOCcFFrBw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara 妙控开关 S1E
 
-绿米 Aqara | 2023/5/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.acn032/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.acn032&region=cn)
+绿米 Aqara | 2023/5/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.acn032) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.acn032&region=cn)
 
 ![lumi.switch.acn032](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/026421d6e568e3d178dad2679fcbd7df_1680592010613.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YcL27q43JNhNaf3Q8zVOld1REWg=)
 

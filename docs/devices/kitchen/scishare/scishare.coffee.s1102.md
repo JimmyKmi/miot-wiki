@@ -9,7 +9,7 @@ description : ''
 ---
 # 心想智能胶囊咖啡机
 
-心想 | 2018/3/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=scishare.coffee.s1102/) | [说明书](https://home.mi.com/views/introduction.html?model=scishare.coffee.s1102&region=cn)
+心想 | 2018/3/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=scishare.coffee.s1102) | [说明书](https://home.mi.com/views/introduction.html?model=scishare.coffee.s1102&region=cn)
 
 ![scishare.coffee.s1102](https://static.home.mi.com/app/image/get/file/developer_1512354318xa68cere.png)
 

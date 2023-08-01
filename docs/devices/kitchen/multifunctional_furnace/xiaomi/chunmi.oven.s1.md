@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能嵌入式蒸烤一体机S1 58L
 
-小米/米家 | 2022/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.oven.s1/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.oven.s1&region=cn)
+小米/米家 | 2022/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.oven.s1) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.oven.s1&region=cn)
 
 ![chunmi.oven.s1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fcc39d0f6d68c147fa3f0394168cebe3_1640831665096.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AX0tzrOlQrb/ObNZkHiYyOfVPTE=)
 

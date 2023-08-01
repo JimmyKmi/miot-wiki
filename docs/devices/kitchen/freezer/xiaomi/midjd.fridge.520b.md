@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家冰箱 十字对开门520L 墨羽岩
 
-小米/米家 | 2023/5/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd.fridge.520b/) | [说明书](https://home.mi.com/views/introduction.html?model=midjd.fridge.520b&region=cn)
+小米/米家 | 2023/5/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd.fridge.520b) | [说明书](https://home.mi.com/views/introduction.html?model=midjd.fridge.520b&region=cn)
 
 ![midjd.fridge.520b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0f1c9def66f29c0394338196eb83c056_1683282387339.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3JTft0QJ4IvXc1yH2mxl3U6jWOQ=)
 

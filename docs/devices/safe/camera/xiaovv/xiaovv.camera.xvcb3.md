@@ -9,7 +9,7 @@ description : ''
 ---
 # xiaovv户外摄像机 Pro 2K
 
-xiaovv | 2021/5/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.xvcb3/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.xvcb3&region=cn)
+xiaovv | 2021/5/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.xvcb3) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.xvcb3&region=cn)
 
 ![xiaovv.camera.xvcb3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/16d2b63fece5c1ca06227a91a1445600_米家户外摄像机Pro-168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SonWmij9G+DHiCqBlQr2E04xiUk=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居双键强电无线开关
 
-未来居 Bymiot | 2021/6/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.switch.2kwlv2/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.switch.2kwlv2&region=cn)
+未来居 Bymiot | 2021/6/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.switch.2kwlv2) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.switch.2kwlv2&region=cn)
 
 ![bymiot.switch.2kwlv2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b78330b2a574d19c4a77f7facff017db_两开2键面板_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NMawyMa18ESOCSdHwW5ga1S+n70=)
 

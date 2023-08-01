@@ -9,7 +9,7 @@ description : ''
 ---
 # C09MG智能灯
 
-其他品牌 | 2022/6/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mgzn.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=mgzn.light.wy0a01&region=cn)
+其他品牌 | 2022/6/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mgzn.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=mgzn.light.wy0a01&region=cn)
 
 ![mgzn.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fa34ee61529d2c5f3d653df63b5c5a99_1654138133366.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gosvOVtl8k+Ihj+ibDzP7M4NBfo=)
 

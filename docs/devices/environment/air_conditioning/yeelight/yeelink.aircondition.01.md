@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight Pro 空调
 
-易来 Yeelight | 2022/10/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.aircondition.01/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.aircondition.01&region=cn)
+易来 Yeelight | 2022/10/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.aircondition.01) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.aircondition.01&region=cn)
 
 ![yeelink.aircondition.01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b4628c18301f7d198156dd336844a6a7_1661406755483.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1dJRFyCaEU6j/JcMNeRV4SrUiMQ=)
 

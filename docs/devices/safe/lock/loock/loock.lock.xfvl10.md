@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客指静脉智能锁S50
 
-鹿客 Loock | 2021/12/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.xfvl10/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.xfvl10&region=cn)
+鹿客 Loock | 2021/12/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.xfvl10) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.xfvl10&region=cn)
 
 ![loock.lock.xfvl10](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3da25ccb3ed6e27deb74f9df94d91d41_1637742956365.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9LuPxVZN1ipROAM/DcDHx9dgA10=)
 

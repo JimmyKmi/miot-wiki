@@ -9,7 +9,7 @@ description : ''
 ---
 # 追觅X10
 
-追觅 | 2022/9/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2235/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2235&region=cn)
+追觅 | 2022/9/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2235) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2235&region=cn)
 
 ![dreame.vacuum.r2235](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e20f037ae134828b1b5117de779b9912_1663222043250.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3vwOZE4Yf164Kqo/sV2fU94ZNVs=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara无线开关 D1（贴墙式双键版）
 
-绿米 Aqara | 2019/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.remote.b286acn02/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.remote.b286acn02&region=cn)
+绿米 Aqara | 2019/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.remote.b286acn02) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.remote.b286acn02&region=cn)
 
 ![lumi.remote.b286acn02](https://static.home.mi.com/app/image/get/file/developer_1554373012bae34gep.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI沉浸式移动地暖Master(石墨烯加湿版)
 
-云米 Viomi | 2022/11/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.heater.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.heater.v2&region=cn)
+云米 Viomi | 2022/11/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.heater.v2) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.heater.v2&region=cn)
 
 ![viomi.heater.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/62434bb38f9bfea3ad7995ef043d671b_1666669074740.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ben7IvL5SkDyWq0xs7YmTo4vygA=)
 

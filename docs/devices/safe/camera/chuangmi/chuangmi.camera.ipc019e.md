@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能摄像机A1
 
-创米小白 | 2019/12/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.ipc019e/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.ipc019e&region=cn)
+创米小白 | 2019/12/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.ipc019e) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.ipc019e&region=cn)
 
 ![chuangmi.camera.ipc019e](https://static.home.mi.com/app/image/get/file/developer_157197144515vb3aff.png)
 

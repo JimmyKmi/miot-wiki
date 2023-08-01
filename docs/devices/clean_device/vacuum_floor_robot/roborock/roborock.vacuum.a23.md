@@ -9,7 +9,7 @@ description : ''
 ---
 # 石头扫拖机器人 T7S Plus
 
-石头 Roborock | 2021/4/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.a23/) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.a23&region=cn)
+石头 Roborock | 2021/4/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.a23) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.a23&region=cn)
 
 ![roborock.vacuum.a23](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048994653LmMa9q71.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=o3pFh3dPTvAmSAq1e6C5D4dDn9U=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 子擎存在传感器 Lite
 
-子擎 | 2022/9/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=izq.sensor_occupy.24/) | [说明书](https://home.mi.com/views/introduction.html?model=izq.sensor_occupy.24&region=cn)
+子擎 | 2022/9/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=izq.sensor_occupy.24) | [说明书](https://home.mi.com/views/introduction.html?model=izq.sensor_occupy.24&region=cn)
 
 ![izq.sensor_occupy.24](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9f208cd1c2123dd2afdf61827437798f_1659538743846.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0LzGda5Pf7ViME5hmvtpnW3dgvI=)
 

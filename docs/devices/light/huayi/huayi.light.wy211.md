@@ -9,7 +9,7 @@ description : ''
 ---
 # 华艺慧作通用顶灯
 
-华艺 | 2021/11/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy211/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy211&region=cn)
+华艺 | 2021/11/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy211) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy211&region=cn)
 
 ![huayi.light.wy211](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c222136f6522f6e2c9a3d996047e89d7_1633568262869.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ptse9Zq3ioWGXCdvLMNjf1+FSm8=)
 

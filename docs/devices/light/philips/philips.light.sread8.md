@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦智秀台灯
 
-飞利浦 | 2021/11/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.sread8/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.sread8&region=cn)
+飞利浦 | 2021/11/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.sread8) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.sread8&region=cn)
 
 ![philips.light.sread8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ba319f53d69205d1c0e0ac084254c1cf_1634697079427.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sIlvzrW54v0KPHFKnQ4iUytnRGg=)
 

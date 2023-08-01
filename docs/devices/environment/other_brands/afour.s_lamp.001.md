@@ -9,7 +9,7 @@ description : ''
 ---
 # 紫物智能消毒杀菌灯
 
-其他品牌 | 2020/6/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=afour.s_lamp.001/) | [说明书](https://home.mi.com/views/introduction.html?model=afour.s_lamp.001&region=cn)
+其他品牌 | 2020/6/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=afour.s_lamp.001) | [说明书](https://home.mi.com/views/introduction.html?model=afour.s_lamp.001&region=cn)
 
 ![afour.s_lamp.001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15891665447072N31sDAa.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YoV0PL9PtzFFIkWugH66ZZug+Hw=)
 

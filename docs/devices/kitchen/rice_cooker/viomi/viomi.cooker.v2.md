@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网电饭煲（4L 尊享版）
 
-云米 Viomi | 2019/6/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.cooker.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.cooker.v2&region=cn)
+云米 Viomi | 2019/6/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.cooker.v2) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.cooker.v2&region=cn)
 
 ![viomi.cooker.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870988595PBFd3hME.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XdC01LjRlJVUwJ+EihFQnRwyphw=)
 

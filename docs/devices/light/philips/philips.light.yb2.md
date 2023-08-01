@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦智睿吸顶灯 月白 卧室40W
 
-飞利浦 | 2021/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.yb2/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.yb2&region=cn)
+飞利浦 | 2021/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.yb2) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.yb2&region=cn)
 
 ![philips.light.yb2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9c041c1eb004efa48b5fe5c0324e221e_月白-卧室40W-168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MghM7fw5gUH5aQse+lhLUTopyo0=)
 

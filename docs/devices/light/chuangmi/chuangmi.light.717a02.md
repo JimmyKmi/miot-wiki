@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能灯带
 
-创米小白 | 2022/3/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.light.717a02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.light.717a02&region=cn)
+创米小白 | 2022/3/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.light.717a02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.light.717a02&region=cn)
 
 ![chuangmi.light.717a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9a6ac09ddda88e678e9aad66463bb1ea_1641541122195.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3QX7uQ+WiY7YvU4u/IHiYN13V6c=)
 

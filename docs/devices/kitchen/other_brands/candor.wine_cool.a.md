@@ -9,7 +9,7 @@ description : ''
 ---
 # 凯腾酒柜（80L/275L）
 
-其他品牌 | 2021/1/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=candor.wine_cool.a/) | [说明书](https://home.mi.com/views/introduction.html?model=candor.wine_cool.a&region=cn)
+其他品牌 | 2021/1/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=candor.wine_cool.a) | [说明书](https://home.mi.com/views/introduction.html?model=candor.wine_cool.a&region=cn)
 
 ![candor.wine_cool.a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/beb92ab2990ffcb53dfb240363ed00fd_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=A+D6f0C3A73V9dv6WDWbQzFcAGE=)
 

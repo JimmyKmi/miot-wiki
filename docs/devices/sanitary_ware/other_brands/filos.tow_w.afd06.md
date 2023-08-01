@@ -9,7 +9,7 @@ description : ''
 ---
 # 艾芬达毛巾架GD18-A
 
-其他品牌 | 2022/8/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=filos.tow_w.afd06/) | [说明书](https://home.mi.com/views/introduction.html?model=filos.tow_w.afd06&region=cn)
+其他品牌 | 2022/8/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=filos.tow_w.afd06) | [说明书](https://home.mi.com/views/introduction.html?model=filos.tow_w.afd06&region=cn)
 
 ![filos.tow_w.afd06](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/121e81b618b6f44033f2df1ecd9f5b04_1657242004171.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Eb8UUPsmVSdfnlRNBAjszbGWD7U=)
 

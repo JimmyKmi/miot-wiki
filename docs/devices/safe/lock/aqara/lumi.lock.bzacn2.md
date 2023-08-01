@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara智能门锁 N100
 
-绿米 Aqara | 2019/11/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.bzacn2/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.bzacn2&region=cn)
+绿米 Aqara | 2019/11/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.bzacn2) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.bzacn2&region=cn)
 
 ![lumi.lock.bzacn2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870891618QeKp12Nf.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/d6gkINwHK2uVH6MN9KabLM4jZs=)
 

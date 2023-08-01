@@ -9,7 +9,7 @@ description : ''
 ---
 # LineHope水浸传感器TW1
 
-方舟鱼 LineHope | 2023/3/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.flood.tw1/) | [说明书](https://home.mi.com/views/introduction.html?model=line.flood.tw1&region=cn)
+方舟鱼 LineHope | 2023/3/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.flood.tw1) | [说明书](https://home.mi.com/views/introduction.html?model=line.flood.tw1&region=cn)
 
 ![line.flood.tw1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fbf49041f43a76e97bae2c13303c3206_1661413299300.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5Mfe3mHbvKauEQXFqVkO5MOr+Gw=)
 

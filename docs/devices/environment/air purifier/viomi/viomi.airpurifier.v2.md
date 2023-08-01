@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网空气净化器
 
-云米 Viomi | 2020/7/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airpurifier.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airpurifier.v2&region=cn)
+云米 Viomi | 2020/7/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airpurifier.v2) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airpurifier.v2&region=cn)
 
 ![viomi.airpurifier.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1590997334274tBEuhnw0.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=R4dpxFwwR1yuYiXAKJDrBj3PStw=)
 

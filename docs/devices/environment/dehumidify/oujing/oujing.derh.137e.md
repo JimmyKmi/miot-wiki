@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧井除湿机OJ-137E
 
-欧井 | 2022/6/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=oujing.derh.137e/) | [说明书](https://home.mi.com/views/introduction.html?model=oujing.derh.137e&region=cn)
+欧井 | 2022/6/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=oujing.derh.137e) | [说明书](https://home.mi.com/views/introduction.html?model=oujing.derh.137e&region=cn)
 
 ![oujing.derh.137e](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/df36d7f7d9a7e2f4913a7a35bd9dd205_1639360557511.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ol3h5Au7on+7XubiC3R3axVJiI4=)
 

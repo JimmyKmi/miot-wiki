@@ -9,7 +9,7 @@ description : ''
 ---
 # 辰阳开窗器
 
-其他品牌 | 2022/8/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.wopener.82/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.wopener.82&region=cn)
+其他品牌 | 2022/8/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.wopener.82) | [说明书](https://home.mi.com/views/introduction.html?model=babai.wopener.82&region=cn)
 
 ![babai.wopener.82](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/78eb67dd8bd639a80e1b5022cb81e21b_1660052650157.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BW76HEHp0Cj1q0zaGnrMYNVaGV8=)
 

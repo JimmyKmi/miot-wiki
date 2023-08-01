@@ -9,7 +9,7 @@ description : ''
 ---
 # 希尔顿智能吊灯
 
-希尔顿 | 2022/11/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mjzm.light.wy0a04/) | [说明书](https://home.mi.com/views/introduction.html?model=mjzm.light.wy0a04&region=cn)
+希尔顿 | 2022/11/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mjzm.light.wy0a04) | [说明书](https://home.mi.com/views/introduction.html?model=mjzm.light.wy0a04&region=cn)
 
 ![mjzm.light.wy0a04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8737664c43e9fc2c9385ee8f2411a09c_1665998729034.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yF/CO43gkZwI/yfr0S15vXjvvqM=)
 

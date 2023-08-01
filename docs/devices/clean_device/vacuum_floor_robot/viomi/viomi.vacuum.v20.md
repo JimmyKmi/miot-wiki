@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米集尘扫拖机器人凌厉-UV
 
-云米 Viomi | 2021/1/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v20/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v20&region=cn)
+云米 Viomi | 2021/1/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v20) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v20&region=cn)
 
 ![viomi.vacuum.v20](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048995175cIHNCOlI.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DO1+zgwcOTx8JI0oKvakx/31eGE=)
 

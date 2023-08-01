@@ -9,7 +9,7 @@ description : ''
 ---
 # 峰米 X5 4K 激光投影仪
 
-峰米 Fengmi | 2022/12/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.196fc/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.196fc&region=cn)
+峰米 Fengmi | 2022/12/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.196fc) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.196fc&region=cn)
 
 ![fengmi.projector.196fc](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a642e7a2fcf7751b253d1805f0b359f8_1660738354239.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vSrHlKUP94A2xJVktJil+6DxJ0o=)
 

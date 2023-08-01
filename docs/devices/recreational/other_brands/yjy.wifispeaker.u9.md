@@ -9,7 +9,7 @@ description : ''
 ---
 # 8寸背景音乐主机
 
-其他品牌 | 2021/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yjy.wifispeaker.u9/) | [说明书](https://home.mi.com/views/introduction.html?model=yjy.wifispeaker.u9&region=cn)
+其他品牌 | 2021/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yjy.wifispeaker.u9) | [说明书](https://home.mi.com/views/introduction.html?model=yjy.wifispeaker.u9&region=cn)
 
 ![yjy.wifispeaker.u9](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0585866ff252a18626ccaf3deb37e4f9_透明168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=znA75qkSKvUZws87sBOu72IL8Rg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # F1 MESH二位开关
 
-其他品牌 | 2023/4/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mcosu.switch.pipaf2/) | [说明书](https://home.mi.com/views/introduction.html?model=mcosu.switch.pipaf2&region=cn)
+其他品牌 | 2023/4/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mcosu.switch.pipaf2) | [说明书](https://home.mi.com/views/introduction.html?model=mcosu.switch.pipaf2&region=cn)
 
 ![mcosu.switch.pipaf2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3068b9ce710bbdbc5e8e788da42ba333_1665040344602.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZVFcnQO7vL0aFfFwfd5iun88b18=)
 

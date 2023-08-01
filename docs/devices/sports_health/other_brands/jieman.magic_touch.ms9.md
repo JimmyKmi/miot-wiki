@@ -9,7 +9,7 @@ description : ''
 ---
 # 康多力智能颈椎按摩仪
 
-其他品牌 | 2020/10/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.ms9/) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.ms9&region=cn)
+其他品牌 | 2020/10/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.ms9) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.ms9&region=cn)
 
 ![jieman.magic_touch.ms9](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870953153FytFxwzT.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wIJI3acG27QQd78N9FV43nEdnrY=)
 

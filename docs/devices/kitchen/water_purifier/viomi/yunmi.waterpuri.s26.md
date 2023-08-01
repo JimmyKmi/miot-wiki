@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米泉先AI 净水器小蓝调
 
-云米 Viomi | 2022/6/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s26/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s26&region=cn)
+云米 Viomi | 2022/6/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s26) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s26&region=cn)
 
 ![yunmi.waterpuri.s26](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/85c2d7ca908ed7bef3dc78b5be32ee1d_1648190479607.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=EMbJf6nZSV3cosuCQE3QPDAmfFQ=)
 

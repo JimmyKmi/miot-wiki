@@ -9,7 +9,7 @@ description : ''
 ---
 # 李吉他蓝牙温湿度计
 
-青萍 | 2020/9/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cgllc.sensor_ht.cgm1/) | [说明书](https://home.mi.com/views/introduction.html?model=cgllc.sensor_ht.cgm1&region=cn)
+青萍 | 2020/9/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cgllc.sensor_ht.cgm1) | [说明书](https://home.mi.com/views/introduction.html?model=cgllc.sensor_ht.cgm1&region=cn)
 
 ![cgllc.sensor_ht.cgm1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790476877363hBHIjPf.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aBv7B87l0cr2/Y0p5HlWWOhh+dw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 摩摩哒AI全身按摩椅
 
-摩摩哒 | 2019/6/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.massage.rt5870/) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.massage.rt5870&region=cn)
+摩摩哒 | 2019/6/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.massage.rt5870) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.massage.rt5870&region=cn)
 
 ![rotai.massage.rt5870](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047613019uMDyQnoa.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=U0QI3/YyU7BsSqYnI9Q4m5LnTe8=)
 

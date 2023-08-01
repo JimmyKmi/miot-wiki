@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi路由器AX6S
 
-红米 | 2021/9/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.rb03/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.rb03&region=cn)
+红米 | 2021/9/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.rb03) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.rb03&region=cn)
 
 ![xiaomi.router.rb03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ff661389dd8a99fc61a2d3fdd9d2aa13_1625561327955.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vEIQBqQfWPbEdoSmimclLqKxyho=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI燃气热水器Master 3 Pro
 
-云米 Viomi | 2023/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u67/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u67&region=cn)
+云米 Viomi | 2023/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u67) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u67&region=cn)
 
 ![viomi.waterheater.u67](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a8a55a61f36c0b8546864f21c72e521f_1683530966185.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/rTHzahQuHepqD8faorWcg3rZVU=)
 

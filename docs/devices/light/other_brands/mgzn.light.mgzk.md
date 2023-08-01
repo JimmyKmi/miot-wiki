@@ -9,7 +9,7 @@ description : ''
 ---
 # MG智能筒射灯
 
-其他品牌 | 2022/12/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mgzn.light.mgzk/) | [说明书](https://home.mi.com/views/introduction.html?model=mgzn.light.mgzk&region=cn)
+其他品牌 | 2022/12/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mgzn.light.mgzk) | [说明书](https://home.mi.com/views/introduction.html?model=mgzn.light.mgzk&region=cn)
 
 ![mgzn.light.mgzk](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5d05f743e23297a7bda880923311ec38_1659866973365.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QbmIwN9nzTBxgFHg70afXSqz8/A=)
 

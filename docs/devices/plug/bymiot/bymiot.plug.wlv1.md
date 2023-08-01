@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居无线墙壁插座（电流检测）
 
-未来居 Bymiot | 2021/8/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.plug.wlv1/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.plug.wlv1&region=cn)
+未来居 Bymiot | 2021/8/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.plug.wlv1) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.plug.wlv1&region=cn)
 
 ![bymiot.plug.wlv1](https://cdn.cnbj1.fds.api.mi-img.com/mijia/prod/webapp/favicon.ico)
 

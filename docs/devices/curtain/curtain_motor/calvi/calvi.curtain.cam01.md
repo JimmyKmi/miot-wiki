@@ -9,7 +9,7 @@ description : ''
 ---
 # CALVI库沃窗帘电机
 
-CALVI | 2022/6/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=calvi.curtain.cam01/) | [说明书](https://home.mi.com/views/introduction.html?model=calvi.curtain.cam01&region=cn)
+CALVI | 2022/6/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=calvi.curtain.cam01) | [说明书](https://home.mi.com/views/introduction.html?model=calvi.curtain.cam01&region=cn)
 
 ![calvi.curtain.cam01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071858660VfiLGZY1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2My4Y8uWWUtzqYjkpjT9sZ55CYc=)
 

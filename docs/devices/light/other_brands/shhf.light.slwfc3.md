@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能色温灯WiFi版
 
-其他品牌 | 2022/10/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shhf.light.slwfc3/) | [说明书](https://home.mi.com/views/introduction.html?model=shhf.light.slwfc3&region=cn)
+其他品牌 | 2022/10/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shhf.light.slwfc3) | [说明书](https://home.mi.com/views/introduction.html?model=shhf.light.slwfc3&region=cn)
 
 ![shhf.light.slwfc3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5109f7fa7368f349808da875c41e1109_1661328775395.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qU0B4R/HtqQcYtqXeANYka0OWjQ=)
 

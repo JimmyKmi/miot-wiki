@@ -9,7 +9,7 @@ description : ''
 ---
 # 京东京造吸顶灯
 
-京东京造 | 2022/3/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zxzm.light.j01/) | [说明书](https://home.mi.com/views/introduction.html?model=zxzm.light.j01&region=cn)
+京东京造 | 2022/3/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zxzm.light.j01) | [说明书](https://home.mi.com/views/introduction.html?model=zxzm.light.j01&region=cn)
 
 ![zxzm.light.j01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a7693408dbe924da8098eac7c327a93f_1645521200524.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FMowGGjR5lQzm/Hpi0yUpj6l6WE=)
 

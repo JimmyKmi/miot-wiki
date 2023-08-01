@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI燃气热水器Zero2 C1
 
-云米 Viomi | 2022/11/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u63/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u63&region=cn)
+云米 Viomi | 2022/11/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u63) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u63&region=cn)
 
 ![viomi.waterheater.u63](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5a3ad61561ce5bbeea4a033a08ee4ee6_1653274159053.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TpiIUO36k9E7i9HvcCb+q+EcGgA=)
 

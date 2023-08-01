@@ -9,7 +9,7 @@ description : ''
 ---
 # OPPLE米格2Pro台灯
 
-欧普 OPPLE | 2022/9/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.mgtd/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.mgtd&region=cn)
+欧普 OPPLE | 2022/9/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.mgtd) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.mgtd&region=cn)
 
 ![opple.light.mgtd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b36d395c433fa05adafffc7cb3f8f5d7_1659065271759.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Q+yHLmSEXjfrtDFbf09uk68z7SM=)
 

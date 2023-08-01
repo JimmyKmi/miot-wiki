@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能led吸顶灯pro
 
-雷士 | 2022/11/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps127/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps127&region=cn)
+雷士 | 2022/11/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps127) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps127&region=cn)
 
 ![leishi.light.eps127](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0394c0f732629011ba34b2ebf92d983f_1666584410565.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=POsjl9yw9Ck6/7i4wb94g4nz+FE=)
 

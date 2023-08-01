@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能毛巾烘干机
 
-优家明创 | 2022/4/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yooeca.tow_w.mj04/) | [说明书](https://home.mi.com/views/introduction.html?model=yooeca.tow_w.mj04&region=cn)
+优家明创 | 2022/4/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yooeca.tow_w.mj04) | [说明书](https://home.mi.com/views/introduction.html?model=yooeca.tow_w.mj04&region=cn)
 
 ![yooeca.tow_w.mj04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8020c93480f7f538047a4055ef5d6b42_1647843032691.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ce5DI5xvnnEp7BcjusaChUTU6rI=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # A300臻彩激光电视
 
-峰米 Fengmi | 2019/6/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l166/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l166&region=cn)
+峰米 Fengmi | 2019/6/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l166) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l166&region=cn)
 
 ![fengmi.projector.l166](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870989442rBnwd5VJ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Jqe2gz/GOSmrl6UkpQCj/YP+2t0=)
 

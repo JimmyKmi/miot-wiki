@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能摄像机2 AI增强版
 
-小米/米家 | 2022/9/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.051a01/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.051a01&region=cn)
+小米/米家 | 2022/9/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.051a01) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.051a01&region=cn)
 
 ![chuangmi.camera.051a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0870cbfc787eb6724c963aa8a9b4ba38_1646991951473.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hK5gq3EcGmDNcGGkDfN7yWUGEds=)
 

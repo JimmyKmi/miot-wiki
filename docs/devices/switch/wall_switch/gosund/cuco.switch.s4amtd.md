@@ -9,7 +9,7 @@ description : ''
 ---
 # 电小酷智能开关S4AM(单火线单键版)
 
-Gosund / 电小酷 | 2022/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.s4amtd/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.s4amtd&region=cn)
+Gosund / 电小酷 | 2022/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.s4amtd) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.s4amtd&region=cn)
 
 ![cuco.switch.s4amtd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b5c930e0452675331d8e4d67499c5c82_1626834944492.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BsNBVjsROeZMpm7qZ5nfnfeqBPI=)
 

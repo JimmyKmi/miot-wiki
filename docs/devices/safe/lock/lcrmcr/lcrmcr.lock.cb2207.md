@@ -9,7 +9,7 @@ description : ''
 ---
 # CRMCR卡唛智能玻璃门锁
 
-卡唛 | 2023/2/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.lock.cb2207/) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.lock.cb2207&region=cn)
+卡唛 | 2023/2/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.lock.cb2207) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.lock.cb2207&region=cn)
 
 ![lcrmcr.lock.cb2207](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a0cab56945da55b4ddadda2ab7f548e7_1664443860813.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XE2lo+1DXL5/4Y5EYGsqQOsbfTg=)
 

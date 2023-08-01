@@ -9,7 +9,7 @@ description : ''
 ---
 # 双色情景智慧灯
 
-其他品牌 | 2021/12/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gmm.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=gmm.light.wy0a01&region=cn)
+其他品牌 | 2021/12/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gmm.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=gmm.light.wy0a01&region=cn)
 
 ![gmm.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e72f730a15a1de710db82769794e7fa9_1634869200401.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xyrpVZj9M+IguRk4UPq5L0prbvc=)
 

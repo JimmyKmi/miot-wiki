@@ -9,7 +9,7 @@ description : ''
 ---
 # 月影智能吊灯
 
-其他品牌 | 2022/11/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mjzm.light.wy0a02/) | [说明书](https://home.mi.com/views/introduction.html?model=mjzm.light.wy0a02&region=cn)
+其他品牌 | 2022/11/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mjzm.light.wy0a02) | [说明书](https://home.mi.com/views/introduction.html?model=mjzm.light.wy0a02&region=cn)
 
 ![mjzm.light.wy0a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2d3ff0613e154d40c1a68f5ed9a7160a_1664506695414.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SgfaNJV1ixDkP98ufU7J9h+5uZM=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 杜亚智能窗帘D8-XWB
 
-杜亚 Dooya | 2021/11/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.d8xwb/) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.d8xwb&region=cn)
+杜亚 Dooya | 2021/11/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.d8xwb) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.d8xwb&region=cn)
 
 ![dooya.curtain.d8xwb](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870953850nyFO6DKe.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sF0ZJkgJB+GlMtA9lBW40OpU0HM=)
 

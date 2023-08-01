@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能净烟机P1
 
-小米/米家 | 2022/9/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cykj.hood.jyj22/) | [说明书](https://home.mi.com/views/introduction.html?model=cykj.hood.jyj22&region=cn)
+小米/米家 | 2022/9/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cykj.hood.jyj22) | [说明书](https://home.mi.com/views/introduction.html?model=cykj.hood.jyj22&region=cn)
 
 ![cykj.hood.jyj22](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ecc6d26cd874a599cd9da99d1b860c32_1650613027176.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cIBttc14IwqLIUu8A9EHeJ9w3r4=)
 

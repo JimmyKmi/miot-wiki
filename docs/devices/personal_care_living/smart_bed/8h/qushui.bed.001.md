@@ -9,7 +9,7 @@ description : ''
 ---
 # 8H Milan智能电动床
 
-8H | 2019/12/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.bed.001/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.bed.001&region=cn)
+8H | 2019/12/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.bed.001) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.bed.001&region=cn)
 
 ![qushui.bed.001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047687271sx19VZ4a.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WA4Oq3bRX/5IulVplJgO1KS0LpI=)
 

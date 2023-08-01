@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能蒸烤一体集成灶S1
 
-小米/米家 | 2022/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.i_stove.s1/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.i_stove.s1&region=cn)
+小米/米家 | 2022/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.i_stove.s1) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.i_stove.s1&region=cn)
 
 ![chunmi.i_stove.s1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1653385970637C8gLctAa.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5QnRpGjJa5HuWbvS0N6bJxtFggA=)
 

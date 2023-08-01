@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能按摩椅
 
-眼宝宝 | 2022/3/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ybb.massage.ms/) | [说明书](https://home.mi.com/views/introduction.html?model=ybb.massage.ms&region=cn)
+眼宝宝 | 2022/3/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ybb.massage.ms) | [说明书](https://home.mi.com/views/introduction.html?model=ybb.massage.ms&region=cn)
 
 ![ybb.massage.ms](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dd6623c66f8eac6aae1f39529a69fcd2_1640257200351.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=OkWh7bFQ+32SoQFkevnOqHB3+hE=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT厨几 拍照烤箱32L
 
-TOKIT | 2022/6/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.oven.lite01/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.oven.lite01&region=cn)
+TOKIT | 2022/6/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.oven.lite01) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.oven.lite01&region=cn)
 
 ![chunmi.oven.lite01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f336662ec68e7cf716d36940e72f949f_1647928693920.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RUMB50Y/Chco9W8YXrwXbzul/I8=)
 

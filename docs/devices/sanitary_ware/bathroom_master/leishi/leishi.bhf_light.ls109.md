@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能浴霸N1
 
-雷士 | 2021/6/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.bhf_light.ls109/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.bhf_light.ls109&region=cn)
+雷士 | 2021/6/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.bhf_light.ls109) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.bhf_light.ls109&region=cn)
 
 ![leishi.bhf_light.ls109](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047839904Y5VrjN3q.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=lC+nc5q8nqWTo0D5iaOU9YrseCQ=)
 

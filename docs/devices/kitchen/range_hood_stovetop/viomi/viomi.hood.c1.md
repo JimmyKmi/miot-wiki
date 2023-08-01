@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米油烟机Cross
 
-云米 Viomi | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.c1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.c1&region=cn)
+云米 Viomi | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.c1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.c1&region=cn)
 
 ![viomi.hood.c1](https://static.home.mi.com/app/image/get/file/developer_1505118900h83uh8v3.png)
 

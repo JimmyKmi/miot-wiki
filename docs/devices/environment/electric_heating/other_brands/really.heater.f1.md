@@ -9,7 +9,7 @@ description : ''
 ---
 # 锐力电暖气
 
-其他品牌 | 2019/11/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=really.heater.f1/) | [说明书](https://home.mi.com/views/introduction.html?model=really.heater.f1&region=cn)
+其他品牌 | 2019/11/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=really.heater.f1) | [说明书](https://home.mi.com/views/introduction.html?model=really.heater.f1&region=cn)
 
 ![really.heater.f1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_167887103686584QUhu82.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HY5Kd7HyPOG0x6ByS8RE6ELHQXE=)
 

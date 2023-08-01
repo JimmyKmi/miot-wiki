@@ -9,7 +9,7 @@ description : ''
 ---
 # 新特丽智能灯饰
 
-其他品牌 | 2023/6/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=comely.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=comely.light.wy0a01&region=cn)
+其他品牌 | 2023/6/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=comely.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=comely.light.wy0a01&region=cn)
 
 ![comely.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/eabe05ad3503021c7edee0f6893a6bdf_1684207238216.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=446VfazGch7CHIyONd1c6w18yQY=)
 

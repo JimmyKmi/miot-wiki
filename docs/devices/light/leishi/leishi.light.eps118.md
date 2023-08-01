@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能LED吸顶灯
 
-雷士 | 2021/2/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps118/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps118&region=cn)
+雷士 | 2021/2/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps118) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps118&region=cn)
 
 ![leishi.light.eps118](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/119a038b53ad40641d8820633b07d397_雷士智能LED吸顶灯-168x168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wnIS0NQSsdEJ0vXz/aWiJ24mxlA=)
 

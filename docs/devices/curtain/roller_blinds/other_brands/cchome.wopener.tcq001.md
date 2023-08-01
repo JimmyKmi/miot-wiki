@@ -9,7 +9,7 @@ description : ''
 ---
 # 倍增智能电机控制器
 
-其他品牌 | 2020/11/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.wopener.tcq001/) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.wopener.tcq001&region=cn)
+其他品牌 | 2020/11/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.wopener.tcq001) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.wopener.tcq001&region=cn)
 
 ![cchome.wopener.tcq001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048481460IlUl5t4H.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=unXRTGi2BKPQJk6Xg/0/oLvlRsI=)
 

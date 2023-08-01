@@ -9,7 +9,7 @@ description : ''
 ---
 # 罗美蒂琪DTH-A02空气消毒机
 
-其他品牌 | 2021/12/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lmdq.airp.dtha02/) | [说明书](https://home.mi.com/views/introduction.html?model=lmdq.airp.dtha02&region=cn)
+其他品牌 | 2021/12/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lmdq.airp.dtha02) | [说明书](https://home.mi.com/views/introduction.html?model=lmdq.airp.dtha02&region=cn)
 
 ![lmdq.airp.dtha02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/36cb5ff0bb0051de53e294942b68644a_1631516388884.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KaSuvM760MyEAYvc4z5wXT8h8bI=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 筒射灯
 
-易来 Yeelight | 2020/5/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ml1/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ml1&region=cn)
+易来 Yeelight | 2020/5/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ml1) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ml1&region=cn)
 
 ![yeelink.light.ml1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047687786PYuvR1LK.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rwkZJnb0lxrExh4SjAzjbd9BzV8=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI燃气热水器 Smart Pro
 
-云米 Viomi | 2023/4/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u69/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u69&region=cn)
+云米 Viomi | 2023/4/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u69) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u69&region=cn)
 
 ![viomi.waterheater.u69](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cdd168f779b74df24b6b2d66f86ec145_1678844535817.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qaDZNVWpBWRjYoc3TNZpAEVRX2w=)
 

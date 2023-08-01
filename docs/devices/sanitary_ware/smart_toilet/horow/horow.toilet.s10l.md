@@ -9,7 +9,7 @@ description : ''
 ---
 # 希箭大冲力智能马桶S10L
 
-希箭 | 2022/7/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.toilet.s10l/) | [说明书](https://home.mi.com/views/introduction.html?model=horow.toilet.s10l&region=cn)
+希箭 | 2022/7/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.toilet.s10l) | [说明书](https://home.mi.com/views/introduction.html?model=horow.toilet.s10l&region=cn)
 
 ![horow.toilet.s10l](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3d9469db3b04db8bc93ddaf5fabac73b_1651134310400.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XbPso2IXzEtCEIuoleFHhF/E9ps=)
 

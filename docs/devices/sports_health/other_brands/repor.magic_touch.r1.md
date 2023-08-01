@@ -9,7 +9,7 @@ description : ''
 ---
 # 锐珀尔顽DOU荚护颈枕
 
-其他品牌 | 2021/11/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=repor.magic_touch.r1/) | [说明书](https://home.mi.com/views/introduction.html?model=repor.magic_touch.r1&region=cn)
+其他品牌 | 2021/11/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=repor.magic_touch.r1) | [说明书](https://home.mi.com/views/introduction.html?model=repor.magic_touch.r1&region=cn)
 
 ![repor.magic_touch.r1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9be3a6b299c845a403a107a305f2f028_1628583807784.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bBGx9e0r5jYRhgAU7N42fvvfIDA=)
 

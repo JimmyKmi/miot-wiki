@@ -9,7 +9,7 @@ description : ''
 ---
 # 美仕杰集成灶魔方款保洁
 
-美高 | 2022/10/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.i_stove.m6x/) | [说明书](https://home.mi.com/views/introduction.html?model=msj.i_stove.m6x&region=cn)
+美高 | 2022/10/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.i_stove.m6x) | [说明书](https://home.mi.com/views/introduction.html?model=msj.i_stove.m6x&region=cn)
 
 ![msj.i_stove.m6x](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1665562850742GWGNtTU7.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ujm8lIazHpQeyi7AgWMgrbtujp0=)
 

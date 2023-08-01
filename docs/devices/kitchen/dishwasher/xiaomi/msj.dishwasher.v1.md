@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能嵌入式洗碗机12套S1
 
-小米/米家 | 2022/9/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.dishwasher.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=msj.dishwasher.v1&region=cn)
+小米/米家 | 2022/9/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.dishwasher.v1) | [说明书](https://home.mi.com/views/introduction.html?model=msj.dishwasher.v1&region=cn)
 
 ![msj.dishwasher.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d19886e77c6ede4d37a6843127c76878_1649303332506.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Uh3UXkQOwh31ch+wYNKqsAV2Wpo=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight LED灯泡W3（色温版）
 
-易来 Yeelight | 2021/11/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.cta/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.cta&region=cn)
+易来 Yeelight | 2021/11/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.cta) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.cta&region=cn)
 
 ![yeelink.light.cta](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1603159780423KW0CCRaH.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HJWt9r1AQYw0ezdgnVwFZIW+yag=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 倍增智能窗帘电机（开合帘）
 
-其他品牌 | 2021/2/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.curtain.khl01/) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.curtain.khl01&region=cn)
+其他品牌 | 2021/2/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.curtain.khl01) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.curtain.khl01&region=cn)
 
 ![cchome.curtain.khl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/127cb2817d05a508235c9365add16358_拟物.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=u7TkOSHKUfN/glov2SXMUlsldec=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 果加智能门锁M1
 
-其他品牌 | 2019/12/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huohe.lock.m1/) | [说明书](https://home.mi.com/views/introduction.html?model=huohe.lock.m1&region=cn)
+其他品牌 | 2019/12/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huohe.lock.m1) | [说明书](https://home.mi.com/views/introduction.html?model=huohe.lock.m1&region=cn)
 
 ![huohe.lock.m1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047652376EzyuyAuj.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=d+eZvlROZqyDydY1q4OXIjv/XeY=)
 

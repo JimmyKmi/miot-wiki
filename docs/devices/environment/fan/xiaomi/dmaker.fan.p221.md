@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能直流变频循环落地扇 电池版
 
-小米/米家 | 2023/3/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.p221/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.p221&region=cn)
+小米/米家 | 2023/3/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.p221) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.p221&region=cn)
 
 ![dmaker.fan.p221](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4907f563e933c085f86feb07f36b04f4_1670899139202.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sX9NhELRaShs7WKD59n34o0c3TA=)
 

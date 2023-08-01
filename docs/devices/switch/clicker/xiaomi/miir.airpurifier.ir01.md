@@ -9,7 +9,7 @@ description : ''
 ---
 # 空气净化器遥控
 
-小米/米家 | 2018/9/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miir.airpurifier.ir01/) | [说明书](https://home.mi.com/views/introduction.html?model=miir.airpurifier.ir01&region=cn)
+小米/米家 | 2018/9/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miir.airpurifier.ir01) | [说明书](https://home.mi.com/views/introduction.html?model=miir.airpurifier.ir01&region=cn)
 
 ![miir.airpurifier.ir01](https://static.home.mi.com/app/image/get/file/developer_15317128843qim47l7.png)
 

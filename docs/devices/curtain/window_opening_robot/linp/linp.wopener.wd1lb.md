@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普智能平移推窗器WD1
 
-领普 | 2023/6/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.wopener.wd1lb/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.wopener.wd1lb&region=cn)
+领普 | 2023/6/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.wopener.wd1lb) | [说明书](https://home.mi.com/views/introduction.html?model=linp.wopener.wd1lb&region=cn)
 
 ![linp.wopener.wd1lb](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6cd6215343e13eee6ef7c13f84077c58_1687254636396.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Hkk50FLYjQBp4PygBOdlGuA7Bgg=)
 

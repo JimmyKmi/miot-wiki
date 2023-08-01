@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网洗碗机嵌入式0803A
 
-云米 Viomi | 2020/9/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.dishwasher.v08/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.dishwasher.v08&region=cn)
+云米 Viomi | 2020/9/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.dishwasher.v08) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.dishwasher.v08&region=cn)
 
 ![viomi.dishwasher.v08](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1594979101871FetncINz.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gp+LqqnrQzNazEuOmmzJv/4N5ig=)
 

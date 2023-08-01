@@ -9,7 +9,7 @@ description : ''
 ---
 # Viomi V3
 
-云米 Viomi | 2020/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v13/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v13&region=cn)
+云米 Viomi | 2020/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v13) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v13&region=cn)
 
 ![viomi.vacuum.v13](https://static.home.mi.com/app/image/get/file/developer_1584069500lejfge61.png)
 

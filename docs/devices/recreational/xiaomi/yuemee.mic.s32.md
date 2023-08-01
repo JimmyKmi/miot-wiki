@@ -9,7 +9,7 @@ description : ''
 ---
 # MIJIA K歌麦克风 大屏版
 
-小米/米家 | 2022/10/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yuemee.mic.s32/) | [说明书](https://home.mi.com/views/introduction.html?model=yuemee.mic.s32&region=cn)
+小米/米家 | 2022/10/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yuemee.mic.s32) | [说明书](https://home.mi.com/views/introduction.html?model=yuemee.mic.s32&region=cn)
 
 ![yuemee.mic.s32](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/912728ddcc2c53138ef4aaed5be0097a_1661751877776.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=l1X5BeHZENZzJLfZ2SqZrkJcHTI=)
 

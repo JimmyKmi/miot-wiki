@@ -9,7 +9,7 @@ description : ''
 ---
 # 电视盒子遥控
 
-小米/米家 | 2018/9/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miir.tvbox.ir01/) | [说明书](https://home.mi.com/views/introduction.html?model=miir.tvbox.ir01&region=cn)
+小米/米家 | 2018/9/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miir.tvbox.ir01) | [说明书](https://home.mi.com/views/introduction.html?model=miir.tvbox.ir01&region=cn)
 
 ![miir.tvbox.ir01](https://static.home.mi.com/app/image/get/file/developer_15319023150vhvjb84.png)
 

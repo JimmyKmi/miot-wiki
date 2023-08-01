@@ -9,7 +9,7 @@ description : ''
 ---
 # 90分智能金属旅行箱
 
-润米 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=runmi.suitcase.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=runmi.suitcase.v1&region=cn)
+润米 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=runmi.suitcase.v1) | [说明书](https://home.mi.com/views/introduction.html?model=runmi.suitcase.v1&region=cn)
 
 ![runmi.suitcase.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790475111678mqhcamd.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=K4aQaS06VE6px2lHYlpZozoSmsg=)
 

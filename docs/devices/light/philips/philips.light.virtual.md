@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦智睿系列灯组
 
-飞利浦 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.virtual/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.virtual&region=cn)
+飞利浦 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.virtual) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.virtual&region=cn)
 
 ![philips.light.virtual](https://cdn.cnbj0.fds.api.mi-img.com/miio.files/commonfile_png_521e445584cad786770ecaf5b1aad242.png)
 

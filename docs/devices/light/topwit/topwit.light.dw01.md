@@ -9,7 +9,7 @@ description : ''
 ---
 # 调光无主灯
 
-Topwit | 2022/9/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.dw01/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.dw01&region=cn)
+Topwit | 2022/9/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.dw01) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.dw01&region=cn)
 
 ![topwit.light.dw01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4b1bcdebf7587dedc23b17a5d23f89f3_1660294662137.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=s+AB4Y/UymW/uV6nWvoYYSyhZK8=)
 

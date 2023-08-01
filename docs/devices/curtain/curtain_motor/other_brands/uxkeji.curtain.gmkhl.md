@@ -9,7 +9,7 @@ description : ''
 ---
 # GM智能开合帘
 
-其他品牌 | 2021/10/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uxkeji.curtain.gmkhl/) | [说明书](https://home.mi.com/views/introduction.html?model=uxkeji.curtain.gmkhl&region=cn)
+其他品牌 | 2021/10/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uxkeji.curtain.gmkhl) | [说明书](https://home.mi.com/views/introduction.html?model=uxkeji.curtain.gmkhl&region=cn)
 
 ![uxkeji.curtain.gmkhl](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bb51e49f29b4b70f079a2475a55e041b_1625187546750.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=EKr+yJ8fjQtudIQquVuhVHxMLu0=)
 

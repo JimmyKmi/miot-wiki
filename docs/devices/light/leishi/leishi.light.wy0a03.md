@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能LED辅灯
 
-雷士 | 2021/7/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.wy0a03/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.wy0a03&region=cn)
+雷士 | 2021/7/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.wy0a03) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.wy0a03&region=cn)
 
 ![leishi.light.wy0a03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790477246217ZPU8bZw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zBAslHZJmX76ghLiN621ZrHXaZw=)
 

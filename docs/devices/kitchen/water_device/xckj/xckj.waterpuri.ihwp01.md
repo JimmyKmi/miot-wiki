@@ -9,7 +9,7 @@ description : ''
 ---
 # 圈厨即热净化一体机
 
-圈厨 | 2020/6/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xckj.waterpuri.ihwp01/) | [说明书](https://home.mi.com/views/introduction.html?model=xckj.waterpuri.ihwp01&region=cn)
+圈厨 | 2020/6/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xckj.waterpuri.ihwp01) | [说明书](https://home.mi.com/views/introduction.html?model=xckj.waterpuri.ihwp01&region=cn)
 
 ![xckj.waterpuri.ihwp01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1576550310357iPIpylTq.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oAqE+WnspNHFDWos2DcJiKMVfm8=)
 

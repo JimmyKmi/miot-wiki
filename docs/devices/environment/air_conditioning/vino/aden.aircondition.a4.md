@@ -9,7 +9,7 @@ description : ''
 ---
 # VINO变频空调2匹2级能效
 
-VINO | 2019/9/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aden.aircondition.a4/) | [说明书](https://home.mi.com/views/introduction.html?model=aden.aircondition.a4&region=cn)
+VINO | 2019/9/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aden.aircondition.a4) | [说明书](https://home.mi.com/views/introduction.html?model=aden.aircondition.a4&region=cn)
 
 ![aden.aircondition.a4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070104966SFiN1jCe.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=29E80649+nwEZfkwJRwgkVSLzFc=)
 

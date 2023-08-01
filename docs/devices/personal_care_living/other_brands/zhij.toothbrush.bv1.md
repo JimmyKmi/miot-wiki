@@ -9,7 +9,7 @@ description : ''
 ---
 # 修然得体智能感应杀菌杯
 
-其他品牌 | 2020/3/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhij.toothbrush.bv1/) | [说明书](https://home.mi.com/views/introduction.html?model=zhij.toothbrush.bv1&region=cn)
+其他品牌 | 2020/3/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhij.toothbrush.bv1) | [说明书](https://home.mi.com/views/introduction.html?model=zhij.toothbrush.bv1&region=cn)
 
 ![zhij.toothbrush.bv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047686589E1cO085h.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=kJJUQ4OiGOmk+jQ1EzYo155ne+c=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡唛安诺电子指纹保管箱PRO
 
-卡唛 | 2020/8/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.ms30mp/) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.ms30mp&region=cn)
+卡唛 | 2020/8/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.ms30mp) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.ms30mp&region=cn)
 
 ![lcrmcr.safe.ms30mp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071858753x8Pj5mtp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=66xFsvdgq7Kymji8mxEBsxaVr1Y=)
 

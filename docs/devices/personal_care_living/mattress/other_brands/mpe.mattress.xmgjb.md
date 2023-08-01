@@ -9,7 +9,7 @@ description : ''
 ---
 # MPE智能床垫
 
-其他品牌 | 2023/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mpe.mattress.xmgjb/) | [说明书](https://home.mi.com/views/introduction.html?model=mpe.mattress.xmgjb&region=cn)
+其他品牌 | 2023/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mpe.mattress.xmgjb) | [说明书](https://home.mi.com/views/introduction.html?model=mpe.mattress.xmgjb&region=cn)
 
 ![mpe.mattress.xmgjb](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/49ff749dfbe841f782bd412cae722b54_1679725936920.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=95JZswJTObQHjac6D70XSj8cobk=)
 

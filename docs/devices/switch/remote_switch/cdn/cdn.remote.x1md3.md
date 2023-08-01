@@ -9,7 +9,7 @@ description : ''
 ---
 # 舍见三键场景开关
 
-西顿 Cdn | 2021/12/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.remote.x1md3/) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.remote.x1md3&region=cn)
+西顿 Cdn | 2021/12/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.remote.x1md3) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.remote.x1md3&region=cn)
 
 ![cdn.remote.x1md3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8c69fca30e6650d0a1a86f3f7c5db54a_1635390579644.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oNYvCJctAEM8ZgCH8qUXd5/Uhuc=)
 

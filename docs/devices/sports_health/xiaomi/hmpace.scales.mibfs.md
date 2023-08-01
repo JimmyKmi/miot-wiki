@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米体脂秤2
 
-小米/米家 | 2019/4/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hmpace.scales.mibfs/) | [说明书](https://home.mi.com/views/introduction.html?model=hmpace.scales.mibfs&region=cn)
+小米/米家 | 2019/4/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hmpace.scales.mibfs) | [说明书](https://home.mi.com/views/introduction.html?model=hmpace.scales.mibfs&region=cn)
 
 ![hmpace.scales.mibfs](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047577911uVo0uZ3W.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Si3/9WvG/USB949+v03h1IXwqAM=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家飞利浦读写台灯
 
-飞利浦 | 2019/8/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.rwread/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.rwread&region=cn)
+飞利浦 | 2019/8/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.rwread) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.rwread&region=cn)
 
 ![philips.light.rwread](https://static.home.mi.com/app/image/get/file/developer_155385276922xfe5d9.png)
 

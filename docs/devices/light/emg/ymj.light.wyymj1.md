@@ -9,7 +9,7 @@ description : ''
 ---
 # EMG上光环吸顶灯
 
-EMG | 2019/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ymj.light.wyymj1/) | [说明书](https://home.mi.com/views/introduction.html?model=ymj.light.wyymj1&region=cn)
+EMG | 2019/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ymj.light.wyymj1) | [说明书](https://home.mi.com/views/introduction.html?model=ymj.light.wyymj1&region=cn)
 
 ![ymj.light.wyymj1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047654538O9VkHm9U.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AYUpOD+ZdM1Fho/cIaEIq5Qq/hI=)
 

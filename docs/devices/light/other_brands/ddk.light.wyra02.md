@@ -9,7 +9,7 @@ description : ''
 ---
 # NIOYE音乐律动全彩灯
 
-其他品牌 | 2021/7/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ddk.light.wyra02/) | [说明书](https://home.mi.com/views/introduction.html?model=ddk.light.wyra02&region=cn)
+其他品牌 | 2021/7/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ddk.light.wyra02) | [说明书](https://home.mi.com/views/introduction.html?model=ddk.light.wyra02&region=cn)
 
 ![ddk.light.wyra02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047841500KjddaFWx.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=v0WzP2gfMbIJXuoAziAKh6mDxAY=)
 

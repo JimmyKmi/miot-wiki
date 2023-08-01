@@ -9,7 +9,7 @@ description : ''
 ---
 # MINI肌肉按摩器
 
-倍益康 beoka | 2023/4/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beoka.magic_touch.mcute/) | [说明书](https://home.mi.com/views/introduction.html?model=beoka.magic_touch.mcute&region=cn)
+倍益康 beoka | 2023/4/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beoka.magic_touch.mcute) | [说明书](https://home.mi.com/views/introduction.html?model=beoka.magic_touch.mcute&region=cn)
 
 ![beoka.magic_touch.mcute](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e8177370c94c386043f1b7e194d6a33c_1680075832236.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HVVkkSGKT70WU5SZ8KokGiCUCFg=)
 

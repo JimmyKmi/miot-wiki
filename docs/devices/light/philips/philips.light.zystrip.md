@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦智奕灯带
 
-飞利浦 | 2018/10/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.zystrip/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.zystrip&region=cn)
+飞利浦 | 2018/10/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.zystrip) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.zystrip&region=cn)
 
 ![philips.light.zystrip](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_167906910640102ESpqII.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mZb5wei3eqTQM/EbPeLnEDrBxNk=)
 

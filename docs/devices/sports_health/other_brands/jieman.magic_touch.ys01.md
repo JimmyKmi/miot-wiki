@@ -9,7 +9,7 @@ description : ''
 ---
 # 雅绅智能颈椎按摩仪
 
-其他品牌 | 2020/11/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.ys01/) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.ys01&region=cn)
+其他品牌 | 2020/11/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.ys01) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.ys01&region=cn)
 
 ![jieman.magic_touch.ys01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870953218o6TYB6qp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6UuphF8eOiU/eGz7VsAtiDbZmm0=)
 

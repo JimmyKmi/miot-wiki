@@ -9,7 +9,7 @@ description : ''
 ---
 # KEEY-BUS调光调色控制设备
 
-企一照明 | 2023/5/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=heko.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=heko.light.wy0a01&region=cn)
+企一照明 | 2023/5/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=heko.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=heko.light.wy0a01&region=cn)
 
 ![heko.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a929841b1f64036f5aabb746e5a0a644_1667973267321.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=R91KdDWCqQJaPCNl5G8zcEZo7RU=)
 

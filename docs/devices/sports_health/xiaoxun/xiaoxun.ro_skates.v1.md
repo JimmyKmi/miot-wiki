@@ -9,7 +9,7 @@ description : ''
 ---
 # 小寻智能轮滑鞋
 
-米兔小寻 | 2018/7/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.ro_skates.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.ro_skates.v1&region=cn)
+米兔小寻 | 2018/7/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.ro_skates.v1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.ro_skates.v1&region=cn)
 
 ![xiaoxun.ro_skates.v1](https://static.home.mi.com/app/image/get/file/developer_1527060233aw3r5dmd.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # ROIDMI手持无线吸尘器
 
-睿米 | 2018/4/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roidmi.vacuum.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=roidmi.vacuum.v1&region=cn)
+睿米 | 2018/4/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roidmi.vacuum.v1) | [说明书](https://home.mi.com/views/introduction.html?model=roidmi.vacuum.v1&region=cn)
 
 ![roidmi.vacuum.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069107432GtistXZ1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vnqpXm5PQa1Rr+/4I15TYHgkXFE=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 若琪·熊猫
 
-若琪 Rokid | 2019/7/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rokid.robot.panda0/) | [说明书](https://home.mi.com/views/introduction.html?model=rokid.robot.panda0&region=cn)
+若琪 Rokid | 2019/7/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rokid.robot.panda0) | [说明书](https://home.mi.com/views/introduction.html?model=rokid.robot.panda0&region=cn)
 
 ![rokid.robot.panda0](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1629098030773MNoS0Kod.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0QrlRjGmtg/yRZrXCCLbvXetsYA=)
 

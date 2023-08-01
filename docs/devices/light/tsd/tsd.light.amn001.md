@@ -9,7 +9,7 @@ description : ''
 ---
 # 通士达智慧球泡灯
 
-通士达 | 2021/5/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsd.light.amn001/) | [说明书](https://home.mi.com/views/introduction.html?model=tsd.light.amn001&region=cn)
+通士达 | 2021/5/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsd.light.amn001) | [说明书](https://home.mi.com/views/introduction.html?model=tsd.light.amn001&region=cn)
 
 ![tsd.light.amn001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4227f15dab4328299ef55a5a5d66f826_168X168px_球泡灯.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aDPfRJGUJVcAGQ4GTpidZ72vxCM=)
 

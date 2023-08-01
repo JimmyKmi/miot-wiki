@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客智能锁V5 Max
 
-鹿客 Loock | 2023/3/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.fcl201/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.fcl201&region=cn)
+鹿客 Loock | 2023/3/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.fcl201) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.fcl201&region=cn)
 
 ![loock.lock.fcl201](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a08a3b566db546d980967d375e0f259e_1675083443045.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=p8vL8KUWKPcWB8+dxxOZpnFV4jk=)
 

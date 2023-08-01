@@ -9,7 +9,7 @@ description : ''
 ---
 # 向阳智能电动晾衣架
 
-其他品牌 | 2020/7/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beihao.airer.airer3/) | [说明书](https://home.mi.com/views/introduction.html?model=beihao.airer.airer3&region=cn)
+其他品牌 | 2020/7/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beihao.airer.airer3) | [说明书](https://home.mi.com/views/introduction.html?model=beihao.airer.airer3&region=cn)
 
 ![beihao.airer.airer3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047725268RjYNayZM.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fYK1YV/XfhSL+OWGbqXlW9gwo2A=)
 

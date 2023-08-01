@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米冰箱iLive（对开门552L）
 
-云米 Viomi | 2020/7/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u26/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u26&region=cn)
+云米 Viomi | 2020/7/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u26) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u26&region=cn)
 
 ![viomi.fridge.u26](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1589350368553s0Ivu3aV.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mqH7fMCSmuBg6N/ShmDXlJv3F98=)
 

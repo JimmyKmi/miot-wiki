@@ -9,7 +9,7 @@ description : ''
 ---
 # 华来小方室外摄像机 2K版
 
-华来小方 | 2022/2/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.hlv3c/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.hlv3c&region=cn)
+华来小方 | 2022/2/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.hlv3c) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.hlv3c&region=cn)
 
 ![isa.camera.hlv3c](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d0cedba8b60b4b0783e4d2729a8db844_1626224957734.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VtCLy0oJOwD++L96DFnpBJiwg18=)
 

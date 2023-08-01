@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网燃气热水器16L(优享版)
 
-云米 Viomi | 2018/12/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u6/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u6&region=cn)
+云米 Viomi | 2018/12/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u6) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u6&region=cn)
 
 ![viomi.waterheater.u6](https://static.home.mi.com/app/image/get/file/developer_1544170031pvqj1x3x.png)
 

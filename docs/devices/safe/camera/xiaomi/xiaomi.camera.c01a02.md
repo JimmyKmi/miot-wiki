@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能摄像机 云台版2K
 
-小米/米家 | 2022/6/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.camera.c01a02/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.camera.c01a02&region=cn)
+小米/米家 | 2022/6/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.camera.c01a02) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.camera.c01a02&region=cn)
 
 ![xiaomi.camera.c01a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870954115EQLE2HiG.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UqfWG+9dVZMNGe0FgHJMTHmiBuQ=)
 

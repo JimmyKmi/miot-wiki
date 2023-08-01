@@ -9,7 +9,7 @@ description : ''
 ---
 # DUN智能猫眼
 
-其他品牌 | 2019/9/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dun.cateye.nknk500/) | [说明书](https://home.mi.com/views/introduction.html?model=dun.cateye.nknk500&region=cn)
+其他品牌 | 2019/9/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dun.cateye.nknk500) | [说明书](https://home.mi.com/views/introduction.html?model=dun.cateye.nknk500&region=cn)
 
 ![dun.cateye.nknk500](https://static.home.mi.com/app/image/get/file/developer_15613616654pts4ymj.png)
 

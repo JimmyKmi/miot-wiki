@@ -9,7 +9,7 @@ description : ''
 ---
 # 峰米激光电视 T1
 
-峰米 Fengmi | 2021/12/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l206fx/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l206fx&region=cn)
+峰米 Fengmi | 2021/12/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l206fx) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l206fx&region=cn)
 
 ![fengmi.projector.l206fx](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1f802fc180a7b886ffabbaedcbdc7ffc_1632710898152.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=myLJek0DHeG8G7swX1EQ3cxlfGk=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # GAX多功能颈部按摩仪
 
-其他品牌 | 2021/12/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.gax2/) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.gax2&region=cn)
+其他品牌 | 2021/12/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.gax2) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.gax2&region=cn)
 
 ![jieman.magic_touch.gax2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/13cbccb1a51409d08fb5f93a8419ac94_1637638073185.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WTHtd/QV+splQy/fzGErGWgl4vU=)
 

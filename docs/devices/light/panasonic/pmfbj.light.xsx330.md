@@ -9,7 +9,7 @@ description : ''
 ---
 # 松下明畔吸顶灯
 
-松下 Panasonic | 2021/6/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.xsx330/) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.xsx330&region=cn)
+松下 Panasonic | 2021/6/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.xsx330) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.xsx330&region=cn)
 
 ![pmfbj.light.xsx330](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9531620403fac5a5e988c9cd1c608858_明畔产品拟物图168×168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yhkgCPXOFx1gqqPZ5CckvJ5Ncvw=)
 

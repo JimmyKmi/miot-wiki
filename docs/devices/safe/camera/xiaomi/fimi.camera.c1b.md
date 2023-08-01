@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家小相机
 
-小米/米家 | 2017/12/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fimi.camera.c1b/) | [说明书](https://home.mi.com/views/introduction.html?model=fimi.camera.c1b&region=cn)
+小米/米家 | 2017/12/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fimi.camera.c1b) | [说明书](https://home.mi.com/views/introduction.html?model=fimi.camera.c1b&region=cn)
 
 ![fimi.camera.c1b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679073307798zbIWzCNp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=I29HI5YudbC5XANp+lcKv4NFSiQ=)
 

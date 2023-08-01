@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 智能LED吊灯
 
-易来 Yeelight | 2021/10/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceil35/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceil35&region=cn)
+易来 Yeelight | 2021/10/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceil35) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceil35&region=cn)
 
 ![yeelink.light.ceil35](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bd0d3de6834c64e20faf0a7c60a3fc56_产品拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mVOLRSxQX+NIHtvaOwiBNpmsO0M=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 即乘智能灯
 
-乐式 | 2022/11/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zsjc.light.wy0b01/) | [说明书](https://home.mi.com/views/introduction.html?model=zsjc.light.wy0b01&region=cn)
+乐式 | 2022/11/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zsjc.light.wy0b01) | [说明书](https://home.mi.com/views/introduction.html?model=zsjc.light.wy0b01&region=cn)
 
 ![zsjc.light.wy0b01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f35c85e83a49183357c0bd0a82051c8e_1667205844971.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=JVdQ92anvcUabFuISQwMwgAPkAk=)
 

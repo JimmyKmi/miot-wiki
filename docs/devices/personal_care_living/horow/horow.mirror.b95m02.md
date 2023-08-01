@@ -9,7 +9,7 @@ description : ''
 ---
 # 希箭IOT智能镜柜b95m02
 
-希箭 | 2023/7/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.mirror.b95m02/) | [说明书](https://home.mi.com/views/introduction.html?model=horow.mirror.b95m02&region=cn)
+希箭 | 2023/7/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.mirror.b95m02) | [说明书](https://home.mi.com/views/introduction.html?model=horow.mirror.b95m02&region=cn)
 
 ![horow.mirror.b95m02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9ad8a3a6b09c500f2141574d34aad16e_1679389074060.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TjtMKdqLaW5es/pR5OtG8qA9H90=)
 

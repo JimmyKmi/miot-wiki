@@ -9,7 +9,7 @@ description : ''
 ---
 # iCool 1P
 
-云米 Viomi | 2020/3/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y13/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y13&region=cn)
+云米 Viomi | 2020/3/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y13) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y13&region=cn)
 
 ![viomi.aircondition.y13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047689846chmt1gX4.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0seVT7is6X8ehK3Da8eHmo6RroA=)
 

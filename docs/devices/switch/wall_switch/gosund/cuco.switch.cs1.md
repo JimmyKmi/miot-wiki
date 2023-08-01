@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智能开关CS1（零火线单键版）
 
-Gosund / 电小酷 | 2020/11/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.cs1/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.cs1&region=cn)
+Gosund / 电小酷 | 2020/11/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.cs1) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.cs1&region=cn)
 
 ![cuco.switch.cs1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048482420t1KydWuK.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4nHZHn5073wH7R0bAtJNUwfQbTE=)
 

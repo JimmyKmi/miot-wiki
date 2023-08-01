@@ -9,7 +9,7 @@ description : ''
 ---
 # LONINK智能一键开关 WiFi
 
-其他品牌 | 2020/9/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lonink.switch.ln064/) | [说明书](https://home.mi.com/views/introduction.html?model=lonink.switch.ln064&region=cn)
+其他品牌 | 2020/9/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lonink.switch.ln064) | [说明书](https://home.mi.com/views/introduction.html?model=lonink.switch.ln064&region=cn)
 
 ![lonink.switch.ln064](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048938342Laak7WMv.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9OCrNSjp5OG74ZVKEi7m7eeEniA=)
 

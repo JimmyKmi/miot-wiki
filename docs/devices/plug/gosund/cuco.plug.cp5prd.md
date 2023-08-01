@@ -9,7 +9,7 @@ description : ''
 ---
 # gosund | 电小酷 CP5 Pro
 
-Gosund / 电小酷 | 2022/3/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp5prd/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp5prd&region=cn)
+Gosund / 电小酷 | 2022/3/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp5prd) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp5prd&region=cn)
 
 ![cuco.plug.cp5prd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0e7af9ea3070e361dce343e829d06d93_1645004101436.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7cRRclllg/viJCTK5LXcqIryaME=)
 

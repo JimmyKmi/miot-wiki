@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能健康马桶盖
 
-其他品牌 | 2021/4/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hsgczx.toilet.ctv1/) | [说明书](https://home.mi.com/views/introduction.html?model=hsgczx.toilet.ctv1&region=cn)
+其他品牌 | 2021/4/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hsgczx.toilet.ctv1) | [说明书](https://home.mi.com/views/introduction.html?model=hsgczx.toilet.ctv1&region=cn)
 
 ![hsgczx.toilet.ctv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047806437thCGfkfs.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AfdvS3Sp3dM8/8ZsX7sPqnzEnjE=)
 

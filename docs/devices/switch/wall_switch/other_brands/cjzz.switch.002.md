@@ -9,7 +9,7 @@ description : ''
 ---
 # CJZZ 智能燃气报警开关
 
-其他品牌 | 2023/7/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cjzz.switch.002/) | [说明书](https://home.mi.com/views/introduction.html?model=cjzz.switch.002&region=cn)
+其他品牌 | 2023/7/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cjzz.switch.002) | [说明书](https://home.mi.com/views/introduction.html?model=cjzz.switch.002&region=cn)
 
 ![cjzz.switch.002](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7696dbd251e1da131a21a5cbb3b20d6a_1683705595611.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8w5msOx7uRJIQXwlROwMJ6ZzvQ0=)
 

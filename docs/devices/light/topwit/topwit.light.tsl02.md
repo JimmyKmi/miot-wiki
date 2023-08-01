@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能线条灯
 
-Topwit | 2023/4/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.tsl02/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.tsl02&region=cn)
+Topwit | 2023/4/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.tsl02) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.tsl02&region=cn)
 
 ![topwit.light.tsl02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5e5e3c7c091f55d3065aceea3e54a66c_1678763231190.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wIekJBheYmrZrFa5qzZzXnUKCWA=)
 

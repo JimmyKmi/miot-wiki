@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智能白灯WB2-M
 
-Gosund / 电小酷 | 2021/8/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.light.wb2m/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.light.wb2m&region=cn)
+Gosund / 电小酷 | 2021/8/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.light.wb2m) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.light.wb2m&region=cn)
 
 ![cuco.light.wb2m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/39f82425a81b45c8105d2202d49237f2_1624527631464.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qNsdxTOShOyJnRktL3NJOsE/rxc=)
 

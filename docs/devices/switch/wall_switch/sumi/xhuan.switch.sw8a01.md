@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米缤纷面板
 
-苏米 | 2022/9/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.switch.sw8a01/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.switch.sw8a01&region=cn)
+苏米 | 2022/9/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.switch.sw8a01) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.switch.sw8a01&region=cn)
 
 ![xhuan.switch.sw8a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c792bbb7eea6211c6a92070ff8d0c048_1661570864351.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rgjRQG0hYd7wcJXpVbh4WKo6Xco=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 16路控制器Modbus版
 
-其他品牌 | 2019/12/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pwzn.relay.banana/) | [说明书](https://home.mi.com/views/introduction.html?model=pwzn.relay.banana&region=cn)
+其他品牌 | 2019/12/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pwzn.relay.banana) | [说明书](https://home.mi.com/views/introduction.html?model=pwzn.relay.banana&region=cn)
 
 ![pwzn.relay.banana](https://static.home.mi.com/app/image/get/file/developer_1574488907vx2dhy9i.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米冰箱21Face（十字四门451L）
 
-云米 Viomi | 2020/9/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.b5/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.b5&region=cn)
+云米 Viomi | 2020/9/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.b5) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.b5&region=cn)
 
 ![viomi.fridge.b5](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048482849c1353A5W.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=N4Tn4ukkMYTGKnBwNlsfUrlZ580=)
 

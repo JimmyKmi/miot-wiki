@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米手环4 NFC
 
-小米/米家 | 2019/7/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hmpace.bracelet.v4/) | [说明书](https://home.mi.com/views/introduction.html?model=hmpace.bracelet.v4&region=cn)
+小米/米家 | 2019/7/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hmpace.bracelet.v4) | [说明书](https://home.mi.com/views/introduction.html?model=hmpace.bracelet.v4&region=cn)
 
 ![hmpace.bracelet.v4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870890735Fap4F1ge.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+tWsekAwmnwDn9CRk+4+9Q1ltlQ=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智帮手智能卷帘
 
-其他品牌 | 2022/10/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uxkeji.curtain.50tt/) | [说明书](https://home.mi.com/views/introduction.html?model=uxkeji.curtain.50tt&region=cn)
+其他品牌 | 2022/10/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uxkeji.curtain.50tt) | [说明书](https://home.mi.com/views/introduction.html?model=uxkeji.curtain.50tt&region=cn)
 
 ![uxkeji.curtain.50tt](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5cd42f6566fe3bc26d6b8370909b99ed_1661915269334.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=x04xhiIcdsin7CyTOy6/9+8Na6g=)
 

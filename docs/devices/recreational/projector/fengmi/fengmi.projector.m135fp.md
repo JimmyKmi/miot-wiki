@@ -9,7 +9,7 @@ description : ''
 ---
 # 峰米投影仪Vogue Pro
 
-峰米 Fengmi | 2020/6/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.m135fp/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.m135fp&region=cn)
+峰米 Fengmi | 2020/6/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.m135fp) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.m135fp&region=cn)
 
 ![fengmi.projector.m135fp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047655203zkYZVAB3.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=D3UBSvzNFkm9RqWOXVe5i94IiQ4=)
 

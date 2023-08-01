@@ -9,7 +9,7 @@ description : ''
 ---
 # 摩摩哒M700Pro智能按摩椅
 
-摩摩哒 | 2021/10/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.massage.m700a/) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.massage.m700a&region=cn)
+摩摩哒 | 2021/10/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.massage.m700a) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.massage.m700a&region=cn)
 
 ![rotai.massage.m700a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048028835YZsgUAQS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Pyfz5ePXwVqAkwVE9NGKnhBVbF4=)
 

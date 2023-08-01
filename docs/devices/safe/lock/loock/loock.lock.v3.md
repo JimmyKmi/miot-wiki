@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客智能门锁Q2
 
-鹿客 Loock | 2018/9/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.v3/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.v3&region=cn)
+鹿客 Loock | 2018/9/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.v3) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.v3&region=cn)
 
 ![loock.lock.v3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790701031466qKXfBAY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1k84ken8ktYgn8EbEUq9qfKSXTk=)
 

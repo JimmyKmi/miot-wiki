@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能风扇灯pro
 
-雷士 | 2023/5/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.nvc002/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.nvc002&region=cn)
+雷士 | 2023/5/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.nvc002) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.nvc002&region=cn)
 
 ![leishi.light.nvc002](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fee89eaef8f0b9286d586ee2edca37d1_1668493624476.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zWWPUc3OKl2nt7WlyAvpNMiO8kU=)
 

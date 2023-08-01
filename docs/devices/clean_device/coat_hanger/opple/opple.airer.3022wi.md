@@ -9,7 +9,7 @@ description : ''
 ---
 # OPPLE智能晾衣机  Mode A
 
-欧普 OPPLE | 2022/8/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.airer.3022wi/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.airer.3022wi&region=cn)
+欧普 OPPLE | 2022/8/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.airer.3022wi) | [说明书](https://home.mi.com/views/introduction.html?model=opple.airer.3022wi&region=cn)
 
 ![opple.airer.3022wi](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b7678051067632f59810e40b8c80bd9d_1655717186466.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NMKUzlazwPYmd1BWoeBYRWLsrDI=)
 

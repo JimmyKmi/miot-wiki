@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥普浴霸S118M
 
-奥普 AUPU | 2022/8/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.s118m1/) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.s118m1&region=cn)
+奥普 AUPU | 2022/8/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.s118m1) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.s118m1&region=cn)
 
 ![aupu.bhf_light.s118m1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/276bc1227ea6b4d4800b55c8c697ac70_1660372825103.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zB5QzVDrAgGdhSFI+M7ARODcQYo=)
 

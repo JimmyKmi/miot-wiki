@@ -9,7 +9,7 @@ description : ''
 ---
 # 左点智能足蒸器Z9
 
-左点 Zdeer | 2020/10/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zdeer.foot_bath.zdz7/) | [说明书](https://home.mi.com/views/introduction.html?model=zdeer.foot_bath.zdz7&region=cn)
+左点 Zdeer | 2020/10/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zdeer.foot_bath.zdz7) | [说明书](https://home.mi.com/views/introduction.html?model=zdeer.foot_bath.zdz7&region=cn)
 
 ![zdeer.foot_bath.zdz7](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1602902972201XwIjqsaj.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=p2JCAoPhu3Vp0NtzFbS7Wz9E0ns=)
 

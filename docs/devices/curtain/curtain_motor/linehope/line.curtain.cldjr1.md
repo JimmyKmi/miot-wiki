@@ -9,7 +9,7 @@ description : ''
 ---
 # LineHope智能窗帘电机R1
 
-方舟鱼 LineHope | 2023/4/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.curtain.cldjr1/) | [说明书](https://home.mi.com/views/introduction.html?model=line.curtain.cldjr1&region=cn)
+方舟鱼 LineHope | 2023/4/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.curtain.cldjr1) | [说明书](https://home.mi.com/views/introduction.html?model=line.curtain.cldjr1&region=cn)
 
 ![line.curtain.cldjr1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e060755406ca60f9fdf2edae11b9c6d6_1673590330313.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hkH+vOBwwIuPtes39nG6nRs0tFM=)
 

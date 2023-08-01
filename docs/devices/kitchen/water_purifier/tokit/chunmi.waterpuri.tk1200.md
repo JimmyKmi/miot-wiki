@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT厨几 智能矿物质净水器1200G
 
-TOKIT | 2023/7/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.waterpuri.tk1200/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.waterpuri.tk1200&region=cn)
+TOKIT | 2023/7/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.waterpuri.tk1200) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.waterpuri.tk1200&region=cn)
 
 ![chunmi.waterpuri.tk1200](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/73fc7015ee474403eb4b79893d7cf60c_1685672370289.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GmjwoXCjJf9N/QhYaj4mo9vNYxs=)
 

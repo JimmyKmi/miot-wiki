@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家声波电动牙刷T501
 
-小米/米家 | 2023/4/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=soocare.toothbrush.t501/) | [说明书](https://home.mi.com/views/introduction.html?model=soocare.toothbrush.t501&region=cn)
+小米/米家 | 2023/4/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=soocare.toothbrush.t501) | [说明书](https://home.mi.com/views/introduction.html?model=soocare.toothbrush.t501&region=cn)
 
 ![soocare.toothbrush.t501](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/54c464ac2a998e611dc56c24b22a3951_1653885302337.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2UGj3BbOQQWYNYa3TAm4EZuODUc=)
 

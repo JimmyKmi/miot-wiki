@@ -9,7 +9,7 @@ description : ''
 ---
 # SAYSO智能窗帘电机
 
-sayso | 2023/5/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sayso.curtain.cura01/) | [说明书](https://home.mi.com/views/introduction.html?model=sayso.curtain.cura01&region=cn)
+sayso | 2023/5/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sayso.curtain.cura01) | [说明书](https://home.mi.com/views/introduction.html?model=sayso.curtain.cura01&region=cn)
 
 ![sayso.curtain.cura01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4758d8b81e5d11b1ea13e69936250391_1684723765911.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=b9FjxHCyO06O8EN8SOjnwzk94cU=)
 

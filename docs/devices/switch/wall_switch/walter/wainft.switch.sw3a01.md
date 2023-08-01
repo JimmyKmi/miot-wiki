@@ -9,7 +9,7 @@ description : ''
 ---
 # XG蓝牙Mesh智能开关
 
-沃尔特赫 Walter | 2022/1/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wainft.switch.sw3a01/) | [说明书](https://home.mi.com/views/introduction.html?model=wainft.switch.sw3a01&region=cn)
+沃尔特赫 Walter | 2022/1/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wainft.switch.sw3a01) | [说明书](https://home.mi.com/views/introduction.html?model=wainft.switch.sw3a01&region=cn)
 
 ![wainft.switch.sw3a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1af98a4d4ca4975240f71ba5abd949ae_1640394404323.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jkWYlpSVNaxnQwPuf7NUqYiT+K4=)
 

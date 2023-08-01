@@ -9,7 +9,7 @@ description : ''
 ---
 # HT三键智能开关mesh版
 
-情景mesh芯片 | 2023/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.switch.sw3h01/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.switch.sw3h01&region=cn)
+情景mesh芯片 | 2023/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.switch.sw3h01) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.switch.sw3h01&region=cn)
 
 ![lemesh.switch.sw3h01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4e2dccfb17382037aab7b75a1bf209da_1669183462226.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6XgeqP67iGVZCijLDI0BXzvV518=)
 

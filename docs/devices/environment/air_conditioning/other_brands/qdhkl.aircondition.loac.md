@@ -9,7 +9,7 @@ description : ''
 ---
 # VRF空调室内机
 
-其他品牌 | 2023/4/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.aircondition.loac/) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.aircondition.loac&region=cn)
+其他品牌 | 2023/4/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.aircondition.loac) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.aircondition.loac&region=cn)
 
 ![qdhkl.aircondition.loac](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8a3ca6053c406051d3285dc52c1c705a_1676257887380.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=N0CA9jqmttG8/KQef3I5oIyznWI=)
 

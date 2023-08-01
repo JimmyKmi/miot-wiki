@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家窗帘伴侣组
 
-小米/米家 | 2022/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.hmcn04/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.hmcn04&region=cn)
+小米/米家 | 2022/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.hmcn04) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.hmcn04&region=cn)
 
 ![lumi.curtain.hmcn04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/31e4f23f913f63513488def5f8f97e02_米家窗帘伴侣组.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Fj4qTFR8L5R5USU5R1/QygFKyoQ=)
 

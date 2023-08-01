@@ -9,7 +9,7 @@ description : ''
 ---
 # 空调 1.5匹 新三级
 
-小米/米家 | 2022/9/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m6/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m6&region=cn)
+小米/米家 | 2022/9/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m6) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m6&region=cn)
 
 ![xiaomi.aircondition.m6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a1bb02bcc5fe814537938e45d6f56835_1662117693499.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=i/kK7FvqL+I8YnFywvvewIY1T9A=)
 

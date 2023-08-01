@@ -9,7 +9,7 @@ description : ''
 ---
 # LineHope智能射灯驱动器DR1
 
-方舟鱼 LineHope | 2022/8/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.light.mrs1/) | [说明书](https://home.mi.com/views/introduction.html?model=line.light.mrs1&region=cn)
+方舟鱼 LineHope | 2022/8/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.light.mrs1) | [说明书](https://home.mi.com/views/introduction.html?model=line.light.mrs1&region=cn)
 
 ![line.light.mrs1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/af8bea9d439aaec1c02a638dea3d6934_1642474140390.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+cgyJqjDijdzgSpesYaBdPXI4xA=)
 

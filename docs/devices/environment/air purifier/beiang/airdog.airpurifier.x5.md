@@ -9,7 +9,7 @@ description : ''
 ---
 # 贝昂X3(M)空气净化器
 
-贝昂 | 2019/3/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=airdog.airpurifier.x5/) | [说明书](https://home.mi.com/views/introduction.html?model=airdog.airpurifier.x5&region=cn)
+贝昂 | 2019/3/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=airdog.airpurifier.x5) | [说明书](https://home.mi.com/views/introduction.html?model=airdog.airpurifier.x5&region=cn)
 
 ![airdog.airpurifier.x5](https://static.home.mi.com/app/image/get/file/developer_154381482155s9hs7i.png)
 

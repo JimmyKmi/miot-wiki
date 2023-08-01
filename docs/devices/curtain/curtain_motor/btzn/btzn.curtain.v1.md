@@ -9,7 +9,7 @@ description : ''
 ---
 # 比特窗帘电机控制器
 
-比特 | 2020/11/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.curtain.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.curtain.v1&region=cn)
+比特 | 2020/11/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.curtain.v1) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.curtain.v1&region=cn)
 
 ![btzn.curtain.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d7aa06ff75a95bc4263f6c2c8a2394f4_窗帘电机1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GmsmPCF1WciKXg5OWXrZmK6grwk=)
 

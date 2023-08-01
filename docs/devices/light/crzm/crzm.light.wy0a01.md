@@ -9,7 +9,7 @@ description : ''
 ---
 # NW耐为简致点护眼无频闪三色智能灯带
 
-耐为简致点 | 2020/4/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=crzm.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=crzm.light.wy0a01&region=cn)
+耐为简致点 | 2020/4/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=crzm.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=crzm.light.wy0a01&region=cn)
 
 ![crzm.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15832274109737gawPMCu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=c+3BIHc9u2fnbjtr+Hq3S/qjF4s=)
 

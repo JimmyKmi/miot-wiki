@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居有线弱电插卡取电
 
-未来居 Bymiot | 2022/9/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.cs.sensor/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.cs.sensor&region=cn)
+未来居 Bymiot | 2022/9/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.cs.sensor) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.cs.sensor&region=cn)
 
 ![bymiot.cs.sensor](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ec6b280eacc49c616a7e3cc72cad79eb_1657881896140.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ze5cuh/SZhzmqe/1LzF6ejJjKCw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight LED吸顶灯升级版
 
-易来 Yeelight | 2022/4/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceile/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceile&region=cn)
+易来 Yeelight | 2022/4/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceile) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceile&region=cn)
 
 ![yeelink.light.ceile](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/85b4681a06ef82db67edacc71e5a65f3_1639638197484.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tFKJdtL4fZCq2cNIgUTwj9QvIQg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 潜水艇智能墙壁开关1控3
 
-其他品牌 | 2022/3/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=brrx.switch.qst1c3/) | [说明书](https://home.mi.com/views/introduction.html?model=brrx.switch.qst1c3&region=cn)
+其他品牌 | 2022/3/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=brrx.switch.qst1c3) | [说明书](https://home.mi.com/views/introduction.html?model=brrx.switch.qst1c3&region=cn)
 
 ![brrx.switch.qst1c3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b6c2561c2156abef5b39a3f971437262_1641980582310.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=glmpo8BDN7QvqtZqn0vALFW6L30=)
 

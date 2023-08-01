@@ -9,7 +9,7 @@ description : ''
 ---
 # 途一智能体脂秤MX80
 
-途一 | 2023/5/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yoda.scales.mx80/) | [说明书](https://home.mi.com/views/introduction.html?model=yoda.scales.mx80&region=cn)
+途一 | 2023/5/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yoda.scales.mx80) | [说明书](https://home.mi.com/views/introduction.html?model=yoda.scales.mx80&region=cn)
 
 ![yoda.scales.mx80](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c63cbd5db9c6653aa6419e2f1df0b4c2_1681905138046.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tIYCZExZ+gR/JECERpW6XwWKfu4=)
 

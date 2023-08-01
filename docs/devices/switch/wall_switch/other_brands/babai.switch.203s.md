@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能三键开关（WiFi双模）
 
-其他品牌 | 2021/9/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.203s/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.203s&region=cn)
+其他品牌 | 2021/9/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.203s) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.203s&region=cn)
 
 ![babai.switch.203s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069420833QArm2Gz0.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wq6D+R0JZG6JsnI7P5Low0ojmXo=)
 

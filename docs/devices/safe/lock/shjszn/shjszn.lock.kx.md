@@ -9,7 +9,7 @@ description : ''
 ---
 # 榉树智能门锁KX
 
-榉树 | 2019/4/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shjszn.lock.kx/) | [说明书](https://home.mi.com/views/introduction.html?model=shjszn.lock.kx&region=cn)
+榉树 | 2019/4/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shjszn.lock.kx) | [说明书](https://home.mi.com/views/introduction.html?model=shjszn.lock.kx&region=cn)
 
 ![shjszn.lock.kx](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070103937HrVs8sed.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=j9TMsIXe1smvnjqXHTcfJ2sEq2Q=)
 

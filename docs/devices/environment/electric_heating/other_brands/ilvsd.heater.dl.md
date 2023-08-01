@@ -9,7 +9,7 @@ description : ''
 ---
 # 利维斯顿取暖器
 
-其他品牌 | 2021/9/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ilvsd.heater.dl/) | [说明书](https://home.mi.com/views/introduction.html?model=ilvsd.heater.dl&region=cn)
+其他品牌 | 2021/9/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ilvsd.heater.dl) | [说明书](https://home.mi.com/views/introduction.html?model=ilvsd.heater.dl&region=cn)
 
 ![ilvsd.heater.dl](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068994293bUM0kLQ7.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5ug06fEft/dNRZlOUx06QsuhrX0=)
 

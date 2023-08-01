@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT迷你智能电饭煲
 
-TOKIT | 2019/3/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.cooker.tk20l01/) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.cooker.tk20l01&region=cn)
+TOKIT | 2019/3/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.cooker.tk20l01) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.cooker.tk20l01&region=cn)
 
 ![tokit.cooker.tk20l01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047612681BAnR09Yz.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ffZG86SaqSkKlNSJVkGN2rz2KKE=)
 

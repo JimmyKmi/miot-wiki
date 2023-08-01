@@ -9,7 +9,7 @@ description : ''
 ---
 # 美仕杰集成水槽星云款
 
-美高 | 2023/3/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.dishwasher.s02/) | [说明书](https://home.mi.com/views/introduction.html?model=msj.dishwasher.s02&region=cn)
+美高 | 2023/3/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.dishwasher.s02) | [说明书](https://home.mi.com/views/introduction.html?model=msj.dishwasher.s02&region=cn)
 
 ![msj.dishwasher.s02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/44a1984a3cd4e1b5e1bae02bf3d3bd66_1669790828805.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fX1TlArQFRLnrZDE7H2UmIeuiD8=)
 

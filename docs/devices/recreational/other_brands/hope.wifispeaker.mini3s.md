@@ -9,7 +9,7 @@ description : ''
 ---
 # 单音源背景音乐
 
-其他品牌 | 2021/9/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hope.wifispeaker.mini3s/) | [说明书](https://home.mi.com/views/introduction.html?model=hope.wifispeaker.mini3s&region=cn)
+其他品牌 | 2021/9/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hope.wifispeaker.mini3s) | [说明书](https://home.mi.com/views/introduction.html?model=hope.wifispeaker.mini3s&region=cn)
 
 ![hope.wifispeaker.mini3s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b3bbf197d20bffbb217a44fe2c90bc54_1622076090549.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5+E8l/Ci45HLNP+n9l3qXxbWcC4=)
 

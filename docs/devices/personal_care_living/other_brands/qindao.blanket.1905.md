@@ -9,7 +9,7 @@ description : ''
 ---
 # 琴岛智能电热毯
 
-其他品牌 | 2021/11/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qindao.blanket.1905/) | [说明书](https://home.mi.com/views/introduction.html?model=qindao.blanket.1905&region=cn)
+其他品牌 | 2021/11/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qindao.blanket.1905) | [说明书](https://home.mi.com/views/introduction.html?model=qindao.blanket.1905&region=cn)
 
 ![qindao.blanket.1905](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1639646391921fpJJlitU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=psAYeNgCLJnKLvboR4BYRHjKqi8=)
 

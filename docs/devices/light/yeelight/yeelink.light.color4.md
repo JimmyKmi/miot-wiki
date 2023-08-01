@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight LED灯泡1S（彩光版）
 
-易来 Yeelight | 2019/7/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.color4/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.color4&region=cn)
+易来 Yeelight | 2019/7/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.color4) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.color4&region=cn)
 
 ![yeelink.light.color4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047613126Cn6PmJaN.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Sh+5rAm1ZUJ0aiXp3a5IXUSDwik=)
 

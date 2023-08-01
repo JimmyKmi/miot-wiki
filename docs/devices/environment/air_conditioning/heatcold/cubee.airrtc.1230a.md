@@ -9,7 +9,7 @@ description : ''
 ---
 # 希到-空调(水)
 
-Heatcold | 2023/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cubee.airrtc.1230a/) | [说明书](https://home.mi.com/views/introduction.html?model=cubee.airrtc.1230a&region=cn)
+Heatcold | 2023/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cubee.airrtc.1230a) | [说明书](https://home.mi.com/views/introduction.html?model=cubee.airrtc.1230a&region=cn)
 
 ![cubee.airrtc.1230a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/68b08d7639fd05dad617b396a6602ba8_1669692544147.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mLqZuRYglPr4BpQjSHR/d0RgztE=)
 

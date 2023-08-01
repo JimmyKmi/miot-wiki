@@ -9,7 +9,7 @@ description : ''
 ---
 # CRMCR卡唛复古机械智能保管箱
 
-卡唛 | 2022/8/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.30j/) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.30j&region=cn)
+卡唛 | 2022/8/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.30j) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.30j&region=cn)
 
 ![lcrmcr.safe.30j](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/07b836fd229e697b27caf582da066f24_1657532262362.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xrrhnh1XDG7hMCec+EaxBx3iM80=)
 

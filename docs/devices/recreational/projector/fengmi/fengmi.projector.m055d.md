@@ -9,7 +9,7 @@ description : ''
 ---
 # 峰米投影仪Smart Lite
 
-峰米 Fengmi | 2019/8/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.m055d/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.m055d&region=cn)
+峰米 Fengmi | 2019/8/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.m055d) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.m055d&region=cn)
 
 ![fengmi.projector.m055d](https://static.home.mi.com/app/image/get/file/developer_1563940185akutmcs1.png)
 

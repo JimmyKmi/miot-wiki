@@ -9,7 +9,7 @@ description : ''
 ---
 # 16路继电器
 
-其他品牌 | 2019/5/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pwzn.relay.apple/) | [说明书](https://home.mi.com/views/introduction.html?model=pwzn.relay.apple&region=cn)
+其他品牌 | 2019/5/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pwzn.relay.apple) | [说明书](https://home.mi.com/views/introduction.html?model=pwzn.relay.apple&region=cn)
 
 ![pwzn.relay.apple](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870989782SC1qbpV7.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VK9EWvfMEav14PkrPlO9fvMsW4s=)
 

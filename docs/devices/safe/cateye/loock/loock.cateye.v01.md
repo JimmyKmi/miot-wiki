@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客智能猫眼青春版CatY
 
-鹿客 Loock | 2018/12/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.cateye.v01/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.cateye.v01&region=cn)
+鹿客 Loock | 2018/12/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.cateye.v01) | [说明书](https://home.mi.com/views/introduction.html?model=loock.cateye.v01&region=cn)
 
 ![loock.cateye.v01](https://static.home.mi.com/app/image/get/file/developer_1537270095i9l27gtn.png)
 

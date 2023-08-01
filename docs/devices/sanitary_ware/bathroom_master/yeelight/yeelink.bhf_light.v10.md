@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 舒适暖浴霸
 
-易来 Yeelight | 2022/9/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.bhf_light.v10/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.bhf_light.v10&region=cn)
+易来 Yeelight | 2022/9/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.bhf_light.v10) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.bhf_light.v10&region=cn)
 
 ![yeelink.bhf_light.v10](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d91609db915fbc241e62b9ae27834253_1654742649278.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NHF0lN2R/aZ7zUOm8B65hHjltVQ=)
 

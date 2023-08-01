@@ -9,7 +9,7 @@ description : ''
 ---
 # 公牛智能一位无线开关
 
-公牛 Bull | 2022/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bull.remote.s115y/) | [说明书](https://home.mi.com/views/introduction.html?model=bull.remote.s115y&region=cn)
+公牛 Bull | 2022/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bull.remote.s115y) | [说明书](https://home.mi.com/views/introduction.html?model=bull.remote.s115y&region=cn)
 
 ![bull.remote.s115y](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/21977004d2bb4f0e9500ab43e09332cb_1639991801047.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tw4qQWFmRoaRs4LCQOqHNSKE1d8=)
 

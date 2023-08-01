@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能晾衣架 X1 Pro
 
-创米小白 | 2021/9/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.airer.7l0a02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.airer.7l0a02&region=cn)
+创米小白 | 2021/9/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.airer.7l0a02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.airer.7l0a02&region=cn)
 
 ![chuangmi.airer.7l0a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e0a8ac4c86d9c8cd6d3868836696a81c_1628736439973.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=I6xPmsWV52gzWy45ErXZP1hGnLs=)
 

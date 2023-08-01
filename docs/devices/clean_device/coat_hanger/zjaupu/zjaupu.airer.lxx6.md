@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥普烘干晾衣机
 
-宅鲸奥普 | 2021/10/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjaupu.airer.lxx6/) | [说明书](https://home.mi.com/views/introduction.html?model=zjaupu.airer.lxx6&region=cn)
+宅鲸奥普 | 2021/10/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjaupu.airer.lxx6) | [说明书](https://home.mi.com/views/introduction.html?model=zjaupu.airer.lxx6&region=cn)
 
 ![zjaupu.airer.lxx6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068994059kw1NualL.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mHY20F2WAWUT0t6flXm76p+SzmE=)
 

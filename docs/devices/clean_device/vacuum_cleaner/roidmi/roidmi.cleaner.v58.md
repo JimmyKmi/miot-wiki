@@ -9,7 +9,7 @@ description : ''
 ---
 # 睿米无线吸尘器旗舰版
 
-睿米 | 2021/9/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roidmi.cleaner.v58/) | [说明书](https://home.mi.com/views/introduction.html?model=roidmi.cleaner.v58&region=cn)
+睿米 | 2021/9/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roidmi.cleaner.v58) | [说明书](https://home.mi.com/views/introduction.html?model=roidmi.cleaner.v58&region=cn)
 
 ![roidmi.cleaner.v58](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071060194ufeiduWm.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ifbT9BQaQ2LZ1BQdjOKa0ggGkFs=)
 

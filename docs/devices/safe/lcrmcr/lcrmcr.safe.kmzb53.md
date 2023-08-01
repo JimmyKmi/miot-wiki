@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡唛智能保管箱
 
-卡唛 | 2023/4/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.kmzb53/) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.kmzb53&region=cn)
+卡唛 | 2023/4/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.kmzb53) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.kmzb53&region=cn)
 
 ![lcrmcr.safe.kmzb53](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a54aaaf3e0324d2ac0277874bed9d2fd_1677642212332.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yK0Mnng1Oec2HKF0TC2I/lpTjeg=)
 

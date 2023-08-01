@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米路由器WR30U
 
-小米/米家 | 2022/8/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.wr30u/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.wr30u&region=cn)
+小米/米家 | 2022/8/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.wr30u) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.wr30u&region=cn)
 
 ![xiaomi.router.wr30u](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/653972985939fb225ed9a6504fe78c56_1651138484028.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+Lptk7ef9fxBle6R879bbjsIXdE=)
 

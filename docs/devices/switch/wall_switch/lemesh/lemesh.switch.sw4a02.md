@@ -9,7 +9,7 @@ description : ''
 ---
 # 四键智能开关mesh版
 
-情景mesh芯片 | 2022/2/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.switch.sw4a02/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.switch.sw4a02&region=cn)
+情景mesh芯片 | 2022/2/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.switch.sw4a02) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.switch.sw4a02&region=cn)
 
 ![lemesh.switch.sw4a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f4774c6490661f4cc3fb77205aec5a3b_1641886957740.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oKIB+dKeIZxgsUStAAiD3B1VH+Y=)
 

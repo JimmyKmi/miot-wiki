@@ -9,7 +9,7 @@ description : ''
 ---
 # 一米田智能花盆
 
-一米田 | 2022/5/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ymt.flowerpot.v3/) | [说明书](https://home.mi.com/views/introduction.html?model=ymt.flowerpot.v3&region=cn)
+一米田 | 2022/5/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ymt.flowerpot.v3) | [说明书](https://home.mi.com/views/introduction.html?model=ymt.flowerpot.v3&region=cn)
 
 ![ymt.flowerpot.v3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047957874IXSUoOf6.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UjkpFa3bLPHx1Op1gFF+TELo1qg=)
 

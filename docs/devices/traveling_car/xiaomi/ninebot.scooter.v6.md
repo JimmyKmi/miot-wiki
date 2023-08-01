@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米米家电动滑板车1S
 
-小米/米家 | 2020/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ninebot.scooter.v6/) | [说明书](https://home.mi.com/views/introduction.html?model=ninebot.scooter.v6&region=cn)
+小米/米家 | 2020/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ninebot.scooter.v6) | [说明书](https://home.mi.com/views/introduction.html?model=ninebot.scooter.v6&region=cn)
 
 ![ninebot.scooter.v6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790477225594H9wNwG8.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=95aj48hrCYjqp1hyo3endYdpe7w=)
 

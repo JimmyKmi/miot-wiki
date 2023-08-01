@@ -9,7 +9,7 @@ description : ''
 ---
 # Xiaomi室外摄像机CW400
 
-小米/米家 | 2022/10/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.hlc8/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.hlc8&region=cn)
+小米/米家 | 2022/10/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.hlc8) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.hlc8&region=cn)
 
 ![isa.camera.hlc8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/055b106058109c445c3cb4bf1c19d1bd_1661163595354.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZRbWF3J743oePD5q7fg+vMf3uvc=)
 

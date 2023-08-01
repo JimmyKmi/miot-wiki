@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家互联网洗碗机 4套台面式
 
-小米/米家 | 2020/3/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.dishwasher.m02/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.dishwasher.m02&region=cn)
+小米/米家 | 2020/3/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.dishwasher.m02) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.dishwasher.m02&region=cn)
 
 ![viomi.dishwasher.m02](https://static.home.mi.com/app/image/get/file/developer_1564034023iisfpjze.png)
 

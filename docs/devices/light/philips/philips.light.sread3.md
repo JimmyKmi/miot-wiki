@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家飞利浦台灯3
 
-飞利浦 | 2020/11/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.sread3/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.sread3&region=cn)
+飞利浦 | 2020/11/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.sread3) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.sread3&region=cn)
 
 ![philips.light.sread3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15994586276061EINWXVJ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AlfYU1wzQHriIYMbSp3PWwQAaTA=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家石墨烯踢脚线电暖器
 
-小米/米家 | 2021/9/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.heater.bs3/) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.heater.bs3&region=cn)
+小米/米家 | 2021/9/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.heater.bs3) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.heater.bs3&region=cn)
 
 ![leshow.heater.bs3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069629777BYA0Ugc6.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Dq5wthJPL9RF5xrtaylvg+ssrYU=)
 

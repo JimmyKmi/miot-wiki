@@ -9,7 +9,7 @@ description : ''
 ---
 # 洪塔智能烘鞋机
 
-其他品牌 | 2020/12/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=htwl.dryer.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=htwl.dryer.v1&region=cn)
+其他品牌 | 2020/12/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=htwl.dryer.v1) | [说明书](https://home.mi.com/views/introduction.html?model=htwl.dryer.v1&region=cn)
 
 ![htwl.dryer.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047689196wacZlOPd.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9BwjODUC9O5Du1L0IiOlSDlgKx4=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # FSL筒灯系列
 
-FSL | 2023/3/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sfl.light.dl002/) | [说明书](https://home.mi.com/views/introduction.html?model=sfl.light.dl002&region=cn)
+FSL | 2023/3/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sfl.light.dl002) | [说明书](https://home.mi.com/views/introduction.html?model=sfl.light.dl002&region=cn)
 
 ![sfl.light.dl002](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_16892999173125k4MXzht.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XPvD8u6yIENHRiJmhtCnc2zgABA=)
 

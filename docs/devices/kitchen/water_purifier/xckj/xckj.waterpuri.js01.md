@@ -9,7 +9,7 @@ description : ''
 ---
 # 圈厨家用净水器
 
-圈厨 | 2020/5/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xckj.waterpuri.js01/) | [说明书](https://home.mi.com/views/introduction.html?model=xckj.waterpuri.js01&region=cn)
+圈厨 | 2020/5/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xckj.waterpuri.js01) | [说明书](https://home.mi.com/views/introduction.html?model=xckj.waterpuri.js01&region=cn)
 
 ![xckj.waterpuri.js01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15722359166026Guq956h.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3hk7NMfMIPTv73wam0XsvcGL64c=)
 

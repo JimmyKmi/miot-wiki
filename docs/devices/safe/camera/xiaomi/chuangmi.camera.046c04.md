@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能摄像机 云台版SE+
 
-小米/米家 | 2023/2/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.046c04/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.046c04&region=cn)
+小米/米家 | 2023/2/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.046c04) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.046c04&region=cn)
 
 ![chuangmi.camera.046c04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/457322f89e0d491556bcf4df791f5b69_1655870313751.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yQ6R32XxQ7bs9Px4/NSRZ64RhWQ=)
 

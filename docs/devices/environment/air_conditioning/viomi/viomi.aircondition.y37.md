@@ -9,7 +9,7 @@ description : ''
 ---
 # Milano 1C 2P(新能效)
 
-云米 Viomi | 2020/9/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y37/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y37&region=cn)
+云米 Viomi | 2020/9/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y37) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y37&region=cn)
 
 ![viomi.aircondition.y37](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047770115pPj8FTPf.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=iec0tA4wZH/qu+8UpmSrdSMKsSE=)
 

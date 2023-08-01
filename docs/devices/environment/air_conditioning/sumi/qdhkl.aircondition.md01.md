@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米中央空调控制器
 
-苏米 | 2021/1/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.aircondition.md01/) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.aircondition.md01&region=cn)
+苏米 | 2021/1/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.aircondition.md01) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.aircondition.md01&region=cn)
 
 ![qdhkl.aircondition.md01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047840346B4sKfRea.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vW5ryddVv/UeDzL1NEq3vp7mOlM=)
 

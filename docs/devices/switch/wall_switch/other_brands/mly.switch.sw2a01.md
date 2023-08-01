@@ -9,7 +9,7 @@ description : ''
 ---
 # 魔力云二开智能开关
 
-其他品牌 | 2022/11/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mly.switch.sw2a01/) | [说明书](https://home.mi.com/views/introduction.html?model=mly.switch.sw2a01&region=cn)
+其他品牌 | 2022/11/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mly.switch.sw2a01) | [说明书](https://home.mi.com/views/introduction.html?model=mly.switch.sw2a01&region=cn)
 
 ![mly.switch.sw2a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/47cd12715ae707c9f307819db84b6a6f_1665545862499.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zKdMuK+diiR4VTjeogQeHMAbyl4=)
 

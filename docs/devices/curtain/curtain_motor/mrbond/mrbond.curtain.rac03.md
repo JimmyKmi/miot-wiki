@@ -9,7 +9,7 @@ description : ''
 ---
 # 邦先生智能窗帘
 
-邦先生 | 2019/10/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.curtain.rac03/) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.curtain.rac03&region=cn)
+邦先生 | 2019/10/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.curtain.rac03) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.curtain.rac03&region=cn)
 
 ![mrbond.curtain.rac03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047655522JEON9vTX.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=W6U//0ZHzIkzgpdn4K4Wjh1P8gk=)
 

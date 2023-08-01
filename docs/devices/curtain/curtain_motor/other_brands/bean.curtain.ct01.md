@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能窗帘电机V1-Mesh版
 
-其他品牌 | 2023/7/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.curtain.ct01/) | [说明书](https://home.mi.com/views/introduction.html?model=bean.curtain.ct01&region=cn)
+其他品牌 | 2023/7/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.curtain.ct01) | [说明书](https://home.mi.com/views/introduction.html?model=bean.curtain.ct01&region=cn)
 
 ![bean.curtain.ct01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/10edd974348d5e377ddcdde3ab4265c4_1688179070434.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=t3nuRQCVFsKZJKFivtNFDdnpO5I=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 光翼X1智能马桶
 
-其他品牌 | 2023/1/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cozy.toilet.s1/) | [说明书](https://home.mi.com/views/introduction.html?model=cozy.toilet.s1&region=cn)
+其他品牌 | 2023/1/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cozy.toilet.s1) | [说明书](https://home.mi.com/views/introduction.html?model=cozy.toilet.s1&region=cn)
 
 ![cozy.toilet.s1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7ab30e7b71c69d0f3b6bd6426a426a6b_1673597332833.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TmAhuXPB7A94L//a13dpCblKk2c=)
 

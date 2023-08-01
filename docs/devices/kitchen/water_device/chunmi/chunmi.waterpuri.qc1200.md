@@ -9,7 +9,7 @@ description : ''
 ---
 # 圈厨牌CS-CJ01-1200G型反渗透净水机
 
-知吾煮 Chunmi | 2021/12/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.waterpuri.qc1200/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.waterpuri.qc1200&region=cn)
+知吾煮 Chunmi | 2021/12/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.waterpuri.qc1200) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.waterpuri.qc1200&region=cn)
 
 ![chunmi.waterpuri.qc1200](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/76088101654fffe4987830f60adc5384_1632624820448.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=c9Oqlsv8F7jnPjKnlZqMwIaBSjk=)
 

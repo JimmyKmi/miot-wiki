@@ -9,7 +9,7 @@ description : ''
 ---
 # 优点智能锁M2
 
-优点智能 | 2018/11/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydhome.lock.m2silver/) | [说明书](https://home.mi.com/views/introduction.html?model=ydhome.lock.m2silver&region=cn)
+优点智能 | 2018/11/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydhome.lock.m2silver) | [说明书](https://home.mi.com/views/introduction.html?model=ydhome.lock.m2silver&region=cn)
 
 ![ydhome.lock.m2silver](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870890276ZDRxfBhb.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=So0WjMfq8D6JShWQFA+J91lIL6Y=)
 

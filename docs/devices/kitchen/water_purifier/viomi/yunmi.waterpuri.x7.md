@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米1秒即热净水器X1
 
-云米 Viomi | 2019/11/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.x7/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.x7&region=cn)
+云米 Viomi | 2019/11/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.x7) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.x7&region=cn)
 
 ![yunmi.waterpuri.x7](https://static.home.mi.com/app/image/get/file/developer_1571107538sntk6efz.png)
 

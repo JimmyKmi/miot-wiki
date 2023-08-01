@@ -9,7 +9,7 @@ description : ''
 ---
 # 佳文调光调色智能灯
 
-其他品牌 | 2022/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jiawen.light.wy0a02/) | [说明书](https://home.mi.com/views/introduction.html?model=jiawen.light.wy0a02&region=cn)
+其他品牌 | 2022/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jiawen.light.wy0a02) | [说明书](https://home.mi.com/views/introduction.html?model=jiawen.light.wy0a02&region=cn)
 
 ![jiawen.light.wy0a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/56532f8c86626310db8064c961b98a37_1665648270331.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5lE1syNKgcS7AYeV5PVuBpU/gZc=)
 

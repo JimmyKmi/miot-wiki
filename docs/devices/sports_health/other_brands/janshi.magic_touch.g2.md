@@ -9,7 +9,7 @@ description : ''
 ---
 # G2脊安适颈部按摩器
 
-其他品牌 | 2019/8/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=janshi.magic_touch.g2/) | [说明书](https://home.mi.com/views/introduction.html?model=janshi.magic_touch.g2&region=cn)
+其他品牌 | 2019/8/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=janshi.magic_touch.g2) | [说明书](https://home.mi.com/views/introduction.html?model=janshi.magic_touch.g2&region=cn)
 
 ![janshi.magic_touch.g2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047615014UmfyKIVs.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NpcU7mGAOVAXgnifqMlDo5QDjxM=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 咕咚GPS运动手表S1
 
-咕咚 | 2019/1/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=codoon.watch.s1/) | [说明书](https://home.mi.com/views/introduction.html?model=codoon.watch.s1&region=cn)
+咕咚 | 2019/1/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=codoon.watch.s1) | [说明书](https://home.mi.com/views/introduction.html?model=codoon.watch.s1&region=cn)
 
 ![codoon.watch.s1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870890134yh41Uq1H.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=65gHCUsQOcQI+LrWaSTRGrWWDY4=)
 

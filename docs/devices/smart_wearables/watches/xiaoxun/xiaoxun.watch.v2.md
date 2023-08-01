@@ -9,7 +9,7 @@ description : ''
 ---
 # 小寻手表 彩屏版
 
-米兔小寻 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.v2&region=cn)
+米兔小寻 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.v2) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.v2&region=cn)
 
 ![xiaoxun.watch.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047512848wJKdt9MS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=faCe62kqoVTdDmbid6PKcHw4QAs=)
 

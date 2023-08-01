@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡唛安诺指纹保险箱
 
-卡唛 | 2019/3/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.an35sizw/) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.an35sizw&region=cn)
+卡唛 | 2019/3/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.an35sizw) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.an35sizw&region=cn)
 
 ![lcrmcr.safe.an35sizw](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047577722EIp92pPn.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=G3VPMS0jdpjJqjK2M1Q7D3mOeCc=)
 

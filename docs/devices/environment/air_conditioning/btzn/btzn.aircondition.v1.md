@@ -9,7 +9,7 @@ description : ''
 ---
 # 比特空调控制器
 
-比特 | 2020/11/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.aircondition.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.aircondition.v1&region=cn)
+比特 | 2020/11/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.aircondition.v1) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.aircondition.v1&region=cn)
 
 ![btzn.aircondition.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_16031620398932I3FSAe5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uKRaEfqnF1ml4my8nZQ/ZafYJrg=)
 

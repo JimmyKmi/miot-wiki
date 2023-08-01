@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能电压力锅5L
 
-小米/米家 | 2021/3/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.pre_cooker.dylg5/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.pre_cooker.dylg5&region=cn)
+小米/米家 | 2021/3/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.pre_cooker.dylg5) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.pre_cooker.dylg5&region=cn)
 
 ![chunmi.pre_cooker.dylg5](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1617952574132Y9KglhxO.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=L/yVMxZd+5tfPRwX/ARUKg1m8Po=)
 

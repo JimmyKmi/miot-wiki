@@ -9,7 +9,7 @@ description : ''
 ---
 # 一米未来智能窗帘电机M1
 
-其他品牌 | 2021/10/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ymwl.curtain.cura01/) | [说明书](https://home.mi.com/views/introduction.html?model=ymwl.curtain.cura01&region=cn)
+其他品牌 | 2021/10/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ymwl.curtain.cura01) | [说明书](https://home.mi.com/views/introduction.html?model=ymwl.curtain.cura01&region=cn)
 
 ![ymwl.curtain.cura01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2f859892088e0a2f0cc6a3d1c0ca12bf_1629855149492.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=v/MJdEM6j4Ts8xbGYCuM+UhTGSo=)
 

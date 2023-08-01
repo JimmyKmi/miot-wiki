@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米互联网空调C（大1匹|变频|新一级能效）
 
-小米/米家 | 2020/4/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.mh1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.mh1&region=cn)
+小米/米家 | 2020/4/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.mh1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.mh1&region=cn)
 
 ![xiaomi.aircondition.mh1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047688456pzJxh1uU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dlUo7KuDv213MjtLzuicGvpoZ+U=)
 

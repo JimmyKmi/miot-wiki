@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家对开门冰箱 485L
 
-小米/米家 | 2021/5/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd7.fridge.4851/) | [说明书](https://home.mi.com/views/introduction.html?model=midjd7.fridge.4851&region=cn)
+小米/米家 | 2021/5/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd7.fridge.4851) | [说明书](https://home.mi.com/views/introduction.html?model=midjd7.fridge.4851&region=cn)
 
 ![midjd7.fridge.4851](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047904723gzlF400Q.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vTlL6l+8eDYgbJ8ZQJeWo+7TcAY=)
 

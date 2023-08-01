@@ -9,7 +9,7 @@ description : ''
 ---
 # 佳尼特智能净水器CXR800-A1/T1
 
-佳尼特 Smith | 2021/4/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smith.waterpuri.cxr800/) | [说明书](https://home.mi.com/views/introduction.html?model=smith.waterpuri.cxr800&region=cn)
+佳尼特 Smith | 2021/4/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smith.waterpuri.cxr800) | [说明书](https://home.mi.com/views/introduction.html?model=smith.waterpuri.cxr800&region=cn)
 
 ![smith.waterpuri.cxr800](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047840503Pa8kX1Y8.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=57yo4jHISGHUGUr/gN6c7W584lY=)
 

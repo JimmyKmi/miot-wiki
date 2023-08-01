@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI电热水器VEW5020
 
-云米 Viomi | 2021/9/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e28/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e28&region=cn)
+云米 Viomi | 2021/9/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e28) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e28&region=cn)
 
 ![viomi.waterheater.e28](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/25ec699bc3a9d6b7d9658dce8f0f7118_1629882693832.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yN1HHMCqyNCuaJr0hWaawlHn9z4=)
 

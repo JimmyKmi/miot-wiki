@@ -9,7 +9,7 @@ description : ''
 ---
 # 门锁传感器
 
-绿米 Aqara | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sensor_dlock.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sensor_dlock.v1&region=cn)
+绿米 Aqara | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sensor_dlock.v1) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sensor_dlock.v1&region=cn)
 
 ![lumi.sensor_dlock.v1](https://static.home.mi.com/app/image/get/file/common_image_1437379417b64fpda7.png)
 

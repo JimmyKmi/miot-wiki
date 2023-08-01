@@ -9,7 +9,7 @@ description : ''
 ---
 # 中央空调
 
-其他品牌 | 2023/1/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=maxi.aircondition.m07/) | [说明书](https://home.mi.com/views/introduction.html?model=maxi.aircondition.m07&region=cn)
+其他品牌 | 2023/1/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=maxi.aircondition.m07) | [说明书](https://home.mi.com/views/introduction.html?model=maxi.aircondition.m07&region=cn)
 
 ![maxi.aircondition.m07](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/84c52119062bb7906e286a7550964a16_1668407944189.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DN2SVNqKbMg4omEUq3h8Fjb5Ln4=)
 

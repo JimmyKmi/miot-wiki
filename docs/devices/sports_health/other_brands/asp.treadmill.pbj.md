@@ -9,7 +9,7 @@ description : ''
 ---
 # 立久佳M1跑步机
 
-其他品牌 | 2020/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=asp.treadmill.pbj/) | [说明书](https://home.mi.com/views/introduction.html?model=asp.treadmill.pbj&region=cn)
+其他品牌 | 2020/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=asp.treadmill.pbj) | [说明书](https://home.mi.com/views/introduction.html?model=asp.treadmill.pbj&region=cn)
 
 ![asp.treadmill.pbj](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1593426107399mxvN0YzX.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=R4NmSeSvqVPHLbZ2mWhe0nFQylU=)
 

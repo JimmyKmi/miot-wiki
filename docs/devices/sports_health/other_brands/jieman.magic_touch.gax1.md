@@ -9,7 +9,7 @@ description : ''
 ---
 # GAX智能颈椎按摩仪
 
-其他品牌 | 2021/12/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.gax1/) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.gax1&region=cn)
+其他品牌 | 2021/12/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.gax1) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.gax1&region=cn)
 
 ![jieman.magic_touch.gax1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2a1d2671a5fc88883df43910761d8e25_1637139013875.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TPKpR03n1oRyvSfAewBWNCrGqeE=)
 

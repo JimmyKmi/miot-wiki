@@ -9,7 +9,7 @@ description : ''
 ---
 # 8键智能复合开关mesh版
 
-情景mesh芯片 | 2022/8/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.switch.sw8a01/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.switch.sw8a01&region=cn)
+情景mesh芯片 | 2022/8/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.switch.sw8a01) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.switch.sw8a01&region=cn)
 
 ![lemesh.switch.sw8a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ddb570e0823d0b970e7c4cd2ffab8a50_1655968624281.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DG4gZlqFdoQ+v8BcmioFtll9DQU=)
 

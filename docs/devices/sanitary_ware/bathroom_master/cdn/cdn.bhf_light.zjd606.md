@@ -9,7 +9,7 @@ description : ''
 ---
 # 西顿多功能智能浴霸
 
-西顿 Cdn | 2022/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.bhf_light.zjd606/) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.bhf_light.zjd606&region=cn)
+西顿 Cdn | 2022/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.bhf_light.zjd606) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.bhf_light.zjd606&region=cn)
 
 ![cdn.bhf_light.zjd606](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f0b284f893b025ab3ea7f825989fa1f6_1636941214928.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=k8/2xOMpydlt/mvUdsuP0ICYKjY=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 湃妮双餐喂食器
 
-湃妮 | 2021/7/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skyrc.feeder.dfeed/) | [说明书](https://home.mi.com/views/introduction.html?model=skyrc.feeder.dfeed&region=cn)
+湃妮 | 2021/7/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skyrc.feeder.dfeed) | [说明书](https://home.mi.com/views/introduction.html?model=skyrc.feeder.dfeed&region=cn)
 
 ![skyrc.feeder.dfeed](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047957090cJdkXq39.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YGJBv+dsNbPAciUmzhRdl5DU27Q=)
 

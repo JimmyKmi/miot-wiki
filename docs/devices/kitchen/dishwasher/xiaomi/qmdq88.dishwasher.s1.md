@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能台式洗碗机5套S1
 
-小米/米家 | 2022/11/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qmdq88.dishwasher.s1/) | [说明书](https://home.mi.com/views/introduction.html?model=qmdq88.dishwasher.s1&region=cn)
+小米/米家 | 2022/11/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qmdq88.dishwasher.s1) | [说明书](https://home.mi.com/views/introduction.html?model=qmdq88.dishwasher.s1&region=cn)
 
 ![qmdq88.dishwasher.s1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6d895885ba2de6959a861e47e70ef0ac_1656400567992.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ikw2wYUgYGh8excAlnmnWNUYZnc=)
 

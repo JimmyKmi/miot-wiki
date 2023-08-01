@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米电视
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.v1&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.v1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.v1&region=cn)
 
 ![xiaomi.tv.v1](https://cdn.cnbj0.fds.api.mi-img.com/miio.files/commonfile_png_092991b582d6b62968861b095acb26fb.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白自清洁扫拖机器人V3 除菌版
 
-创米小白 | 2022/4/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.vacuum.719a02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.vacuum.719a02&region=cn)
+创米小白 | 2022/4/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.vacuum.719a02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.vacuum.719a02&region=cn)
 
 ![chuangmi.vacuum.719a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e6582b98d60e0462852651e1d771af0e_1648472045190.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0c36r2ERZVRDJwmlmQG7y7Kca9o=)
 

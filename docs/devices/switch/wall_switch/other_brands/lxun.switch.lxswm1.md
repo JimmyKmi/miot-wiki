@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能开关-一键mesh版
 
-其他品牌 | 2022/8/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.switch.lxswm1/) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.switch.lxswm1&region=cn)
+其他品牌 | 2022/8/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.switch.lxswm1) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.switch.lxswm1&region=cn)
 
 ![lxun.switch.lxswm1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/16418640108338c967b2809525985e67_1660812566033.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=D+rLeOW4myq4LsQemJDKGIin7vg=)
 

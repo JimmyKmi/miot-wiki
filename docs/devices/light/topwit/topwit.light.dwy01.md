@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能色温灯
 
-Topwit | 2022/8/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.dwy01/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.dwy01&region=cn)
+Topwit | 2022/8/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.dwy01) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.dwy01&region=cn)
 
 ![topwit.light.dwy01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4becf758dc47119ccc0ba2116e447df9_1659059263791.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Iqr22QB2SWg+BqxvnZoqYTAori0=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 智能开合帘电机C2（WIFI版）
 
-易来 Yeelight | 2022/8/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.curtain.crc2/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.curtain.crc2&region=cn)
+易来 Yeelight | 2022/8/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.curtain.crc2) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.curtain.crc2&region=cn)
 
 ![yeelink.curtain.crc2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/afe0ef1d464d27f54af7f9cc6a6d3562_1658381299368.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=h7lPPPfPefp1v8NpvjnxDkKdsWk=)
 

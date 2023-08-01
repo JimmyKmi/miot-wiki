@@ -9,7 +9,7 @@ description : ''
 ---
 # Navi 2 2P
 
-云米 Viomi | 2021/5/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y83/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y83&region=cn)
+云米 Viomi | 2021/5/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y83) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y83&region=cn)
 
 ![viomi.aircondition.y83](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047955370BFjrmMUh.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=X1bfR+HMgZCa5aC63Hs7ui+jTo4=)
 

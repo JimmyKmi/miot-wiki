@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居通用存在传感器
 
-未来居 Bymiot | 2022/9/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.sensor_occupy.gl/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.sensor_occupy.gl&region=cn)
+未来居 Bymiot | 2022/9/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.sensor_occupy.gl) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.sensor_occupy.gl&region=cn)
 
 ![bymiot.sensor_occupy.gl](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/65b103acdd3fb730dfc0664da86c20ec_1659343397239.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bFRiXMflg3QV63n+JVP37r65HOg=)
 

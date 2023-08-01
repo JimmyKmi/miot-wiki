@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥普浴霸-奥芯
 
-奥普 AUPU | 2022/6/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.p3328e/) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.p3328e&region=cn)
+奥普 AUPU | 2022/6/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.p3328e) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.p3328e&region=cn)
 
 ![aupu.bhf_light.p3328e](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3d90cc85eedbe0e61f6f06c6e99bc7cb_1651712845467.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rh+IJiBoNGLr9IaNcA3arxNKAyc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight Pro 双路通断器
 
-易来 Yeelight | 2022/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.switch.ysw05/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.switch.ysw05&region=cn)
+易来 Yeelight | 2022/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.switch.ysw05) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.switch.ysw05&region=cn)
 
 ![yeelink.switch.ysw05](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/eb01fa6a99c1cbee45f8b5a853a75b79_1635232917907.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/Kj3d8ApV8g4tIedum7RexcFp1g=)
 

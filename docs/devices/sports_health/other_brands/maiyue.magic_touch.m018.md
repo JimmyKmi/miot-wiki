@@ -9,7 +9,7 @@ description : ''
 ---
 # MA018多功能颈椎按摩仪
 
-其他品牌 | 2022/12/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=maiyue.magic_touch.m018/) | [说明书](https://home.mi.com/views/introduction.html?model=maiyue.magic_touch.m018&region=cn)
+其他品牌 | 2022/12/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=maiyue.magic_touch.m018) | [说明书](https://home.mi.com/views/introduction.html?model=maiyue.magic_touch.m018&region=cn)
 
 ![maiyue.magic_touch.m018](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2c9ca12417143ad8a6344c2ef18270c6_1666670198058.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3mgCzAsIgtwAYH902UYye3rfk5w=)
 

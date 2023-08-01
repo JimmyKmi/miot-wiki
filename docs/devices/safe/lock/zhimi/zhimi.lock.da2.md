@@ -9,7 +9,7 @@ description : ''
 ---
 # 简约智能门锁-不锈钢版
 
-智米 | 2020/5/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.lock.da2/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.lock.da2&region=cn)
+智米 | 2020/5/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.lock.da2) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.lock.da2&region=cn)
 
 ![zhimi.lock.da2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870952764ULFyS646.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6Ws3AKwJVl/BEwx9uF+1UT3YHuQ=)
 

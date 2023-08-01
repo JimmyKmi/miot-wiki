@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米路由器3A
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.r3a/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.r3a&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.r3a) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.r3a&region=cn)
 
 ![xiaomi.router.r3a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790691078859Zvs5jJO.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aCsch+owq3BW/VegP7B9vEKIl5s=)
 

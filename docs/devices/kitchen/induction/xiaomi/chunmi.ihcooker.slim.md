@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家超薄电磁炉
 
-小米/米家 | 2021/8/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.slim/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.slim&region=cn)
+小米/米家 | 2021/8/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.slim) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.slim&region=cn)
 
 ![chunmi.ihcooker.slim](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c7c4813ecbc4e21bd2cc52878f21fc25_拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CcM9mcRfd2lu0pqeYw3x195maZI=)
 

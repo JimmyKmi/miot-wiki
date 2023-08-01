@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧普无线开关（双键）
 
-欧普 OPPLE | 2021/7/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.remote.5pb112/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.remote.5pb112&region=cn)
+欧普 OPPLE | 2021/7/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.remote.5pb112) | [说明书](https://home.mi.com/views/introduction.html?model=opple.remote.5pb112&region=cn)
 
 ![opple.remote.5pb112](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069629689hsGnjcK0.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZlQYGxPY6zNKluOJr94t1JpJAeY=)
 

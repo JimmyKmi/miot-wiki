@@ -9,7 +9,7 @@ description : ''
 ---
 # AIDESK
 
-其他品牌 | 2023/1/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jstar.desk.jcb36/) | [说明书](https://home.mi.com/views/introduction.html?model=jstar.desk.jcb36&region=cn)
+其他品牌 | 2023/1/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jstar.desk.jcb36) | [说明书](https://home.mi.com/views/introduction.html?model=jstar.desk.jcb36&region=cn)
 
 ![jstar.desk.jcb36](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/193e34cb2f60c402bd90acbe7883ea1a_1655894742423.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=kL9ogeFla4XsfKRdmLhWSL94f34=)
 

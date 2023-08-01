@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米人体传感器2
 
-小米/米家 | 2020/12/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.motion.bmgl01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.motion.bmgl01&region=cn)
+小米/米家 | 2020/12/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.motion.bmgl01) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.motion.bmgl01&region=cn)
 
 ![lumi.motion.bmgl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790733074588yVwADq2.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ka8nyrFdAqJcvSKX1krjeaMEPyk=)
 

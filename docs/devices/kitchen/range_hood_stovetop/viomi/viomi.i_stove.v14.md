@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI集成灶 Smart
 
-云米 Viomi | 2022/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.i_stove.v14/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.i_stove.v14&region=cn)
+云米 Viomi | 2022/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.i_stove.v14) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.i_stove.v14&region=cn)
 
 ![viomi.i_stove.v14](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5477aa4e23115f7ee31f66abaf9d9ff7_1661909767548.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GWtbCgirez+BcBhJ6Y3g3rtlZs4=)
 

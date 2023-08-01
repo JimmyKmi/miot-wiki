@@ -9,7 +9,7 @@ description : ''
 ---
 # 电小酷智能开关CS2（零火线双键版）
 
-Gosund / 电小酷 | 2022/6/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.cs2d/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.cs2d&region=cn)
+Gosund / 电小酷 | 2022/6/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.cs2d) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.cs2d&region=cn)
 
 ![cuco.switch.cs2d](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1616064954920APjXFk5U.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AR+GJ3/9YtR8g3mrOAKxK2iC/ts=)
 

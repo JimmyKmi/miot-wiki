@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能晾衣机
 
-小米/米家 | 2021/7/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyd.airer.znlyj4/) | [说明书](https://home.mi.com/views/introduction.html?model=hyd.airer.znlyj4&region=cn)
+小米/米家 | 2021/7/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyd.airer.znlyj4) | [说明书](https://home.mi.com/views/introduction.html?model=hyd.airer.znlyj4&region=cn)
 
 ![hyd.airer.znlyj4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069810294UlY5wV68.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=d/j9cKKeDzCiL4vLRx+dgnDXglI=)
 

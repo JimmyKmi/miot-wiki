@@ -9,7 +9,7 @@ description : ''
 ---
 # Hi+智能蒸汽眼罩
 
-其他品牌 | 2019/11/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=guoshi.other.sem01/) | [说明书](https://home.mi.com/views/introduction.html?model=guoshi.other.sem01&region=cn)
+其他品牌 | 2019/11/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=guoshi.other.sem01) | [说明书](https://home.mi.com/views/introduction.html?model=guoshi.other.sem01&region=cn)
 
 ![guoshi.other.sem01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047613916qSSQPKZY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=skjwss1b8m6KHKFlhhOYQpb5Bmo=)
 

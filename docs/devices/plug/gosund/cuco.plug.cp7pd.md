@@ -9,7 +9,7 @@ description : ''
 ---
 # 电小酷智能插座CP7Pro
 
-Gosund / 电小酷 | 2023/7/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp7pd/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp7pd&region=cn)
+Gosund / 电小酷 | 2023/7/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp7pd) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp7pd&region=cn)
 
 ![cuco.plug.cp7pd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/820fa96095365c05b88e1a21814857be_1686912430346.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CW3RLSHkEQSmko44bB0GVUD3lts=)
 

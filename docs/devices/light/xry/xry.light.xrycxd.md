@@ -9,7 +9,7 @@ description : ''
 ---
 # 星如雨智能灯
 
-星如雨 | 2022/12/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xry.light.xrycxd/) | [说明书](https://home.mi.com/views/introduction.html?model=xry.light.xrycxd&region=cn)
+星如雨 | 2022/12/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xry.light.xrycxd) | [说明书](https://home.mi.com/views/introduction.html?model=xry.light.xrycxd&region=cn)
 
 ![xry.light.xrycxd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7841b727e9ef62752b75abbad31c8b00_1670207179068.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=k1WpD8ca+UkZjkBGeZLujD4YfKs=)
 

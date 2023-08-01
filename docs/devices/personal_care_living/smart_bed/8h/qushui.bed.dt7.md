@@ -9,7 +9,7 @@ description : ''
 ---
 # 8H Feel 真皮智能悬浮电动床X+
 
-8H | 2023/7/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.bed.dt7/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.bed.dt7&region=cn)
+8H | 2023/7/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.bed.dt7) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.bed.dt7&region=cn)
 
 ![qushui.bed.dt7](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/43c3ca6dca8ba8cacb968fae43327206_1687845017381.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PMyHsmsUU9XvufB0F/NXPQzb94I=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 单火智能墙壁开关（MESH 双键）
 
-其他品牌 | 2022/12/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.wq4sb2/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.wq4sb2&region=cn)
+其他品牌 | 2022/12/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.wq4sb2) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.wq4sb2&region=cn)
 
 ![linp.switch.wq4sb2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b1357018d50210b2e26a68750e0e6d28_1668049555286.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=v1PLWvsAwYx1/bkHz+yiZxrs2Eg=)
 

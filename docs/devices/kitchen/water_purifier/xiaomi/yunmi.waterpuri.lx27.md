@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家净水器1000G
 
-小米/米家 | 2022/8/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx27/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx27&region=cn)
+小米/米家 | 2022/8/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx27) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx27&region=cn)
 
 ![yunmi.waterpuri.lx27](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/afd6e2ab4bfffe9e06e122288a0c87b3_1638866462532.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=i961YgdNOjiImk8BFWElL6SrjiM=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客全自动推拉门锁S30 Pro
 
-鹿客 Loock | 2022/10/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.s30/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.s30&region=cn)
+鹿客 Loock | 2022/10/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.s30) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.s30&region=cn)
 
 ![loock.lock.s30](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071135770WSq2Pe8N.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tPOIiZqNLChNN5dGd1zuVxmDIEk=)
 

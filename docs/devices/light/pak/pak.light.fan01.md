@@ -9,7 +9,7 @@ description : ''
 ---
 # 三雄智能风扇灯
 
-三雄极光 | 2023/3/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.fan01/) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.fan01&region=cn)
+三雄极光 | 2023/3/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.fan01) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.fan01&region=cn)
 
 ![pak.light.fan01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a3cdbd8a66d8be61a3d6e2974c0a19f9_1678262190587.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HnZAjXKICpRXBzz3lTq6tdiaQE0=)
 

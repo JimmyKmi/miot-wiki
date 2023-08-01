@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网洗烘机Master 2 智能投放 10kg
 
-云米 Viomi | 2021/4/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.v33/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.v33&region=cn)
+云米 Viomi | 2021/4/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.v33) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.v33&region=cn)
 
 ![viomi.washer.v33](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047840743Q6RY7g9V.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zA203ShwR0qkSLXVyzBHIiPpOSY=)
 

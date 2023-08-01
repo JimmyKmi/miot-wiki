@@ -9,7 +9,7 @@ description : ''
 ---
 # 叶绿体G1智能墙壁开关（零火线单键）
 
-叶绿体 | 2021/5/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhiqin.switch.mij04/) | [说明书](https://home.mi.com/views/introduction.html?model=zhiqin.switch.mij04&region=cn)
+叶绿体 | 2021/5/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhiqin.switch.mij04) | [说明书](https://home.mi.com/views/introduction.html?model=zhiqin.switch.mij04&region=cn)
 
 ![zhiqin.switch.mij04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/47c2eb83552906565306cc11add616ee_5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Nvshif4bO2b4EXXhBvNxl16rGHU=)
 

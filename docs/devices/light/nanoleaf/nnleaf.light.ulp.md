@@ -9,7 +9,7 @@ description : ''
 ---
 # Nanoleaf Shapes
 
-Nanoleaf | 2020/7/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nnleaf.light.ulp/) | [说明书](https://home.mi.com/views/introduction.html?model=nnleaf.light.ulp&region=cn)
+Nanoleaf | 2020/7/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nnleaf.light.ulp) | [说明书](https://home.mi.com/views/introduction.html?model=nnleaf.light.ulp&region=cn)
 
 ![nnleaf.light.ulp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1571221470003y5iUqEPV.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3cH1Jo9GBq9hxq9rJSMJJxXC+ks=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 吉舒智能颈椎按摩仪V1
 
-其他品牌 | 2021/3/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.js03/) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.js03&region=cn)
+其他品牌 | 2021/3/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.js03) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.js03&region=cn)
 
 ![jieman.magic_touch.js03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/901f0155727be73d67ead749d4fba1cf_微信图片_20210225145902.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jlN1OuA2sHjdhPmbGAe7J/avHH0=)
 

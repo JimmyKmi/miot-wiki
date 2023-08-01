@@ -9,7 +9,7 @@ description : ''
 ---
 # 康佳智能筋膜枪
 
-其他品牌 | 2023/6/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tstar.magic_touch.a8/) | [说明书](https://home.mi.com/views/introduction.html?model=tstar.magic_touch.a8&region=cn)
+其他品牌 | 2023/6/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tstar.magic_touch.a8) | [说明书](https://home.mi.com/views/introduction.html?model=tstar.magic_touch.a8&region=cn)
 
 ![tstar.magic_touch.a8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e6b891c22665414fa687de0b24107072_1683268739392.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vSSqkSBlwpeXgmR/660hLST9zwk=)
 

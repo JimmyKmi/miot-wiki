@@ -9,7 +9,7 @@ description : ''
 ---
 # 熠世华彩流光LED灯泡V1
 
-其他品牌 | 2021/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.light.qp350/) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.light.qp350&region=cn)
+其他品牌 | 2021/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.light.qp350) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.light.qp350&region=cn)
 
 ![daolai.light.qp350](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7236ecf4fc5c9cdab64cb7950eefad6c_168-彩色.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gK2tADhd4MitsnQxwYz7sVLjvZo=)
 

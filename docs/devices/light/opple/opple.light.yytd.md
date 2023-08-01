@@ -9,7 +9,7 @@ description : ''
 ---
 # OPPLE元悦2Pro台灯
 
-欧普 OPPLE | 2022/9/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.yytd/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.yytd&region=cn)
+欧普 OPPLE | 2022/9/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.yytd) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.yytd&region=cn)
 
 ![opple.light.yytd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e240a2d39a9df7453da723ceb954b4fc_1662016604400.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mtUAFrF6KMLv+ItlLnfhT2Of5lc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 秒秒测蓝牙电子体温计
 
-秒秒测 | 2020/9/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.thermo.t11/) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.thermo.t11&region=cn)
+秒秒测 | 2020/9/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.thermo.t11) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.thermo.t11&region=cn)
 
 ![miaomiaoce.thermo.t11](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071135840cxk80z7H.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=by/M0su+1IoHspOIcx6Qi5VzvcY=)
 

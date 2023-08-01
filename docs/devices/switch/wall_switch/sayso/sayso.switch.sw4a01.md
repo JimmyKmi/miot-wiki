@@ -9,7 +9,7 @@ description : ''
 ---
 # SAYSO智能开关（四键）
 
-sayso | 2023/6/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sayso.switch.sw4a01/) | [说明书](https://home.mi.com/views/introduction.html?model=sayso.switch.sw4a01&region=cn)
+sayso | 2023/6/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sayso.switch.sw4a01) | [说明书](https://home.mi.com/views/introduction.html?model=sayso.switch.sw4a01&region=cn)
 
 ![sayso.switch.sw4a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/042840cca6a015e263e0db88eda1c2e3_1684566290547.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KXH9O8tOjgxnRiGXtCeLwLbj7aA=)
 

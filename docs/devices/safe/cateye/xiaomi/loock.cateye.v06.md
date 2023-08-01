@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能猫眼1S
 
-小米/米家 | 2022/3/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.cateye.v06/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.cateye.v06&region=cn)
+小米/米家 | 2022/3/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.cateye.v06) | [说明书](https://home.mi.com/views/introduction.html?model=loock.cateye.v06&region=cn)
 
 ![loock.cateye.v06](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1589173338015GwXXz4S3.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=T7ARdvjSwyy2/cyJqwrhrJqs100=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米泉先AI 1秒即热净饮机X2 mini
 
-云米 Viomi | 2021/7/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.x11/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.x11&region=cn)
+云米 Viomi | 2021/7/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.x11) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.x11&region=cn)
 
 ![yunmi.waterpuri.x11](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047956236rxEzZJG4.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+/riL3Y23CZKoMs69BOaXATUb2U=)
 

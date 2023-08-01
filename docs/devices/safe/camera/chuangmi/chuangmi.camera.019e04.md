@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能摄像机A1母婴版
 
-创米小白 | 2020/3/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.019e04/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.019e04&region=cn)
+创米小白 | 2020/3/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.019e04) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.019e04&region=cn)
 
 ![chuangmi.camera.019e04](https://static.home.mi.com/app/image/get/file/developer_1582530812jyi6j4v5.png)
 

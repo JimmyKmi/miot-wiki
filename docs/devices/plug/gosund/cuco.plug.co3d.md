@@ -9,7 +9,7 @@ description : ''
 ---
 # gosund | 电小酷 CO3-M
 
-Gosund / 电小酷 | 2022/8/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.co3d/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.co3d&region=cn)
+Gosund / 电小酷 | 2022/8/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.co3d) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.co3d&region=cn)
 
 ![cuco.plug.co3d](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/79e8a5285f3c88319e3bb6309f737a5c_1649212589982.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jFRZOnHrhcx5smKT1keWnJskqUE=)
 

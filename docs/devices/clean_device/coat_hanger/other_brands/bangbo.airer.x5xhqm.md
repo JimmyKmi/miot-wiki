@@ -9,7 +9,7 @@ description : ''
 ---
 # 黑创智能晾衣机
 
-其他品牌 | 2020/12/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bangbo.airer.x5xhqm/) | [说明书](https://home.mi.com/views/introduction.html?model=bangbo.airer.x5xhqm&region=cn)
+其他品牌 | 2020/12/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bangbo.airer.x5xhqm) | [说明书](https://home.mi.com/views/introduction.html?model=bangbo.airer.x5xhqm&region=cn)
 
 ![bangbo.airer.x5xhqm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d64db876c716331fdd453044ab5c9d9f_黑创产品虚拟图168PX168PX.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oVKQ+UYwMnyLFVlvbxBY+Lj6X3w=)
 

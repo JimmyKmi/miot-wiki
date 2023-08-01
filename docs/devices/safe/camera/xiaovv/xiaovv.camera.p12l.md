@@ -9,7 +9,7 @@ description : ''
 ---
 # 户外云台摄像机 青春版
 
-xiaovv | 2022/9/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.p12l/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.p12l&region=cn)
+xiaovv | 2022/9/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.p12l) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.p12l&region=cn)
 
 ![xiaovv.camera.p12l](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b8e88f5bc5469924499ba91c54e84c32_1657246062799.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CwvQYuYKAdkdaua1mSqlqalDH8Y=)
 

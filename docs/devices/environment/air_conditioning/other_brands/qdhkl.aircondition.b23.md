@@ -9,7 +9,7 @@ description : ''
 ---
 # 空调室内机控制器
 
-其他品牌 | 2022/4/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.aircondition.b23/) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.aircondition.b23&region=cn)
+其他品牌 | 2022/4/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.aircondition.b23) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.aircondition.b23&region=cn)
 
 ![qdhkl.aircondition.b23](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/feb5f8b72e4ac466065b6f752df32b8e_1647574518325.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rVbjpAd925wpPv1IshwhiMCd06c=)
 

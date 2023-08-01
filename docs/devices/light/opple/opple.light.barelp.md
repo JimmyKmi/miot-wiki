@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧普智能灯板 Mode A
 
-欧普 OPPLE | 2021/1/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.barelp/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.barelp&region=cn)
+欧普 OPPLE | 2021/1/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.barelp) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.barelp&region=cn)
 
 ![opple.light.barelp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047807480St9IAuPD.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BH78ZTo/2l25Se0F/qbXgZ371ts=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云马智控智能马桶Pro版
 
-其他品牌 | 2023/7/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xox.toilet.ts/) | [说明书](https://home.mi.com/views/introduction.html?model=xox.toilet.ts&region=cn)
+其他品牌 | 2023/7/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xox.toilet.ts) | [说明书](https://home.mi.com/views/introduction.html?model=xox.toilet.ts&region=cn)
 
 ![xox.toilet.ts](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/683d1ba3dc8736d3aa511e1d007fc313_1685333625940.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Qij+HB6KMh/JwlwrXcilEgLuW50=)
 

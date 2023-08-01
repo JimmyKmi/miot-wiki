@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi路由器AX6
 
-红米 | 2020/8/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.ra69/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.ra69&region=cn)
+红米 | 2020/8/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.ra69) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.ra69&region=cn)
 
 ![xiaomi.router.ra69](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1594971685731YOKiTauD.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vmeMWyBNHgd5fz/+5SnOJBnks9o=)
 

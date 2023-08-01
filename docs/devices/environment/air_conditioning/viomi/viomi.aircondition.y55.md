@@ -9,7 +9,7 @@ description : ''
 ---
 # Navi 1P
 
-云米 Viomi | 2020/9/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y55/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y55&region=cn)
+云米 Viomi | 2020/9/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y55) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y55&region=cn)
 
 ![viomi.aircondition.y55](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_167904780592092w2v4EE.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vNIv6BHQKWbh7QKJQqe3cMUwtm4=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小寻儿童电脑
 
-米兔小寻 | 2018/4/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.robot.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.robot.v1&region=cn)
+米兔小寻 | 2018/4/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.robot.v1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.robot.v1&region=cn)
 
 ![xiaoxun.robot.v1](https://static.home.mi.com/app/image/get/file/developer_1519892199zi7yyuk1.png)
 

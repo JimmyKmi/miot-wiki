@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家落地扇
 
-小米/米家 | 2020/5/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.p8/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.p8&region=cn)
+小米/米家 | 2020/5/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.p8) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.p8&region=cn)
 
 ![dmaker.fan.p8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1572500258523bJVyETzm.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;amp;amp;amp;amp;amp;Expires=9223372036854775807&amp;amp;amp;amp;amp;amp;Signature=h+vjI2ZC25y7eHa3Ev7kFXWiqeQ=)
 

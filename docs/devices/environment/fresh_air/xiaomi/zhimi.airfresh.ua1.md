@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家新风机C1 80风量
 
-小米/米家 | 2020/8/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airfresh.ua1/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airfresh.ua1&region=cn)
+小米/米家 | 2020/8/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airfresh.ua1) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airfresh.ua1&region=cn)
 
 ![zhimi.airfresh.ua1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047688745FjL7rJba.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=IHg9pO0zmbmQng08XUjZjQ9oNH4=)
 

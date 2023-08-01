@@ -9,7 +9,7 @@ description : ''
 ---
 # 罗威亚红外人体移动传感器
 
-罗威亚 | 2022/6/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mirsz.motion.ir500/) | [说明书](https://home.mi.com/views/introduction.html?model=mirsz.motion.ir500&region=cn)
+罗威亚 | 2022/6/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mirsz.motion.ir500) | [说明书](https://home.mi.com/views/introduction.html?model=mirsz.motion.ir500&region=cn)
 
 ![mirsz.motion.ir500](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068029593E7R6eniL.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KfZToQxLr1AvuU3cXSZZuxw64cI=)
 

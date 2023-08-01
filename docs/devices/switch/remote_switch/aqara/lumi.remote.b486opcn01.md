@@ -9,7 +9,7 @@ description : ''
 ---
 # 无线场景开关(四键版)
 
-绿米 Aqara | 2019/12/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.remote.b486opcn01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.remote.b486opcn01&region=cn)
+绿米 Aqara | 2019/12/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.remote.b486opcn01) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.remote.b486opcn01&region=cn)
 
 ![lumi.remote.b486opcn01](https://static.home.mi.com/app/image/get/file/developer_1572353473d8qlbbn8.png)
 

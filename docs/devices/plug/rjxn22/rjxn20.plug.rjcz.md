@@ -9,7 +9,7 @@ description : ''
 ---
 # RJ智能蓝牙插座
 
-睿晶小智 | 2023/1/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.plug.rjcz/) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.plug.rjcz&region=cn)
+睿晶小智 | 2023/1/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.plug.rjcz) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.plug.rjcz&region=cn)
 
 ![rjxn20.plug.rjcz](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d5f87216dc01edbce83d8919b58d1b87_1667541436808.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PFY4ECDqwjCMtBUow4RsCk3NIAE=)
 

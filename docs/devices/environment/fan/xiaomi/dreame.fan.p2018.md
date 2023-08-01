@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能无叶净化扇
 
-小米/米家 | 2022/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.fan.p2018/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.fan.p2018&region=cn)
+小米/米家 | 2022/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.fan.p2018) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.fan.p2018&region=cn)
 
 ![dreame.fan.p2018](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047726070aP7kOTPi.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=p+CkisNoj76csOUMYxg23UP1rCU=)
 

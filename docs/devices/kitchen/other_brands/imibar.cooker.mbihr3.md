@@ -9,7 +9,7 @@ description : ''
 ---
 # 饭小二煮饭机器人
 
-其他品牌 | 2019/3/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=imibar.cooker.mbihr3/) | [说明书](https://home.mi.com/views/introduction.html?model=imibar.cooker.mbihr3&region=cn)
+其他品牌 | 2019/3/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=imibar.cooker.mbihr3) | [说明书](https://home.mi.com/views/introduction.html?model=imibar.cooker.mbihr3&region=cn)
 
 ![imibar.cooker.mbihr3](https://static.home.mi.com/app/image/get/file/developer_1548319403w6treqtr.png)
 

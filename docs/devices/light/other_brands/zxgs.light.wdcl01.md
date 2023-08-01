@@ -9,7 +9,7 @@ description : ''
 ---
 # WiFi双色情景灯
 
-其他品牌 | 2022/12/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zxgs.light.wdcl01/) | [说明书](https://home.mi.com/views/introduction.html?model=zxgs.light.wdcl01&region=cn)
+其他品牌 | 2022/12/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zxgs.light.wdcl01) | [说明书](https://home.mi.com/views/introduction.html?model=zxgs.light.wdcl01&region=cn)
 
 ![zxgs.light.wdcl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/24162ea6d90c6e851a50c0a6bd885699_1669692398428.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7qZnEPF5dA6jQij0hMl4bcLls/Q=)
 

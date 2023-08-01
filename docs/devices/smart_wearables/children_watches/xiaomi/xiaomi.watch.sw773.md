@@ -9,7 +9,7 @@ description : ''
 ---
 # 米兔儿童电话手表C7A
 
-小米/米家 | 2023/5/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.watch.sw773/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.watch.sw773&region=cn)
+小米/米家 | 2023/5/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.watch.sw773) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.watch.sw773&region=cn)
 
 ![xiaomi.watch.sw773](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/075e6ca30fdf9355ceaaecaf598f71d0_1675757736824.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=skGXOC/By7mFNzz37IndbN5R8Lc=)
 

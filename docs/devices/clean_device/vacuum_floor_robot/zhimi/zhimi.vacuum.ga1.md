@@ -9,7 +9,7 @@ description : ''
 ---
 # Lydsto惯导扫拖机器人G1
 
-智米 | 2022/4/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.vacuum.ga1/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.vacuum.ga1&region=cn)
+智米 | 2022/4/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.vacuum.ga1) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.vacuum.ga1&region=cn)
 
 ![zhimi.vacuum.ga1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/abdb350dcc3c5fa13e73af6e1418dc44_1645146681163.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=kvwy1uWoDDXgNOJ2Zwky0ObNn78=)
 

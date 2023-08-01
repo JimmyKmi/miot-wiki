@@ -9,7 +9,7 @@ description : ''
 ---
 # 小寻儿童电话手表A3
 
-米兔小寻 | 2019/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw306/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw306&region=cn)
+米兔小寻 | 2019/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw306) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw306&region=cn)
 
 ![xiaoxun.watch.sw306](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870987462NzKD2IPK.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Hoep7hKNPhN88HZnUi+pXrTKLKU=)
 

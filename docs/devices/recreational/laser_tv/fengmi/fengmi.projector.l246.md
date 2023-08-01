@@ -9,7 +9,7 @@ description : ''
 ---
 # C700 4K智能直投激光家庭影院
 
-峰米 Fengmi | 2019/7/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l246/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l246&region=cn)
+峰米 Fengmi | 2019/7/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l246) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l246&region=cn)
 
 ![fengmi.projector.l246](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16788709894525qam3ZSq.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QtMkywvAxxn8W9N+PLzCD12BpBc=)
 

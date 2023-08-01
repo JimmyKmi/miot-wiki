@@ -9,7 +9,7 @@ description : ''
 ---
 # 石头扫地机器人T7 Pro
 
-石头 Roborock | 2020/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.a09/) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.a09&region=cn)
+石头 Roborock | 2020/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.a09) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.a09&region=cn)
 
 ![roborock.vacuum.a09](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1589902373268MZr6oX0Q.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CSeQujty9ZVj2qOwyfIOx4ndMjo=)
 

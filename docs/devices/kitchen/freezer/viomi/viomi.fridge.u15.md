@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网冰箱iLive（法式 365L）
 
-云米 Viomi | 2019/7/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u15/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u15&region=cn)
+云米 Viomi | 2019/7/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u15) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u15&region=cn)
 
 ![viomi.fridge.u15](https://static.home.mi.com/app/image/get/file/developer_15560975542skmpq2w.png)
 

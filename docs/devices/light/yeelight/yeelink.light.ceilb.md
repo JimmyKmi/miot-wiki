@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight Arwen 吸顶灯450S/550S
 
-易来 Yeelight | 2021/7/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceilb/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceilb&region=cn)
+易来 Yeelight | 2021/7/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceilb) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceilb&region=cn)
 
 ![yeelink.light.ceilb](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047767223IQDJDfT2.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VS5zt+OQraOzhp3m7HeRlSny7Ms=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米无线开关（双键版）
 
-小米/米家 | 2022/3/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.remote.contrl/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.remote.contrl&region=cn)
+小米/米家 | 2022/3/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.remote.contrl) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.remote.contrl&region=cn)
 
 ![yeelink.remote.contrl](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068029303VAoucZrY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=v8fZQR/RYAlbf0+Texeb9kZyMoE=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # SmartJoy智臻墙壁开关（零火四键蓝牙Mesh版）
 
-智臻 SmartJoy | 2022/2/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.switch.sjlh4s/) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.switch.sjlh4s&region=cn)
+智臻 SmartJoy | 2022/2/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.switch.sjlh4s) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.switch.sjlh4s&region=cn)
 
 ![smartj.switch.sjlh4s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e40883c8cf9ac93f97767e2558c8c6e3_1639172002258.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jErb3bgw+CfLIypzUyjilyDPgC8=)
 

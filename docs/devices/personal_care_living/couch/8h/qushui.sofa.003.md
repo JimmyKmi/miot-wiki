@@ -9,7 +9,7 @@ description : ''
 ---
 # 8H COZY智能按摩沙发
 
-8H | 2021/11/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.sofa.003/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.sofa.003&region=cn)
+8H | 2021/11/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.sofa.003) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.sofa.003&region=cn)
 
 ![qushui.sofa.003](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/aec7e67c2a4fb44c7d7497a54cd3c8f2_1632713354799.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TxnEP71c03sStkiCZ7swi2Jh5eY=)
 

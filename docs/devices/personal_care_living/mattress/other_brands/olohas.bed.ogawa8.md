@@ -9,7 +9,7 @@ description : ''
 ---
 # N次方护脊床垫
 
-其他品牌 | 2022/8/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=olohas.bed.ogawa8/) | [说明书](https://home.mi.com/views/introduction.html?model=olohas.bed.ogawa8&region=cn)
+其他品牌 | 2022/8/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=olohas.bed.ogawa8) | [说明书](https://home.mi.com/views/introduction.html?model=olohas.bed.ogawa8&region=cn)
 
 ![olohas.bed.ogawa8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/46ae4450cecfefd04a6e3022bcf4cd56_1655173686957.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rCTThpluBSczf8UjFBWt9I8Bf6Q=)
 

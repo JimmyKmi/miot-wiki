@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普墙壁开关（双键）
 
-领普 | 2020/1/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.q32/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.q32&region=cn)
+领普 | 2020/1/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.q32) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.q32&region=cn)
 
 ![linp.switch.q32](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047655104JtYgPIya.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1t4BiqZlExjoGBOb//+jH0Er5f0=)
 

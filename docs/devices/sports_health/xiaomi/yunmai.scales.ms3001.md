@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米八电极体脂秤
 
-小米/米家 | 2022/9/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmai.scales.ms3001/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmai.scales.ms3001&region=cn)
+小米/米家 | 2022/9/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmai.scales.ms3001) | [说明书](https://home.mi.com/views/introduction.html?model=yunmai.scales.ms3001&region=cn)
 
 ![yunmai.scales.ms3001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4d8ef4e6962243e5577eebab7d7f8b02_1654512239541.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9O4xeiGYJfzqMa/VfdARgAS8MB4=)
 

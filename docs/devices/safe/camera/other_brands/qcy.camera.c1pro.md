@@ -9,7 +9,7 @@ description : ''
 ---
 # QCY智能摄像机CC1S
 
-其他品牌 | 2021/4/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qcy.camera.c1pro/) | [说明书](https://home.mi.com/views/introduction.html?model=qcy.camera.c1pro&region=cn)
+其他品牌 | 2021/4/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qcy.camera.c1pro) | [说明书](https://home.mi.com/views/introduction.html?model=qcy.camera.c1pro&region=cn)
 
 ![qcy.camera.c1pro](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1628596283755fRuX8gDu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=V9AGXYikmwChOntG2nsddN0DZOY=)
 

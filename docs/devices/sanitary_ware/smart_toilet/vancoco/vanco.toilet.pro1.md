@@ -9,7 +9,7 @@ description : ''
 ---
 # Vancoco智能马桶一体机星月Pro
 
-Vancoco | 2021/8/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=vanco.toilet.pro1/) | [说明书](https://home.mi.com/views/introduction.html?model=vanco.toilet.pro1&region=cn)
+Vancoco | 2021/8/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=vanco.toilet.pro1) | [说明书](https://home.mi.com/views/introduction.html?model=vanco.toilet.pro1&region=cn)
 
 ![vanco.toilet.pro1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048030236ScrXC8rX.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=O8Q1ZNh2BtSgOvglPBK3EMV6KCM=)
 

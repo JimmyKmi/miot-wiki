@@ -9,7 +9,7 @@ description : ''
 ---
 # 石头扫地机器人P5
 
-石头 Roborock | 2019/9/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.p5/) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.p5&region=cn)
+石头 Roborock | 2019/9/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.p5) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.p5&region=cn)
 
 ![roborock.vacuum.p5](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1568787542936vy6maXYm.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NWPZ3PlcXRd2YLg7LHCR7gFiimE=)
 

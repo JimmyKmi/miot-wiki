@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡唛指纹保管箱
 
-卡唛 | 2019/8/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.ms30b/) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.ms30b&region=cn)
+卡唛 | 2019/8/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.ms30b) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.ms30b&region=cn)
 
 ![lcrmcr.safe.ms30b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047614672sQyKbvCp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AEOndqoCPAMzfocsBshH5b8HVp0=)
 

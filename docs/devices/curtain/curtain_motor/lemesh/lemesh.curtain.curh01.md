@@ -9,7 +9,7 @@ description : ''
 ---
 # HT智能窗帘电机(Mesh版)
 
-情景mesh芯片 | 2023/3/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.curtain.curh01/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.curtain.curh01&region=cn)
+情景mesh芯片 | 2023/3/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.curtain.curh01) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.curtain.curh01&region=cn)
 
 ![lemesh.curtain.curh01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5338aa8e9b32d9a573ebab65ed3afab5_1677306845653.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Hm+qeybeenoyFFv1q42mqYiKHec=)
 

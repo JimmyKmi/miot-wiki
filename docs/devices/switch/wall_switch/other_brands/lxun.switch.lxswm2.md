@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能开关-二键mesh版
 
-其他品牌 | 2022/8/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.switch.lxswm2/) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.switch.lxswm2&region=cn)
+其他品牌 | 2022/8/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.switch.lxswm2) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.switch.lxswm2&region=cn)
 
 ![lxun.switch.lxswm2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d0bb9af92dde724dcace2294fda37769_1660813073896.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=lIl/4Sm2I8Pj/s5bAfc1ds0e+S0=)
 

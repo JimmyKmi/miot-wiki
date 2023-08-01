@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara智能卷帘伴侣 E1
 
-绿米 Aqara | 2021/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.acn002/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.acn002&region=cn)
+绿米 Aqara | 2021/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.acn002) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.acn002&region=cn)
 
 ![lumi.curtain.acn002](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/51f5c4a7a183e3fea5c601960eb1c39c_lumi.curtain.acn002.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Hpz6M48bLe3AxGTRh9QWLQ00nDE=)
 

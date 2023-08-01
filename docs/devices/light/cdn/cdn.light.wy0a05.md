@@ -9,7 +9,7 @@ description : ''
 ---
 # 西顿双色灯带
 
-西顿 Cdn | 2022/4/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.light.wy0a05/) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.light.wy0a05&region=cn)
+西顿 Cdn | 2022/4/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.light.wy0a05) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.light.wy0a05&region=cn)
 
 ![cdn.light.wy0a05](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cd476afaebb20e1e753daf8f8f807c38_1646705047145.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=t0/iBFSdMIpvtMDqCsLHQcoqgBA=)
 

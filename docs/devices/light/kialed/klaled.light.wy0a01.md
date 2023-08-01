@@ -9,7 +9,7 @@ description : ''
 ---
 # 琪朗ALED自然光谱灯
 
-琪朗 | 2023/4/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=klaled.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=klaled.light.wy0a01&region=cn)
+琪朗 | 2023/4/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=klaled.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=klaled.light.wy0a01&region=cn)
 
 ![klaled.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5a271f7966172dd6bb5e6ef853895fa5_1679648009575.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hv+Z8mfwM1wYLf6hF6RZiMlRhr0=)
 

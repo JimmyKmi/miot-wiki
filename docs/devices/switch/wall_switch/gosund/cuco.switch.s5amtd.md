@@ -9,7 +9,7 @@ description : ''
 ---
 # 电小酷智能开关S5AM(单火线双键版)
 
-Gosund / 电小酷 | 2022/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.s5amtd/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.s5amtd&region=cn)
+Gosund / 电小酷 | 2022/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.s5amtd) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.s5amtd&region=cn)
 
 ![cuco.switch.s5amtd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ea3f52734110407e37e242f62d36e469_1625132985734.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=c0bsmNasMdzeb6TpCh/AkGsjvYA=)
 

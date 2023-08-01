@@ -9,7 +9,7 @@ description : ''
 ---
 # 单音源音乐
 
-向往 | 2022/9/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hope.wifispeaker.4plus/) | [说明书](https://home.mi.com/views/introduction.html?model=hope.wifispeaker.4plus&region=cn)
+向往 | 2022/9/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hope.wifispeaker.4plus) | [说明书](https://home.mi.com/views/introduction.html?model=hope.wifispeaker.4plus&region=cn)
 
 ![hope.wifispeaker.4plus](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ec55ca7f764c628d130596218330bfe0_1652253472461.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+aZJNfhIDt5G1xhzDGApxlcQOSk=)
 

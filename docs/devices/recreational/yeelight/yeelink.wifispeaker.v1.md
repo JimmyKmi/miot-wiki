@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight语音助手
 
-易来 Yeelight | 2018/1/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.wifispeaker.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.wifispeaker.v1&region=cn)
+易来 Yeelight | 2018/1/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.wifispeaker.v1) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.wifispeaker.v1&region=cn)
 
 ![yeelink.wifispeaker.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069107553kw4SueKG.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qKTxFP5JtIkKkw30DEf5naNUa+c=)
 

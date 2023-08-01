@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡瑞琪ProS2智能晾衣架
 
-COURAGE卡瑞琪 | 2022/9/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yszn01.airer.krq02/) | [说明书](https://home.mi.com/views/introduction.html?model=yszn01.airer.krq02&region=cn)
+COURAGE卡瑞琪 | 2022/9/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yszn01.airer.krq02) | [说明书](https://home.mi.com/views/introduction.html?model=yszn01.airer.krq02&region=cn)
 
 ![yszn01.airer.krq02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8ce007f614c2faf268db07b27913aa07_1659575199676.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=u3Ag8LVdeVHQ+hxrNLRdpl5z9/s=)
 

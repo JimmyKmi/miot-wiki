@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家台式净饮机 冷热版
 
-小米/米家 | 2022/3/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ysj.tsj7/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ysj.tsj7&region=cn)
+小米/米家 | 2022/3/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ysj.tsj7) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ysj.tsj7&region=cn)
 
 ![chunmi.ysj.tsj7](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/88126f4bd1731ff181e11921f610d554_1632898721438.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gxegjkIy4erhxGNnDWg2PpBFt7A=)
 

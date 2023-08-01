@@ -9,7 +9,7 @@ description : ''
 ---
 # 华来小方智能摄像机（双摄版）
 
-华来小方 | 2018/6/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.qf3/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.qf3&region=cn)
+华来小方 | 2018/6/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.qf3) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.qf3&region=cn)
 
 ![isa.camera.qf3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069106463y33t5Kdk.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NvcnOdpcVhgzDzAEwmueuepJ8rE=)
 

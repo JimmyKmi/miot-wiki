@@ -9,7 +9,7 @@ description : ''
 ---
 # 三雄极光智能照明吸顶灯
 
-三雄极光 | 2021/10/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.pak007/) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.pak007&region=cn)
+三雄极光 | 2021/10/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.pak007) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.pak007&region=cn)
 
 ![pak.light.pak007](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f7da042e40b704a741ab0f599a8474bf_1631605464965.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=JsRzz7DtOs+8j87a1bZ3kHCqLfo=)
 

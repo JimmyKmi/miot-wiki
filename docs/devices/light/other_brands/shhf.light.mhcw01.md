@@ -9,7 +9,7 @@ description : ''
 ---
 # 智美智能吸顶灯
 
-其他品牌 | 2022/3/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shhf.light.mhcw01/) | [说明书](https://home.mi.com/views/introduction.html?model=shhf.light.mhcw01&region=cn)
+其他品牌 | 2022/3/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shhf.light.mhcw01) | [说明书](https://home.mi.com/views/introduction.html?model=shhf.light.mhcw01&region=cn)
 
 ![shhf.light.mhcw01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047957456QZ5aa0UW.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0xshBeuKCcybWq84IY6Wp8EFwuc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 居意电动窗帘
 
-居意 | 2019/3/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.curtain.syc1/) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.curtain.syc1&region=cn)
+居意 | 2019/3/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.curtain.syc1) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.curtain.syc1&region=cn)
 
 ![syniot.curtain.syc1](https://static.home.mi.com/app/image/get/file/developer_1550131601p4mek0pb.png)
 

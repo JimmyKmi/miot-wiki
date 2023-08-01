@@ -9,7 +9,7 @@ description : ''
 ---
 # RJ智能灯带
 
-睿晶小智 | 2023/5/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.rjxndd/) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.rjxndd&region=cn)
+睿晶小智 | 2023/5/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.rjxndd) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.rjxndd&region=cn)
 
 ![rjxn20.light.rjxndd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4e2e62870da3882aa14675cac759ca83_1666771724131.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=X6PAzUCzcX6Zq8D2T4d9tA0DYvM=)
 

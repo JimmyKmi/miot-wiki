@@ -9,7 +9,7 @@ description : ''
 ---
 # 石头扫地机器人T6
 
-石头 Roborock | 2019/3/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.t6/) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.t6&region=cn)
+石头 Roborock | 2019/3/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.t6) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.t6&region=cn)
 
 ![roborock.vacuum.t6](https://static.home.mi.com/app/image/get/file/developer_1546570958h9gj4knc.png)
 

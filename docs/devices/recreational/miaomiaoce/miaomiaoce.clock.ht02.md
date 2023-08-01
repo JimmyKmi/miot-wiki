@@ -9,7 +9,7 @@ description : ''
 ---
 # 秒秒测温湿智能时钟
 
-秒秒测 | 2020/6/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.clock.ht02/) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.clock.ht02&region=cn)
+秒秒测 | 2020/6/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.clock.ht02) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.clock.ht02&region=cn)
 
 ![miaomiaoce.clock.ht02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070102802eTbRopga.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/pDzo2htRKLcaf1Up6bWo7nLdNs=)
 

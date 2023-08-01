@@ -9,7 +9,7 @@ description : ''
 ---
 # 希尔顿智能LED吸顶灯
 
-其他品牌 | 2023/2/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.light.h60301/) | [说明书](https://home.mi.com/views/introduction.html?model=giot.light.h60301&region=cn)
+其他品牌 | 2023/2/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.light.h60301) | [说明书](https://home.mi.com/views/introduction.html?model=giot.light.h60301&region=cn)
 
 ![giot.light.h60301](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/02636ebbb2db542c78380b58545fc036_1659347762015.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LvJphuC8XB7HipA9ncscW9W3PFo=)
 

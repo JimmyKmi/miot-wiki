@@ -9,7 +9,7 @@ description : ''
 ---
 # RJ智能四键开关Mesh版
 
-睿晶小智 | 2023/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.switch.rixmlk/) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.switch.rixmlk&region=cn)
+睿晶小智 | 2023/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.switch.rixmlk) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.switch.rixmlk&region=cn)
 
 ![rjxn20.switch.rixmlk](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7d3d321affb8997e829d79e71996a059_1680519740353.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2Sn1WC1qyzhXT5ADr+y9qfyjOlA=)
 

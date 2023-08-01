@@ -9,7 +9,7 @@ description : ''
 ---
 # 调光磁吸灯
 
-Topwit | 2022/9/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.cw03/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.cw03&region=cn)
+Topwit | 2022/9/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.cw03) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.cw03&region=cn)
 
 ![topwit.light.cw03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/95b323aa47630cc63107f5d350352bf4_1662948587481.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4Qyzy15JNIsV64I4tKSx3nxW69Y=)
 

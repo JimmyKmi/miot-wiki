@@ -9,7 +9,7 @@ description : ''
 ---
 # 美的红外贴
 
-小米/米家 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sensor_ir.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sensor_ir.v1&region=cn)
+小米/米家 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sensor_ir.v1) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sensor_ir.v1&region=cn)
 
 ![lumi.sensor_ir.v1](https://cdn.cnbj0.fds.api.mi-img.com/miio_user_head/gswgj9xe_1434007363.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI油烟机 Flash2(VK711)
 
-云米 Viomi | 2021/6/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.c13/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.c13&region=cn)
+云米 Viomi | 2021/6/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.c13) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.c13&region=cn)
 
 ![viomi.hood.c13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048996783IfpJIFom.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1QY2Vrru9Pwa1a6lduWJQjLtZi0=)
 

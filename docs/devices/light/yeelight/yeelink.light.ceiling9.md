@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 皓石LED吸顶灯 Pro
 
-易来 Yeelight | 2019/3/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling9/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling9&region=cn)
+易来 Yeelight | 2019/3/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling9) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling9&region=cn)
 
 ![yeelink.light.ceiling9](https://static.home.mi.com/app/image/get/file/developer_15233531497uxs6o06.png)
 

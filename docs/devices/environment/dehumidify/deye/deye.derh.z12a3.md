@@ -9,7 +9,7 @@ description : ''
 ---
 # 德业除湿机DYD-Z12A3
 
-德业 | 2020/7/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=deye.derh.z12a3/) | [说明书](https://home.mi.com/views/introduction.html?model=deye.derh.z12a3&region=cn)
+德业 | 2020/7/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=deye.derh.z12a3) | [说明书](https://home.mi.com/views/introduction.html?model=deye.derh.z12a3&region=cn)
 
 ![deye.derh.z12a3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1585791956966yhEv2BHg.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Rk8ChN8H+LbPcGlBR4ag9IRAfJ4=)
 

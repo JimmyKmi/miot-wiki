@@ -9,7 +9,7 @@ description : ''
 ---
 # OPPLE 智能风扇灯
 
-欧普 OPPLE | 2019/10/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.fanlight/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.fanlight&region=cn)
+欧普 OPPLE | 2019/10/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.fanlight) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.fanlight&region=cn)
 
 ![opple.light.fanlight](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1566441982730OeL1pm1f.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;amp;amp;Expires=9223372036854775807&amp;amp;amp;Signature=8D6AMp3ogPdBXikL6/IiTxE19bI=)
 

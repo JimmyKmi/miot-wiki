@@ -9,7 +9,7 @@ description : ''
 ---
 # 宜家 E27 暖白灯
 
-宜家 Ikea | 2019/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ikea.light.led1623g12/) | [说明书](https://home.mi.com/views/introduction.html?model=ikea.light.led1623g12&region=cn)
+宜家 Ikea | 2019/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ikea.light.led1623g12) | [说明书](https://home.mi.com/views/introduction.html?model=ikea.light.led1623g12&region=cn)
 
 ![ikea.light.led1623g12](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16788709876736fQNJFna.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ox7n0jf9kR2wcaNAHt1dsYasEuc=)
 

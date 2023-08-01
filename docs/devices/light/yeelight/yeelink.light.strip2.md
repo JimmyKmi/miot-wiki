@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight彩光灯带（延长版）
 
-易来 Yeelight | 2018/7/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.strip2/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.strip2&region=cn)
+易来 Yeelight | 2018/7/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.strip2) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.strip2&region=cn)
 
 ![yeelink.light.strip2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790691074611psXbRiS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AhuPQn4gBfrlPmKqKl4NqbnQSLs=)
 

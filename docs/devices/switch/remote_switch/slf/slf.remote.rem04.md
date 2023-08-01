@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐四键零火场景开关（HR7）
 
-智拉斐 | 2022/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.remote.rem04/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.remote.rem04&region=cn)
+智拉斐 | 2022/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.remote.rem04) | [说明书](https://home.mi.com/views/introduction.html?model=slf.remote.rem04&region=cn)
 
 ![slf.remote.rem04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3fc12b8badab0e3744f20c486e9e3edd_1642418097847.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hjAGVuRETI1EwW9jB8kGfRzGyeA=)
 

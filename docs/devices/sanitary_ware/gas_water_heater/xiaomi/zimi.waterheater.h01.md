@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能零冷水燃气热水器16L S1
 
-小米/米家 | 2023/2/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.waterheater.h01/) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.waterheater.h01&region=cn)
+小米/米家 | 2023/2/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.waterheater.h01) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.waterheater.h01&region=cn)
 
 ![zimi.waterheater.h01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ccbff19cd1b71f2046673467dbfc7351_1660181799318.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VElX7YDT2Db8qsWZwf9a2emzeOA=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能摄像机 云台版Y2
 
-创米小白 | 2020/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.036a02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.036a02&region=cn)
+创米小白 | 2020/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.036a02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.036a02&region=cn)
 
 ![chuangmi.camera.036a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1637311093100sHGvNg3Y.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CU82l8/Frq8fXacQDtx0iRFWpEk=)
 

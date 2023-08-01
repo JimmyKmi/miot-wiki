@@ -9,7 +9,7 @@ description : ''
 ---
 # 圈厨Z90智开油烟机
 
-圈厨 | 2020/1/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xckj.hood.z9001/) | [说明书](https://home.mi.com/views/introduction.html?model=xckj.hood.z9001&region=cn)
+圈厨 | 2020/1/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xckj.hood.z9001) | [说明书](https://home.mi.com/views/introduction.html?model=xckj.hood.z9001&region=cn)
 
 ![xckj.hood.z9001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1567589712354sa1hxvBL.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;amp;amp;Expires=9223372036854775807&amp;amp;amp;Signature=nZariHdzynnO+8LPXKFSXRNagjU=)
 

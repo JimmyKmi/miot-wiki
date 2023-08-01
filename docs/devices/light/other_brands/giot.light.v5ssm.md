@@ -9,7 +9,7 @@ description : ''
 ---
 # V5智能色温灯（Mesh）
 
-其他品牌 | 2023/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.light.v5ssm/) | [说明书](https://home.mi.com/views/introduction.html?model=giot.light.v5ssm&region=cn)
+其他品牌 | 2023/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.light.v5ssm) | [说明书](https://home.mi.com/views/introduction.html?model=giot.light.v5ssm&region=cn)
 
 ![giot.light.v5ssm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a1f68e1819d0323d6ac0478374600116_1658387460362.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=loX8Bk+IT0O7rSfj09GBTkYzaOM=)
 

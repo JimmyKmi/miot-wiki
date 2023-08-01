@@ -9,7 +9,7 @@ description : ''
 ---
 # TCL现代家居吸顶灯
 
-TCL | 2020/11/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tcll.light.xl6602/) | [说明书](https://home.mi.com/views/introduction.html?model=tcll.light.xl6602&region=cn)
+TCL | 2020/11/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tcll.light.xl6602) | [说明书](https://home.mi.com/views/introduction.html?model=tcll.light.xl6602&region=cn)
 
 ![tcll.light.xl6602](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/aad2f625de8a870684718c7b1841862c_图片2.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Fpa2yychec9tv1f2pMgwWsv/XDQ=)
 

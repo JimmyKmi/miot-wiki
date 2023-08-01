@@ -9,7 +9,7 @@ description : ''
 ---
 # 大未LDS扫拖一体机器人 — Finder
 
-其他品牌 | 2020/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.p2036/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.p2036&region=cn)
+其他品牌 | 2020/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.p2036) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.p2036&region=cn)
 
 ![dreame.vacuum.p2036](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15997915709249K6pXFYs.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wUs+ZAZNBOPjMRPnvFE3ljJ0BMM=)
 

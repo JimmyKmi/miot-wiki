@@ -9,7 +9,7 @@ description : ''
 ---
 # 邦先生智能晾衣机LDAH
 
-邦先生 | 2021/10/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.airer.m53cpr/) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.airer.m53cpr&region=cn)
+邦先生 | 2021/10/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.airer.m53cpr) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.airer.m53cpr&region=cn)
 
 ![mrbond.airer.m53cpr](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9e91b1c899449ab55289db07d85bd53a_1631848876200.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=p1OfRAQWgrdYEQ3D3zifv0fnF5M=)
 

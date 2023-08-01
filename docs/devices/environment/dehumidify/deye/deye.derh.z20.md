@@ -9,7 +9,7 @@ description : ''
 ---
 # 德业除湿机DYD-Z20B3
 
-德业 | 2022/12/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=deye.derh.z20/) | [说明书](https://home.mi.com/views/introduction.html?model=deye.derh.z20&region=cn)
+德业 | 2022/12/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=deye.derh.z20) | [说明书](https://home.mi.com/views/introduction.html?model=deye.derh.z20&region=cn)
 
 ![deye.derh.z20](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2d8f0ed950b265ed38ee6acb8ec15975_1668579088760.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Xm0D7xQHBTSanF6gorD0qZfbo00=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 旋风循环扇
 
-其他品牌 | 2023/4/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yoda.fan.m55/) | [说明书](https://home.mi.com/views/introduction.html?model=yoda.fan.m55&region=cn)
+其他品牌 | 2023/4/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yoda.fan.m55) | [说明书](https://home.mi.com/views/introduction.html?model=yoda.fan.m55&region=cn)
 
 ![yoda.fan.m55](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5f524ddc2681bae9ed128cdb4bfaaa01_1679629711731.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CwSDMxgVFYlwjiESeGRLTfcnYfo=)
 

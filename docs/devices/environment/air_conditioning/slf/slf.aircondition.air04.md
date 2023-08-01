@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐旋钮空调温控器（HR7）
 
-智拉斐 | 2022/4/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.aircondition.air04/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.aircondition.air04&region=cn)
+智拉斐 | 2022/4/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.aircondition.air04) | [说明书](https://home.mi.com/views/introduction.html?model=slf.aircondition.air04&region=cn)
 
 ![slf.aircondition.air04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/be47b7d8b8349ea0fed8ed904c469630_1650871228413.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/pv2bG7J6mG8YJ321IutnePHULI=)
 

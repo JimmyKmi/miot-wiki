@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能摄像机青春版
 
-创米小白 | 2019/10/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.ipc019b/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.ipc019b&region=cn)
+创米小白 | 2019/10/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.ipc019b) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.ipc019b&region=cn)
 
 ![chuangmi.camera.ipc019b](https://static.home.mi.com/app/image/get/file/developer_15339668551ypwow2p.png)
 

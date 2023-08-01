@@ -9,7 +9,7 @@ description : ''
 ---
 # 米智能·电动晾衣机
 
-其他品牌 | 2020/8/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kejia.airer.mzn/) | [说明书](https://home.mi.com/views/introduction.html?model=kejia.airer.mzn&region=cn)
+其他品牌 | 2020/8/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kejia.airer.mzn) | [说明书](https://home.mi.com/views/introduction.html?model=kejia.airer.mzn&region=cn)
 
 ![kejia.airer.mzn](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1591447538650DuaM5OlO.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cfD2Qk+X54ZmbPvE7bvQTVOeh4Q=)
 

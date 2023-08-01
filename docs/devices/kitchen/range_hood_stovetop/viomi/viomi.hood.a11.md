@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网侧吸油烟机
 
-云米 Viomi | 2020/5/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.a11/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.a11&region=cn)
+云米 Viomi | 2020/5/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.a11) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.a11&region=cn)
 
 ![viomi.hood.a11](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16788710379558MoFilyN.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BJ8UTleLTFBFEsptZ7yMieHjA5M=)
 

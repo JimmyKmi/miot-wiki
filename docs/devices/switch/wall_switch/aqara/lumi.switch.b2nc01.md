@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara 智能墙壁开关 E1（零火线双键版）
 
-绿米 Aqara | 2021/5/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.b2nc01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.b2nc01&region=cn)
+绿米 Aqara | 2021/5/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.b2nc01) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.b2nc01&region=cn)
 
 ![lumi.switch.b2nc01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048995695OTizaBPR.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SNbufBcKd4h29S0J8FPvmqE3Sfg=)
 

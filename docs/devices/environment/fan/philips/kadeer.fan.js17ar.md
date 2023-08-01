@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦加湿风扇ACR5144CX
 
-飞利浦 | 2023/5/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.js17ar/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.js17ar&region=cn)
+飞利浦 | 2023/5/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.js17ar) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.js17ar&region=cn)
 
 ![kadeer.fan.js17ar](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5e8f99bc1a066e95e43d69196fc5e7fb_1675153087376.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xAgZz3UggaQnEIscCCegupJDhcI=)
 

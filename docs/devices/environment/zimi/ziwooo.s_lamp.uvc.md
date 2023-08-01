@@ -9,7 +9,7 @@ description : ''
 ---
 # 紫物智能消毒杀菌灯Pro
 
-紫物 | 2020/9/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ziwooo.s_lamp.uvc/) | [说明书](https://home.mi.com/views/introduction.html?model=ziwooo.s_lamp.uvc&region=cn)
+紫物 | 2020/9/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ziwooo.s_lamp.uvc) | [说明书](https://home.mi.com/views/introduction.html?model=ziwooo.s_lamp.uvc&region=cn)
 
 ![ziwooo.s_lamp.uvc](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048480649X647kxtD.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9XhMhcbIlCVqvq+OfVR6V/xVSfU=)
 

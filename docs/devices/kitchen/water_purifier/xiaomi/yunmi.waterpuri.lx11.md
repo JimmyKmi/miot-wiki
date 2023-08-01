@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米净水器C1（三出水）
 
-小米/米家 | 2019/9/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx11/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx11&region=cn)
+小米/米家 | 2019/9/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx11) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx11&region=cn)
 
 ![yunmi.waterpuri.lx11](https://static.home.mi.com/app/image/get/file/developer_15616175311vznas01.png)
 

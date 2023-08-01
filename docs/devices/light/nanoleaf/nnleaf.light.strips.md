@@ -9,7 +9,7 @@ description : ''
 ---
 # Nanoleaf智能灯带
 
-Nanoleaf | 2020/12/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nnleaf.light.strips/) | [说明书](https://home.mi.com/views/introduction.html?model=nnleaf.light.strips&region=cn)
+Nanoleaf | 2020/12/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nnleaf.light.strips) | [说明书](https://home.mi.com/views/introduction.html?model=nnleaf.light.strips&region=cn)
 
 ![nnleaf.light.strips](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1602842603272UxA3t2ex.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=eqslr+gMuKaSyM04QcbNHYgmwPQ=)
 

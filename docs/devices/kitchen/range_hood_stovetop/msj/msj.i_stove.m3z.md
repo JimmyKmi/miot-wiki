@@ -9,7 +9,7 @@ description : ''
 ---
 # 美仕杰集成灶魔方款蒸烤
 
-美高 | 2022/10/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.i_stove.m3z/) | [说明书](https://home.mi.com/views/introduction.html?model=msj.i_stove.m3z&region=cn)
+美高 | 2022/10/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.i_stove.m3z) | [说明书](https://home.mi.com/views/introduction.html?model=msj.i_stove.m3z&region=cn)
 
 ![msj.i_stove.m3z](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1665561430073lh6wqPwA.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jxxAm9YaFr/Mid50dk/j7BMgM68=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能猫眼
 
-创米小白 | 2019/12/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.cateye.ipc018/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.cateye.ipc018&region=cn)
+创米小白 | 2019/12/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.cateye.ipc018) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.cateye.ipc018&region=cn)
 
 ![chuangmi.cateye.ipc018](https://static.home.mi.com/app/image/get/file/developer_15611169262y1ximpq.png)
 

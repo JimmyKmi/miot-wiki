@@ -9,7 +9,7 @@ description : ''
 ---
 # NOC LOC 智能办公升降桌
 
-其他品牌 | 2021/4/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xlang.desk.vlocv2/) | [说明书](https://home.mi.com/views/introduction.html?model=xlang.desk.vlocv2&region=cn)
+其他品牌 | 2021/4/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xlang.desk.vlocv2) | [说明书](https://home.mi.com/views/introduction.html?model=xlang.desk.vlocv2&region=cn)
 
 ![xlang.desk.vlocv2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fdecb09431f58cc5ce74204f5169eca2_产品logo168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fl0bKvCXBbGXbAzOUDUQXvE+FEs=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund 30W GaN智能排插WP12
 
-Gosund / 电小酷 | 2023/6/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.wp12/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.wp12&region=cn)
+Gosund / 电小酷 | 2023/6/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.wp12) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.wp12&region=cn)
 
 ![cuco.plug.wp12](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3d1aca750e8b97795b3016b83c3b3633_1681711554564.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=f67PGttPk2ngQ1WAY949bC9qKUA=)
 

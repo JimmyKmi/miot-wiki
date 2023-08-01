@@ -9,7 +9,7 @@ description : ''
 ---
 # LUNO绿能米家智能灯
 
-其他品牌 | 2020/5/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lndq.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=lndq.light.wy0a01&region=cn)
+其他品牌 | 2020/5/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lndq.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=lndq.light.wy0a01&region=cn)
 
 ![lndq.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047725418yVXgCjLg.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=37QhSrAG+pqujSFsxSaEzdu/4Tc=)
 

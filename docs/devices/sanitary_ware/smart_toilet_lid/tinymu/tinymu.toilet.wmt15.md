@@ -9,7 +9,7 @@ description : ''
 ---
 # 小沐智能马桶盖 旗舰版（V型）
 
-小沐 | 2021/7/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tinymu.toilet.wmt15/) | [说明书](https://home.mi.com/views/introduction.html?model=tinymu.toilet.wmt15&region=cn)
+小沐 | 2021/7/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tinymu.toilet.wmt15) | [说明书](https://home.mi.com/views/introduction.html?model=tinymu.toilet.wmt15&region=cn)
 
 ![tinymu.toilet.wmt15](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047905236VgjOlvuZ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/B16PJM+fA9u3N2G8vJz7k4LsMI=)
 

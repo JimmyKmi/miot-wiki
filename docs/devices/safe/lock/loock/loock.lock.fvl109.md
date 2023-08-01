@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客猫眼智能锁S50M
 
-鹿客 Loock | 2022/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.fvl109/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.fvl109&region=cn)
+鹿客 Loock | 2022/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.fvl109) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.fvl109&region=cn)
 
 ![loock.lock.fvl109](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2dec5db2b9e65de2a187ddab0f0deb86_1644377673538.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RzeQzBX17yBPHiFwyRWjoAzRs/s=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米1秒即热免安装净饮机X2
 
-云米 Viomi | 2020/6/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.x8/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.x8&region=cn)
+云米 Viomi | 2020/6/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.x8) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.x8&region=cn)
 
 ![yunmi.waterpuri.x8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1587716311535oriS9WCs.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zQHXVuDaZ7TRWBJAFomgtL3BrQU=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 须眉便携电动剃须刀
 
-须眉 | 2023/5/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xumei.razor.str212/) | [说明书](https://home.mi.com/views/introduction.html?model=xumei.razor.str212&region=cn)
+须眉 | 2023/5/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xumei.razor.str212) | [说明书](https://home.mi.com/views/introduction.html?model=xumei.razor.str212&region=cn)
 
 ![xumei.razor.str212](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2b27e829eb7a2fc5b2b73a3bebd10344_1681799951508.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BO/J42RY+n+waNpUQJoPl7m041A=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米智能开关（零火三键）
 
-苏米 | 2023/6/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.switch.sw3b01/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.switch.sw3b01&region=cn)
+苏米 | 2023/6/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.switch.sw3b01) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.switch.sw3b01&region=cn)
 
 ![xhuan.switch.sw3b01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e823f3045bb66bd1bea4a0503a193c93_1675838175220.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=B1WwWerVqXKqtBzicRyTaKdqvfw=)
 

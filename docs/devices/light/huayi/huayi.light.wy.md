@@ -9,7 +9,7 @@ description : ''
 ---
 # 慧作吸顶灯
 
-华艺 | 2019/6/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy&region=cn)
+华艺 | 2019/6/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy&region=cn)
 
 ![huayi.light.wy](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047614288iQjJyezk.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3zn2MWp2Tp2xWN6Jxmstn042HGc=)
 

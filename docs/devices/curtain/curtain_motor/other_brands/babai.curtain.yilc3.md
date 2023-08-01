@@ -9,7 +9,7 @@ description : ''
 ---
 # 小益(Yi-LOCK)智能窗帘 C3
 
-其他品牌 | 2020/4/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.yilc3/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.yilc3&region=cn)
+其他品牌 | 2020/4/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.yilc3) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.yilc3&region=cn)
 
 ![babai.curtain.yilc3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1586421756687SizPaa1e.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oqgOi5PcX6Q8qTcsWbITFTxQzkY=)
 

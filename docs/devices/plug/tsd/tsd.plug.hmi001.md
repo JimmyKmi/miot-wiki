@@ -9,7 +9,7 @@ description : ''
 ---
 # 通士达插座
 
-通士达 | 2021/5/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsd.plug.hmi001/) | [说明书](https://home.mi.com/views/introduction.html?model=tsd.plug.hmi001&region=cn)
+通士达 | 2021/5/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsd.plug.hmi001) | [说明书](https://home.mi.com/views/introduction.html?model=tsd.plug.hmi001&region=cn)
 
 ![tsd.plug.hmi001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/05b76906e64255003d3c27b33190832c_168X168px产品拟物图_插座.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=amtprk2KTgUEPuR5rgMVUqwHHdM=)
 

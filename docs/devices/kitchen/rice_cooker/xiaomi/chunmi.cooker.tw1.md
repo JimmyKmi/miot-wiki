@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家电子锅mini
 
-小米/米家 | 2021/3/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.tw1/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.tw1&region=cn)
+小米/米家 | 2021/3/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.tw1) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.tw1&region=cn)
 
 ![chunmi.cooker.tw1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fe1f69bb7c7a95283b6c6705cd0677d7_1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Uv71J+g2mLBlg6esNHymkOVnCZ4=)
 

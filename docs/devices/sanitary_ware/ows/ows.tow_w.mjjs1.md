@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧伟士S1毛巾架
 
-欧伟士 | 2021/12/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ows.tow_w.mjjs1/) | [说明书](https://home.mi.com/views/introduction.html?model=ows.tow_w.mjjs1&region=cn)
+欧伟士 | 2021/12/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ows.tow_w.mjjs1) | [说明书](https://home.mi.com/views/introduction.html?model=ows.tow_w.mjjs1&region=cn)
 
 ![ows.tow_w.mjjs1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2c8db69db2054d4f7a909edb2b4b3798_1634715750055.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cIoSJamVuuSDO452jdVGp9AcWAI=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米磁吸泛光灯
 
-苏米 | 2021/2/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a03/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a03&region=cn)
+苏米 | 2021/2/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a03) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a03&region=cn)
 
 ![xhuan.light.wy0a03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047901810kKpeBCCu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Q9Pvgivjio9LGNhO43EPiZD+QZo=)
 

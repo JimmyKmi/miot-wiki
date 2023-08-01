@@ -9,7 +9,7 @@ description : ''
 ---
 # 智悦智能三线辅灯
 
-智悦 | 2021/11/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gtop.light.eps120/) | [说明书](https://home.mi.com/views/introduction.html?model=gtop.light.eps120&region=cn)
+智悦 | 2021/11/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gtop.light.eps120) | [说明书](https://home.mi.com/views/introduction.html?model=gtop.light.eps120&region=cn)
 
 ![gtop.light.eps120](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cc6f30a645d235f76f92634865b208f9_1635319274744.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rUF4Gem7dHPtowKk8FWdoHM+2t4=)
 

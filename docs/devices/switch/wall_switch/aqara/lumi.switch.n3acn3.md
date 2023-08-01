@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara智能墙壁开关 D1（零火线三键版）
 
-绿米 Aqara | 2019/10/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.n3acn3/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.n3acn3&region=cn)
+绿米 Aqara | 2019/10/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.n3acn3) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.n3acn3&region=cn)
 
 ![lumi.switch.n3acn3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871036632dt6VLe4X.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=pnLOyv6FPPcxQzor9zj8Tb/5gA0=)
 

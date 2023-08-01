@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 智能晾衣机 E2102
 
-易来 Yeelight | 2021/12/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.airer.fold2/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.airer.fold2&region=cn)
+易来 Yeelight | 2021/12/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.airer.fold2) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.airer.fold2&region=cn)
 
 ![yeelink.airer.fold2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/216ee249a36a6eae34927ae775291f29_1629356007391.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YvK/ERqGVAVFEw4DgC4+TKITLTA=)
 

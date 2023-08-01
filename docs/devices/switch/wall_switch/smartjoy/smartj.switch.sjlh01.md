@@ -9,7 +9,7 @@ description : ''
 ---
 # SmartJoy智简墙壁开关（零火单键WiFi版）
 
-智臻 SmartJoy | 2020/9/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.switch.sjlh01/) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.switch.sjlh01&region=cn)
+智臻 SmartJoy | 2020/9/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.switch.sjlh01) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.switch.sjlh01&region=cn)
 
 ![smartj.switch.sjlh01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1598057568977v9dRmsUy.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fjjFcle1YKc/2xdhVkDudry7ueE=)
 

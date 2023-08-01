@@ -9,7 +9,7 @@ description : ''
 ---
 # 户外摄像机 Pro
 
-xiaovv | 2020/4/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.xvcb2/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.xvcb2&region=cn)
+xiaovv | 2020/4/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.xvcb2) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.xvcb2&region=cn)
 
 ![xiaovv.camera.xvcb2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1621999062303ywi5hMsA.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7UOFMY0emSw9xl+JgnFI47R0v8E=)
 

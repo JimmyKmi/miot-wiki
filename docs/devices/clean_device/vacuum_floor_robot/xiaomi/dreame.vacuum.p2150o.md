@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家集尘扫拖机器人
 
-小米/米家 | 2022/8/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.p2150o/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.p2150o&region=cn)
+小米/米家 | 2022/8/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.p2150o) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.p2150o&region=cn)
 
 ![dreame.vacuum.p2150o](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047842450sxwAaCnA.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AFu03T8ZJeHrZROXDK0g9UPwIL4=)
 

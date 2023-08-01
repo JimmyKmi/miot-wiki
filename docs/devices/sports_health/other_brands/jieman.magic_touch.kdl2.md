@@ -9,7 +9,7 @@ description : ''
 ---
 # 康多力多功能颈部按摩仪
 
-其他品牌 | 2021/12/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.kdl2/) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.kdl2&region=cn)
+其他品牌 | 2021/12/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.kdl2) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.kdl2&region=cn)
 
 ![jieman.magic_touch.kdl2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b99a8d138284441f2178a50bf408962e_1637638653505.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Dis49UTAG1KLT96Qa66KY67qIck=)
 

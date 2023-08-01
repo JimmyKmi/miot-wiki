@@ -9,7 +9,7 @@ description : ''
 ---
 # 魔力云三开智能开关
 
-其他品牌 | 2023/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mly.switch.sw3a01/) | [说明书](https://home.mi.com/views/introduction.html?model=mly.switch.sw3a01&region=cn)
+其他品牌 | 2023/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mly.switch.sw3a01) | [说明书](https://home.mi.com/views/introduction.html?model=mly.switch.sw3a01&region=cn)
 
 ![mly.switch.sw3a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a55027579bb7a2281105831113642595_1665545906027.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ty7YzchCm7HOJUf1GtRxhhfTDhE=)
 

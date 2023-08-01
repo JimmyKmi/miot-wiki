@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能USB墙壁插座面板H1（网关版）
 
-绿米 Aqara | 2020/12/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.gateway.sacn01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.gateway.sacn01&region=cn)
+绿米 Aqara | 2020/12/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.gateway.sacn01) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.gateway.sacn01&region=cn)
 
 ![lumi.gateway.sacn01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/691fbaa54d6f43f5aad717b9cdd3822f_168-168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TEJn70BNGZsuHllfpI+Jg4Q6hTw=)
 

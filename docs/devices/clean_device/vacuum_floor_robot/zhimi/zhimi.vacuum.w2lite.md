@@ -9,7 +9,7 @@ description : ''
 ---
 # Lydsto自清洁扫地机W2Lite
 
-智米 | 2023/7/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.vacuum.w2lite/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.vacuum.w2lite&region=cn)
+智米 | 2023/7/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.vacuum.w2lite) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.vacuum.w2lite&region=cn)
 
 ![zhimi.vacuum.w2lite](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7abd77907d25332c984c97a8513670b7_1683620962131.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gRsMdJA94VhpqHW+dj6wSCMq3x4=)
 

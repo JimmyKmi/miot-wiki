@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米路由器4A 千兆版
 
-小米/米家 | 2023/4/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.r4av2/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.r4av2&region=cn)
+小米/米家 | 2023/4/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.r4av2) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.r4av2&region=cn)
 
 ![xiaomi.router.r4av2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dd9ba9806a1d2939f3857e046e819aa2_1657268470785.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=m1ay0/xCUhx+FgtLws+6QOqwBlc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # X3智慧开关
 
-向往 | 2022/9/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hope.switch.x3/) | [说明书](https://home.mi.com/views/introduction.html?model=hope.switch.x3&region=cn)
+向往 | 2022/9/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hope.switch.x3) | [说明书](https://home.mi.com/views/introduction.html?model=hope.switch.x3&region=cn)
 
 ![hope.switch.x3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/45943fea7e79a125e311ce36a3496a70_1662357182351.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ElKGZ1DbFA+ZCy9Gq46HNY+1e4I=)
 

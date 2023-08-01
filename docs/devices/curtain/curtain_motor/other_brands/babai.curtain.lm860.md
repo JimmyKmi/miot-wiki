@@ -9,7 +9,7 @@ description : ''
 ---
 # 蓝米智能窗帘
 
-其他品牌 | 2021/12/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.lm860/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.lm860&region=cn)
+其他品牌 | 2021/12/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.lm860) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.lm860&region=cn)
 
 ![babai.curtain.lm860](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/abfd7c5bc9cc6cb23e1a258f4d09b00f_1626753523497.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LvC0m6ouDUF22KeqTW6VP9cnL/4=)
 

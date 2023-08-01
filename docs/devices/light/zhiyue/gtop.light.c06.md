@@ -9,7 +9,7 @@ description : ''
 ---
 # 智悦智能led吸顶灯
 
-智悦 | 2023/3/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gtop.light.c06/) | [说明书](https://home.mi.com/views/introduction.html?model=gtop.light.c06&region=cn)
+智悦 | 2023/3/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gtop.light.c06) | [说明书](https://home.mi.com/views/introduction.html?model=gtop.light.c06&region=cn)
 
 ![gtop.light.c06](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/311b94b1f054ea6aee4e913a327ff616_1677310872215.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tyFr9tfcih/rz3aeQwETfLWDpcU=)
 

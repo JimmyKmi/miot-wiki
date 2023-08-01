@@ -9,7 +9,7 @@ description : ''
 ---
 # 智米智能马桶一体机 M1
 
-智米 | 2021/5/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.toilet.pa2/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.toilet.pa2&region=cn)
+智米 | 2021/5/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.toilet.pa2) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.toilet.pa2&region=cn)
 
 ![zhimi.toilet.pa2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047905910c3K2jJT0.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mwR3zaHmVuHELcJxzLftQ9U/yX4=)
 

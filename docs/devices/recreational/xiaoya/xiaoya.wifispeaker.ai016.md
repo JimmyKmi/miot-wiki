@@ -9,7 +9,7 @@ description : ''
 ---
 # 小雅AI图书馆
 
-小雅 | 2020/11/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoya.wifispeaker.ai016/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoya.wifispeaker.ai016&region=cn)
+小雅 | 2020/11/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoya.wifispeaker.ai016) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoya.wifispeaker.ai016&region=cn)
 
 ![xiaoya.wifispeaker.ai016](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1591943510939fxUZE2ST.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=B5kRFXN2MePyXUpjazbtGoasOqA=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐全屏地暖控制器（D8）
 
-智拉斐 | 2022/4/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.airrtc.air02/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.airrtc.air02&region=cn)
+智拉斐 | 2022/4/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.airrtc.air02) | [说明书](https://home.mi.com/views/introduction.html?model=slf.airrtc.air02&region=cn)
 
 ![slf.airrtc.air02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/32c6a17c72d2ff693270532dc5482686_1647670924719.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VZaINiF5LC3KKIPzgRbOu8SvMfo=)
 

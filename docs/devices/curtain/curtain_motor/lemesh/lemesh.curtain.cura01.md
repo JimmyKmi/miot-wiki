@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景mesh窗帘电机
 
-情景mesh芯片 | 2022/1/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.curtain.cura01/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.curtain.cura01&region=cn)
+情景mesh芯片 | 2022/1/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.curtain.cura01) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.curtain.cura01&region=cn)
 
 ![lemesh.curtain.cura01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d27dcdab789a455bbe9d38f5c3a7c34f_1640154170381.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=OYhksSpg2DtnlCjZrY2vLOIQkt8=)
 

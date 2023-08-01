@@ -9,7 +9,7 @@ description : ''
 ---
 # 艾德智能窗帘
 
-艾德 | 2020/6/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.ad5810/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.ad5810&region=cn)
+艾德 | 2020/6/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.ad5810) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.ad5810&region=cn)
 
 ![babai.curtain.ad5810](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1589249617706eodeBiqM.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=epjH0QLB1pUYKq4u1MU45yLMTtw=)
 

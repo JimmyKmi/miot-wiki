@@ -9,7 +9,7 @@ description : ''
 ---
 # 即乘磁吸灯系列
 
-即乘 | 2023/2/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zsjc.light.wy0b03/) | [说明书](https://home.mi.com/views/introduction.html?model=zsjc.light.wy0b03&region=cn)
+即乘 | 2023/2/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zsjc.light.wy0b03) | [说明书](https://home.mi.com/views/introduction.html?model=zsjc.light.wy0b03&region=cn)
 
 ![zsjc.light.wy0b03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/292711161e002eeea9ff78214e6d68fd_1675995040085.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wVPTApu5Hx6wLt8/u9jXTRZiYjU=)
 

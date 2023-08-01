@@ -9,7 +9,7 @@ description : ''
 ---
 # 智米智能暖风机
 
-智米 | 2019/11/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.heater.na1/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.heater.na1&region=cn)
+智米 | 2019/11/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.heater.na1) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.heater.na1&region=cn)
 
 ![zhimi.heater.na1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047651809GnLNK6dH.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mZVZRUgoi57hqXncKC4qT+ob1p0=)
 

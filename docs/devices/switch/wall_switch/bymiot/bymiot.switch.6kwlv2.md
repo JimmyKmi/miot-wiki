@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居六键强电无线开关
 
-未来居 Bymiot | 2021/6/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.switch.6kwlv2/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.switch.6kwlv2&region=cn)
+未来居 Bymiot | 2021/6/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.switch.6kwlv2) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.switch.6kwlv2&region=cn)
 
 ![bymiot.switch.6kwlv2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bdeeaa7190a403b657bdf744aa7a1bdf_三开6键面板_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oT/+zEIT1i9B9k8jufS/sYKVsuc=)
 

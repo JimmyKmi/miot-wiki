@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能插座P1
 
-其他品牌 | 2023/4/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=iot.plug.socn1/) | [说明书](https://home.mi.com/views/introduction.html?model=iot.plug.socn1&region=cn)
+其他品牌 | 2023/4/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=iot.plug.socn1) | [说明书](https://home.mi.com/views/introduction.html?model=iot.plug.socn1&region=cn)
 
 ![iot.plug.socn1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ae959abd8df848897b1d86fe6ccffb4a_1680855088746.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YYF8FLW7H7qCNybNMqbQh/qvzhw=)
 

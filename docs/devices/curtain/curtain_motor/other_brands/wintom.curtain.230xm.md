@@ -9,7 +9,7 @@ description : ''
 ---
 # 创明智能窗帘
 
-其他品牌 | 2019/12/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wintom.curtain.230xm/) | [说明书](https://home.mi.com/views/introduction.html?model=wintom.curtain.230xm&region=cn)
+其他品牌 | 2019/12/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wintom.curtain.230xm) | [说明书](https://home.mi.com/views/introduction.html?model=wintom.curtain.230xm&region=cn)
 
 ![wintom.curtain.230xm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047616038lsG2nDy2.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=INKRHgmzzakRlGKsG9J1+Ift4Q8=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 博高科智能电动晾衣机
 
-其他品牌 | 2021/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kingee.airer.kelyj5/) | [说明书](https://home.mi.com/views/introduction.html?model=kingee.airer.kelyj5&region=cn)
+其他品牌 | 2021/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kingee.airer.kelyj5) | [说明书](https://home.mi.com/views/introduction.html?model=kingee.airer.kelyj5&region=cn)
 
 ![kingee.airer.kelyj5](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047841394NZVqDoC6.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=knt/vwnajl5n2SUQ+WqP5DFwWkg=)
 

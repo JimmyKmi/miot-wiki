@@ -9,7 +9,7 @@ description : ''
 ---
 # 亖米智能窗帘mesh版
 
-亖米 | 2022/9/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.curtain.cura01/) | [说明书](https://home.mi.com/views/introduction.html?model=symi.curtain.cura01&region=cn)
+亖米 | 2022/9/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.curtain.cura01) | [说明书](https://home.mi.com/views/introduction.html?model=symi.curtain.cura01&region=cn)
 
 ![symi.curtain.cura01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/070a92fe82b930648b9a091c8758e7fc_1655353392223.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rPK9DiaM7Y57JUPtCsYcrz06AU8=)
 

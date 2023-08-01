@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家互联网烟灶
 
-小米/米家 | 2019/6/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.v1&region=cn)
+小米/米家 | 2019/6/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.v1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.v1&region=cn)
 
 ![viomi.hood.v1](https://static.home.mi.com/app/image/get/file/developer_1553478966idbovlvh.png)
 

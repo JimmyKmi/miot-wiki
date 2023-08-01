@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦智睿吸顶灯 流萤版G2 小客厅
 
-飞利浦 | 2023/3/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.lying2/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.lying2&region=cn)
+飞利浦 | 2023/3/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.lying2) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.lying2&region=cn)
 
 ![philips.light.lying2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0652ee8f9e88234c739538ed52d9ff9c_1677562019681.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mFd0Od95Blve3Rj6LzNY4Odboho=)
 

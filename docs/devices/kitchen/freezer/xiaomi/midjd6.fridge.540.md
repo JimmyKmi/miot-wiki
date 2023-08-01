@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家冰箱 对开门540L 冰晶岩
 
-小米/米家 | 2023/3/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.540/) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.540&region=cn)
+小米/米家 | 2023/3/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.540) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.540&region=cn)
 
 ![midjd6.fridge.540](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/93b6cba634def1fcb0288551e7f5c145_1672227535601.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=m5z/v2VsHnP5uk3o7F+YyL3FB1M=)
 

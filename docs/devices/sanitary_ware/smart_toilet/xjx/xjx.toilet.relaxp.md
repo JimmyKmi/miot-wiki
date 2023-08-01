@@ -9,7 +9,7 @@ description : ''
 ---
 # 小鲸洗一体式智能马桶 Relax plus
 
-小鲸洗 | 2022/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xjx.toilet.relaxp/) | [说明书](https://home.mi.com/views/introduction.html?model=xjx.toilet.relaxp&region=cn)
+小鲸洗 | 2022/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xjx.toilet.relaxp) | [说明书](https://home.mi.com/views/introduction.html?model=xjx.toilet.relaxp&region=cn)
 
 ![xjx.toilet.relaxp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dab116d40417d1a1407d05457337eb68_1644888480902.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FUtrsazU6LYia3tZoCnjvt0ZlQ4=)
 

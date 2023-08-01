@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家净水器400G
 
-小米/米家 | 2023/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.waterpuri.400f4/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.waterpuri.400f4&region=cn)
+小米/米家 | 2023/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.waterpuri.400f4) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.waterpuri.400f4&region=cn)
 
 ![xiaomi.waterpuri.400f4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f64bcb6fa42529167644007e6e076ba8_1680598225477.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ndc/LjS8JdQJUFaRyTEwkM3wRcw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # NIOYE智能彩光灯
 
-NIOYE | 2022/10/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ddk.light.wyra03/) | [说明书](https://home.mi.com/views/introduction.html?model=ddk.light.wyra03&region=cn)
+NIOYE | 2022/10/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ddk.light.wyra03) | [说明书](https://home.mi.com/views/introduction.html?model=ddk.light.wyra03&region=cn)
 
 ![ddk.light.wyra03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5bee604030ad76db5a14897196fcef9d_1663814214852.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mxZREidwnzPTMnEyiHVdNSABI+c=)
 

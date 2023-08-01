@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米泉先AI净水器Super Pro 1200G
 
-云米 Viomi | 2022/2/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s23/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s23&region=cn)
+云米 Viomi | 2022/2/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s23) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s23&region=cn)
 
 ![yunmi.waterpuri.s23](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3b115e56664a7b15f29a9e77a7474560_1641459315086.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=OYUUIgBSkHGjuNdB0//rjJVQllk=)
 

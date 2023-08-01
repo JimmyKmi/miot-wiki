@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家新风空调立式（3匹 新一级能效）
 
-小米/米家 | 2023/4/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c35/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c35&region=cn)
+小米/米家 | 2023/4/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c35) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c35&region=cn)
 
 ![xiaomi.aircondition.c35](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6d7244c185be3c42825d7c8025e403a4_1645432782703.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7oD0ji+JGrKYzQfrGaZeTyWK+1E=)
 

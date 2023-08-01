@@ -9,7 +9,7 @@ description : ''
 ---
 # 银菲特灯泡蓝牙mesh版
 
-其他品牌 | 2020/12/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yht.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=yht.light.wy0a01&region=cn)
+其他品牌 | 2020/12/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yht.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=yht.light.wy0a01&region=cn)
 
 ![yht.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047808449ztFOKSqO.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UULw54MDu22HUHrsy6IklZAsTAs=)
 

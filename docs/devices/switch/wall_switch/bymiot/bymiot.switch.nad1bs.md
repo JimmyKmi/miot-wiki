@@ -9,7 +9,7 @@ description : ''
 ---
 # Nano SubDevice -1 Button Switch
 
-未来居 Bymiot | 2022/7/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.switch.nad1bs/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.switch.nad1bs&region=cn)
+未来居 Bymiot | 2022/7/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.switch.nad1bs) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.switch.nad1bs&region=cn)
 
 ![bymiot.switch.nad1bs](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ba0ba0b456cd307c2d3769e51c29363e_1657519195645.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SE/EDSIZUB9G8p+izoBr9Rvs18c=)
 

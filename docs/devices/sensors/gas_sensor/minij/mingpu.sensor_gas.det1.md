@@ -9,7 +9,7 @@ description : ''
 ---
 # 云檬宝 燃气报警器
 
-小吉 | 2020/11/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mingpu.sensor_gas.det1/) | [说明书](https://home.mi.com/views/introduction.html?model=mingpu.sensor_gas.det1&region=cn)
+小吉 | 2020/11/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mingpu.sensor_gas.det1) | [说明书](https://home.mi.com/views/introduction.html?model=mingpu.sensor_gas.det1&region=cn)
 
 ![mingpu.sensor_gas.det1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1596420974085Pl5TIooe.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ONmMaRa7HfXlgfvjH0EvOoRzUBE=)
 

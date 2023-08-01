@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网水槽洗碗机
 
-云米 Viomi | 2020/1/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.dishwasher.v05/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.dishwasher.v05&region=cn)
+云米 Viomi | 2020/1/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.dishwasher.v05) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.dishwasher.v05&region=cn)
 
 ![viomi.dishwasher.v05](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871035028XNtyZp2O.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=krZ1pXGoy43w6x3d7RS8FfUkByA=)
 

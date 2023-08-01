@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网晾衣机Sunny 2A
 
-云米 Viomi | 2022/2/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.vcy104/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.vcy104&region=cn)
+云米 Viomi | 2022/2/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.vcy104) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.vcy104&region=cn)
 
 ![viomi.airer.vcy104](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c8b85ffd88b360994f8c247821176321_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uOZqwOHRJi+xVWoFMAF7o4Ed2U4=)
 

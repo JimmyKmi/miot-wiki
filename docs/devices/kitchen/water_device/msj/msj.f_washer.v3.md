@@ -9,7 +9,7 @@ description : ''
 ---
 # 美仕杰集成水槽3.0
 
-美高 | 2022/2/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.f_washer.v3/) | [说明书](https://home.mi.com/views/introduction.html?model=msj.f_washer.v3&region=cn)
+美高 | 2022/2/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.f_washer.v3) | [说明书](https://home.mi.com/views/introduction.html?model=msj.f_washer.v3&region=cn)
 
 ![msj.f_washer.v3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2beb65181cad8bc323a42f9f3a4fe86e_1633673739710.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rPNXywtbNqsLMyqrftTlqf2W4xA=)
 

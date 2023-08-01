@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能灯带（双色款TB）
 
-雷士 | 2023/4/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nvcsmt.light.bds201/) | [说明书](https://home.mi.com/views/introduction.html?model=nvcsmt.light.bds201&region=cn)
+雷士 | 2023/4/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nvcsmt.light.bds201) | [说明书](https://home.mi.com/views/introduction.html?model=nvcsmt.light.bds201&region=cn)
 
 ![nvcsmt.light.bds201](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bbf2894a882813c175c73d0f6e5206c5_1671417629916.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VVwdMATnc0XNdEs+Y9nVQUjHAcQ=)
 

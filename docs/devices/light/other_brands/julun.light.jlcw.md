@@ -9,7 +9,7 @@ description : ''
 ---
 # julun智能灯(双色版)
 
-其他品牌 | 2020/8/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=julun.light.jlcw/) | [说明书](https://home.mi.com/views/introduction.html?model=julun.light.jlcw&region=cn)
+其他品牌 | 2020/8/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=julun.light.jlcw) | [说明书](https://home.mi.com/views/introduction.html?model=julun.light.jlcw&region=cn)
 
 ![julun.light.jlcw](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1593692355203qJn6oqTw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=pv2xID4SCVYCQg/sATL+Le7vZP0=)
 

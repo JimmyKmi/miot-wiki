@@ -9,7 +9,7 @@ description : ''
 ---
 # Pawbby智能宠物零食机
 
-Pawbby | 2019/11/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mmgg.feeder.snack/) | [说明书](https://home.mi.com/views/introduction.html?model=mmgg.feeder.snack&region=cn)
+Pawbby | 2019/11/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mmgg.feeder.snack) | [说明书](https://home.mi.com/views/introduction.html?model=mmgg.feeder.snack&region=cn)
 
 ![mmgg.feeder.snack](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1569501167538EE8VxkvP.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;amp;amp;amp;amp;amp;amp;amp;Expires=9223372036854775807&amp;amp;amp;amp;amp;amp;amp;amp;Signature=n8L8Wwl+Afw1IT62zlD+LsmSlgA=)
 

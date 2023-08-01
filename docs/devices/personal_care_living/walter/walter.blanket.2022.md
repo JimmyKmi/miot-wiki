@@ -9,7 +9,7 @@ description : ''
 ---
 # 沃尔特赫恩恒温水暖毯
 
-沃尔特赫 Walter | 2023/5/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=walter.blanket.2022/) | [说明书](https://home.mi.com/views/introduction.html?model=walter.blanket.2022&region=cn)
+沃尔特赫 Walter | 2023/5/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=walter.blanket.2022) | [说明书](https://home.mi.com/views/introduction.html?model=walter.blanket.2022&region=cn)
 
 ![walter.blanket.2022](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/653e75e603739e959b4709e3923fb924_1658677372918.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GWfN33/OfGdXzJdym29X9CaxoxY=)
 

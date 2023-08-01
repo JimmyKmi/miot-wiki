@@ -9,7 +9,7 @@ description : ''
 ---
 # ThoughtHome智能灯S1
 
-ThoughtHome | 2023/5/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=znsn.light.v5ssw/) | [说明书](https://home.mi.com/views/introduction.html?model=znsn.light.v5ssw&region=cn)
+ThoughtHome | 2023/5/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=znsn.light.v5ssw) | [说明书](https://home.mi.com/views/introduction.html?model=znsn.light.v5ssw&region=cn)
 
 ![znsn.light.v5ssw](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/34d69b322827f028f7bd0993bd7b444f_1676017683567.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=EfpOHLNlpvfNI/vYTCyESpZF9PQ=)
 

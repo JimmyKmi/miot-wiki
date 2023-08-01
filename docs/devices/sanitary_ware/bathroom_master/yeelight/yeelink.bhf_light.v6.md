@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 智能浴霸 S20
 
-易来 Yeelight | 2020/10/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.bhf_light.v6/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.bhf_light.v6&region=cn)
+易来 Yeelight | 2020/10/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.bhf_light.v6) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.bhf_light.v6&region=cn)
 
 ![yeelink.bhf_light.v6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047769295ru3MS2nx.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=83Wsf8p5LGrb0DX1qwwwwP74Q1E=)
 

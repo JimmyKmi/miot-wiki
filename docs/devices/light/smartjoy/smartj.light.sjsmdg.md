@@ -9,7 +9,7 @@ description : ''
 ---
 # SmartJoy智臻磁吸格栅灯（蓝牙Mesh版）
 
-智臻 SmartJoy | 2021/5/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.light.sjsmdg/) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.light.sjsmdg&region=cn)
+智臻 SmartJoy | 2021/5/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.light.sjsmdg) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.light.sjsmdg&region=cn)
 
 ![smartj.light.sjsmdg](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e6ca26089a33a7a36e646bd1d53d4974_SmartJoy智臻磁吸格栅灯（蓝牙Mesh版）-白色-168x168-透明.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RMyytY47ub0L7nrv4aFAd5hv6NA=)
 

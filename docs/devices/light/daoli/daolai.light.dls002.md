@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能Mesh色温灯Pro
 
-道来 | 2023/3/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.light.dls002/) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.light.dls002&region=cn)
+道来 | 2023/3/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.light.dls002) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.light.dls002&region=cn)
 
 ![daolai.light.dls002](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7261d334c644912e5489af9fa971ff30_1656478648723.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4npljw3rqskgVnjFBGXoQFRByWo=)
 

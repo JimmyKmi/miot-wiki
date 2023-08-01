@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家空调 清凉版 1匹
 
-小米/米家 | 2023/2/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m11/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m11&region=cn)
+小米/米家 | 2023/2/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m11) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m11&region=cn)
 
 ![xiaomi.aircondition.m11](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f10e8bde5dc0ab9786b4b9bd2b407b38_1671445879907.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LD/0lZRMJyy1+gK3TQN1mplFKF4=)
 

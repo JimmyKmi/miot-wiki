@@ -9,7 +9,7 @@ description : ''
 ---
 # King 1A 1.5P
 
-云米 Viomi | 2020/5/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v35/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v35&region=cn)
+云米 Viomi | 2020/5/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v35) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v35&region=cn)
 
 ![viomi.aircondition.v35](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870951847nILMBCZ2.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AZlE0P+kuu5vTJBexsk31Q1dGS4=)
 

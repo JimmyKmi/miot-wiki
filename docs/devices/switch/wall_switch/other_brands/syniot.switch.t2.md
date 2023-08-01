@@ -9,7 +9,7 @@ description : ''
 ---
 # 居意智能开关二位
 
-其他品牌 | 2021/6/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.switch.t2/) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.switch.t2&region=cn)
+其他品牌 | 2021/6/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.switch.t2) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.switch.t2&region=cn)
 
 ![syniot.switch.t2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1584626156982RRwpKXwh.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8iEBddYjqQysLInzUXzofZPVQu0=)
 

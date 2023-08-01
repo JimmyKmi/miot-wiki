@@ -9,7 +9,7 @@ description : ''
 ---
 # 贝纳森X3
 
-其他品牌 | 2020/9/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bangbo.airer.x3xhqm/) | [说明书](https://home.mi.com/views/introduction.html?model=bangbo.airer.x3xhqm&region=cn)
+其他品牌 | 2020/9/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bangbo.airer.x3xhqm) | [说明书](https://home.mi.com/views/introduction.html?model=bangbo.airer.x3xhqm&region=cn)
 
 ![bangbo.airer.x3xhqm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071858864ftP0GOpc.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RvxCAWiqy2fhYlgsiC+SVSuk0XU=)
 

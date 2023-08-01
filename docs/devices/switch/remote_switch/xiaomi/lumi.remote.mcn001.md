@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米无线开关（蓝牙版）
 
-小米/米家 | 2022/11/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.remote.mcn001/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.remote.mcn001&region=cn)
+小米/米家 | 2022/11/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.remote.mcn001) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.remote.mcn001&region=cn)
 
 ![lumi.remote.mcn001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4a15840e484aa13b492bb124c2d6cf03_1653036936011.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yGGhDgxOhy4boUmTGarwpiuoDQs=)
 

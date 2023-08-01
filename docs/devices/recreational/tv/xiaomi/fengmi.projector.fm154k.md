@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家激光投影电视4K
 
-小米/米家 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.fm154k/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.fm154k&region=cn)
+小米/米家 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.fm154k) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.fm154k&region=cn)
 
 ![fengmi.projector.fm154k](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870955136XOnEFj2k.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uK5d5bdCKJ2UYD6GLz9HzcAzSnw=)
 

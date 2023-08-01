@@ -9,7 +9,7 @@ description : ''
 ---
 # 零雾低温蒸发型加湿器(Ⅱ代）
 
-零雾 | 2019/10/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shuii.humidifier.jsq002/) | [说明书](https://home.mi.com/views/introduction.html?model=shuii.humidifier.jsq002&region=cn)
+零雾 | 2019/10/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shuii.humidifier.jsq002) | [说明书](https://home.mi.com/views/introduction.html?model=shuii.humidifier.jsq002&region=cn)
 
 ![shuii.humidifier.jsq002](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1571215924346cGR1mmQr.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;Expires=9223372036854775807&amp;Signature=ybaNaQZyeEyUE12gRw0Sj87VatA=)
 

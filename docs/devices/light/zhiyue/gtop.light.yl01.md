@@ -9,7 +9,7 @@ description : ''
 ---
 # Side智能吸顶灯
 
-智悦 | 2023/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gtop.light.yl01/) | [说明书](https://home.mi.com/views/introduction.html?model=gtop.light.yl01&region=cn)
+智悦 | 2023/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gtop.light.yl01) | [说明书](https://home.mi.com/views/introduction.html?model=gtop.light.yl01&region=cn)
 
 ![gtop.light.yl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d3475dd06cdc9734d12e36a7b11ec791_1682410541887.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+K+7ge8sc3tYSF4QOtLIbMLjMkU=)
 

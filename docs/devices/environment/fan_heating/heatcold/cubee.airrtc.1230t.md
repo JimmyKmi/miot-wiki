@@ -9,7 +9,7 @@ description : ''
 ---
 # 希到-两联供温控器
 
-Heatcold | 2023/7/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cubee.airrtc.1230t/) | [说明书](https://home.mi.com/views/introduction.html?model=cubee.airrtc.1230t&region=cn)
+Heatcold | 2023/7/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cubee.airrtc.1230t) | [说明书](https://home.mi.com/views/introduction.html?model=cubee.airrtc.1230t&region=cn)
 
 ![cubee.airrtc.1230t](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/803e35cefc7490ec37aec68623a2855c_1669691102713.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UvkjOvgrKQJK8PjR9kBQvcsoT2o=)
 

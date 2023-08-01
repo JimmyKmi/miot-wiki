@@ -9,7 +9,7 @@ description : ''
 ---
 # 九牧智能马桶-ZS320T
 
-其他品牌 | 2020/9/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ijomoo.toilet.zs320/) | [说明书](https://home.mi.com/views/introduction.html?model=ijomoo.toilet.zs320&region=cn)
+其他品牌 | 2020/9/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ijomoo.toilet.zs320) | [说明书](https://home.mi.com/views/introduction.html?model=ijomoo.toilet.zs320&region=cn)
 
 ![ijomoo.toilet.zs320](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_159367611231499stCiWc.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VHWJyYuzWLja9r5TEImQ0HL8QQs=)
 

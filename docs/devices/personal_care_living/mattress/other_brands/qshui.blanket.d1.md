@@ -9,7 +9,7 @@ description : ''
 ---
 # 塞问智能水暖床垫
 
-其他品牌 | 2021/12/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qshui.blanket.d1/) | [说明书](https://home.mi.com/views/introduction.html?model=qshui.blanket.d1&region=cn)
+其他品牌 | 2021/12/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qshui.blanket.d1) | [说明书](https://home.mi.com/views/introduction.html?model=qshui.blanket.d1&region=cn)
 
 ![qshui.blanket.d1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068737419ehLxDRI5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=M2b0ydsPVWnsHtiuXdZmjGR9oxk=)
 

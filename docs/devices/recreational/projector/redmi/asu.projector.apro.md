@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi投影仪 Pro
 
-红米 | 2022/10/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=asu.projector.apro/) | [说明书](https://home.mi.com/views/introduction.html?model=asu.projector.apro&region=cn)
+红米 | 2022/10/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=asu.projector.apro) | [说明书](https://home.mi.com/views/introduction.html?model=asu.projector.apro&region=cn)
 
 ![asu.projector.apro](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f123c8ae7d5d2c0a1af2736b46564dde_1658714073306.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+pNK7QDtvhOvvVMfIwbV1lxwqIs=)
 

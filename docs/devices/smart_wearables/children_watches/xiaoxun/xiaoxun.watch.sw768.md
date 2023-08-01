@@ -9,7 +9,7 @@ description : ''
 ---
 # 米兔儿童手表5C
 
-米兔小寻 | 2021/6/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw768/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw768&region=cn)
+米兔小寻 | 2021/6/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw768) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw768&region=cn)
 
 ![xiaoxun.watch.sw768](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f007e97c3061cc929b20b969ca9ffad6_拟物常态(768).png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=r98JxuX6frEyhJn2la8fNd1IeJA=)
 

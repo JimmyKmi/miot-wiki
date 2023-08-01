@@ -9,7 +9,7 @@ description : ''
 ---
 # xiaovv智能婴儿监护器 2K
 
-xiaovv | 2022/2/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.c12k/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.c12k&region=cn)
+xiaovv | 2022/2/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.c12k) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.c12k&region=cn)
 
 ![xiaovv.camera.c12k](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/503065aa121afdd54f271d04cb6ab15a_1621326482033.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bilMMifVfTlSTodbpqmgW6df0Cc=)
 

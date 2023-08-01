@@ -9,7 +9,7 @@ description : ''
 ---
 # 宅鲸净化加湿器
 
-宅鲸奥普 | 2022/9/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjaupu.humidifier.a1/) | [说明书](https://home.mi.com/views/introduction.html?model=zjaupu.humidifier.a1&region=cn)
+宅鲸奥普 | 2022/9/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjaupu.humidifier.a1) | [说明书](https://home.mi.com/views/introduction.html?model=zjaupu.humidifier.a1&region=cn)
 
 ![zjaupu.humidifier.a1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/57d736916955d7338e5517925fc1e2f9_1660294348467.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ul/yUScUmZiyKpyUFoNGG5Tef7I=)
 

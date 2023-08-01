@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥普浴霸S368M
 
-奥普 AUPU | 2023/4/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.s368m2/) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.s368m2&region=cn)
+奥普 AUPU | 2023/4/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.s368m2) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.s368m2&region=cn)
 
 ![aupu.bhf_light.s368m2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1409f92b7dbca015d271983178ca1c2e_1680853392098.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VyGMna0iQsu3oaycqvCJILWtJs0=)
 

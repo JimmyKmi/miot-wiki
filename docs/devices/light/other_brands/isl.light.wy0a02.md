@@ -9,7 +9,7 @@ description : ''
 ---
 # 爱斯兰智能Mesh筒射灯
 
-其他品牌 | 2022/6/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isl.light.wy0a02/) | [说明书](https://home.mi.com/views/introduction.html?model=isl.light.wy0a02&region=cn)
+其他品牌 | 2022/6/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isl.light.wy0a02) | [说明书](https://home.mi.com/views/introduction.html?model=isl.light.wy0a02&region=cn)
 
 ![isl.light.wy0a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/aefd8afeec077e9954eabd17bd9adcad_1650880623718.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FVH2dGUCj8x2NoOA8lZTdRwdk40=)
 

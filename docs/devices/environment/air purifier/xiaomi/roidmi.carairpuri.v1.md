@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家车载空气净化器
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roidmi.carairpuri.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=roidmi.carairpuri.v1&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roidmi.carairpuri.v1) | [说明书](https://home.mi.com/views/introduction.html?model=roidmi.carairpuri.v1&region=cn)
 
 ![roidmi.carairpuri.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047512599lE7q63Dq.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ck/UZa2zvb3JBNfR7tjFwJKioh0=)
 

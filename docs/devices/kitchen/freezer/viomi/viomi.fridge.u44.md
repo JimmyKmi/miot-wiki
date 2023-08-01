@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网冰箱iLive2(十字四门513L)
 
-云米 Viomi | 2021/1/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u44/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u44&region=cn)
+云米 Viomi | 2021/1/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u44) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u44&region=cn)
 
 ![viomi.fridge.u44](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048995095YMcxtGhT.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VDjWtAdz8Z2+ZhqX09ClC7ZjDPU=)
 

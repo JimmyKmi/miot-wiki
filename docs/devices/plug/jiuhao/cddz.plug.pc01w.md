@@ -9,7 +9,7 @@ description : ''
 ---
 # Jiuhao电脑开机卡
 
-久豪 Jiuhao | 2023/5/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cddz.plug.pc01w/) | [说明书](https://home.mi.com/views/introduction.html?model=cddz.plug.pc01w&region=cn)
+久豪 Jiuhao | 2023/5/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cddz.plug.pc01w) | [说明书](https://home.mi.com/views/introduction.html?model=cddz.plug.pc01w&region=cn)
 
 ![cddz.plug.pc01w](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/23ff5b2052c2859c10156eb8290181f2_1682413933962.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=otvkb/8KU2A10W/vWje//V2QCwg=)
 

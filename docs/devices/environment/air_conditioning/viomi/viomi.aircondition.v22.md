@@ -9,7 +9,7 @@ description : ''
 ---
 # Crown-28A
 
-云米 Viomi | 2020/6/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v22/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v22&region=cn)
+云米 Viomi | 2020/6/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v22) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v22&region=cn)
 
 ![viomi.aircondition.v22](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047653588nyL8TjWw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Dx+W3j+A/Nv3s8n44Yp1XE9k1GI=)
 

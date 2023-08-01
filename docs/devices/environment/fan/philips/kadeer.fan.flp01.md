@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦塔式冷风扇
 
-飞利浦 | 2020/5/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.flp01/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.flp01&region=cn)
+飞利浦 | 2020/5/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.flp01) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.flp01&region=cn)
 
 ![kadeer.fan.flp01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047725498qmCx4K55.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=j3ZnnlcWCFzT74EsxDxn/Vt82K4=)
 

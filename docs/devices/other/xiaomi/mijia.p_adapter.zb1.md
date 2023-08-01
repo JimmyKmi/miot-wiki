@@ -9,7 +9,7 @@ description : ''
 ---
 # Zigbee设备
 
-小米/米家 | 2018/12/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mijia.p_adapter.zb1/) | [说明书](https://home.mi.com/views/introduction.html?model=mijia.p_adapter.zb1&region=cn)
+小米/米家 | 2018/12/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mijia.p_adapter.zb1) | [说明书](https://home.mi.com/views/introduction.html?model=mijia.p_adapter.zb1&region=cn)
 
 ![mijia.p_adapter.zb1](https://static.home.mi.com/app/image/get/file/developer_1546080079qjlgjsam.png)
 

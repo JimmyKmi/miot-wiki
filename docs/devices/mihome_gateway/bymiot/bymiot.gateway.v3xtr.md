@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居有线网关3.0Xtr
 
-未来居 Bymiot | 2022/9/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.gateway.v3xtr/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.gateway.v3xtr&region=cn)
+未来居 Bymiot | 2022/9/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.gateway.v3xtr) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.gateway.v3xtr&region=cn)
 
 ![bymiot.gateway.v3xtr](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/39e2403f734d6a593da3a374b12bd2f5_1663555439054.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=w3oVvwRWsbFSdiH/TWADMJvk3Ps=)
 

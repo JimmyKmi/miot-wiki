@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家微波炉
 
-小米/米家 | 2019/6/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.microwave.n20l01/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.microwave.n20l01&region=cn)
+小米/米家 | 2019/6/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.microwave.n20l01) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.microwave.n20l01&region=cn)
 
 ![chunmi.microwave.n20l01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_16025760458076HWN18WU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BCLXY6mtqvPO9y2Wu7CruD9DD+A=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能空调
 
-其他品牌 | 2021/7/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zyzy1.aircondition.y712/) | [说明书](https://home.mi.com/views/introduction.html?model=zyzy1.aircondition.y712&region=cn)
+其他品牌 | 2021/7/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zyzy1.aircondition.y712) | [说明书](https://home.mi.com/views/introduction.html?model=zyzy1.aircondition.y712&region=cn)
 
 ![zyzy1.aircondition.y712](https://cnbj1-fds.api.xiaomi.net/iotweb-product-center/e957deac526701bb0b2601e10a7872ae_1625125021011.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LMtS6Anrrc+ZmON+yYtHxxAULnE=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧井除湿机OJ-225E
 
-欧井 | 2021/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=oujing.derh.225e/) | [说明书](https://home.mi.com/views/introduction.html?model=oujing.derh.225e&region=cn)
+欧井 | 2021/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=oujing.derh.225e) | [说明书](https://home.mi.com/views/introduction.html?model=oujing.derh.225e&region=cn)
 
 ![oujing.derh.225e](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068994147z6c0E744.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jqIYLA3Qc7Ic0Wkj7Kj9RNXUWzw=)
 

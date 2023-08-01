@@ -9,7 +9,7 @@ description : ''
 ---
 # Milano 2T 1.5P
 
-云米 Viomi | 2022/2/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y103/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y103&region=cn)
+云米 Viomi | 2022/2/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y103) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y103&region=cn)
 
 ![viomi.aircondition.y103](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ec34cccf5708c16d247a78c5af86af5c_1640584763725.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jB5XN7+FsYimNy32GzqzpDmNN8o=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧伟士智能电热毛巾架
 
-欧伟士 | 2019/11/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ows.towel_w.mj1x0/) | [说明书](https://home.mi.com/views/introduction.html?model=ows.towel_w.mj1x0&region=cn)
+欧伟士 | 2019/11/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ows.towel_w.mj1x0) | [说明书](https://home.mi.com/views/introduction.html?model=ows.towel_w.mj1x0&region=cn)
 
 ![ows.towel_w.mj1x0](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1627541108752z7Hxh5Ke.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2m9BdfRxWo4TYuqANxtcxdQQ8Ww=)
 

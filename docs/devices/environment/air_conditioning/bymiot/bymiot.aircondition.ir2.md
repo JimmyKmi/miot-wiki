@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居空调控制器（红外版）
 
-未来居 Bymiot | 2020/10/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.aircondition.ir2/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.aircondition.ir2&region=cn)
+未来居 Bymiot | 2020/10/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.aircondition.ir2) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.aircondition.ir2&region=cn)
 
 ![bymiot.aircondition.ir2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048481062cvaQuL0I.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gdN4RDSn5tdWLNENxFpwxfQ0YdI=)
 

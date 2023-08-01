@@ -9,7 +9,7 @@ description : ''
 ---
 # PIPA智能三键开关MESH
 
-其他品牌 | 2021/12/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mcosu.switch.pipam3/) | [说明书](https://home.mi.com/views/introduction.html?model=mcosu.switch.pipam3&region=cn)
+其他品牌 | 2021/12/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mcosu.switch.pipam3) | [说明书](https://home.mi.com/views/introduction.html?model=mcosu.switch.pipam3&region=cn)
 
 ![mcosu.switch.pipam3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b91f3d0e18fd9a2d664f0c0ea4dafde6_1635920133448.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=N9unkiaGX1NK5P6DCB9e+bCInSM=)
 

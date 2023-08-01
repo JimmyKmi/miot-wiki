@@ -9,7 +9,7 @@ description : ''
 ---
 # 杜亚智能窗帘m1
 
-杜亚 Dooya | 2019/10/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.m1/) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.m1&region=cn)
+杜亚 Dooya | 2019/10/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.m1) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.m1&region=cn)
 
 ![dooya.curtain.m1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1571792584078xeYuIFnz.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=kqUzrRg5dIUjc221dhca8ASPg5Q=)
 

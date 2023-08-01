@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网冰箱 iLive2（双门 272L）
 
-云米 Viomi | 2018/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.w2/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.w2&region=cn)
+云米 Viomi | 2018/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.w2) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.w2&region=cn)
 
 ![viomi.fridge.w2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047544558LLbFRXcs.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=d47wVfTPQ3ejKm4Zjx9knwaBTgM=)
 

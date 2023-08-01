@@ -9,7 +9,7 @@ description : ''
 ---
 # 家用可燃气体探测器
 
-霍尼韦尔 Honeywell | 2022/1/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yuemee.sensor_gas.0605/) | [说明书](https://home.mi.com/views/introduction.html?model=yuemee.sensor_gas.0605&region=cn)
+霍尼韦尔 Honeywell | 2022/1/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yuemee.sensor_gas.0605) | [说明书](https://home.mi.com/views/introduction.html?model=yuemee.sensor_gas.0605&region=cn)
 
 ![yuemee.sensor_gas.0605](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047809757RfTmAQ2A.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wD3RSDkXlutYaykwXQjEWrZ3rF4=)
 

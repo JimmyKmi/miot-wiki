@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能云台摄像机
 
-xiaovv | 2020/1/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.xvsnowman/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.xvsnowman&region=cn)
+xiaovv | 2020/1/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.xvsnowman) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.xvsnowman&region=cn)
 
 ![xiaovv.camera.xvsnowman](https://static.home.mi.com/app/image/get/file/developer_1583152031148b6c2p.png)
 

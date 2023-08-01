@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家分体露营灯
 
-小米/米家 | 2023/3/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hoto.light.lamp/) | [说明书](https://home.mi.com/views/introduction.html?model=hoto.light.lamp&region=cn)
+小米/米家 | 2023/3/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hoto.light.lamp) | [说明书](https://home.mi.com/views/introduction.html?model=hoto.light.lamp&region=cn)
 
 ![hoto.light.lamp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1ad3adc512856bbf091922135af43107_1675049704814.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oC4a3AfYST8XX8dJBxNLhd3LWLI=)
 

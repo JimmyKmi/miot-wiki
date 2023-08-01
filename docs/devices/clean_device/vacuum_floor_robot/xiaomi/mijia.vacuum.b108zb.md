@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家扫拖机器人3S
 
-小米/米家 | 2023/3/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mijia.vacuum.b108zb/) | [说明书](https://home.mi.com/views/introduction.html?model=mijia.vacuum.b108zb&region=cn)
+小米/米家 | 2023/3/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mijia.vacuum.b108zb) | [说明书](https://home.mi.com/views/introduction.html?model=mijia.vacuum.b108zb&region=cn)
 
 ![mijia.vacuum.b108zb](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8c75b8e53715894fc0a27b6b9bf5f469_1660809646140.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5aTRVovmRxwHxui/KVg3+RZGiGM=)
 

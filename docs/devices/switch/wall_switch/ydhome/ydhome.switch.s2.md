@@ -9,7 +9,7 @@ description : ''
 ---
 # 优点智能蓝牙Mesh开关面板 二开
 
-优点智能 | 2020/5/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydhome.switch.s2/) | [说明书](https://home.mi.com/views/introduction.html?model=ydhome.switch.s2&region=cn)
+优点智能 | 2020/5/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydhome.switch.s2) | [说明书](https://home.mi.com/views/introduction.html?model=ydhome.switch.s2&region=cn)
 
 ![ydhome.switch.s2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047723291puq3Tozr.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=615ptEmTcfjzDl74L83uR9WsGFE=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 7z三键智能开关
 
-其他品牌 | 2021/3/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gxhl.switch.7zsw13/) | [说明书](https://home.mi.com/views/introduction.html?model=gxhl.switch.7zsw13&region=cn)
+其他品牌 | 2021/3/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gxhl.switch.7zsw13) | [说明书](https://home.mi.com/views/introduction.html?model=gxhl.switch.7zsw13&region=cn)
 
 ![gxhl.switch.7zsw13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048939080sX81pSDw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nzEyXU36YyQW7i4f7U+P9zyzkSY=)
 

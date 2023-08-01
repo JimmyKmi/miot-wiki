@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 初心吸顶灯 A2001
 
-易来 Yeelight | 2020/6/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceil29/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceil29&region=cn)
+易来 Yeelight | 2020/6/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceil29) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceil29&region=cn)
 
 ![yeelink.light.ceil29](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047688324AlxAJqwF.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yIFvApWrcmWWi8Z2aDaIP0Jkpe4=)
 

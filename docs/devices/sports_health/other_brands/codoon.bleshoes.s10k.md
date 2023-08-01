@@ -9,7 +9,7 @@ description : ''
 ---
 # 咕咚智能跑鞋时尚10K
 
-其他品牌 | 2019/5/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=codoon.bleshoes.s10k/) | [说明书](https://home.mi.com/views/introduction.html?model=codoon.bleshoes.s10k&region=cn)
+其他品牌 | 2019/5/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=codoon.bleshoes.s10k) | [说明书](https://home.mi.com/views/introduction.html?model=codoon.bleshoes.s10k&region=cn)
 
 ![codoon.bleshoes.s10k](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870890133aQtsy7cl.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gk1VGvIWK1DV1TX3gxigSLSysZo=)
 

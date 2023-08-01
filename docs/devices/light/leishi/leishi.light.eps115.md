@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能北欧吸顶灯
 
-雷士 | 2020/7/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps115/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps115&region=cn)
+雷士 | 2020/7/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps115) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps115&region=cn)
 
 ![leishi.light.eps115](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047768740XA7Z2gDb.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RTA91LHz0nZYeRNrdzrIXk9Nzpw=)
 

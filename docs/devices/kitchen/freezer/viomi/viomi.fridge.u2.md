@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网冰箱iLive 对开门版
 
-云米 Viomi | 2019/5/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u2/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u2&region=cn)
+云米 Viomi | 2019/5/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u2) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u2&region=cn)
 
 ![viomi.fridge.u2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679073307606Zm26A3rN.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=m8VMar7O1vSuiuFAYBLJevgmN3Q=)
 

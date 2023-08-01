@@ -9,7 +9,7 @@ description : ''
 ---
 # 月影智能LED吊灯
 
-其他品牌 | 2023/2/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.light.y86161/) | [说明书](https://home.mi.com/views/introduction.html?model=giot.light.y86161&region=cn)
+其他品牌 | 2023/2/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.light.y86161) | [说明书](https://home.mi.com/views/introduction.html?model=giot.light.y86161&region=cn)
 
 ![giot.light.y86161](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b9e6f10af93d50e468fa81ebc62c1592_1659347026173.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4Or+jnr3iN70MTOt/gmG/5oEZQk=)
 

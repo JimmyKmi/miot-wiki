@@ -9,7 +9,7 @@ description : ''
 ---
 # 艾美特移动式地暖
 
-艾美特 | 2019/11/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=air.heater.wda14/) | [说明书](https://home.mi.com/views/introduction.html?model=air.heater.wda14&region=cn)
+艾美特 | 2019/11/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=air.heater.wda14) | [说明书](https://home.mi.com/views/introduction.html?model=air.heater.wda14&region=cn)
 
 ![air.heater.wda14](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1571107255535Yp9g7srP.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Xq7JvGO5PR+gdU+e9ePF5XeQWmA=)
 

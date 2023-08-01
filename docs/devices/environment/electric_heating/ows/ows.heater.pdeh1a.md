@@ -9,7 +9,7 @@ description : ''
 ---
 # Focus电暖器
 
-欧伟士 | 2020/1/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ows.heater.pdeh1a/) | [说明书](https://home.mi.com/views/introduction.html?model=ows.heater.pdeh1a&region=cn)
+欧伟士 | 2020/1/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ows.heater.pdeh1a) | [说明书](https://home.mi.com/views/introduction.html?model=ows.heater.pdeh1a&region=cn)
 
 ![ows.heater.pdeh1a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1592880343306U1He18dc.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3KIHwxJI8ewcPAfE3MVb0M22jFc=)
 

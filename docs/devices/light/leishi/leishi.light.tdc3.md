@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能灯带Pro
 
-雷士 | 2023/5/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.tdc3/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.tdc3&region=cn)
+雷士 | 2023/5/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.tdc3) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.tdc3&region=cn)
 
 ![leishi.light.tdc3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0748c06506d300bb91b3ae7c9271c933_1681956040356.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6b84yQdwlDjTwqv7DyR8N+75/kc=)
 

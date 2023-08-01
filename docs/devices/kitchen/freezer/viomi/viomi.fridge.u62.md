@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI冰箱Super 2S（对开550）
 
-云米 Viomi | 2023/5/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u62/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u62&region=cn)
+云米 Viomi | 2023/5/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u62) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u62&region=cn)
 
 ![viomi.fridge.u62](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/41dccf66cd3789af512fbccd9fa5eaf9_1681114074543.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oqyIhzjr8B/LIS3gAbAkaMLIqmk=)
 

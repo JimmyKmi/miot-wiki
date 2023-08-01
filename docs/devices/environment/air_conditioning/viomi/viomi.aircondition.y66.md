@@ -9,7 +9,7 @@ description : ''
 ---
 # iCool 2 Max 2P
 
-云米 Viomi | 2021/3/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y66/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y66&region=cn)
+云米 Viomi | 2021/3/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y66) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y66&region=cn)
 
 ![viomi.aircondition.y66](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047842197v8hByTaB.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=OjrVLMJxnEyJ9d64EQV+bJX2+L4=)
 

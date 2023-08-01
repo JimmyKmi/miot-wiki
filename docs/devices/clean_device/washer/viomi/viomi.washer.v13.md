@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米洗烘一体机Neo（10kg）
 
-云米 Viomi | 2020/4/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.v13/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.v13&region=cn)
+云米 Viomi | 2020/4/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.v13) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.v13&region=cn)
 
 ![viomi.washer.v13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_158432807220534QHEUS9.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nyDygHm3jNYo3XJ7uxySie12u7s=)
 

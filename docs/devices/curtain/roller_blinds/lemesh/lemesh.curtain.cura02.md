@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景开合电机WIFI S2版
 
-情景mesh芯片 | 2022/11/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.curtain.cura02/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.curtain.cura02&region=cn)
+情景mesh芯片 | 2022/11/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.curtain.cura02) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.curtain.cura02&region=cn)
 
 ![lemesh.curtain.cura02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/27d27b164bfb8b27b43300357648cc31_1663748914730.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XYZU9C0Y4nkZ2l+O9u+1OHeQNGA=)
 

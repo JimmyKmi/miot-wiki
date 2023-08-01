@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米泉先AI净水器 Super 2 Max
 
-云米 Viomi | 2022/11/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s32/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s32&region=cn)
+云米 Viomi | 2022/11/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s32) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s32&region=cn)
 
 ![yunmi.waterpuri.s32](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f424081904a21b33518ba564f7173021_1667197273640.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gRCTdgeCosCn96XRUrQR3umi+/U=)
 

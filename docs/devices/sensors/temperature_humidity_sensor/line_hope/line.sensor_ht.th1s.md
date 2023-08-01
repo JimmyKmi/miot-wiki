@@ -9,7 +9,7 @@ description : ''
 ---
 # LineHope温湿度传感器TH1S
 
-方舟鱼 LineHope | 2022/11/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.sensor_ht.th1s/) | [说明书](https://home.mi.com/views/introduction.html?model=line.sensor_ht.th1s&region=cn)
+方舟鱼 LineHope | 2022/11/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.sensor_ht.th1s) | [说明书](https://home.mi.com/views/introduction.html?model=line.sensor_ht.th1s&region=cn)
 
 ![line.sensor_ht.th1s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dbd66e54f2e329f356824318d2d05c03_1661421486508.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+5G1ZKRK5rMCy3qOqehsP8JnoYQ=)
 

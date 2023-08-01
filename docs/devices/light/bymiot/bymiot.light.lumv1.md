@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居调光灯（亮度）
 
-未来居 Bymiot | 2023/6/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.light.lumv1/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.light.lumv1&region=cn)
+未来居 Bymiot | 2023/6/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.light.lumv1) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.light.lumv1&region=cn)
 
 ![bymiot.light.lumv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c1b81233970b510c7060507f9672a67c_1684833824833.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Y3RUEs9e3PDX0UqPfnE2zW/+5fc=)
 

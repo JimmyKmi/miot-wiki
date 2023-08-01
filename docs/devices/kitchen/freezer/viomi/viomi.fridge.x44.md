@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能冰箱21Face2(对开门525L)智目版
 
-云米 Viomi | 2021/10/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x44/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x44&region=cn)
+云米 Viomi | 2021/10/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x44) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x44&region=cn)
 
 ![viomi.fridge.x44](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c38e58ca7268d6bb2435f836788012f1_1630554155382.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sGESHkL8A4vBnEhKA3OBym2EiSs=)
 

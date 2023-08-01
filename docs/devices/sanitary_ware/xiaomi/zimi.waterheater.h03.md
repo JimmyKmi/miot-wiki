@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能小厨宝7L S1
 
-小米/米家 | 2022/12/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.waterheater.h03/) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.waterheater.h03&region=cn)
+小米/米家 | 2022/12/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.waterheater.h03) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.waterheater.h03&region=cn)
 
 ![zimi.waterheater.h03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0846fd3e1413f4444c3179978dd580e4_1662534277897.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/0lHwqgGd5r8PSH4euGEHMvmNE0=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT-智能热敏炉青春版-chunmi
 
-知吾煮 Chunmi | 2019/1/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.tkv1/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.tkv1&region=cn)
+知吾煮 Chunmi | 2019/1/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.tkv1) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.tkv1&region=cn)
 
 ![chunmi.ihcooker.tkv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790475765875rs6VmyC.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YNPwCXcdN3AC57I1j204Fqg82a0=)
 

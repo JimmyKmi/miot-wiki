@@ -9,7 +9,7 @@ description : ''
 ---
 # 得邦照明LED 七彩球泡12W
 
-其他品牌 | 2021/3/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tospo1.light.bpzc02/) | [说明书](https://home.mi.com/views/introduction.html?model=tospo1.light.bpzc02&region=cn)
+其他品牌 | 2021/3/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tospo1.light.bpzc02) | [说明书](https://home.mi.com/views/introduction.html?model=tospo1.light.bpzc02&region=cn)
 
 ![tospo1.light.bpzc02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047766586SsmHSCqL.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9DVczWKNowxS4iUdN2hwEfhL/1o=)
 

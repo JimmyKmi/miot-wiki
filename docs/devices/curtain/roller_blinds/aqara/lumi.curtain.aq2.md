@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara智能管状电机
 
-绿米 Aqara | 2018/11/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.aq2/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.aq2&region=cn)
+绿米 Aqara | 2018/11/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.aq2) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.aq2&region=cn)
 
 ![lumi.curtain.aq2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069107539uoRYz1p5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QJdxkxoRBWgOcEV7Ta9imDblAbs=)
 

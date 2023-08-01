@@ -9,7 +9,7 @@ description : ''
 ---
 # 光峰激光家庭影院 A300
 
-峰米 Fengmi | 2021/4/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l206a/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l206a&region=cn)
+峰米 Fengmi | 2021/4/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l206a) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l206a&region=cn)
 
 ![fengmi.projector.l206a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/000c6d3c94186bc2931ee788800a1636_168_168尺寸.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3wFq93vfmbVEzu1Jz9A/wpsTFOg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能蒸汽小烤箱 12L
 
-小米/米家 | 2021/3/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.oven.x02/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.oven.x02&region=cn)
+小米/米家 | 2021/3/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.oven.x02) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.oven.x02&region=cn)
 
 ![chunmi.oven.x02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047769910d7btXeoE.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Azqy2X1lcSNbozsTKVaIiWr7G4U=)
 

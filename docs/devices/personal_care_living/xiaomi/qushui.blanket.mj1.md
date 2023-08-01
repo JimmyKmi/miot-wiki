@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能温控水暖毯
 
-小米/米家 | 2022/10/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.blanket.mj1/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.blanket.mj1&region=cn)
+小米/米家 | 2022/10/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.blanket.mj1) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.blanket.mj1&region=cn)
 
 ![qushui.blanket.mj1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6e1e2ac038f704b9d4afcea0a35c9fc7_1663122170608.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8V6/f6FtT5XAtuuyA+iGakVF/4A=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi路由器AX3000
 
-红米 | 2021/7/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.ra81/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.ra81&region=cn)
+红米 | 2021/7/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.ra81) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.ra81&region=cn)
 
 ![xiaomi.router.ra81](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a3f733941975be4976c485c2cb880bbe_1623744415032.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zQCFKUoBlPMzNWcbqsOs+fpG9lU=)
 

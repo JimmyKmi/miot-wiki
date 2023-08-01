@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网油烟机 Hurri2
 
-云米 Viomi | 2019/7/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.h3/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.h3&region=cn)
+云米 Viomi | 2019/7/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.h3) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.h3&region=cn)
 
 ![viomi.hood.h3](https://static.home.mi.com/app/image/get/file/developer_15591208746jn8p6ip.png)
 

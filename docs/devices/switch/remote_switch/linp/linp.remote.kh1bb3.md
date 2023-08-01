@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普无线开关KH1（三键）
 
-领普 | 2022/6/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.remote.kh1bb3/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.remote.kh1bb3&region=cn)
+领普 | 2022/6/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.remote.kh1bb3) | [说明书](https://home.mi.com/views/introduction.html?model=linp.remote.kh1bb3&region=cn)
 
 ![linp.remote.kh1bb3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bb119ea38ad3b87b6448d85347370a8d_1655773096694.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LEdZgd+DM5hCYwS3Di0r5NhgLSM=)
 

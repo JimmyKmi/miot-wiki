@@ -9,7 +9,7 @@ description : ''
 ---
 # 创达小台灯
 
-其他品牌 | 2023/6/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsoft.light.lite1/) | [说明书](https://home.mi.com/views/introduction.html?model=tsoft.light.lite1&region=cn)
+其他品牌 | 2023/6/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsoft.light.lite1) | [说明书](https://home.mi.com/views/introduction.html?model=tsoft.light.lite1&region=cn)
 
 ![tsoft.light.lite1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b7146a64ac1d5cf67447d94264e20d54_1685071788053.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=lR6A1FK5nVxotCaDKCPJ1TwH2wI=)
 

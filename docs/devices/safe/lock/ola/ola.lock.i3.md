@@ -9,7 +9,7 @@ description : ''
 ---
 # Ola智能木门锁Mars
 
-ola | 2019/7/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ola.lock.i3/) | [说明书](https://home.mi.com/views/introduction.html?model=ola.lock.i3&region=cn)
+ola | 2019/7/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ola.lock.i3) | [说明书](https://home.mi.com/views/introduction.html?model=ola.lock.i3&region=cn)
 
 ![ola.lock.i3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870890352YSQzyVIm.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dHJdKa5HOAaJRhTeVmoLV7xl4+g=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI电热水器Smart 2
 
-云米 Viomi | 2023/6/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e47/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e47&region=cn)
+云米 Viomi | 2023/6/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e47) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e47&region=cn)
 
 ![viomi.waterheater.e47](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ec593f6409e0a33dbccc522dd4b82eeb_1682320590254.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=H2lxCDv3Y1NlBIpoJ5Kt1Y5wRHs=)
 

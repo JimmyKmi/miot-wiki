@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米电视大师 82吋
 
-小米/米家 | 2020/10/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.4kh1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.4kh1&region=cn)
+小米/米家 | 2020/10/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.4kh1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.4kh1&region=cn)
 
 ![xiaomi.tv.4kh1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1599550459568NnQolHXe.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=x5mU3zfbeFfmLJ54KDoN86ZIcKg=)
 

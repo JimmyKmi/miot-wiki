@@ -9,7 +9,7 @@ description : ''
 ---
 # 金盾顶美智能浴霸
 
-其他品牌 | 2022/12/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jddm.bhf_light.yb0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=jddm.bhf_light.yb0a01&region=cn)
+其他品牌 | 2022/12/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jddm.bhf_light.yb0a01) | [说明书](https://home.mi.com/views/introduction.html?model=jddm.bhf_light.yb0a01&region=cn)
 
 ![jddm.bhf_light.yb0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/724ef2cb66fbacdd1008db3fd2612c78_1668242007772.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sBHvcXapny1WbMqA95AQLKcwQg8=)
 

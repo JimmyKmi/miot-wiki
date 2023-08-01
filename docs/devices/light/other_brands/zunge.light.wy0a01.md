@@ -9,7 +9,7 @@ description : ''
 ---
 # 尊阁皇冠智能灯
 
-其他品牌 | 2021/12/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zunge.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=zunge.light.wy0a01&region=cn)
+其他品牌 | 2021/12/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zunge.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=zunge.light.wy0a01&region=cn)
 
 ![zunge.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/295b2b11e74b6017edb4807afc9e4aae_1634631088166.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DT29SJ6qwpS3/8SLGjFjzZOxpKI=)
 

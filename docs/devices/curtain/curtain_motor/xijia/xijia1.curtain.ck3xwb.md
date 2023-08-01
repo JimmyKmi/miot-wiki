@@ -9,7 +9,7 @@ description : ''
 ---
 # 玺加智能窗帘C3
 
-玺加 | 2022/10/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xijia1.curtain.ck3xwb/) | [说明书](https://home.mi.com/views/introduction.html?model=xijia1.curtain.ck3xwb&region=cn)
+玺加 | 2022/10/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xijia1.curtain.ck3xwb) | [说明书](https://home.mi.com/views/introduction.html?model=xijia1.curtain.ck3xwb&region=cn)
 
 ![xijia1.curtain.ck3xwb](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/888cb4b8f439ea855e1ca5afd7cd0f32_1663749902475.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4Ofr2zrpKUtrVf2LsDOf/ouRTeA=)
 

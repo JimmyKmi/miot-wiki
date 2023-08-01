@@ -9,7 +9,7 @@ description : ''
 ---
 # 70迈智能行车助手
 
-70迈 | 2019/7/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midr.rv_mirror.m5/) | [说明书](https://home.mi.com/views/introduction.html?model=midr.rv_mirror.m5&region=cn)
+70迈 | 2019/7/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midr.rv_mirror.m5) | [说明书](https://home.mi.com/views/introduction.html?model=midr.rv_mirror.m5&region=cn)
 
 ![midr.rv_mirror.m5](https://static.home.mi.com/app/image/get/file/developer_1557132270gxkn05yj.png)
 

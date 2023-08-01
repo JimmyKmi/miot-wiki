@@ -9,7 +9,7 @@ description : ''
 ---
 # 峰米 X1 激光投影仪
 
-峰米 Fengmi | 2021/11/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l065f/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l065f&region=cn)
+峰米 Fengmi | 2021/11/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l065f) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l065f&region=cn)
 
 ![fengmi.projector.l065f](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/89afc5a3c31368382edd50da5db45273_1632452370914.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/E4xoiaSAzkoqGSuAYiAILZojs8=)
 

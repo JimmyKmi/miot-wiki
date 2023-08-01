@@ -9,7 +9,7 @@ description : ''
 ---
 # Ultra Smart智能跑鞋
 
-其他品牌 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=desay.bleshoes.s311/) | [说明书](https://home.mi.com/views/introduction.html?model=desay.bleshoes.s311&region=cn)
+其他品牌 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=desay.bleshoes.s311) | [说明书](https://home.mi.com/views/introduction.html?model=desay.bleshoes.s311&region=cn)
 
 ![desay.bleshoes.s311](https://static.home.mi.com/app/image/get/file/developer_1495097945l124azfr.png)
 

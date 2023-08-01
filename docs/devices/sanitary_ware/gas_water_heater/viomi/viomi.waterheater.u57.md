@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI零冷水燃气热水器Super
 
-云米 Viomi | 2022/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u57/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u57&region=cn)
+云米 Viomi | 2022/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u57) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u57&region=cn)
 
 ![viomi.waterheater.u57](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1655459231619i10pwgJk.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nTBCXDsbMAd8DfCYPRyqD/IpkrI=)
 

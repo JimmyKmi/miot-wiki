@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米智能灯
 
-苏米 | 2021/6/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a10/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a10&region=cn)
+苏米 | 2021/6/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a10) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a10&region=cn)
 
 ![xhuan.light.wy0a10](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069810320kPtCivhz.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=z5jzJbnmhQ9AkA7+K7GZDMw810A=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # TCL智睿吸顶灯
 
-TCL | 2020/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tcll.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=tcll.light.wy0a01&region=cn)
+TCL | 2020/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tcll.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=tcll.light.wy0a01&region=cn)
 
 ![tcll.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047809371S9d6WEtl.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vrWW0Wqhno2j4nZgVG+umHcBIJg=)
 

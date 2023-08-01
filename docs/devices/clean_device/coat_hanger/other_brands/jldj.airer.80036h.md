@@ -9,7 +9,7 @@ description : ''
 ---
 # H智能晾衣架
 
-其他品牌 | 2022/4/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jldj.airer.80036h/) | [说明书](https://home.mi.com/views/introduction.html?model=jldj.airer.80036h&region=cn)
+其他品牌 | 2022/4/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jldj.airer.80036h) | [说明书](https://home.mi.com/views/introduction.html?model=jldj.airer.80036h&region=cn)
 
 ![jldj.airer.80036h](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a05f1cacd8604230403529ceb680b8cf_1648111356680.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BVUyN7gUta389JCmIx6YThKJx84=)
 

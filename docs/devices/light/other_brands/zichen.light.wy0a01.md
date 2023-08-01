@@ -9,7 +9,7 @@ description : ''
 ---
 # 萧然全铜智能灯
 
-其他品牌 | 2021/2/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zichen.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=zichen.light.wy0a01&region=cn)
+其他品牌 | 2021/2/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zichen.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=zichen.light.wy0a01&region=cn)
 
 ![zichen.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047902211DzvxA8uV.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XFaSUPb0BL2ThxjQxpuV4jbroQg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小鲸洗智能一体式马桶坐便器ZERO
 
-小鲸洗 | 2019/10/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xjx.toilet.zero/) | [说明书](https://home.mi.com/views/introduction.html?model=xjx.toilet.zero&region=cn)
+小鲸洗 | 2019/10/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xjx.toilet.zero) | [说明书](https://home.mi.com/views/introduction.html?model=xjx.toilet.zero&region=cn)
 
 ![xjx.toilet.zero](https://static.home.mi.com/app/image/get/file/developer_1571619764w5nlumaj.png)
 

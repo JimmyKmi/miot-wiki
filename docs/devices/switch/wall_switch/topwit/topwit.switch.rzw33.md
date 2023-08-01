@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能开关零火三位（Mesh）
 
-Topwit | 2023/7/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.switch.rzw33/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.switch.rzw33&region=cn)
+Topwit | 2023/7/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.switch.rzw33) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.switch.rzw33&region=cn)
 
 ![topwit.switch.rzw33](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a1ae204cb941d13eec5530df34c87068_1688633342186.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/cHsKnsJY9itt/pxEpoTIOHBNFU=)
 

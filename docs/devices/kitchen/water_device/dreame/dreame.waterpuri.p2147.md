@@ -9,7 +9,7 @@ description : ''
 ---
 # 追觅反渗透净水机S6
 
-追觅 | 2022/12/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.waterpuri.p2147/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.waterpuri.p2147&region=cn)
+追觅 | 2022/12/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.waterpuri.p2147) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.waterpuri.p2147&region=cn)
 
 ![dreame.waterpuri.p2147](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c95d17c26e88e4e3773a85a896db0f2b_1644461277415.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/ygRfMQwLswjcCbkPMSZi8EbDzw=)
 

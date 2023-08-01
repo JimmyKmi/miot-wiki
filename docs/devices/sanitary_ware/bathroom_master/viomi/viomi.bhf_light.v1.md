@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网浴霸
 
-云米 Viomi | 2019/4/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.bhf_light.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.bhf_light.v1&region=cn)
+云米 Viomi | 2019/4/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.bhf_light.v1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.bhf_light.v1&region=cn)
 
 ![viomi.bhf_light.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870987108jankWYXd.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=McxFCbqUlmcEBz190VToRFyEJ/A=)
 

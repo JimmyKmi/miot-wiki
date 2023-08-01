@@ -9,7 +9,7 @@ description : ''
 ---
 # 追觅W10
 
-追觅 | 2021/8/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.p2027/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.p2027&region=cn)
+追觅 | 2021/8/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.p2027) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.p2027&region=cn)
 
 ![dreame.vacuum.p2027](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cdb7afb7c20a33dd61dc9494def757dd_1623029849041.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=O7UfabqbGQR2aWVAG+B81QvMz40=)
 

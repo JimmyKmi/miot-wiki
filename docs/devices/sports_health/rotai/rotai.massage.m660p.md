@@ -9,7 +9,7 @@ description : ''
 ---
 # 摩摩哒M660Pro暖芯椅
 
-摩摩哒 | 2023/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.massage.m660p/) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.massage.m660p&region=cn)
+摩摩哒 | 2023/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.massage.m660p) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.massage.m660p&region=cn)
 
 ![rotai.massage.m660p](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f1ecbd6f7af61d8784eac0cf96b72b3f_1687318392381.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0vm5caKkORXo+PfcbrctdTkmhGk=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 科创者智能窗帘电机C5
 
-其他品牌 | 2023/6/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.curtain.ctw2/) | [说明书](https://home.mi.com/views/introduction.html?model=bean.curtain.ctw2&region=cn)
+其他品牌 | 2023/6/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.curtain.ctw2) | [说明书](https://home.mi.com/views/introduction.html?model=bean.curtain.ctw2&region=cn)
 
 ![bean.curtain.ctw2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9f252ecf57f67ab8e9ff6c3fdb478dc8_1683603938557.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gqSFoZquipLW2qpH9/A7WsEmugU=)
 

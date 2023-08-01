@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网燃气热水器VGW1822 18L
 
-云米 Viomi | 2021/4/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u51/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u51&region=cn)
+云米 Viomi | 2021/4/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u51) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u51&region=cn)
 
 ![viomi.waterheater.u51](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047903098s5Qqvg5O.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LWBkEW7drV4DJw4VI9UsXRllbA8=)
 

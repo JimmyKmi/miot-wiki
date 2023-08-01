@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家石英表
 
-小米/米家 | 2018/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=inshow.watch.w1/) | [说明书](https://home.mi.com/views/introduction.html?model=inshow.watch.w1&region=cn)
+小米/米家 | 2018/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=inshow.watch.w1) | [说明书](https://home.mi.com/views/introduction.html?model=inshow.watch.w1&region=cn)
 
 ![inshow.watch.w1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679067441915Qec1TXlT.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VaYBvM6P8uFu7Be+9RA3v5hUh/0=)
 

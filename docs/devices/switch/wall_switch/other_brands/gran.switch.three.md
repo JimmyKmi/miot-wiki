@@ -9,7 +9,7 @@ description : ''
 ---
 # 无线物联零火三键开关
 
-其他品牌 | 2021/10/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gran.switch.three/) | [说明书](https://home.mi.com/views/introduction.html?model=gran.switch.three&region=cn)
+其他品牌 | 2021/10/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gran.switch.three) | [说明书](https://home.mi.com/views/introduction.html?model=gran.switch.three&region=cn)
 
 ![gran.switch.three](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070336747fF10fX7a.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=pxF8wKsg46sZxpJlvRRZZWpMs3c=)
 

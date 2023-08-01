@@ -9,7 +9,7 @@ description : ''
 ---
 # 智睿吸顶灯 北欧款 客厅80W
 
-飞利浦 | 2020/2/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.mceil/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.mceil&region=cn)
+飞利浦 | 2020/2/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.mceil) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.mceil&region=cn)
 
 ![philips.light.mceil](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047687401JEIWSMmV.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qtLLeK7Rvp+Y1FCd9xfbciWCJC0=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能温湿度计3
 
-小米/米家 | 2022/12/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.sensor_ht.t9/) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.sensor_ht.t9&region=cn)
+小米/米家 | 2022/12/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.sensor_ht.t9) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.sensor_ht.t9&region=cn)
 
 ![miaomiaoce.sensor_ht.t9](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e74381666cbe00560a9597c9d55ec111_1664180153032.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mIusn6XQyAkCLeVeLj++feX0l8c=)
 

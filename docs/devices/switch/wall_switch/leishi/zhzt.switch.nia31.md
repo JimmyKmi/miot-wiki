@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士单火智能开关（三位）
 
-雷士 | 2022/4/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhzt.switch.nia31/) | [说明书](https://home.mi.com/views/introduction.html?model=zhzt.switch.nia31&region=cn)
+雷士 | 2022/4/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhzt.switch.nia31) | [说明书](https://home.mi.com/views/introduction.html?model=zhzt.switch.nia31&region=cn)
 
 ![zhzt.switch.nia31](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1b0decbfaddf6f3cca10e495f3944c89_1647417376510.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=a/AvdxyAFJYLAmvOoxiqwbNyseE=)
 

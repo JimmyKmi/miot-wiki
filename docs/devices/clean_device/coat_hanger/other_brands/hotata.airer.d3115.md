@@ -9,7 +9,7 @@ description : ''
 ---
 # 好太太晾衣机D-3115S
 
-其他品牌 | 2021/3/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hotata.airer.d3115/) | [说明书](https://home.mi.com/views/introduction.html?model=hotata.airer.d3115&region=cn)
+其他品牌 | 2021/3/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hotata.airer.d3115) | [说明书](https://home.mi.com/views/introduction.html?model=hotata.airer.d3115&region=cn)
 
 ![hotata.airer.d3115](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047807027qlBw8AEO.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MvI3PxESq+5vU4q4S681JbMGeuQ=)
 

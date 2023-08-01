@@ -9,7 +9,7 @@ description : ''
 ---
 # 蓝搏(LANBOO)智能窗帘
 
-其他品牌 | 2020/4/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.lb100a/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.lb100a&region=cn)
+其他品牌 | 2020/4/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.lb100a) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.lb100a&region=cn)
 
 ![babai.curtain.lb100a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1586163358480aUGeU1WJ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nah6Dqj9jos5v5rfkQ9+X8kTvOw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 南福智能开关 NIF-D2K4
 
-其他品牌 | 2022/10/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nanfu.remote.nl2v4/) | [说明书](https://home.mi.com/views/introduction.html?model=nanfu.remote.nl2v4&region=cn)
+其他品牌 | 2022/10/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nanfu.remote.nl2v4) | [说明书](https://home.mi.com/views/introduction.html?model=nanfu.remote.nl2v4&region=cn)
 
 ![nanfu.remote.nl2v4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e259d84dc0be32253a3562d89e9adefb_1660291779231.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5vu1EDrzzjoPcZh5X6Bv+S5rulg=)
 

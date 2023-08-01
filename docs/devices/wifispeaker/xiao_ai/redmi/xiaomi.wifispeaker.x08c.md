@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi小爱触屏音箱 8
 
-红米 | 2020/4/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.x08c/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.x08c&region=cn)
+红米 | 2020/4/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.x08c) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.x08c&region=cn)
 
 ![xiaomi.wifispeaker.x08c](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047689391SVJDC6rC.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RScWKfngt09sELC0EoSMahzhIRg=)
 

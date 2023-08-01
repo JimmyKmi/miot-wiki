@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网电热水器Air（60L双胆语音）
 
-云米 Viomi | 2019/7/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e3/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e3&region=cn)
+云米 Viomi | 2019/7/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e3) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e3&region=cn)
 
 ![viomi.waterheater.e3](https://static.home.mi.com/app/image/get/file/developer_15610207095am1kktt.png)
 

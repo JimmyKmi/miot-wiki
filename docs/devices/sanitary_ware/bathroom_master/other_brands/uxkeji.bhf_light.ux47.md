@@ -9,7 +9,7 @@ description : ''
 ---
 # 阳光智能浴霸
 
-其他品牌 | 2022/8/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uxkeji.bhf_light.ux47/) | [说明书](https://home.mi.com/views/introduction.html?model=uxkeji.bhf_light.ux47&region=cn)
+其他品牌 | 2022/8/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uxkeji.bhf_light.ux47) | [说明书](https://home.mi.com/views/introduction.html?model=uxkeji.bhf_light.ux47&region=cn)
 
 ![uxkeji.bhf_light.ux47](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cd61042ae3c7d5e464f3d64e138ee726_1651838316854.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DJnX8jHjN0vKOwBkFduCqxceT9Q=)
 

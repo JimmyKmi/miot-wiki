@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家夜灯2 蓝牙版
 
-小米/米家 | 2020/4/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.nl1/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.nl1&region=cn)
+小米/米家 | 2020/4/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.nl1) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.nl1&region=cn)
 
 ![yeelink.light.nl1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1578908339254wvnIIMJ8.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;amp;amp;amp;amp;amp;amp;amp;Expires=9223372036854775807&amp;amp;amp;amp;amp;amp;amp;amp;Signature=iyOji+2muWDI3wMk1QUd97xNnts=)
 

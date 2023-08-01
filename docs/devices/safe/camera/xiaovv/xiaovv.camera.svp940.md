@@ -9,7 +9,7 @@ description : ''
 ---
 # safeV户外云台摄像机 Pro 2.5K
 
-xiaovv | 2022/10/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.svp940/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.svp940&region=cn)
+xiaovv | 2022/10/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.svp940) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.svp940&region=cn)
 
 ![xiaovv.camera.svp940](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f2e3d5b01bc48f2b6c56e0adafab25d7_1662466625799.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wiMyynD1a4j16NOp62/6TWTVGXM=)
 

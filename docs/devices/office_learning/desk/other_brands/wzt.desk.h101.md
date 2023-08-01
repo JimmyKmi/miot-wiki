@@ -9,7 +9,7 @@ description : ''
 ---
 # AIMIZO爱美卓智能升降桌
 
-其他品牌 | 2023/6/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wzt.desk.h101/) | [说明书](https://home.mi.com/views/introduction.html?model=wzt.desk.h101&region=cn)
+其他品牌 | 2023/6/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wzt.desk.h101) | [说明书](https://home.mi.com/views/introduction.html?model=wzt.desk.h101&region=cn)
 
 ![wzt.desk.h101](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0e53b22539ce5303cfb1278003501b7f_1685513295256.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0rJCJ9PhF+weAPhAgWDN2hk13zA=)
 

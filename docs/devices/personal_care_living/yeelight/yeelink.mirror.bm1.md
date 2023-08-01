@@ -9,7 +9,7 @@ description : ''
 ---
 # diiib 大白温暖你&Yeelight智能美妆镜柜
 
-易来 Yeelight | 2019/12/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.mirror.bm1/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.mirror.bm1&region=cn)
+易来 Yeelight | 2019/12/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.mirror.bm1) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.mirror.bm1&region=cn)
 
 ![yeelink.mirror.bm1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047655715ZMdiy7dJ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oSJhtWiqQcAHOWus8ks2s0reO9c=)
 

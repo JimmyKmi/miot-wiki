@@ -9,7 +9,7 @@ description : ''
 ---
 # 自定义遥控
 
-小米/米家 | 2018/9/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miir.remote.ir01/) | [说明书](https://home.mi.com/views/introduction.html?model=miir.remote.ir01&region=cn)
+小米/米家 | 2018/9/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miir.remote.ir01) | [说明书](https://home.mi.com/views/introduction.html?model=miir.remote.ir01&region=cn)
 
 ![miir.remote.ir01](https://static.home.mi.com/app/image/get/file/developer_153171341834p576nh.png)
 

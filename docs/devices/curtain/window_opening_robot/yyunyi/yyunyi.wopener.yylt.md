@@ -9,7 +9,7 @@ description : ''
 ---
 # 云仪链条开窗器
 
-云仪智能 | 2022/6/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyunyi.wopener.yylt/) | [说明书](https://home.mi.com/views/introduction.html?model=yyunyi.wopener.yylt&region=cn)
+云仪智能 | 2022/6/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyunyi.wopener.yylt) | [说明书](https://home.mi.com/views/introduction.html?model=yyunyi.wopener.yylt&region=cn)
 
 ![yyunyi.wopener.yylt](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048027094gQguQvka.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Xloopp/3pCialZroRXuxEvziePU=)
 

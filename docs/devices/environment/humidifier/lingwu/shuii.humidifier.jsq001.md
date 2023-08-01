@@ -9,7 +9,7 @@ description : ''
 ---
 # 零雾加湿器
 
-零雾 | 2018/12/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shuii.humidifier.jsq001/) | [说明书](https://home.mi.com/views/introduction.html?model=shuii.humidifier.jsq001&region=cn)
+零雾 | 2018/12/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shuii.humidifier.jsq001) | [说明书](https://home.mi.com/views/introduction.html?model=shuii.humidifier.jsq001&region=cn)
 
 ![shuii.humidifier.jsq001](https://static.home.mi.com/app/image/get/file/developer_1530602914ogibzr6r.png)
 

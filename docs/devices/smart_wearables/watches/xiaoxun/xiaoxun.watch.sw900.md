@@ -9,7 +9,7 @@ description : ''
 ---
 # 小寻AI学习手表MAX Pro
 
-米兔小寻 | 2020/1/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw900/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw900&region=cn)
+米兔小寻 | 2020/1/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw900) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw900&region=cn)
 
 ![xiaoxun.watch.sw900](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871037657wSluaeud.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6OCrjMbHni/BTYt8v7CoKhHCVV0=)
 

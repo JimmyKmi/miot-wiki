@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara动静贴T1
 
-绿米 Aqara | 2021/3/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.vibration.agl01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.vibration.agl01&region=cn)
+绿米 Aqara | 2021/3/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.vibration.agl01) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.vibration.agl01&region=cn)
 
 ![lumi.vibration.agl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1585557843300pq5uL7Oz.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rsdT4gjrk72iWuh+BbYR/FbIPws=)
 

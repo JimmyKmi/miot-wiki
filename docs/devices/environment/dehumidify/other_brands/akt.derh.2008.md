@@ -9,7 +9,7 @@ description : ''
 ---
 # FLE-2008EW
 
-其他品牌 | 2022/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=akt.derh.2008/) | [说明书](https://home.mi.com/views/introduction.html?model=akt.derh.2008&region=cn)
+其他品牌 | 2022/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=akt.derh.2008) | [说明书](https://home.mi.com/views/introduction.html?model=akt.derh.2008&region=cn)
 
 ![akt.derh.2008](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6e4eabcf381d3807b5ae51dcf8202977_1649831803332.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8mypgCLzpQGLBlX4QiHz3UGeUjk=)
 

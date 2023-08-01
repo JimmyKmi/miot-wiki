@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米网络收音机增强版
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.radio.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.radio.v2&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.radio.v2) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.radio.v2&region=cn)
 
 ![chuangmi.radio.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679066513267ycxqx7bH.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZrhFJm6Ov48hr+id4RjOFGmmyEY=)
 

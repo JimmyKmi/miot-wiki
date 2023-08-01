@@ -9,7 +9,7 @@ description : ''
 ---
 # 康佳按摩椅KZ-RH6699
 
-其他品牌 | 2022/7/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jare.massage.rh6699/) | [说明书](https://home.mi.com/views/introduction.html?model=jare.massage.rh6699&region=cn)
+其他品牌 | 2022/7/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jare.massage.rh6699) | [说明书](https://home.mi.com/views/introduction.html?model=jare.massage.rh6699&region=cn)
 
 ![jare.massage.rh6699](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0bf386d6f53d36dd4b4088c2ee434143_1654134305349.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=kOYQrN8kOff2gSV6hmk6FFi/rYs=)
 

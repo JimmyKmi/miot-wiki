@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米VRF空调网关
 
-苏米 | 2022/4/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.gateway.sm/) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.gateway.sm&region=cn)
+苏米 | 2022/4/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.gateway.sm) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.gateway.sm&region=cn)
 
 ![qdhkl.gateway.sm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4c5c68700920c4c59aa9d70ac30e8a54_1648800394796.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=f8Xm4ApliXHPL3owLd2FRVwGyZM=)
 

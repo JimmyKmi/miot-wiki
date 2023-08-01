@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能调光驱动
 
-Topwit | 2023/7/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.tsl03/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.tsl03&region=cn)
+Topwit | 2023/7/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.tsl03) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.tsl03&region=cn)
 
 ![topwit.light.tsl03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/74b74fe195139e7b388e91091588c902_1687751214062.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zgG74NX3w70yiOAQO41rG8jrVug=)
 

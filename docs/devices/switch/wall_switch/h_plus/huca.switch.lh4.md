@@ -9,7 +9,7 @@ description : ''
 ---
 # H+零火四键开关
 
-H+ | 2023/3/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huca.switch.lh4/) | [说明书](https://home.mi.com/views/introduction.html?model=huca.switch.lh4&region=cn)
+H+ | 2023/3/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huca.switch.lh4) | [说明书](https://home.mi.com/views/introduction.html?model=huca.switch.lh4&region=cn)
 
 ![huca.switch.lh4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a739685c7ec0bd8fc45c6c609632e60e_1669791708266.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jJMHgp8BpGPqLxyx3h96JFElsjc=)
 

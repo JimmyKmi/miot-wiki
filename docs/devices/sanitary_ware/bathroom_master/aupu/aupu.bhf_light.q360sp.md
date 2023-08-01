@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥普空气管家浴霸Q360S-Pro
 
-奥普 AUPU | 2022/8/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.q360sp/) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.q360sp&region=cn)
+奥普 AUPU | 2022/8/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.q360sp) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.q360sp&region=cn)
 
 ![aupu.bhf_light.q360sp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5019b8eff56bcb8dec41bf165acef435_1657008738222.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GFFoVq63rEQwXaPn2elBdvjPF8I=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # PD通断器(WiFi)
 
-其他品牌 | 2023/5/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wfxx.relay.asdasd/) | [说明书](https://home.mi.com/views/introduction.html?model=wfxx.relay.asdasd&region=cn)
+其他品牌 | 2023/5/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wfxx.relay.asdasd) | [说明书](https://home.mi.com/views/introduction.html?model=wfxx.relay.asdasd&region=cn)
 
 ![wfxx.relay.asdasd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cde7c21db650028314db5b9a6dfbd82a_1681461459873.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=55aXTNDHLnVc9357bYCgjzYW96Q=)
 

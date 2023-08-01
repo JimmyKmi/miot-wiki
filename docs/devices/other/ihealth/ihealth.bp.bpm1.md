@@ -9,7 +9,7 @@ description : ''
 ---
 # iHealth血压计
 
-iHealth | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ihealth.bp.bpm1/) | [说明书](https://home.mi.com/views/introduction.html?model=ihealth.bp.bpm1&region=cn)
+iHealth | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ihealth.bp.bpm1) | [说明书](https://home.mi.com/views/introduction.html?model=ihealth.bp.bpm1&region=cn)
 
 ![ihealth.bp.bpm1](https://static.home.mi.com/app/image/get/file/developer_1462515226ycodsaez.png)
 

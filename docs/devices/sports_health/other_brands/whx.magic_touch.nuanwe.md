@@ -9,7 +9,7 @@ description : ''
 ---
 # 带趣智能护胃带
 
-其他品牌 | 2023/7/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=whx.magic_touch.nuanwe/) | [说明书](https://home.mi.com/views/introduction.html?model=whx.magic_touch.nuanwe&region=cn)
+其他品牌 | 2023/7/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=whx.magic_touch.nuanwe) | [说明书](https://home.mi.com/views/introduction.html?model=whx.magic_touch.nuanwe&region=cn)
 
 ![whx.magic_touch.nuanwe](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ff4ccdfa502a03704748b810fe8e6975_1680574159313.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5Fyxv2DfXqSBdBdjyIUzWik+bOg=)
 

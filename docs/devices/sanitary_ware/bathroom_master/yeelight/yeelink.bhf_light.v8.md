@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 智能暖悦浴霸 A1
 
-易来 Yeelight | 2021/5/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.bhf_light.v8/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.bhf_light.v8&region=cn)
+易来 Yeelight | 2021/5/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.bhf_light.v8) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.bhf_light.v8&region=cn)
 
 ![yeelink.bhf_light.v8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047903544kl4ixP3M.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=W3QkZa2zA5mdScCRZeb93InIW6o=)
 

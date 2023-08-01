@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT 智能净水器 600G
 
-TOKIT | 2020/5/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.waterpuri.tkj1/) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.waterpuri.tkj1&region=cn)
+TOKIT | 2020/5/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.waterpuri.tkj1) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.waterpuri.tkj1&region=cn)
 
 ![tokit.waterpuri.tkj1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870952396bbGqxW7C.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CeRVcJ4LDrdiarHuj5l3GuxEGr0=)
 

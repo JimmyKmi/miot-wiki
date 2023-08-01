@@ -9,7 +9,7 @@ description : ''
 ---
 # 湃妮迷你宠物饮水机Pro
 
-湃妮 | 2021/9/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skyrc.pet_waterer.fres2/) | [说明书](https://home.mi.com/views/introduction.html?model=skyrc.pet_waterer.fres2&region=cn)
+湃妮 | 2021/9/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skyrc.pet_waterer.fres2) | [说明书](https://home.mi.com/views/introduction.html?model=skyrc.pet_waterer.fres2&region=cn)
 
 ![skyrc.pet_waterer.fres2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048027846PLydKfPf.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=V4l9JKckE3Tf17z4MWRrpfrfoWs=)
 

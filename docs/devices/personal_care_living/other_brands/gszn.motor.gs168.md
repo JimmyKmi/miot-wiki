@@ -9,7 +9,7 @@ description : ''
 ---
 # 国顺通用控制器
 
-其他品牌 | 2023/1/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gszn.motor.gs168/) | [说明书](https://home.mi.com/views/introduction.html?model=gszn.motor.gs168&region=cn)
+其他品牌 | 2023/1/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gszn.motor.gs168) | [说明书](https://home.mi.com/views/introduction.html?model=gszn.motor.gs168&region=cn)
 
 ![gszn.motor.gs168](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a8de63aac58e3f996409b49b31ae828a_1668407202088.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=iScgnR5aViO+hykkVLWr7FE6wYw=)
 

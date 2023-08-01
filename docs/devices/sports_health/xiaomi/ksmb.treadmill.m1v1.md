@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家跑步机
 
-小米/米家 | 2022/6/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ksmb.treadmill.m1v1/) | [说明书](https://home.mi.com/views/introduction.html?model=ksmb.treadmill.m1v1&region=cn)
+小米/米家 | 2022/6/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ksmb.treadmill.m1v1) | [说明书](https://home.mi.com/views/introduction.html?model=ksmb.treadmill.m1v1&region=cn)
 
 ![ksmb.treadmill.m1v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047957722IHxgXh1S.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VqIxtULtBQTF8mf0eRvIqxLbiq8=)
 

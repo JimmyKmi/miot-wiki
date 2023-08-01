@@ -9,7 +9,7 @@ description : ''
 ---
 # 贝尔森智能门锁JW-P
 
-其他品牌 | 2021/1/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jiwu.lock.jwp01/) | [说明书](https://home.mi.com/views/introduction.html?model=jiwu.lock.jwp01&region=cn)
+其他品牌 | 2021/1/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jiwu.lock.jwp01) | [说明书](https://home.mi.com/views/introduction.html?model=jiwu.lock.jwp01&region=cn)
 
 ![jiwu.lock.jwp01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071858113Df2lPoCW.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YCmeLUt2Gji9SYUuUWf7sskGFig=)
 

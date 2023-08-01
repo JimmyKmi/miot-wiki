@@ -9,7 +9,7 @@ description : ''
 ---
 # 单轨一体化电动窗帘
 
-其他品牌 | 2021/10/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gxdz.curtain.dg168/) | [说明书](https://home.mi.com/views/introduction.html?model=gxdz.curtain.dg168&region=cn)
+其他品牌 | 2021/10/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gxdz.curtain.dg168) | [说明书](https://home.mi.com/views/introduction.html?model=gxdz.curtain.dg168&region=cn)
 
 ![gxdz.curtain.dg168](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069183152zFIOIpsu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=R37nBCX9Vh3UVsvr570axFlOK7Y=)
 

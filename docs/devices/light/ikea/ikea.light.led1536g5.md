@@ -9,7 +9,7 @@ description : ''
 ---
 # 宜家 E14 调温灯
 
-宜家 Ikea | 2019/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ikea.light.led1536g5/) | [说明书](https://home.mi.com/views/introduction.html?model=ikea.light.led1536g5&region=cn)
+宜家 Ikea | 2019/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ikea.light.led1536g5) | [说明书](https://home.mi.com/views/introduction.html?model=ikea.light.led1536g5&region=cn)
 
 ![ikea.light.led1536g5](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870987678omDYkWtH.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=z0bRJWhbXfJg/nU98csa2allJ9I=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小松鼠热泵温控器
 
-其他品牌 | 2022/9/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=disen.airrtc.rebeng/) | [说明书](https://home.mi.com/views/introduction.html?model=disen.airrtc.rebeng&region=cn)
+其他品牌 | 2022/9/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=disen.airrtc.rebeng) | [说明书](https://home.mi.com/views/introduction.html?model=disen.airrtc.rebeng&region=cn)
 
 ![disen.airrtc.rebeng](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/07eb4ab694b081d3481f875f8509c94d_1660701383478.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=h9K8+22faPuz0VYmADl2XsxdA5o=)
 

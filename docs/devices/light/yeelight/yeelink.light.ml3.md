@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 明装色温筒灯M1
 
-易来 Yeelight | 2020/11/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ml3/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ml3&region=cn)
+易来 Yeelight | 2020/11/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ml3) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ml3&region=cn)
 
 ![yeelink.light.ml3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047769236nROlhtHr.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=X4fYBjB5DHRiXNg+VodjfK+zvG8=)
 

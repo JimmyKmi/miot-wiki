@@ -9,7 +9,7 @@ description : ''
 ---
 # 科掌门智能卷帘门控制器
 
-其他品牌 | 2020/3/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aice.motor.kzmu3/) | [说明书](https://home.mi.com/views/introduction.html?model=aice.motor.kzmu3&region=cn)
+其他品牌 | 2020/3/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aice.motor.kzmu3) | [说明书](https://home.mi.com/views/introduction.html?model=aice.motor.kzmu3&region=cn)
 
 ![aice.motor.kzmu3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1582265119298FczNGSsO.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;amp;amp;Expires=9223372036854775807&amp;amp;amp;Signature=LlqqiC5AVpqQMx1WBAdn+ObB71k=)
 

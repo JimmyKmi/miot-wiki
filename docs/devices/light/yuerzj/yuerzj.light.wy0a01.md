@@ -9,7 +9,7 @@ description : ''
 ---
 # 鱼儿智家天空灯
 
-鱼儿智家 | 2023/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yuerzj.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=yuerzj.light.wy0a01&region=cn)
+鱼儿智家 | 2023/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yuerzj.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=yuerzj.light.wy0a01&region=cn)
 
 ![yuerzj.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e2b47999d479c8cd5cbbdfa679f45696_1681871432987.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=EQrlP25m+6V35SBPKtp5c70QzW4=)
 

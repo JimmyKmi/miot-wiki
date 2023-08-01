@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米净水器H800G
 
-小米/米家 | 2020/12/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.waterpuri.800f3/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.waterpuri.800f3&region=cn)
+小米/米家 | 2020/12/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.waterpuri.800f3) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.waterpuri.800f3&region=cn)
 
 ![chunmi.waterpuri.800f3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047723888OCLvwPNN.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5X+IcAdzxitIxR8LwE7EXfwocvc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 舍见智能墙壁开关（三键）
 
-西顿 Cdn | 2022/5/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.switch.x1msl3/) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.switch.x1msl3&region=cn)
+西顿 Cdn | 2022/5/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.switch.x1msl3) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.switch.x1msl3&region=cn)
 
 ![cdn.switch.x1msl3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6882139d091bc788e3b62be5afb876b8_1648871251504.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wRKDgOse+YRj5u9/qSQquhKORTo=)
 

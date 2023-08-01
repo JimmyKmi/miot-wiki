@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米电视 EA Pro
 
-小米/米家 | 2022/7/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.eaprh1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.eaprh1&region=cn)
+小米/米家 | 2022/7/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.eaprh1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.eaprh1&region=cn)
 
 ![xiaomi.tv.eaprh1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/55e1643e5ee68b86891ab1eee2729d94_1645165539577.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yKKAE0E6dGkGv7RU/6ShjyNrwyA=)
 

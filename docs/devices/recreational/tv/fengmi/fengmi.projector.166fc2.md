@@ -9,7 +9,7 @@ description : ''
 ---
 # 峰米激光电视 Cinema 3
 
-峰米 Fengmi | 2023/5/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.166fc2/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.166fc2&region=cn)
+峰米 Fengmi | 2023/5/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.166fc2) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.166fc2&region=cn)
 
 ![fengmi.projector.166fc2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/23e1c7d6e6d3dd9bb80b168251d0688e_1675673723437.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=n1Dc6N5K1TKt5W/3V9fk/plYVCs=)
 

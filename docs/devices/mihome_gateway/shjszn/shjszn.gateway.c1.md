@@ -9,7 +9,7 @@ description : ''
 ---
 # 榉树智能锁网关
 
-榉树 | 2018/1/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shjszn.gateway.c1/) | [说明书](https://home.mi.com/views/introduction.html?model=shjszn.gateway.c1&region=cn)
+榉树 | 2018/1/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shjszn.gateway.c1) | [说明书](https://home.mi.com/views/introduction.html?model=shjszn.gateway.c1&region=cn)
 
 ![shjszn.gateway.c1](https://static.home.mi.com/app/image/get/file/developer_1508744914egy5l86r.png)
 

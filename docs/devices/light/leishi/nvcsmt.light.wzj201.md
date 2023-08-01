@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士枝型灯
 
-雷士 | 2022/1/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nvcsmt.light.wzj201/) | [说明书](https://home.mi.com/views/introduction.html?model=nvcsmt.light.wzj201&region=cn)
+雷士 | 2022/1/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nvcsmt.light.wzj201) | [说明书](https://home.mi.com/views/introduction.html?model=nvcsmt.light.wzj201&region=cn)
 
 ![nvcsmt.light.wzj201](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870954065E2vBeywn.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zx4k6uHw8DI4iuPhpk8h8VjyAaI=)
 

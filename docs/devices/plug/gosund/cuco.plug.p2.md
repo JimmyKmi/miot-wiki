@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智慧扩充插座P2
 
-Gosund / 电小酷 | 2022/8/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.p2/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.p2&region=cn)
+Gosund / 电小酷 | 2022/8/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.p2) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.p2&region=cn)
 
 ![cuco.plug.p2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8519c083d51679e9d4040cfad7c00a1c_1651744345847.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ub6AIYbE61u0ER3/zQIvaRPaWTo=)
 

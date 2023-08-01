@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能晾衣机-双机款
 
-好易点 | 2022/4/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyd.airer.m36a/) | [说明书](https://home.mi.com/views/introduction.html?model=hyd.airer.m36a&region=cn)
+好易点 | 2022/4/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyd.airer.m36a) | [说明书](https://home.mi.com/views/introduction.html?model=hyd.airer.m36a&region=cn)
 
 ![hyd.airer.m36a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a94319a34705d8c36e87528c41ffbc87_1641435828926.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wiOVht1iCIG7MLqndxVYI+1g+Ko=)
 

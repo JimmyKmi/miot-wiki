@@ -9,7 +9,7 @@ description : ''
 ---
 # Royal Pro(AI语音人感版)
 
-云米 Viomi | 2020/2/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v10/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v10&region=cn)
+云米 Viomi | 2020/2/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v10) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v10&region=cn)
 
 ![viomi.aircondition.v10](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047652149Cc94wzhe.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SCabo6435ZcKSGnVAjMALCJXQ7w=)
 

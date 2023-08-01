@@ -9,7 +9,7 @@ description : ''
 ---
 # 慧作巨蟹星灯带Pro
 
-华艺 | 2020/3/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.kin2/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.kin2&region=cn)
+华艺 | 2020/3/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.kin2) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.kin2&region=cn)
 
 ![huayi.light.kin2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790476545902qXd3VBe.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ve64uzeNeEMO9yW8JS5RlOUa8G8=)
 

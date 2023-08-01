@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米全自动智能门锁
 
-小米/米家 | 2020/9/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.t1/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.t1&region=cn)
+小米/米家 | 2020/9/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.t1) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.t1&region=cn)
 
 ![loock.lock.t1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071134795tFIehjeY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mtxvheNZpBBe7WE1lejltvK0fyw=)
 

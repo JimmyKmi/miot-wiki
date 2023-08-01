@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网浴霸 风暖双核版
 
-云米 Viomi | 2021/4/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.bhf_light.v6/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.bhf_light.v6&region=cn)
+云米 Viomi | 2021/4/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.bhf_light.v6) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.bhf_light.v6&region=cn)
 
 ![viomi.bhf_light.v6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048935576pgBM61Of.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8H124e2ZKw9TczKKqddh1EeDYIc=)
 

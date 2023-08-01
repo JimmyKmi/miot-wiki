@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米小白智能摄像机增强版
 
-小米/米家 | 2018/9/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.v6/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.v6&region=cn)
+小米/米家 | 2018/9/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.v6) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.v6&region=cn)
 
 ![chuangmi.camera.v6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069107722KkDnKONp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BDbIYAntxm6Yqzr8S/hbFMb1eTE=)
 

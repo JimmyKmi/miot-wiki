@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米空气净化器Pro
 
-小米/米家 | 2018/1/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airpurifier.v7/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airpurifier.v7&region=cn)
+小米/米家 | 2018/1/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airpurifier.v7) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airpurifier.v7&region=cn)
 
 ![zhimi.airpurifier.v7](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069106663OuzjA1O5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FaxrP+ps9lyx4da2cm5xxRvHTx4=)
 

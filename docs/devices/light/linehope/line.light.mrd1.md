@@ -9,7 +9,7 @@ description : ''
 ---
 # LineHope智能办公灯驱动DR3
 
-方舟鱼 LineHope | 2022/8/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.light.mrd1/) | [说明书](https://home.mi.com/views/introduction.html?model=line.light.mrd1&region=cn)
+方舟鱼 LineHope | 2022/8/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.light.mrd1) | [说明书](https://home.mi.com/views/introduction.html?model=line.light.mrd1&region=cn)
 
 ![line.light.mrd1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8f6f0e2be6509489cb9dccf4109a993b_1642469037282.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=m2U5pMkO14sfHpobEMAorJC1JGU=)
 

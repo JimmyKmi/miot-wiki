@@ -9,7 +9,7 @@ description : ''
 ---
 # znsn蓝牙Mesh单键开关(零火)
 
-ZNSN | 2022/12/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=znsn.switch.zg1m/) | [说明书](https://home.mi.com/views/introduction.html?model=znsn.switch.zg1m&region=cn)
+ZNSN | 2022/12/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=znsn.switch.zg1m) | [说明书](https://home.mi.com/views/introduction.html?model=znsn.switch.zg1m&region=cn)
 
 ![znsn.switch.zg1m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/68f2344b9d37cafd37c5efcee01e2fb3_1665395078412.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mGVHZj3skI6xCpfAyrxMofrHaKA=)
 

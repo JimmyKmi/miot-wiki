@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家冰箱 十字对开门606L 墨青岩
 
-小米/米家 | 2023/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.606b/) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.606b&region=cn)
+小米/米家 | 2023/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.606b) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.606b&region=cn)
 
 ![midjd6.fridge.606b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/707bf28c9c782ac6452063a00e31aa53_1680516973409.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Xm2uJZ1X3tEc2MvkRZW12zDTfcE=)
 

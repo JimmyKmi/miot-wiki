@@ -9,7 +9,7 @@ description : ''
 ---
 # 天语智能凉霸
 
-其他品牌 | 2023/5/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.ven_fan.tycold/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.ven_fan.tycold&region=cn)
+其他品牌 | 2023/5/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.ven_fan.tycold) | [说明书](https://home.mi.com/views/introduction.html?model=babai.ven_fan.tycold&region=cn)
 
 ![babai.ven_fan.tycold](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/51f687dab659efa795aefcc7a83bf738_1680601675110.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WXAjrtP9JRVCEv9jdaxnqLnGM/M=)
 

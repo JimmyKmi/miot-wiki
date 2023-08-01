@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI冰箱Smart E（十字412）
 
-云米 Viomi | 2023/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u56/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u56&region=cn)
+云米 Viomi | 2023/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u56) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u56&region=cn)
 
 ![viomi.fridge.u56](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/81d3b6fc6284469037f4c28f22bbdf63_1676945581807.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zOO8HI7RWRN/E+eyOEfpGy52/zM=)
 

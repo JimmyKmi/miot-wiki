@@ -9,7 +9,7 @@ description : ''
 ---
 # 美的空调-i青春
 
-美的 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midea.aircondition.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=midea.aircondition.v1&region=cn)
+美的 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midea.aircondition.v1) | [说明书](https://home.mi.com/views/introduction.html?model=midea.aircondition.v1&region=cn)
 
 ![midea.aircondition.v1](https://cdn.cnbj0.fds.api.mi-img.com/miio_user_head/y9gvbv7a_1433300955.png)
 

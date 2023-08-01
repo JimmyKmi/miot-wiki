@@ -9,7 +9,7 @@ description : ''
 ---
 # 比特插卡取电开关
 
-比特 | 2020/11/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.switch.cardv1/) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.switch.cardv1&region=cn)
+比特 | 2020/11/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.switch.cardv1) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.switch.cardv1&region=cn)
 
 ![btzn.switch.cardv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_160316209782072qz4R1d.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yw8Y79jrrlurWtyvYvRvqiPIGOg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小达石墨烯智能低压电热毯
 
-其他品牌 | 2021/11/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gdxdkj.blanket.smxdr1/) | [说明书](https://home.mi.com/views/introduction.html?model=gdxdkj.blanket.smxdr1&region=cn)
+其他品牌 | 2021/11/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gdxdkj.blanket.smxdr1) | [说明书](https://home.mi.com/views/introduction.html?model=gdxdkj.blanket.smxdr1&region=cn)
 
 ![gdxdkj.blanket.smxdr1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6fc2c414c97cc98901cc6dc5cff32921_1632552667651.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Iw/aasUeY+nlqJwsbhhrjBaQ6Sc=)
 

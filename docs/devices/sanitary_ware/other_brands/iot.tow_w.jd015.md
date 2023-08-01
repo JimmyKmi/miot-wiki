@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能电热毛巾架
 
-其他品牌 | 2023/2/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=iot.tow_w.jd015/) | [说明书](https://home.mi.com/views/introduction.html?model=iot.tow_w.jd015&region=cn)
+其他品牌 | 2023/2/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=iot.tow_w.jd015) | [说明书](https://home.mi.com/views/introduction.html?model=iot.tow_w.jd015&region=cn)
 
 ![iot.tow_w.jd015](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2a0a1f9f699c339b4fdecf3f5f3690fe_1670478304550.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1RKt8Oj2TkmehzOkladndVNI+xs=)
 

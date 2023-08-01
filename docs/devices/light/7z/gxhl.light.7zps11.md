@@ -9,7 +9,7 @@ description : ''
 ---
 # 7z AI灯控器
 
-7z | 2023/5/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gxhl.light.7zps11/) | [说明书](https://home.mi.com/views/introduction.html?model=gxhl.light.7zps11&region=cn)
+7z | 2023/5/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gxhl.light.7zps11) | [说明书](https://home.mi.com/views/introduction.html?model=gxhl.light.7zps11&region=cn)
 
 ![gxhl.light.7zps11](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9859c23e8521affbede20e1e4fd24fbb_1684574527708.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hvv4cpJK3o993pn+cNiEqrgG37Q=)
 

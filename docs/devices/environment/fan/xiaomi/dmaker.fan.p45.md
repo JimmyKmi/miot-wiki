@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能直流变频塔扇2
 
-小米/米家 | 2023/3/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.p45/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.p45&region=cn)
+小米/米家 | 2023/3/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.p45) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.p45&region=cn)
 
 ![dmaker.fan.p45](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4efdc90f203864078b7a88213ce4a16c_1663663839264.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tVsfdIT/pflfIfMGi1XqJziFPS0=)
 

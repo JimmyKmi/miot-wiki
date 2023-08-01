@@ -9,7 +9,7 @@ description : ''
 ---
 # 航天常兴智慧用电探测器DT-210
 
-航天常兴 | 2022/9/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=htcx.alarm.dt210/) | [说明书](https://home.mi.com/views/introduction.html?model=htcx.alarm.dt210&region=cn)
+航天常兴 | 2022/9/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=htcx.alarm.dt210) | [说明书](https://home.mi.com/views/introduction.html?model=htcx.alarm.dt210&region=cn)
 
 ![htcx.alarm.dt210](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f1835395c5fb219b14f7d9bbf06f2cc8_1656298907493.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=987PA+8tpGbr2s+pO6vMmxX/xsc=)
 

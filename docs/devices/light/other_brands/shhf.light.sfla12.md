@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能变频调光风扇灯
 
-其他品牌 | 2023/2/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shhf.light.sfla12/) | [说明书](https://home.mi.com/views/introduction.html?model=shhf.light.sfla12&region=cn)
+其他品牌 | 2023/2/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shhf.light.sfla12) | [说明书](https://home.mi.com/views/introduction.html?model=shhf.light.sfla12&region=cn)
 
 ![shhf.light.sfla12](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fc4789ad5c0844615f2dbd3365491c89_1673920819698.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0ywMLTfWfos20WAc8yWb3KeSfUo=)
 

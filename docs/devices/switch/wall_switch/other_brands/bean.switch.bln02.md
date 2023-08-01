@@ -9,7 +9,7 @@ description : ''
 ---
 # 双键开关-零火Mesh版
 
-其他品牌 | 2022/6/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.switch.bln02/) | [说明书](https://home.mi.com/views/introduction.html?model=bean.switch.bln02&region=cn)
+其他品牌 | 2022/6/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.switch.bln02) | [说明书](https://home.mi.com/views/introduction.html?model=bean.switch.bln02&region=cn)
 
 ![bean.switch.bln02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870954322nPmkAG7B.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=00lf1+NAXgShyl9UjIkyOy868RA=)
 

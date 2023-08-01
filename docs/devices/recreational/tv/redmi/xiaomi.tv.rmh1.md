@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi电视
 
-红米 | 2020/5/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.rmh1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.rmh1&region=cn)
+红米 | 2020/5/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.rmh1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.rmh1&region=cn)
 
 ![xiaomi.tv.rmh1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1587885520668Xj3qCCvx.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=i4fMlRc5h9TkQf9jkALT/bCcEFM=)
 

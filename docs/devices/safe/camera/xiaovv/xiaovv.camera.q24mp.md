@@ -9,7 +9,7 @@ description : ''
 ---
 # xiaovv智能云台摄像机 智享版2.5K
 
-xiaovv | 2022/4/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.q24mp/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.q24mp&region=cn)
+xiaovv | 2022/4/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.q24mp) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.q24mp&region=cn)
 
 ![xiaovv.camera.q24mp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ea1bc307ab7bbe0e64dadf2e72487a74_1646129180018.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xghkFalMqnoJ9wQUT8TburteptA=)
 

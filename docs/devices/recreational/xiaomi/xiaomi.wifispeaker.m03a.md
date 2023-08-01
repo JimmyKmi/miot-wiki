@@ -9,7 +9,7 @@ description : ''
 ---
 # Xiaomi Sound Move
 
-小米/米家 | 2023/4/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.m03a/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.m03a&region=cn)
+小米/米家 | 2023/4/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.m03a) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.m03a&region=cn)
 
 ![xiaomi.wifispeaker.m03a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b942de0613f1c60e288a66660b052780_1673923512518.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bR7tFTCCXvpmNHPjhWM6MP7kK7U=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # LineHope智能窗帘电机8M1
 
-其他品牌 | 2021/6/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.curtain.8m1/) | [说明书](https://home.mi.com/views/introduction.html?model=line.curtain.8m1&region=cn)
+其他品牌 | 2021/6/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.curtain.8m1) | [说明书](https://home.mi.com/views/introduction.html?model=line.curtain.8m1&region=cn)
 
 ![line.curtain.8m1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047957313QbStKryp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rAo+oEHIGIOMzjhlnQeGHfI3Acg=)
 

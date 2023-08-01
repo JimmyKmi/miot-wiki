@@ -9,7 +9,7 @@ description : ''
 ---
 # Rokid 月石
 
-若琪 Rokid | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rokid.robot.pebble/) | [说明书](https://home.mi.com/views/introduction.html?model=rokid.robot.pebble&region=cn)
+若琪 Rokid | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rokid.robot.pebble) | [说明书](https://home.mi.com/views/introduction.html?model=rokid.robot.pebble&region=cn)
 
 ![rokid.robot.pebble](https://cdn.cnbj0.fds.api.mi-img.com/miio.files/commonfile_png_bad54260320c16bca848e8739b8a3f1b.png)
 

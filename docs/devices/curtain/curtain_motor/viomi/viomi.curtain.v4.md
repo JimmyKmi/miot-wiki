@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能窗帘电机Smart
 
-云米 Viomi | 2023/4/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.curtain.v4/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.curtain.v4&region=cn)
+云米 Viomi | 2023/4/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.curtain.v4) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.curtain.v4&region=cn)
 
 ![viomi.curtain.v4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f615439a7bc84d7fce3f8d524215d870_1679283457399.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Xoc8ox0dybtWoXtRbzB1vt3k0FI=)
 

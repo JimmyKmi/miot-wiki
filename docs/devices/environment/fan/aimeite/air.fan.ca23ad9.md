@@ -9,7 +9,7 @@ description : ''
 ---
 # 艾美特空气循环扇
 
-艾美特 | 2019/4/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=air.fan.ca23ad9/) | [说明书](https://home.mi.com/views/introduction.html?model=air.fan.ca23ad9&region=cn)
+艾美特 | 2019/4/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=air.fan.ca23ad9) | [说明书](https://home.mi.com/views/introduction.html?model=air.fan.ca23ad9&region=cn)
 
 ![air.fan.ca23ad9](https://static.home.mi.com/app/image/get/file/developer_1552040161u04t69it.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智悦吸顶灯
 
-智悦 | 2021/7/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gtop.light.xl01/) | [说明书](https://home.mi.com/views/introduction.html?model=gtop.light.xl01&region=cn)
+智悦 | 2021/7/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gtop.light.xl01) | [说明书](https://home.mi.com/views/introduction.html?model=gtop.light.xl01&region=cn)
 
 ![gtop.light.xl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0c386abbb466cabcdc04076ddb6a0b7b_1623981222825.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wYR4G3UL8B67eSK+NQ/AM9dJXus=)
 

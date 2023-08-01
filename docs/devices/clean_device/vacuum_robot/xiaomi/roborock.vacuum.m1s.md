@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家扫地机器人1S
 
-小米/米家 | 2019/4/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.m1s/) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.m1s&region=cn)
+小米/米家 | 2019/4/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.m1s) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.m1s&region=cn)
 
 ![roborock.vacuum.m1s](https://static.home.mi.com/app/image/get/file/developer_15510848993o02ba1a.png)
 

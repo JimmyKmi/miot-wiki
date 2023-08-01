@@ -9,7 +9,7 @@ description : ''
 ---
 # MG智能灯（蓝牙Mesh版）
 
-其他品牌 | 2022/2/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=magao.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=magao.light.wy0a01&region=cn)
+其他品牌 | 2022/2/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=magao.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=magao.light.wy0a01&region=cn)
 
 ![magao.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b3e8f89fed0fd92926f879df563fca15_1633587673682.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QBETa9TXg23lf8sxI67h7cbxWhw=)
 

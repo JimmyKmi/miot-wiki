@@ -9,7 +9,7 @@ description : ''
 ---
 # 慧作白羊星客厅系列吸顶灯
 
-华艺 | 2019/9/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.aries/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.aries&region=cn)
+华艺 | 2019/9/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.aries) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.aries&region=cn)
 
 ![huayi.light.aries](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047615200F2lZSSdY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=L2ps/bH3ccxYtQssZLsXGYTVOOA=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara网关
 
-绿米 Aqara | 2018/11/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.gateway.aqhm01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.gateway.aqhm01&region=cn)
+绿米 Aqara | 2018/11/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.gateway.aqhm01) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.gateway.aqhm01&region=cn)
 
 ![lumi.gateway.aqhm01](https://static.home.mi.com/app/image/get/file/developer_1534496090amm6sc5a.png)
 

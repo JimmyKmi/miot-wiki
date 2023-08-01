@@ -9,7 +9,7 @@ description : ''
 ---
 # 惠达智能连体坐便器HDET65-Q Pro
 
-其他品牌 | 2021/7/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huida.toilet.et65q/) | [说明书](https://home.mi.com/views/introduction.html?model=huida.toilet.et65q&region=cn)
+其他品牌 | 2021/7/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huida.toilet.et65q) | [说明书](https://home.mi.com/views/introduction.html?model=huida.toilet.et65q&region=cn)
 
 ![huida.toilet.et65q](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070337003NH59zhUe.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+eF1IQCCHrc7/HBY7OKNFElIjS4=)
 

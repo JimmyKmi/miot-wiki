@@ -9,7 +9,7 @@ description : ''
 ---
 # NWT互联网除湿机 10L
 
-NWT | 2023/5/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nwt.derh.nwt10l/) | [说明书](https://home.mi.com/views/introduction.html?model=nwt.derh.nwt10l&region=cn)
+NWT | 2023/5/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nwt.derh.nwt10l) | [说明书](https://home.mi.com/views/introduction.html?model=nwt.derh.nwt10l&region=cn)
 
 ![nwt.derh.nwt10l](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1cb9d79386034bd2df8b904a6a82c064_1681459398782.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LGdXnn31WsK2viLM1/du0hX6yb4=)
 

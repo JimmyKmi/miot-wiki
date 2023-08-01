@@ -9,7 +9,7 @@ description : ''
 ---
 # 小丹机器人
 
-其他品牌 | 2018/7/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nuwa.robot.minikiwi/) | [说明书](https://home.mi.com/views/introduction.html?model=nuwa.robot.minikiwi&region=cn)
+其他品牌 | 2018/7/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nuwa.robot.minikiwi) | [说明书](https://home.mi.com/views/introduction.html?model=nuwa.robot.minikiwi&region=cn)
 
 ![nuwa.robot.minikiwi](https://static.home.mi.com/app/image/get/file/developer_1515391927bsip9fep.png)
 

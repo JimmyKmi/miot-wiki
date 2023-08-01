@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网油烟机 Free 3 Pro
 
-云米 Viomi | 2021/6/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.c17/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.c17&region=cn)
+云米 Viomi | 2021/6/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.c17) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.c17&region=cn)
 
 ![viomi.hood.c17](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1628855494292uMOXbGKP.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dfTbRh5XgIExtiTH43t+zJ6mMr8=)
 

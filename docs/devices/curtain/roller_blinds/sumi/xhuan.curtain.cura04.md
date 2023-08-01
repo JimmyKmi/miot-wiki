@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米开合帘电机（蓝牙Mesh版）
 
-苏米 | 2023/3/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.curtain.cura04/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.curtain.cura04&region=cn)
+苏米 | 2023/3/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.curtain.cura04) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.curtain.cura04&region=cn)
 
 ![xhuan.curtain.cura04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4cfdaf311a1a904e9aee42ffe4119757_1673492830446.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ui3vS2lXNH162rM/ZiTM2c50sfA=)
 

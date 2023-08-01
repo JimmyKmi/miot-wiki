@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米视频门铃
 
-小米/米家 | 2019/8/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.miowl/) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.miowl&region=cn)
+小米/米家 | 2019/8/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.miowl) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.miowl&region=cn)
 
 ![madv.cateye.miowl](https://static.home.mi.com/app/image/get/file/developer_1556176117v5r7mmqd.png)
 

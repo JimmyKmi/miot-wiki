@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI负离子空气循环扇
 
-云米 Viomi | 2022/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fan.v13/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fan.v13&region=cn)
+云米 Viomi | 2022/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fan.v13) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fan.v13&region=cn)
 
 ![viomi.fan.v13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fed3051c96ff4f042a1a706c60d42a6e_1650868481154.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=I//PLe/qfaheC8kvfgCuDxv9ShE=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # H+无线场景八键开关
 
-H+ | 2023/1/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huca.remote.wx8/) | [说明书](https://home.mi.com/views/introduction.html?model=huca.remote.wx8&region=cn)
+H+ | 2023/1/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huca.remote.wx8) | [说明书](https://home.mi.com/views/introduction.html?model=huca.remote.wx8&region=cn)
 
 ![huca.remote.wx8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2fdbf1526bf88977ba8b0bc61c4203b5_1666834740953.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DUm6f4ZdnGyysaSGZD7P345W1Q0=)
 

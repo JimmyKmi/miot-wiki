@@ -9,7 +9,7 @@ description : ''
 ---
 # RJ智能筒射灯
 
-睿晶小智 | 2023/5/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.rjdhts/) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.rjdhts&region=cn)
+睿晶小智 | 2023/5/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.rjdhts) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.rjdhts&region=cn)
 
 ![rjxn20.light.rjdhts](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2c169d47fd647b18e67307bdf7342f6e_1666769865772.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=X9bfEJr6lqVoCUo4NCmqKfWIM7w=)
 

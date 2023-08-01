@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景MESH双色调光灯 S1
 
-其他品牌 | 2023/7/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mson.light.ms000/) | [说明书](https://home.mi.com/views/introduction.html?model=mson.light.ms000&region=cn)
+其他品牌 | 2023/7/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mson.light.ms000) | [说明书](https://home.mi.com/views/introduction.html?model=mson.light.ms000&region=cn)
 
 ![mson.light.ms000](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a74251e71441acede1960af3c68951a6_1678582751240.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jGyILn8RPiFWXH3kNx3IGStQsww=)
 

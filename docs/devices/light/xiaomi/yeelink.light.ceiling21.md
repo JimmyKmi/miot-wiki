@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家客厅吸顶灯
 
-小米/米家 | 2019/10/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling21/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling21&region=cn)
+小米/米家 | 2019/10/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling21) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling21&region=cn)
 
 ![yeelink.light.ceiling21](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047614115J24GxxyL.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=k5+YeN2CK4MvpCU51ccfkBDpbCA=)
 

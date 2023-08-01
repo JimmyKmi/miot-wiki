@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥华凉霸
 
-奥华 | 2022/12/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=our.ven_fan.dq01/) | [说明书](https://home.mi.com/views/introduction.html?model=our.ven_fan.dq01&region=cn)
+奥华 | 2022/12/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=our.ven_fan.dq01) | [说明书](https://home.mi.com/views/introduction.html?model=our.ven_fan.dq01&region=cn)
 
 ![our.ven_fan.dq01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e6ce6063b29ccdaa46557e645fa2c6c6_1668067755675.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LGRAkn1KK+JqbZaUmB0/ikbNxd0=)
 

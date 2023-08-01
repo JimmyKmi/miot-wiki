@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐智能紧急呼叫开关（HR7）
 
-智拉斐 | 2022/3/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.remote.sen01/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.remote.sen01&region=cn)
+智拉斐 | 2022/3/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.remote.sen01) | [说明书](https://home.mi.com/views/introduction.html?model=slf.remote.sen01&region=cn)
 
 ![slf.remote.sen01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/848e441049d8779e218d61b674f1d8a6_1642417931469.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=F9jlx/cajXaBv2ityBfnZ5mZCFA=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 希尔顿智能吸顶灯
 
-希尔顿 | 2022/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mjzm.light.wy0a03/) | [说明书](https://home.mi.com/views/introduction.html?model=mjzm.light.wy0a03&region=cn)
+希尔顿 | 2022/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mjzm.light.wy0a03) | [说明书](https://home.mi.com/views/introduction.html?model=mjzm.light.wy0a03&region=cn)
 
 ![mjzm.light.wy0a03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/17fc96357f5ba4235dfb0d17b976803d_1665826692152.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=obCtXzyoaLqVR39ttbi+HMS3fUI=)
 

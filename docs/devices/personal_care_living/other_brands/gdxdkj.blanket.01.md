@@ -9,7 +9,7 @@ description : ''
 ---
 # 小达智能水暖毯
 
-其他品牌 | 2021/11/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gdxdkj.blanket.01/) | [说明书](https://home.mi.com/views/introduction.html?model=gdxdkj.blanket.01&region=cn)
+其他品牌 | 2021/11/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gdxdkj.blanket.01) | [说明书](https://home.mi.com/views/introduction.html?model=gdxdkj.blanket.01&region=cn)
 
 ![gdxdkj.blanket.01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b9fd5f8d4185c4443a17b9fdfa2791a6_1631603708029.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KEQ43NKSD665Cj8gKsp0ifnMzzM=)
 

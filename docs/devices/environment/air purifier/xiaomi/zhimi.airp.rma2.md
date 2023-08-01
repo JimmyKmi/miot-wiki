@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家空气净化器 4 Lite
 
-小米/米家 | 2022/10/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airp.rma2/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airp.rma2&region=cn)
+小米/米家 | 2022/10/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airp.rma2) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airp.rma2&region=cn)
 
 ![zhimi.airp.rma2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/783761ae18b444835233caa9303be648_1652692190688.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ADDBiz5q5iMhtSF3P5Hq2t0bHaY=)
 

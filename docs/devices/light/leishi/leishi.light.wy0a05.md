@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能面板灯
 
-雷士 | 2020/7/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.wy0a05/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.wy0a05&region=cn)
+雷士 | 2020/7/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.wy0a05) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.wy0a05&region=cn)
 
 ![leishi.light.wy0a05](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047767305UzlatZGj.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YNCgEUdAYPWu+BI1WZ9nw7h1HUw=)
 

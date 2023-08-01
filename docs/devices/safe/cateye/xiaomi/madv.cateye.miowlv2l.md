@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能门铃2 Lite
 
-小米/米家 | 2020/4/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.miowlv2l/) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.miowlv2l&region=cn)
+小米/米家 | 2020/4/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.miowlv2l) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.miowlv2l&region=cn)
 
 ![madv.cateye.miowlv2l](https://static.home.mi.com/app/image/get/file/developer_1564566712m0xllxnj.png)
 

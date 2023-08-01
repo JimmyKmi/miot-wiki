@@ -9,7 +9,7 @@ description : ''
 ---
 # 摩摩哒智能足底按摩器
 
-摩摩哒 | 2019/10/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.magic_touch.sx300/) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.magic_touch.sx300&region=cn)
+摩摩哒 | 2019/10/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.magic_touch.sx300) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.magic_touch.sx300&region=cn)
 
 ![rotai.magic_touch.sx300](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047612967rag9Mixe.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=osznpHium31S4dSmqe2rgvk+Dlw=)
 

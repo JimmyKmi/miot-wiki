@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能窗帘
 
-其他品牌 | 2022/5/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cmjd.curtain.cm83/) | [说明书](https://home.mi.com/views/introduction.html?model=cmjd.curtain.cm83&region=cn)
+其他品牌 | 2022/5/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cmjd.curtain.cm83) | [说明书](https://home.mi.com/views/introduction.html?model=cmjd.curtain.cm83&region=cn)
 
 ![cmjd.curtain.cm83](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dc456d44efcdb015db47a569f2ae054e_1645069262792.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XjbawxhmaCA/g4YOcvW3LD+omNM=)
 

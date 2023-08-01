@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥克斯KDY-DP22A1智能除湿机
 
-至凡 | 2023/3/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.derh.2202/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.derh.2202&region=cn)
+至凡 | 2023/3/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.derh.2202) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.derh.2202&region=cn)
 
 ![kadeer.derh.2202](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/46c54cf9478e1e10ab7fb17b3eb3a8f6_1673416995805.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZE6N1kQhGxWqhGq8d8yGNKelguw=)
 

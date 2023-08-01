@@ -9,7 +9,7 @@ description : ''
 ---
 # 美的空调 - 酷金
 
-美的 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midea.aircondition.xa2/) | [说明书](https://home.mi.com/views/introduction.html?model=midea.aircondition.xa2&region=cn)
+美的 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midea.aircondition.xa2) | [说明书](https://home.mi.com/views/introduction.html?model=midea.aircondition.xa2&region=cn)
 
 ![midea.aircondition.xa2](https://static.home.mi.com/app/image/get/file/common_image_1437379417b64fpda7.png)
 

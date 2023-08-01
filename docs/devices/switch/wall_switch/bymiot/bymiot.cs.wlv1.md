@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居无线强电插卡取电
 
-未来居 Bymiot | 2021/6/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.cs.wlv1/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.cs.wlv1&region=cn)
+未来居 Bymiot | 2021/6/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.cs.wlv1) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.cs.wlv1&region=cn)
 
 ![bymiot.cs.wlv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8e7d03651105cf79683c377e4dc933f9_插卡取电_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tb4Gyjm6Y3NuCIDPT9Ar+DUj9iY=)
 

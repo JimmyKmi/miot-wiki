@@ -9,7 +9,7 @@ description : ''
 ---
 # 小方智能摄像机
 
-华来小方 | 2018/4/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.isc5c1/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.isc5c1&region=cn)
+华来小方 | 2018/4/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.isc5c1) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.isc5c1&region=cn)
 
 ![isa.camera.isc5c1](https://static.home.mi.com/app/image/get/file/developer_1502962103k90kk178.png)
 

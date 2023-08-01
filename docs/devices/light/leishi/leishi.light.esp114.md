@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士叠影LED吸顶灯
 
-雷士 | 2020/3/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.esp114/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.esp114&region=cn)
+雷士 | 2020/3/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.esp114) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.esp114&region=cn)
 
 ![leishi.light.esp114](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870952402VdM1H3OC.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NaYq7KP68vbkoUIDcwKHVTyGjjo=)
 

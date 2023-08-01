@@ -9,7 +9,7 @@ description : ''
 ---
 # 丹麦格澜供暖
 
-丹麦 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nhy.airrtc.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=nhy.airrtc.v1&region=cn)
+丹麦 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nhy.airrtc.v1) | [说明书](https://home.mi.com/views/introduction.html?model=nhy.airrtc.v1&region=cn)
 
 ![nhy.airrtc.v1](https://static.home.mi.com/app/image/get/file/developer_1467632814gzk7rld4.png)
 

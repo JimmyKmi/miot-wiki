@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智能插座WP5-AM(计电量)
 
-Gosund / 电小酷 | 2022/8/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.wp5m/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.wp5m&region=cn)
+Gosund / 电小酷 | 2022/8/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.wp5m) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.wp5m&region=cn)
 
 ![cuco.plug.wp5m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bfa7f533bb2d0367d9312dc09c760a3e_1649667340024.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UenLl6dcv+mkrVk7QCL6ZEXQmB0=)
 

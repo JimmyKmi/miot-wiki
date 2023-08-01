@@ -9,7 +9,7 @@ description : ''
 ---
 # 9am L系列升降桌
 
-9AM | 2022/4/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nineam.desk.hoo021/) | [说明书](https://home.mi.com/views/introduction.html?model=nineam.desk.hoo021&region=cn)
+9AM | 2022/4/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nineam.desk.hoo021) | [说明书](https://home.mi.com/views/introduction.html?model=nineam.desk.hoo021&region=cn)
 
 ![nineam.desk.hoo021](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068029370x1eGMMWS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FRkA8ob6ZAao+3pq7ro//0hg6hs=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # gosund | 电小酷 CP6
 
-Gosund / 电小酷 | 2022/6/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.acpartner.cp6/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.acpartner.cp6&region=cn)
+Gosund / 电小酷 | 2022/6/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.acpartner.cp6) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.acpartner.cp6&region=cn)
 
 ![cuco.acpartner.cp6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1e0a5dfcbf00f0ec5156c55397a7258b_1645673579428.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0teAz4xKGItKJpTiPbzzenpyPPE=)
 

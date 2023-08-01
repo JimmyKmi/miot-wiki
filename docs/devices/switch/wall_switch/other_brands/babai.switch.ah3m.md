@@ -9,7 +9,7 @@ description : ''
 ---
 # ahorro奥能蓝牙3开
 
-其他品牌 | 2023/6/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.ah3m/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.ah3m&region=cn)
+其他品牌 | 2023/6/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.ah3m) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.ah3m&region=cn)
 
 ![babai.switch.ah3m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5b14a15d439763957b3f593d2731da7d_1682303068677.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KrUva1OxW6M/h80MEFWZrx6RLDE=)
 

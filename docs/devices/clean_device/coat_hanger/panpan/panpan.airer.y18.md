@@ -9,7 +9,7 @@ description : ''
 ---
 # 盼盼Y18智能晾衣机
 
-盼盼 PANPAN | 2021/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=panpan.airer.y18/) | [说明书](https://home.mi.com/views/introduction.html?model=panpan.airer.y18&region=cn)
+盼盼 PANPAN | 2021/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=panpan.airer.y18) | [说明书](https://home.mi.com/views/introduction.html?model=panpan.airer.y18&region=cn)
 
 ![panpan.airer.y18](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047956631oclCWqRw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=w2Q7M4BLW8kJSkAKnQgDu1/Mcr4=)
 

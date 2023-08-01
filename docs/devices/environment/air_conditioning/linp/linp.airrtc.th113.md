@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普智能温控器TH1(两联供）
 
-领普 | 2023/6/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.airrtc.th113/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.airrtc.th113&region=cn)
+领普 | 2023/6/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.airrtc.th113) | [说明书](https://home.mi.com/views/introduction.html?model=linp.airrtc.th113&region=cn)
 
 ![linp.airrtc.th113](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/27a08e4c86da52bcd61811cecbc4fac2_1667267870281.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Q0OYH0dQe+ok/pwFc8yuEMAV/G4=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # King  1X 1P
 
-云米 Viomi | 2020/6/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v32/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v32&region=cn)
+云米 Viomi | 2020/6/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v32) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v32&region=cn)
 
 ![viomi.aircondition.v32](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15874679820912NObsneg.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8ajXID5qZ1cTrVxAEifFe8hq4QU=)
 

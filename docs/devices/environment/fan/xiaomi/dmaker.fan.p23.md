@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家直流变频两季扇
 
-小米/米家 | 2021/11/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.p23/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.p23&region=cn)
+小米/米家 | 2021/11/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.p23) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.p23&region=cn)
 
 ![dmaker.fan.p23](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070336938hidh6PoU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=InDsdaFiQwaMqx++W2p2P5kgNOM=)
 

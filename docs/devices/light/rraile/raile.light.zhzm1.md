@@ -9,7 +9,7 @@ description : ''
 ---
 # 智慧照明
 
-雨林 | 2021/10/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=raile.light.zhzm1/) | [说明书](https://home.mi.com/views/introduction.html?model=raile.light.zhzm1&region=cn)
+雨林 | 2021/10/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=raile.light.zhzm1) | [说明书](https://home.mi.com/views/introduction.html?model=raile.light.zhzm1&region=cn)
 
 ![raile.light.zhzm1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068029793BCS4RH8B.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gcqpq9OMlPLrv9F/k4Uowf3H0Z8=)
 

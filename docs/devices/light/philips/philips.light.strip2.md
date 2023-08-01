@@ -9,7 +9,7 @@ description : ''
 ---
 # 智睿彩光灯带
 
-飞利浦 | 2020/7/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.strip2/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.strip2&region=cn)
+飞利浦 | 2020/7/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.strip2) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.strip2&region=cn)
 
 ![philips.light.strip2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1590481138374vPqlzGls.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QpbNxMliigw1GGfq59Uqh7AaPGI=)
 

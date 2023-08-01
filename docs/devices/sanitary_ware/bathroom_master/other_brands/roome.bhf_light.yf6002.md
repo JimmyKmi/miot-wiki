@@ -9,7 +9,7 @@ description : ''
 ---
 # M-YF6002智能浴霸
 
-其他品牌 | 2019/9/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roome.bhf_light.yf6002/) | [说明书](https://home.mi.com/views/introduction.html?model=roome.bhf_light.yf6002&region=cn)
+其他品牌 | 2019/9/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roome.bhf_light.yf6002) | [说明书](https://home.mi.com/views/introduction.html?model=roome.bhf_light.yf6002&region=cn)
 
 ![roome.bhf_light.yf6002](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_156275405748466swHH3Q.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;amp;amp;amp;amp;Expires=9223372036854775807&amp;amp;amp;amp;amp;Signature=gp3TSiXDseKQHksV4XNnKtXKYmw=)
 

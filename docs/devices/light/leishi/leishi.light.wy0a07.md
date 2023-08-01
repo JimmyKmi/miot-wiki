@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能灯带
 
-雷士 | 2021/5/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.wy0a07/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.wy0a07&region=cn)
+雷士 | 2021/5/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.wy0a07) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.wy0a07&region=cn)
 
 ![leishi.light.wy0a07](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4b6fc4e45fa413f380f8ac1c8e0b1c67_智能灯带-168x168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qflOH8lf/PtB3XuHBs1U97sUGtc=)
 

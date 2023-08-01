@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普墙壁开关QH1（MESH四键）
 
-领普 | 2022/7/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.qh1db4/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.qh1db4&region=cn)
+领普 | 2022/7/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.qh1db4) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.qh1db4&region=cn)
 
 ![linp.switch.qh1db4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/36f9223905de8353dc7d9d8ec252d4d3_1657189851400.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SAPu+pIwHBmVqkpf0iNxYLB4m8k=)
 

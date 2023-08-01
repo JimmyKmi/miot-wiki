@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家皮皮灯
 
-小米/米家 | 2023/4/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.light.r2229/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.light.r2229&region=cn)
+小米/米家 | 2023/4/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.light.r2229) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.light.r2229&region=cn)
 
 ![dreame.light.r2229](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/026890fdab424d56f1c012c5554e1295_1664335278002.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=pbUAlZY6QbYUZbfUAdLgV5pd0Sg=)
 

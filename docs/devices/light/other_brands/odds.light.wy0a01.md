@@ -9,7 +9,7 @@ description : ''
 ---
 # 展秀水晶之恋智能灯
 
-其他品牌 | 2020/9/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=odds.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=odds.light.wy0a01&region=cn)
+其他品牌 | 2020/9/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=odds.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=odds.light.wy0a01&region=cn)
 
 ![odds.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047767285AeygeiV3.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LO8IkDOgP09/1fd7cvPZbNsMD3g=)
 

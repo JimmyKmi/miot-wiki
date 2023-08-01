@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能冷热饮水机
 
-小米/米家 | 2022/4/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.ysj.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.ysj.v1&region=cn)
+小米/米家 | 2022/4/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.ysj.v1) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.ysj.v1&region=cn)
 
 ![yunmi.ysj.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048028750zrYhjg6h.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UTZm87ajY55JcQRkj7Kx6WPzuOs=)
 

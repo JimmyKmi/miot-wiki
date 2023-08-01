@@ -9,7 +9,7 @@ description : ''
 ---
 # FOWAD 中央空调温控器
 
-FOWAD | 2019/12/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fawad.airrtc.fwd20011/) | [说明书](https://home.mi.com/views/introduction.html?model=fawad.airrtc.fwd20011&region=cn)
+FOWAD | 2019/12/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fawad.airrtc.fwd20011) | [说明书](https://home.mi.com/views/introduction.html?model=fawad.airrtc.fwd20011&region=cn)
 
 ![fawad.airrtc.fwd20011](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870989391NAyYmRK8.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=g3QFrJrvF/y0HdnV8ONzDSCZZgo=)
 

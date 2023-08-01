@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网油烟机 Cross3 A1
 
-云米 Viomi | 2021/7/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.c15/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.c15&region=cn)
+云米 Viomi | 2021/7/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.c15) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.c15&region=cn)
 
 ![viomi.hood.c15](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/156a4e0bce2c7e20a6308e5fa8ac8479_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3dp15vhJbXiNgMZxcwxtSpqjMJI=)
 

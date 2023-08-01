@@ -9,7 +9,7 @@ description : ''
 ---
 # 卷帘门控制器
 
-峥果 | 2023/3/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.motor.mk01/) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.motor.mk01&region=cn)
+峥果 | 2023/3/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.motor.mk01) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.motor.mk01&region=cn)
 
 ![zinguo.motor.mk01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/aea27956cc4f19f91c952c32ea827ac5_1670836770953.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=k1J72MItL2I1Vbl9Yhpz5IzOznw=)
 

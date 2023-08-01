@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家床头灯2代
 
-小米/米家 | 2018/12/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.bslamp2/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.bslamp2&region=cn)
+小米/米家 | 2018/12/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.bslamp2) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.bslamp2&region=cn)
 
 ![yeelink.light.bslamp2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790701029405KNF9HsI.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sHIO3HoGsLIQfiJjtg2kXOtB1EU=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 海斯曼智能走步机
 
-海斯曼 | 2022/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hsm.walkingpad.c2/) | [说明书](https://home.mi.com/views/introduction.html?model=hsm.walkingpad.c2&region=cn)
+海斯曼 | 2022/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hsm.walkingpad.c2) | [说明书](https://home.mi.com/views/introduction.html?model=hsm.walkingpad.c2&region=cn)
 
 ![hsm.walkingpad.c2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2c4ebf5d0bb76344faf465fbf20415ba_1661306026591.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=eVfsNLJRIB4QBTy4fXAM+vZhdBI=)
 

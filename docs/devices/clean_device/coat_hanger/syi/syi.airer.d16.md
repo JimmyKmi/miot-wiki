@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡贝电动晾衣架
 
-小匠 | 2021/7/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syi.airer.d16/) | [说明书](https://home.mi.com/views/introduction.html?model=syi.airer.d16&region=cn)
+小匠 | 2021/7/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syi.airer.d16) | [说明书](https://home.mi.com/views/introduction.html?model=syi.airer.d16&region=cn)
 
 ![syi.airer.d16](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070061210BweiT8xt.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=f5A0mJQzb1AXG5pp4dtwGqoCNtY=)
 

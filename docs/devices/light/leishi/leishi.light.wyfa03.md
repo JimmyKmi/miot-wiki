@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能风扇灯
 
-雷士 | 2021/9/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.wyfa03/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.wyfa03&region=cn)
+雷士 | 2021/9/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.wyfa03) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.wyfa03&region=cn)
 
 ![leishi.light.wyfa03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790712698059kyWM4Vb.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/Zkps9rlasebDIX/TMqGgcrtdmA=)
 

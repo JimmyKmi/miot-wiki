@@ -9,7 +9,7 @@ description : ''
 ---
 # 超人智能剃须刀
 
-SID超人 | 2023/1/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjcr.razor.rs7368/) | [说明书](https://home.mi.com/views/introduction.html?model=zjcr.razor.rs7368&region=cn)
+SID超人 | 2023/1/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjcr.razor.rs7368) | [说明书](https://home.mi.com/views/introduction.html?model=zjcr.razor.rs7368&region=cn)
 
 ![zjcr.razor.rs7368](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dfa13035021836c595d98a7e9ed54866_1671428565342.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2iUbMyraRcg+K3p2YjtEW8PKR0Q=)
 

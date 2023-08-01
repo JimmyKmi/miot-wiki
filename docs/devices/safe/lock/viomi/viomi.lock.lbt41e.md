@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能门锁eyeLink 2F Pro
 
-云米 Viomi | 2021/11/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.lbt41e/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.lbt41e&region=cn)
+云米 Viomi | 2021/11/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.lbt41e) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.lbt41e&region=cn)
 
 ![viomi.lock.lbt41e](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8a69dd38f1797d656c66b8b15b8b1963_1630667618163.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uFh6SUbQ2yZP2HxDJ78vIN+AEZ4=)
 

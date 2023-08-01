@@ -9,7 +9,7 @@ description : ''
 ---
 # 亖米六键无线开关
 
-亖米 | 2023/6/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.remote.ts1/) | [说明书](https://home.mi.com/views/introduction.html?model=symi.remote.ts1&region=cn)
+亖米 | 2023/6/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.remote.ts1) | [说明书](https://home.mi.com/views/introduction.html?model=symi.remote.ts1&region=cn)
 
 ![symi.remote.ts1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ddca58cf602cba9d9fe9edfbffcde832_1672985023952.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ezc7Ug0GOy7P5QEXiH62CeidLNk=)
 

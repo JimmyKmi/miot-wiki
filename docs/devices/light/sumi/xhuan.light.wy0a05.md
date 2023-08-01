@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米磁吸射灯
 
-苏米 | 2021/2/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a05/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a05&region=cn)
+苏米 | 2021/2/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a05) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a05&region=cn)
 
 ![xhuan.light.wy0a05](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047901869qeeobawJ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SEbUEDyOnrf++x/auTuj7uq6X6k=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家纯净式智能加湿器 2
 
-小米/米家 | 2022/8/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.humidifier.p2/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.humidifier.p2&region=cn)
+小米/米家 | 2022/8/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.humidifier.p2) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.humidifier.p2&region=cn)
 
 ![dmaker.humidifier.p2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bc8bbeb0648dbdd791b7d06b25f466e9_1656293845633.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=JWPeT9BL9Lmq9Zd9uM0kbXxIpvk=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 直驱｜米家洗烘一体机 尊享版10kg
 
-小米/米家 | 2023/5/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mibx2.washer.v17/) | [说明书](https://home.mi.com/views/introduction.html?model=mibx2.washer.v17&region=cn)
+小米/米家 | 2023/5/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mibx2.washer.v17) | [说明书](https://home.mi.com/views/introduction.html?model=mibx2.washer.v17&region=cn)
 
 ![mibx2.washer.v17](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d1e7fcd2b3da484a92c80c4d9ea7c55f_1681814426836.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mnFLAg41HR6kDfO1zFSnLLEamg0=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能情景风扇灯
 
-其他品牌 | 2023/7/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=iot.light.fl04/) | [说明书](https://home.mi.com/views/introduction.html?model=iot.light.fl04&region=cn)
+其他品牌 | 2023/7/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=iot.light.fl04) | [说明书](https://home.mi.com/views/introduction.html?model=iot.light.fl04&region=cn)
 
 ![iot.light.fl04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/274972bdbe2f0af5fb9e7556fe17b5df_1681283936833.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=j3U0fDiCShk9TG0DRoGQQpj7epM=)
 

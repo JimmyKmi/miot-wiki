@@ -9,7 +9,7 @@ description : ''
 ---
 # TCL华照浴霸
 
-TCL | 2022/11/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tcll.bhf_light.yb01/) | [说明书](https://home.mi.com/views/introduction.html?model=tcll.bhf_light.yb01&region=cn)
+TCL | 2022/11/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tcll.bhf_light.yb01) | [说明书](https://home.mi.com/views/introduction.html?model=tcll.bhf_light.yb01&region=cn)
 
 ![tcll.bhf_light.yb01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c5ebffa25771154a39be9cd5aa4548b2_1666339010829.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GD7Lktc8KWztUcEcdKZ0wMKPdx8=)
 

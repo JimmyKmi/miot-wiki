@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能变频升降吸油烟机S1
 
-小米/米家 | 2022/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.v8/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.v8&region=cn)
+小米/米家 | 2022/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.v8) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.v8&region=cn)
 
 ![viomi.hood.v8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/983a0b98614751f48e4bbe3e4e5d45d7_1642408751022.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5lkXbnyFZ4KsZR6lBAMnAVdS7qc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 北斗星互联网集成灶（C2消毒柜款）
 
-北斗星 | 2019/5/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bdx.i_stove.c2x/) | [说明书](https://home.mi.com/views/introduction.html?model=bdx.i_stove.c2x&region=cn)
+北斗星 | 2019/5/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bdx.i_stove.c2x) | [说明书](https://home.mi.com/views/introduction.html?model=bdx.i_stove.c2x&region=cn)
 
 ![bdx.i_stove.c2x](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047612466k8faGQlD.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Z3Q/PlgOSADwHXlLzwF2hVzj8KA=)
 

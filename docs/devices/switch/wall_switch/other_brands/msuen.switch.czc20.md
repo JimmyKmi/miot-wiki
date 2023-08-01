@@ -9,7 +9,7 @@ description : ''
 ---
 # 水享智能阀
 
-其他品牌 | 2023/1/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msuen.switch.czc20/) | [说明书](https://home.mi.com/views/introduction.html?model=msuen.switch.czc20&region=cn)
+其他品牌 | 2023/1/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msuen.switch.czc20) | [说明书](https://home.mi.com/views/introduction.html?model=msuen.switch.czc20&region=cn)
 
 ![msuen.switch.czc20](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b83a4ed631c5dda2f9b12a456ac7825e_1664249960651.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tcF/UxcxCxWGs7i5Wb11hv6mGEg=)
 

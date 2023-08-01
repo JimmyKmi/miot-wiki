@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米如光筒灯
 
-苏米 | 2021/2/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a06/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a06&region=cn)
+苏米 | 2021/2/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a06) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a06&region=cn)
 
 ![xhuan.light.wy0a06](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047901963c8PUklxR.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZxtwsbeW5cyx1TUzxefVr2ONdN0=)
 

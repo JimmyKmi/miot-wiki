@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight Pro 彩光灯
 
-易来 Yeelight | 2021/10/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.yrgb01/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.yrgb01&region=cn)
+易来 Yeelight | 2021/10/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.yrgb01) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.yrgb01&region=cn)
 
 ![yeelink.light.yrgb01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790479580027KsD7nw8.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3SOvu4BgKlIvppNpgI3EfYAToQY=)
 

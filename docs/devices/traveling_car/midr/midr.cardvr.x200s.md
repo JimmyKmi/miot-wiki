@@ -9,7 +9,7 @@ description : ''
 ---
 # 70迈云台记录仪
 
-70迈 | 2022/9/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midr.cardvr.x200s/) | [说明书](https://home.mi.com/views/introduction.html?model=midr.cardvr.x200s&region=cn)
+70迈 | 2022/9/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midr.cardvr.x200s) | [说明书](https://home.mi.com/views/introduction.html?model=midr.cardvr.x200s&region=cn)
 
 ![midr.cardvr.x200s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0851866fdc0ae357e0f46d4777acc2ae_1658300747346.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=05+IYDc8bd1vm0qVqbLI414GPHM=)
 

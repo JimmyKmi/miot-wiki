@@ -9,7 +9,7 @@ description : ''
 ---
 # 得邦照明A70球泡灯
 
-得邦 | 2020/11/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tospo1.light.bpzp02/) | [说明书](https://home.mi.com/views/introduction.html?model=tospo1.light.bpzp02&region=cn)
+得邦 | 2020/11/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tospo1.light.bpzp02) | [说明书](https://home.mi.com/views/introduction.html?model=tospo1.light.bpzp02&region=cn)
 
 ![tospo1.light.bpzp02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047770697q903CMec.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=M74uIUAupexNokcDvmkG0GJj490=)
 

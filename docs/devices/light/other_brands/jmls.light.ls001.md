@@ -9,7 +9,7 @@ description : ''
 ---
 # 龙胜智能LED吸顶灯
 
-其他品牌 | 2020/12/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jmls.light.ls001/) | [说明书](https://home.mi.com/views/introduction.html?model=jmls.light.ls001&region=cn)
+其他品牌 | 2020/12/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jmls.light.ls001) | [说明书](https://home.mi.com/views/introduction.html?model=jmls.light.ls001&region=cn)
 
 ![jmls.light.ls001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f650f396962cecb37c13cc0637325601_缤纷小圆168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3zFK8kGvwT+itAhVU/GKlkKCaB8=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 空调
 
-创米小白 | 2022/3/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.aircondition.a/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.aircondition.a&region=cn)
+创米小白 | 2022/3/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.aircondition.a) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.aircondition.a&region=cn)
 
 ![chuangmi.aircondition.a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/70f8b30df5a7cd8eaf87a36432f435a0_1643030897540.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ox+TJAXIjKKE1d6eLmiOOQc96j8=)
 

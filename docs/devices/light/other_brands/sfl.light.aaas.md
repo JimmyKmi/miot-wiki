@@ -9,7 +9,7 @@ description : ''
 ---
 # FSL佛山照明云控智能灯具
 
-其他品牌 | 2020/12/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sfl.light.aaas/) | [说明书](https://home.mi.com/views/introduction.html?model=sfl.light.aaas&region=cn)
+其他品牌 | 2020/12/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sfl.light.aaas) | [说明书](https://home.mi.com/views/introduction.html?model=sfl.light.aaas&region=cn)
 
 ![sfl.light.aaas](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790478089006VT0nIXQ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hEOTnvnspEJM3SPRUDAxOiPK1oU=)
 

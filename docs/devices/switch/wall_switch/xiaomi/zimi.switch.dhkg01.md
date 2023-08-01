@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米米家智能开关（单开单控）
 
-小米/米家 | 2020/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.switch.dhkg01/) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.switch.dhkg01&region=cn)
+小米/米家 | 2020/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.switch.dhkg01) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.switch.dhkg01&region=cn)
 
 ![zimi.switch.dhkg01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047686649xyu43Rdf.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FGlEiPtkQ8Nw3jVMs5VWo3bOwBU=)
 

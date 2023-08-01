@@ -9,7 +9,7 @@ description : ''
 ---
 # 乐秀风扇 SS310
 
-乐秀 | 2019/5/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.fan.ss310/) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.fan.ss310&region=cn)
+乐秀 | 2019/5/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.fan.ss310) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.fan.ss310&region=cn)
 
 ![leshow.fan.ss310](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047612911zAtxoIkk.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GvDPZ9/a6VcNi7b/Bxm5Mfom8bU=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景Mesh色温灯V2S系列
 
-情景mesh芯片 | 2023/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wy0c15/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wy0c15&region=cn)
+情景mesh芯片 | 2023/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wy0c15) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wy0c15&region=cn)
 
 ![lemesh.light.wy0c15](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9662e0480495ec5523f8dcff0667da50_1668735096533.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6NlEJkydusATUKTh2s3yxzKxA40=)
 

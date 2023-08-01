@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 智能开关（单键）
 
-易来 Yeelight | 2023/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.switch.ylsw4/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.switch.ylsw4&region=cn)
+易来 Yeelight | 2023/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.switch.ylsw4) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.switch.ylsw4&region=cn)
 
 ![yeelink.switch.ylsw4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e8248e7f45cbec303f620f354b17d0dd_1670399136481.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rs21aI/LWXuVYRQaZXmPwrd7MCU=)
 

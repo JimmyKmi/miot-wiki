@@ -9,7 +9,7 @@ description : ''
 ---
 # 左点小艾智能艾灸盒
 
-左点 Zdeer | 2019/3/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zdeer.ajh.a8/) | [说明书](https://home.mi.com/views/introduction.html?model=zdeer.ajh.a8&region=cn)
+左点 Zdeer | 2019/3/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zdeer.ajh.a8) | [说明书](https://home.mi.com/views/introduction.html?model=zdeer.ajh.a8&region=cn)
 
 ![zdeer.ajh.a8](https://static.home.mi.com/app/image/get/file/developer_1552009656r37gxjcz.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧普智能浴霸 BPF12i
 
-欧普 OPPLE | 2022/2/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.bhf_light.fhbath/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.bhf_light.fhbath&region=cn)
+欧普 OPPLE | 2022/2/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.bhf_light.fhbath) | [说明书](https://home.mi.com/views/introduction.html?model=opple.bhf_light.fhbath&region=cn)
 
 ![opple.bhf_light.fhbath](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e006fcfd45bf8dac880cf3477323490e_1642501269069.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=u+6mARXiRvw3IOqS8OATvwuMOEo=)
 

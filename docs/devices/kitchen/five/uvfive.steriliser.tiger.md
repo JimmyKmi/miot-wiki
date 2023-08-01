@@ -9,7 +9,7 @@ description : ''
 ---
 # FIVE智能刀筷砧板杀菌架
 
-FIVE | 2020/12/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uvfive.steriliser.tiger/) | [说明书](https://home.mi.com/views/introduction.html?model=uvfive.steriliser.tiger&region=cn)
+FIVE | 2020/12/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uvfive.steriliser.tiger) | [说明书](https://home.mi.com/views/introduction.html?model=uvfive.steriliser.tiger&region=cn)
 
 ![uvfive.steriliser.tiger](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047838969jogmZN3C.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MBMo/Jv3I08Lafznr391x5JoF2M=)
 

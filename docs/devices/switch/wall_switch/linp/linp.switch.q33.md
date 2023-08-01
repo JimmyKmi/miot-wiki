@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普墙壁开关（三键）
 
-领普 | 2020/1/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.q33/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.q33&region=cn)
+领普 | 2020/1/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.q33) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.q33&region=cn)
 
 ![linp.switch.q33](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047655241wamw2cxY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mf0P5mdjMdVLTSW6GnzheAp2YDQ=)
 

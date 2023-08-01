@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网净水器Fast3（400G 白）
 
-云米 Viomi | 2020/5/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.f1/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.f1&region=cn)
+云米 Viomi | 2020/5/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.f1) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.f1&region=cn)
 
 ![yunmi.waterpuri.f1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15887478338484QwDVqvF.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uK1//KxuTNVrPgM6t3+rbFcL4Ts=)
 

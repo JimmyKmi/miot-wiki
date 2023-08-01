@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家激光投影电视 1S 4K
 
-小米/米家 | 2020/6/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l176jp/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l176jp&region=cn)
+小米/米家 | 2020/6/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l176jp) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l176jp&region=cn)
 
 ![fengmi.projector.l176jp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871037716ELxZbsTG.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xyiIqSwFkU8efEF9HKExFPZ1v2o=)
 

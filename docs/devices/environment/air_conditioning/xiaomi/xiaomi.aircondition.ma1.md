@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家互联网空调C1（1.5匹/变频）
 
-小米/米家 | 2019/4/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.ma1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.ma1&region=cn)
+小米/米家 | 2019/4/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.ma1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.ma1&region=cn)
 
 ![xiaomi.aircondition.ma1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070104584lPcfo0Ki.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GrD4Y31Gwhdifya6fx9A+L7DsUU=)
 

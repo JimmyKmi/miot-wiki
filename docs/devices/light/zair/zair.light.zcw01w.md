@@ -9,7 +9,7 @@ description : ''
 ---
 # ZAIR智能落地灯 增强版
 
-ZAIR | 2022/7/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zair.light.zcw01w/) | [说明书](https://home.mi.com/views/introduction.html?model=zair.light.zcw01w&region=cn)
+ZAIR | 2022/7/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zair.light.zcw01w) | [说明书](https://home.mi.com/views/introduction.html?model=zair.light.zcw01w&region=cn)
 
 ![zair.light.zcw01w](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/801172be62a795e1cc42bdfacbe5eb89_1654509014400.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=X/GxCBmeYoZ0aAM9qdEaHssRVGc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧普智能浴霸 Mode F
 
-欧普 OPPLE | 2023/3/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.bhf_light.ct88b/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.bhf_light.ct88b&region=cn)
+欧普 OPPLE | 2023/3/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.bhf_light.ct88b) | [说明书](https://home.mi.com/views/introduction.html?model=opple.bhf_light.ct88b&region=cn)
 
 ![opple.bhf_light.ct88b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/eb82071a103d662d3735d25679e05081_1677227292636.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+YpMBwN89R1WyramSDV4X4kiuRg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米泉先AI净饮机 X2
 
-云米 Viomi | 2022/11/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.ysj.x2/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.ysj.x2&region=cn)
+云米 Viomi | 2022/11/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.ysj.x2) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.ysj.x2&region=cn)
 
 ![yunmi.ysj.x2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/63b8994c7915fe961789a5ea67b8a0fd_1662542874873.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gq2dThsExBeo2JxR9hHLek1MXwI=)
 

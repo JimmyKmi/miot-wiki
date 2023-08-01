@@ -9,7 +9,7 @@ description : ''
 ---
 # 全自动人脸识别门锁
 
-易来 Yeelight | 2023/4/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.lock.alps03/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.lock.alps03&region=cn)
+易来 Yeelight | 2023/4/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.lock.alps03) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.lock.alps03&region=cn)
 
 ![yeelink.lock.alps03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9c770a3b2cd70330a3b042ac06e1d3d0_1668084663667.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=onyBG/KiIfNHLacyrtCMekSkuKo=)
 

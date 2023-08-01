@@ -9,7 +9,7 @@ description : ''
 ---
 # xiaovv智能婴儿监视器
 
-xiaovv | 2020/11/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.c1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.c1&region=cn)
+xiaovv | 2020/11/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.c1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.c1&region=cn)
 
 ![xiaovv.camera.c1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1592445704343JkOjSB1n.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MGYgTsnK71BAiGSQrgoPnDcjYOg=)
 

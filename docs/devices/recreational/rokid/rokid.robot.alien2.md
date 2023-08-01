@@ -9,7 +9,7 @@ description : ''
 ---
 # Rokid Alien
 
-若琪 Rokid | 2018/5/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rokid.robot.alien2/) | [说明书](https://home.mi.com/views/introduction.html?model=rokid.robot.alien2&region=cn)
+若琪 Rokid | 2018/5/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rokid.robot.alien2) | [说明书](https://home.mi.com/views/introduction.html?model=rokid.robot.alien2&region=cn)
 
 ![rokid.robot.alien2](https://static.home.mi.com/app/image/get/file/developer_1526282629272iia6j.png)
 

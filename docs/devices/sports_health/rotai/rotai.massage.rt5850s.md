@@ -9,7 +9,7 @@ description : ''
 ---
 # 摩摩哒休闲按摩椅RT5850S
 
-摩摩哒 | 2018/5/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.massage.rt5850s/) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.massage.rt5850s&region=cn)
+摩摩哒 | 2018/5/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.massage.rt5850s) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.massage.rt5850s&region=cn)
 
 ![rotai.massage.rt5850s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047575604sRUO8mez.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5I9mu/Qsbmgvq+UvKkEdUHwGa8U=)
 

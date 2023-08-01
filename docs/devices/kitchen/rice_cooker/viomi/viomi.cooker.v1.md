@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网IH电饭煲
 
-云米 Viomi | 2019/3/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.cooker.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.cooker.v1&region=cn)
+云米 Viomi | 2019/3/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.cooker.v1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.cooker.v1&region=cn)
 
 ![viomi.cooker.v1](https://static.home.mi.com/app/image/get/file/developer_1552289519mdhmawqg.png)
 

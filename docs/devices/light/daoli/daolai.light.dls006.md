@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能WiFi色温灯Pro
 
-道来 | 2023/4/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.light.dls006/) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.light.dls006&region=cn)
+道来 | 2023/4/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.light.dls006) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.light.dls006&region=cn)
 
 ![daolai.light.dls006](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f22275ce58c9b3e698ef9d6396f161d7_1665377044134.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ov4VVowJsq80OkJLAuKVnxKAmFg=)
 

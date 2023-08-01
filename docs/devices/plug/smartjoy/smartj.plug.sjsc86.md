@@ -9,7 +9,7 @@ description : ''
 ---
 # SmartJoy智能墙壁插座（WiFi版）
 
-智臻 SmartJoy | 2020/11/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.plug.sjsc86/) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.plug.sjsc86&region=cn)
+智臻 SmartJoy | 2020/11/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.plug.sjsc86) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.plug.sjsc86&region=cn)
 
 ![smartj.plug.sjsc86](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1601885472805MqxsKN7O.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ws0RbBBa9HNVtcpEcbBDgl3toCY=)
 

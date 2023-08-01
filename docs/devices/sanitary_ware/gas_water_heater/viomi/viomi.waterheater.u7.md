@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网燃气热水器Zero（16L零冷水）
 
-云米 Viomi | 2019/8/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u7/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u7&region=cn)
+云米 Viomi | 2019/8/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u7) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u7&region=cn)
 
 ![viomi.waterheater.u7](https://static.home.mi.com/app/image/get/file/developer_15663523622rq7w968.png)
 

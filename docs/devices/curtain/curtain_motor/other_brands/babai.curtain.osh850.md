@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧仕恒智能窗帘
 
-其他品牌 | 2022/5/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.osh850/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.osh850&region=cn)
+其他品牌 | 2022/5/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.osh850) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.osh850&region=cn)
 
 ![babai.curtain.osh850](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6b77794dcafdd042e6060e20f807c10f_1645514714092.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=twEcqaCtXXQeGwMusXSC599Xt9E=)
 

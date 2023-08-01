@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网蒸烤一体机King（嵌入式）
 
-云米 Viomi | 2019/9/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.oven.so1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.oven.so1&region=cn)
+云米 Viomi | 2019/9/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.oven.so1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.oven.so1&region=cn)
 
 ![viomi.oven.so1](https://static.home.mi.com/app/image/get/file/developer_1559200234f6m0l1sk.png)
 

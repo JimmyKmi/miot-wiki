@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能浴霸(WIFI版)
 
-其他品牌 | 2023/6/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ftd.bhf_light.testmd/) | [说明书](https://home.mi.com/views/introduction.html?model=ftd.bhf_light.testmd&region=cn)
+其他品牌 | 2023/6/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ftd.bhf_light.testmd) | [说明书](https://home.mi.com/views/introduction.html?model=ftd.bhf_light.testmd&region=cn)
 
 ![ftd.bhf_light.testmd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d291bf6264a1330c5ab288756cab6d42_1685350810526.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7anmS915zCEmKW+G9rxgucLrFYM=)
 

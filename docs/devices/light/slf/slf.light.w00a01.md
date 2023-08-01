@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐Y8大板旋钮单调光
 
-智拉斐 | 2023/5/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.light.w00a01/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.light.w00a01&region=cn)
+智拉斐 | 2023/5/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.light.w00a01) | [说明书](https://home.mi.com/views/introduction.html?model=slf.light.w00a01&region=cn)
 
 ![slf.light.w00a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c66754bb54ba60e91e9fb226b8a6186f_1679709440221.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fS8Gse5KzCFjv7MIxn2VDY0xfgo=)
 

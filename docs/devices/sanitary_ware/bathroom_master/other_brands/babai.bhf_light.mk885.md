@@ -9,7 +9,7 @@ description : ''
 ---
 # 米科智能浴霸
 
-其他品牌 | 2021/9/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.bhf_light.mk885/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.bhf_light.mk885&region=cn)
+其他品牌 | 2021/9/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.bhf_light.mk885) | [说明书](https://home.mi.com/views/introduction.html?model=babai.bhf_light.mk885&region=cn)
 
 ![babai.bhf_light.mk885](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790480278883VhA1UGk.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VyYp1elTbgFqeTpbsnyX5l6TV4E=)
 

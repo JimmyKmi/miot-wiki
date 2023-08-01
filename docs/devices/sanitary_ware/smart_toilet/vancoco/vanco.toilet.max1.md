@@ -9,7 +9,7 @@ description : ''
 ---
 # Vancoco智能马桶一体机星月MAX
 
-Vancoco | 2022/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=vanco.toilet.max1/) | [说明书](https://home.mi.com/views/introduction.html?model=vanco.toilet.max1&region=cn)
+Vancoco | 2022/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=vanco.toilet.max1) | [说明书](https://home.mi.com/views/introduction.html?model=vanco.toilet.max1&region=cn)
 
 ![vanco.toilet.max1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2596735bfc1e6b4347a0e17746a28bca_1626073622162.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HERSHWUR1sRzwZkXXOV/9X6xhZQ=)
 

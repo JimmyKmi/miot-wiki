@@ -9,7 +9,7 @@ description : ''
 ---
 # 金百丽智能单色灯
 
-金百丽 | 2021/4/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xbzhm.light.w00a01/) | [说明书](https://home.mi.com/views/introduction.html?model=xbzhm.light.w00a01&region=cn)
+金百丽 | 2021/4/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xbzhm.light.w00a01) | [说明书](https://home.mi.com/views/introduction.html?model=xbzhm.light.w00a01&region=cn)
 
 ![xbzhm.light.w00a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047902523O0TbCjRt.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DPOBHsJwezhN7ahxye9ftiyo1zw=)
 

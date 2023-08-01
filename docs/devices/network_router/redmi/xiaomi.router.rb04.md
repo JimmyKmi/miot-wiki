@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi电竞路由器AX5400
 
-红米 | 2022/2/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.rb04/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.rb04&region=cn)
+红米 | 2022/2/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.rb04) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.rb04&region=cn)
 
 ![xiaomi.router.rb04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ae079863015d3b7c144a29bbe115a3bb_1638885282106.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Fe5IqUDdMn/464Bc9E1kYQPMy20=)
 

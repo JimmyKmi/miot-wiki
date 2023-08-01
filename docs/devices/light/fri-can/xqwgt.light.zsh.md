@@ -9,7 +9,7 @@ description : ''
 ---
 # 星期五潮玩展示盒
 
-FRI?CAN | 2022/11/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xqwgt.light.zsh/) | [说明书](https://home.mi.com/views/introduction.html?model=xqwgt.light.zsh&region=cn)
+FRI?CAN | 2022/11/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xqwgt.light.zsh) | [说明书](https://home.mi.com/views/introduction.html?model=xqwgt.light.zsh&region=cn)
 
 ![xqwgt.light.zsh](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f7766a735dc7e01e3b7654d2382c8072_1662082263382.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=eF85KF0G1iEsifBj5l+pI6cfxzY=)
 

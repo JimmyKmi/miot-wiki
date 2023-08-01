@@ -9,7 +9,7 @@ description : ''
 ---
 # 正熙户外便携空调
 
-正熙 | 2023/4/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zxkj.aircondition.kt22/) | [说明书](https://home.mi.com/views/introduction.html?model=zxkj.aircondition.kt22&region=cn)
+正熙 | 2023/4/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zxkj.aircondition.kt22) | [说明书](https://home.mi.com/views/introduction.html?model=zxkj.aircondition.kt22&region=cn)
 
 ![zxkj.aircondition.kt22](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a94bfb79c6c85b6e4ce9701a4fa5b8b7_1670565791272.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YvEhuYxl3/vC8DzYNLsf9oEkhg4=)
 

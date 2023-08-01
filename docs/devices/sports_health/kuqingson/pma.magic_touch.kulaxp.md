@@ -9,7 +9,7 @@ description : ''
 ---
 # 酷轻松肩颈背养护仪
 
-酷轻松 | 2023/5/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pma.magic_touch.kulaxp/) | [说明书](https://home.mi.com/views/introduction.html?model=pma.magic_touch.kulaxp&region=cn)
+酷轻松 | 2023/5/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pma.magic_touch.kulaxp) | [说明书](https://home.mi.com/views/introduction.html?model=pma.magic_touch.kulaxp&region=cn)
 
 ![pma.magic_touch.kulaxp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/47bbcd739eeb94713ebf13dcd4d2bb02_1681977074466.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ldRsgnyG4cNArm6r/8dsCNmtNhc=)
 

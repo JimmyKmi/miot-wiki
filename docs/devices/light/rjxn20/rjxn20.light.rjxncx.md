@@ -9,7 +9,7 @@ description : ''
 ---
 # RJ智能磁吸灯
 
-睿晶小智 | 2023/5/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.rjxncx/) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.rjxncx&region=cn)
+睿晶小智 | 2023/5/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.rjxncx) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.rjxncx&region=cn)
 
 ![rjxn20.light.rjxncx](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9e885c9722dc24c4014ee9d154a4ff39_1683344489214.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9aidgaaw56MUXx489E1L+nmzX4A=)
 

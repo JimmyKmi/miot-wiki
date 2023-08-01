@@ -9,7 +9,7 @@ description : ''
 ---
 # 背景音乐
 
-声必可 | 2021/7/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xfocus.wifispeaker.xfos/) | [说明书](https://home.mi.com/views/introduction.html?model=xfocus.wifispeaker.xfos&region=cn)
+声必可 | 2021/7/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xfocus.wifispeaker.xfos) | [说明书](https://home.mi.com/views/introduction.html?model=xfocus.wifispeaker.xfos&region=cn)
 
 ![xfocus.wifispeaker.xfos](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4f21ed5a0b075b3797416a4307ea1b1c_1626167189133.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ji0h4u/giFNqr2PFA8/MOLjRgsE=)
 

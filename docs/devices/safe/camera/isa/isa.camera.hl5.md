@@ -9,7 +9,7 @@ description : ''
 ---
 # 小圆智能摄像机
 
-小圆 | 2018/9/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.hl5/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.hl5&region=cn)
+小圆 | 2018/9/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.hl5) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.hl5&region=cn)
 
 ![isa.camera.hl5](https://static.home.mi.com/app/image/get/file/developer_15244741379ih78q66.png)
 

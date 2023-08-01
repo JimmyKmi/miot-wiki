@@ -9,7 +9,7 @@ description : ''
 ---
 # 亖米八键开关mesh版
 
-亖米 | 2022/9/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.switch.sw8a01/) | [说明书](https://home.mi.com/views/introduction.html?model=symi.switch.sw8a01&region=cn)
+亖米 | 2022/9/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.switch.sw8a01) | [说明书](https://home.mi.com/views/introduction.html?model=symi.switch.sw8a01&region=cn)
 
 ![symi.switch.sw8a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/97ac5e43923a4b8e7453fd3a2670d47b_1662092422571.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tR3r3Jdc/jBUQrNLiWcIPhrOPiQ=)
 

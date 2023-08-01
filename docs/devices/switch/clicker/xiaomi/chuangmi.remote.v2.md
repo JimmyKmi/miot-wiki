@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家万能遥控器
 
-小米/米家 | 2019/3/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.remote.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.remote.v2&region=cn)
+小米/米家 | 2019/3/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.remote.v2) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.remote.v2&region=cn)
 
 ![chuangmi.remote.v2](https://static.home.mi.com/app/image/get/file/developer_15530028763tr4t93y.png)
 

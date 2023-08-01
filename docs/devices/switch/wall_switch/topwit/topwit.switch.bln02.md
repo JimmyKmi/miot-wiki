@@ -9,7 +9,7 @@ description : ''
 ---
 # 二位零火Mesh开关
 
-Topwit | 2022/1/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.switch.bln02/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.switch.bln02&region=cn)
+Topwit | 2022/1/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.switch.bln02) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.switch.bln02&region=cn)
 
 ![topwit.switch.bln02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bf8442ed338a1a532df2390a3de25a99_1637998608381.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Gc0btXEOREsfvczGhdFJ3xuCtQ8=)
 

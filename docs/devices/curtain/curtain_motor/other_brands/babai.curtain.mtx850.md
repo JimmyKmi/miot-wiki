@@ -9,7 +9,7 @@ description : ''
 ---
 # 满天馨智能窗帘
 
-其他品牌 | 2020/1/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.mtx850/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.mtx850&region=cn)
+其他品牌 | 2020/1/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.mtx850) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.mtx850&region=cn)
 
 ![babai.curtain.mtx850](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1575948038983TX9XMIi7.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PDmFfJTlxAWq24FiJwL3rS2RWe0=)
 

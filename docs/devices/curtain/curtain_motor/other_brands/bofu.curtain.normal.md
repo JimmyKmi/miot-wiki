@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能电动窗帘
 
-其他品牌 | 2021/6/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bofu.curtain.normal/) | [说明书](https://home.mi.com/views/introduction.html?model=bofu.curtain.normal&region=cn)
+其他品牌 | 2021/6/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bofu.curtain.normal) | [说明书](https://home.mi.com/views/introduction.html?model=bofu.curtain.normal&region=cn)
 
 ![bofu.curtain.normal](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cff313b35b565711cb32d361ea72d700_缩略图2.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZIasg0r9n+MeP1eyQpxy6+/fTNs=)
 

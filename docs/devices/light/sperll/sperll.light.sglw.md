@@ -9,7 +9,7 @@ description : ''
 ---
 # BanlanX单色灯
 
-SPERLL | 2023/6/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sperll.light.sglw/) | [说明书](https://home.mi.com/views/introduction.html?model=sperll.light.sglw&region=cn)
+SPERLL | 2023/6/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sperll.light.sglw) | [说明书](https://home.mi.com/views/introduction.html?model=sperll.light.sglw&region=cn)
 
 ![sperll.light.sglw](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a0b809fd995ff4a4b165c96d73853557_1681726426716.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hSkEwpizhfhImrsmo0lMlBZFTt8=)
 

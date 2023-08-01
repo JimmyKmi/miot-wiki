@@ -9,7 +9,7 @@ description : ''
 ---
 # SMOOKY智能筋膜枪
 
-SMOOKY | 2023/6/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smooky.magic_touch.ma01/) | [说明书](https://home.mi.com/views/introduction.html?model=smooky.magic_touch.ma01&region=cn)
+SMOOKY | 2023/6/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smooky.magic_touch.ma01) | [说明书](https://home.mi.com/views/introduction.html?model=smooky.magic_touch.ma01&region=cn)
 
 ![smooky.magic_touch.ma01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7fadeab918ca0d33ba57390faf2235d9_1683339443743.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=51iJrzKU+qXTcFSA1rMFWz4FV7c=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家纯净式智能加湿器 2 lite
 
-小米/米家 | 2022/9/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.humidifier.jsq2/) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.humidifier.jsq2&region=cn)
+小米/米家 | 2022/9/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.humidifier.jsq2) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.humidifier.jsq2&region=cn)
 
 ![leshow.humidifier.jsq2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/356551479e4d4b9f168aa08e16affd67_1644905651269.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WuX4+2NW0frU3ieGvfcgkkvMNcE=)
 

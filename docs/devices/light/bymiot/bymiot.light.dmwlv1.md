@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居无线灯带调光驱动器
 
-未来居 Bymiot | 2022/3/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.light.dmwlv1/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.light.dmwlv1&region=cn)
+未来居 Bymiot | 2022/3/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.light.dmwlv1) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.light.dmwlv1&region=cn)
 
 ![bymiot.light.dmwlv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0bd32669473ecfd03859ab360fac5990_1639708793765.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2OTKqRIV38KXDlX+jl1BVdrYoFw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 果蔬净化清洗机
 
-美高 | 2019/8/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.f_washer.m1/) | [说明书](https://home.mi.com/views/introduction.html?model=msj.f_washer.m1&region=cn)
+美高 | 2019/8/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.f_washer.m1) | [说明书](https://home.mi.com/views/introduction.html?model=msj.f_washer.m1&region=cn)
 
 ![msj.f_washer.m1](https://static.home.mi.com/app/image/get/file/developer_15597180430y98dvyj.png)
 

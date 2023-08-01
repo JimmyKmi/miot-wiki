@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家投影仪青春版2
 
-小米/米家 | 2020/8/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.m045j/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.m045j&region=cn)
+小米/米家 | 2020/8/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.m045j) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.m045j&region=cn)
 
 ![fengmi.projector.m045j](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1584698751823gNfz12nc.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wL7/wCjmJf08pb+V4t3xQGBNcwA=)
 

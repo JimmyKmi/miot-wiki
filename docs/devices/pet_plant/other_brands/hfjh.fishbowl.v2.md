@@ -9,7 +9,7 @@ description : ''
 ---
 # 画法几何C系智能鱼缸
 
-其他品牌 | 2020/7/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hfjh.fishbowl.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=hfjh.fishbowl.v2&region=cn)
+其他品牌 | 2020/7/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hfjh.fishbowl.v2) | [说明书](https://home.mi.com/views/introduction.html?model=hfjh.fishbowl.v2&region=cn)
 
 ![hfjh.fishbowl.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1595857713650mSzIMVao.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=V8mh4qD9nTVL6Mrt6LKDb33j3nw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 凯夫尔KFE
 
-其他品牌 | 2020/9/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nbczwl.airer.kfe01/) | [说明书](https://home.mi.com/views/introduction.html?model=nbczwl.airer.kfe01&region=cn)
+其他品牌 | 2020/9/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nbczwl.airer.kfe01) | [说明书](https://home.mi.com/views/introduction.html?model=nbczwl.airer.kfe01&region=cn)
 
 ![nbczwl.airer.kfe01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048482630lox8ydFy.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=f4vquruQ7fSx/XgsaP/VoahC+XA=)
 

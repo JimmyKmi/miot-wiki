@@ -9,7 +9,7 @@ description : ''
 ---
 # 吸顶灯MX960(可调色温)
 
-绿米 Aqara | 2019/12/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.light.cwopcn01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.light.cwopcn01&region=cn)
+绿米 Aqara | 2019/12/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.light.cwopcn01) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.light.cwopcn01&region=cn)
 
 ![lumi.light.cwopcn01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870990062PQKrbBrW.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=odz0NGLsT+qpBUlnTa4Agu87vH4=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Xiaomi Sound Pro
 
-小米/米家 | 2022/12/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.l17a/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.l17a&region=cn)
+小米/米家 | 2022/12/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.l17a) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.l17a&region=cn)
 
 ![xiaomi.wifispeaker.l17a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1671519242659dRp71ybe.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/jaVdbEEzH3HVBqGZr+Idy/xJio=)
 

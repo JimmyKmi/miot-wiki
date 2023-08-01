@@ -9,7 +9,7 @@ description : ''
 ---
 # 语爱美智能全效射频美容仪M180
 
-语爱美 | 2023/4/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hzyx01.beauty.m180/) | [说明书](https://home.mi.com/views/introduction.html?model=hzyx01.beauty.m180&region=cn)
+语爱美 | 2023/4/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hzyx01.beauty.m180) | [说明书](https://home.mi.com/views/introduction.html?model=hzyx01.beauty.m180&region=cn)
 
 ![hzyx01.beauty.m180](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d8cf7739133b32e4811794b791d8f243_1672388007109.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=EQ2usIOxyUI9GPLbdbe7nuJp4w8=)
 

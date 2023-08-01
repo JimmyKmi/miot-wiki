@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米米家电子温湿度计Pro
 
-小米/米家 | 2019/4/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.sensor_ht.t1/) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.sensor_ht.t1&region=cn)
+小米/米家 | 2019/4/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miaomiaoce.sensor_ht.t1) | [说明书](https://home.mi.com/views/introduction.html?model=miaomiaoce.sensor_ht.t1&region=cn)
 
 ![miaomiaoce.sensor_ht.t1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790475782639pVWWybx.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Tx/jzKi/E7JKGfrc4Z9D0at3rak=)
 

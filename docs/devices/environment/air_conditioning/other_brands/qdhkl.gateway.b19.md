@@ -9,7 +9,7 @@ description : ''
 ---
 # VRF中央空调控制器
 
-其他品牌 | 2022/3/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.gateway.b19/) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.gateway.b19&region=cn)
+其他品牌 | 2022/3/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.gateway.b19) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.gateway.b19&region=cn)
 
 ![qdhkl.gateway.b19](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/37b0c6bd477ad0074c44bc8384892021_1641368294047.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ew7Gb9HwzQo5gAjYYgMBDXUS4bY=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能筒射灯Pro
 
-雷士 | 2023/6/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.cwtsd/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.cwtsd&region=cn)
+雷士 | 2023/6/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.cwtsd) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.cwtsd&region=cn)
 
 ![leishi.light.cwtsd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0448c2549612284c6742778e8144f9b1_1686559671528.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jbI/tUqHH63ehtXqnaBbp2fEtR0=)
 

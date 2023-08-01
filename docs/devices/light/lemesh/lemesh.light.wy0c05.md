@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景mesh色温灯E系列
 
-情景mesh芯片 | 2020/9/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wy0c05/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wy0c05&region=cn)
+情景mesh芯片 | 2020/9/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wy0c05) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wy0c05&region=cn)
 
 ![lemesh.light.wy0c05](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047690760mkBpj3hk.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qQHc9HMSd4cONJQxGeeXooLX31A=)
 

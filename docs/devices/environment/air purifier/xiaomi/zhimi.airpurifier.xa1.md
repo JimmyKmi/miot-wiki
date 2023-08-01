@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家空气净化器X
 
-小米/米家 | 2020/10/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airpurifier.xa1/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airpurifier.xa1&region=cn)
+小米/米家 | 2020/10/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airpurifier.xa1) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airpurifier.xa1&region=cn)
 
 ![zhimi.airpurifier.xa1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071134656ySLZOd0M.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DX+MUPXSekA0y6SmU1MO9U+MOCI=)
 

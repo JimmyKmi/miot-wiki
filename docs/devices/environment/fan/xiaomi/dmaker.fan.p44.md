@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能蒸发式冷风扇
 
-小米/米家 | 2023/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.p44/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.p44&region=cn)
+小米/米家 | 2023/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.p44) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.p44&region=cn)
 
 ![dmaker.fan.p44](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/445260df33bc583e32eb6da775ecfb88_1670493678896.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VjuHHPBv055XAxgEZrxfVJntlvc=)
 

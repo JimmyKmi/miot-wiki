@@ -9,7 +9,7 @@ description : ''
 ---
 # MATE加湿器
 
-其他品牌 | 2021/8/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mate.humidifier.cs01/) | [说明书](https://home.mi.com/views/introduction.html?model=mate.humidifier.cs01&region=cn)
+其他品牌 | 2021/8/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mate.humidifier.cs01) | [说明书](https://home.mi.com/views/introduction.html?model=mate.humidifier.cs01&region=cn)
 
 ![mate.humidifier.cs01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071119801c1Llog0S.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3NoUg1ynbBLEufJ/LyGkfqbCr8A=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网波轮洗衣机（9KG）
 
-云米 Viomi | 2019/4/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.s1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.s1&region=cn)
+云米 Viomi | 2019/4/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.s1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.s1&region=cn)
 
 ![viomi.washer.s1](https://static.home.mi.com/app/image/get/file/developer_155246847742h0ywki.png)
 

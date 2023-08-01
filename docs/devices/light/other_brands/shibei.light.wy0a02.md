@@ -9,7 +9,7 @@ description : ''
 ---
 # 视贝智能卧室吸顶灯
 
-其他品牌 | 2021/5/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shibei.light.wy0a02/) | [说明书](https://home.mi.com/views/introduction.html?model=shibei.light.wy0a02&region=cn)
+其他品牌 | 2021/5/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shibei.light.wy0a02) | [说明书](https://home.mi.com/views/introduction.html?model=shibei.light.wy0a02&region=cn)
 
 ![shibei.light.wy0a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047902605uMVgnu0I.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CzlnWmmbEp9aykcTaLIaNYsP9t0=)
 

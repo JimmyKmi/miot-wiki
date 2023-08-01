@@ -9,7 +9,7 @@ description : ''
 ---
 # 小明 Q1 Pro 智能投影仪
 
-峰米 Fengmi | 2021/11/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.c025/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.c025&region=cn)
+峰米 Fengmi | 2021/11/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.c025) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.c025&region=cn)
 
 ![fengmi.projector.c025](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790489387935AfFsiIO.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UrgjAfiz7TfQgftC8K8iF4mK5aQ=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 慧作智能照明(2021版)
 
-华艺 | 2021/8/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy006/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy006&region=cn)
+华艺 | 2021/8/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy006) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy006&region=cn)
 
 ![huayi.light.wy006](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047839278fBbvTARZ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QMV3cdYhBw366Hz9oOXWZ7nHzoE=)
 

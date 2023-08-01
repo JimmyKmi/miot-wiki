@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能插座（Zigbee版）
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.plug.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.plug.v1&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.plug.v1) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.plug.v1&region=cn)
 
 ![lumi.plug.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047510943135rrhS9.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9lVgX9jevEL7IN2ccBmGme3va0E=)
 

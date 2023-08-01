@@ -9,7 +9,7 @@ description : ''
 ---
 # E9 Plus 3D振动眼部按摩仪
 
-Jeeback | 2023/1/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jback.magic_touch.e9/) | [说明书](https://home.mi.com/views/introduction.html?model=jback.magic_touch.e9&region=cn)
+Jeeback | 2023/1/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jback.magic_touch.e9) | [说明书](https://home.mi.com/views/introduction.html?model=jback.magic_touch.e9&region=cn)
 
 ![jback.magic_touch.e9](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f6da35905101c2d9782143f36c357968_1670204734605.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fytfkrdajRatxZ4TpdHClXCVPe8=)
 

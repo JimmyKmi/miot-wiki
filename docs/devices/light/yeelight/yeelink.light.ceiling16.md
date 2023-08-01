@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 星宇 LED吸顶灯
 
-易来 Yeelight | 2019/5/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling16/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling16&region=cn)
+易来 Yeelight | 2019/5/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling16) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling16&region=cn)
 
 ![yeelink.light.ceiling16](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047612921d62HvfnR.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bNjjSI7KNpizPvWmnqqWLwVo3NE=)
 

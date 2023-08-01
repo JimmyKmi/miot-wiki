@@ -9,7 +9,7 @@ description : ''
 ---
 # 画法几何智能鱼缸
 
-画法几何 | 2019/12/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hfjh.fishbowl.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=hfjh.fishbowl.v1&region=cn)
+画法几何 | 2019/12/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hfjh.fishbowl.v1) | [说明书](https://home.mi.com/views/introduction.html?model=hfjh.fishbowl.v1&region=cn)
 
 ![hfjh.fishbowl.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871036665SLJefcTi.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=V1UJ5N8jAc5XjXMCxfROS1J3gt8=)
 

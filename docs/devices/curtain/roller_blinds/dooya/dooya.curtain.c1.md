@@ -9,7 +9,7 @@ description : ''
 ---
 # 杜亚智能卷帘控制器
 
-杜亚 Dooya | 2020/8/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.c1/) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.c1&region=cn)
+杜亚 Dooya | 2020/8/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.c1) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.c1&region=cn)
 
 ![dooya.curtain.c1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790484808654i0BzERu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=obKjUSo/mIVGPnNMmH+tHdNepNI=)
 

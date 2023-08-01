@@ -9,7 +9,7 @@ description : ''
 ---
 # 电动剃须刀
 
-其他品牌 | 2022/12/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lbhd.razor.hs150/) | [说明书](https://home.mi.com/views/introduction.html?model=lbhd.razor.hs150&region=cn)
+其他品牌 | 2022/12/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lbhd.razor.hs150) | [说明书](https://home.mi.com/views/introduction.html?model=lbhd.razor.hs150&region=cn)
 
 ![lbhd.razor.hs150](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/08b08ab2844f8617bbf98c1b59e269cd_1667286026070.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Gxxak249mHibPXQbUXaVV6cqdyQ=)
 

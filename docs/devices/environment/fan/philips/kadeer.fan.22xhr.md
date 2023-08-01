@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦L22XHR风扇
 
-飞利浦 | 2023/3/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.22xhr/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.22xhr&region=cn)
+飞利浦 | 2023/3/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.22xhr) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.22xhr&region=cn)
 
 ![kadeer.fan.22xhr](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/76f35027ebac923a8421b99c4fc7e046_1675649776080.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=kkRpv3jAl1sDfNwyKrrDebpIIxc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士鸟巢LED吸顶灯
 
-雷士 | 2020/3/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.nest/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.nest&region=cn)
+雷士 | 2020/3/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.nest) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.nest&region=cn)
 
 ![leishi.light.nest](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047688698BlPg5Dld.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tXzPUUussCmZ0Hwnu9bV1E3ucd8=)
 

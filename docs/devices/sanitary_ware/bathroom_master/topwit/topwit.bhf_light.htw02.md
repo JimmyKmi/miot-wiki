@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能浴霸
 
-Topwit | 2022/10/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.bhf_light.htw02/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.bhf_light.htw02&region=cn)
+Topwit | 2022/10/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.bhf_light.htw02) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.bhf_light.htw02&region=cn)
 
 ![topwit.bhf_light.htw02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8ee2fe4c892c8d8a5333cca01529771b_1665536409838.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XKMZnNKz+BAv55Ezfy+OPYy46VA=)
 

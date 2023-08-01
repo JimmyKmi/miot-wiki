@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦智睿吸顶灯 简约版G2 小卧室
 
-飞利浦 | 2023/1/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.ceilz/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.ceilz&region=cn)
+飞利浦 | 2023/1/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.ceilz) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.ceilz&region=cn)
 
 ![philips.light.ceilz](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/429fbb21c79237fb61f7f9cad9deaca5_1669369692376.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=e4VCYGsSOeCO/SeihGupVHV/uq0=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi路由器AX1800
 
-红米 | 2021/10/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.ra71/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.ra71&region=cn)
+红米 | 2021/10/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.ra71) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.ra71&region=cn)
 
 ![xiaomi.router.ra71](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048938440vlCvrzIx.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=S9vnpjLccR+pEmvYp0nU1fJ9OVQ=)
 

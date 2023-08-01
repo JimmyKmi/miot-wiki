@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能八键开关(MESH单火)
 
-其他品牌 | 2022/12/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.308ml/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.308ml&region=cn)
+其他品牌 | 2022/12/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.308ml) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.308ml&region=cn)
 
 ![babai.switch.308ml](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/abce3e1230a8a29aa8064e4146846f46_1661935028090.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=JAIM9RnjsSLa+CkRCgZ9R52uSlU=)
 

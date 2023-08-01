@@ -9,7 +9,7 @@ description : ''
 ---
 # 声必可双音源背景音乐
 
-声必可 | 2021/9/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xfocus.wifispeaker.dual/) | [说明书](https://home.mi.com/views/introduction.html?model=xfocus.wifispeaker.dual&region=cn)
+声必可 | 2021/9/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xfocus.wifispeaker.dual) | [说明书](https://home.mi.com/views/introduction.html?model=xfocus.wifispeaker.dual&region=cn)
 
 ![xfocus.wifispeaker.dual](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/56d51e73b9127a1cff865ef2d45ef6f2_1624613276914.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NIJaWgP7Fhi/IWQM5Q6Do5cWI6w=)
 

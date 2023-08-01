@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家立式暖风机Lite
 
-小米/米家 | 2022/9/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.heater.nfj2lx/) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.heater.nfj2lx&region=cn)
+小米/米家 | 2022/9/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.heater.nfj2lx) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.heater.nfj2lx&region=cn)
 
 ![leshow.heater.nfj2lx](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3d3b98c38703f2e44de6343026f744cc_1638249623490.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VZxhYWU+3Rt82C2MbWA2nTUVc+I=)
 

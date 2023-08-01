@@ -9,7 +9,7 @@ description : ''
 ---
 # 劳力特新风机
 
-其他品牌 | 2022/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=disen.airfresh.ds300/) | [说明书](https://home.mi.com/views/introduction.html?model=disen.airfresh.ds300&region=cn)
+其他品牌 | 2022/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=disen.airfresh.ds300) | [说明书](https://home.mi.com/views/introduction.html?model=disen.airfresh.ds300&region=cn)
 
 ![disen.airfresh.ds300](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4c45d44a4e5c0619eaccef2c2712f81e_1642152246184.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=g7NNE66L3t+cv3YkHSf2dnAoIqU=)
 

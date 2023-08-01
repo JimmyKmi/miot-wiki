@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家恒温电水壶Pro
 
-小米/米家 | 2020/5/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.kettle.v9/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.kettle.v9&region=cn)
+小米/米家 | 2020/5/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.kettle.v9) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.kettle.v9&region=cn)
 
 ![yunmi.kettle.v9](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047615779oL1KoLUw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vp4a0Nv3QRqOs0ZstuO1V7dYgt8=)
 

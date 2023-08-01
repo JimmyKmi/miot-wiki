@@ -9,7 +9,7 @@ description : ''
 ---
 # 希箭IOT智能镜柜a80m02
 
-希箭 | 2023/7/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.mirror.a80m02/) | [说明书](https://home.mi.com/views/introduction.html?model=horow.mirror.a80m02&region=cn)
+希箭 | 2023/7/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.mirror.a80m02) | [说明书](https://home.mi.com/views/introduction.html?model=horow.mirror.a80m02&region=cn)
 
 ![horow.mirror.a80m02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d18d881ea9904728d5bd92902bce2c9c_1679452349557.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0csgJ6lgo5cNJdHH1MJRXNfRdYw=)
 

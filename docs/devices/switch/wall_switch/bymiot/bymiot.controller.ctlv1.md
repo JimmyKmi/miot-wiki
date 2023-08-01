@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居调光旋钮（冷暖）
 
-未来居 Bymiot | 2023/6/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.controller.ctlv1/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.controller.ctlv1&region=cn)
+未来居 Bymiot | 2023/6/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.controller.ctlv1) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.controller.ctlv1&region=cn)
 
 ![bymiot.controller.ctlv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6d128c572bc8e78c54f7c7243af9a0d6_1680862741330.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+j5b2DI9ZuOmix/gu7YgIupdbx0=)
 

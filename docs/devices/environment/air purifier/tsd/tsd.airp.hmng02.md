@@ -9,7 +9,7 @@ description : ''
 ---
 # 通士达净棠空气净化器K2
 
-通士达 | 2022/8/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsd.airp.hmng02/) | [说明书](https://home.mi.com/views/introduction.html?model=tsd.airp.hmng02&region=cn)
+通士达 | 2022/8/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsd.airp.hmng02) | [说明书](https://home.mi.com/views/introduction.html?model=tsd.airp.hmng02&region=cn)
 
 ![tsd.airp.hmng02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/04f7b4cb30a06a56eb7cb8b5c2a595cf_1648611803691.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=IFxhljTc3FnOAqW8A4Qp3kFc3p8=)
 

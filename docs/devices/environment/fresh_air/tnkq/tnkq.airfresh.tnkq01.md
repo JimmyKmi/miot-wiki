@@ -9,7 +9,7 @@ description : ''
 ---
 # 童年空气智能康养新风
 
-童年空气 | 2022/3/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tnkq.airfresh.tnkq01/) | [说明书](https://home.mi.com/views/introduction.html?model=tnkq.airfresh.tnkq01&region=cn)
+童年空气 | 2022/3/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tnkq.airfresh.tnkq01) | [说明书](https://home.mi.com/views/introduction.html?model=tnkq.airfresh.tnkq01&region=cn)
 
 ![tnkq.airfresh.tnkq01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0be8e59d3567b5d357a071d3320fb70c_1640923753343.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=JSxxsg7LuHwt0ZS/eJRP0NjQUpk=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 公牛智能三位无线开关
 
-公牛 Bull | 2022/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bull.remote.s315y/) | [说明书](https://home.mi.com/views/introduction.html?model=bull.remote.s315y&region=cn)
+公牛 Bull | 2022/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bull.remote.s315y) | [说明书](https://home.mi.com/views/introduction.html?model=bull.remote.s315y&region=cn)
 
 ![bull.remote.s315y](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/44694b634bd0398834b07994df08ef5b_1639993894832.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/XZuD864KedxPAos4cIzGtEN/Y8=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 榉树智能锁
 
-榉树 | 2018/1/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shjszn.lock.c1/) | [说明书](https://home.mi.com/views/introduction.html?model=shjszn.lock.c1&region=cn)
+榉树 | 2018/1/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shjszn.lock.c1) | [说明书](https://home.mi.com/views/introduction.html?model=shjszn.lock.c1&region=cn)
 
 ![shjszn.lock.c1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047509313ITCun9ys.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qD/K3kLFG4hpxwC1DRbd0g9dwvk=)
 

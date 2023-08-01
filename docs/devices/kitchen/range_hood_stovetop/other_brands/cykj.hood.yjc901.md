@@ -9,7 +9,7 @@ description : ''
 ---
 # cleadeep净味油烟机
 
-其他品牌 | 2021/3/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cykj.hood.yjc901/) | [说明书](https://home.mi.com/views/introduction.html?model=cykj.hood.yjc901&region=cn)
+其他品牌 | 2021/3/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cykj.hood.yjc901) | [说明书](https://home.mi.com/views/introduction.html?model=cykj.hood.yjc901&region=cn)
 
 ![cykj.hood.yjc901](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047690612BrJeXBwa.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GV/Tf5ETPdlIh4CmonWhMHdQebQ=)
 

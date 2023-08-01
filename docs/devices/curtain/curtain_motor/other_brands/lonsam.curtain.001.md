@@ -9,7 +9,7 @@ description : ''
 ---
 # LS智能窗帘电机
 
-其他品牌 | 2022/6/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lonsam.curtain.001/) | [说明书](https://home.mi.com/views/introduction.html?model=lonsam.curtain.001&region=cn)
+其他品牌 | 2022/6/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lonsam.curtain.001) | [说明书](https://home.mi.com/views/introduction.html?model=lonsam.curtain.001&region=cn)
 
 ![lonsam.curtain.001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4a2c3d5c2336493be2922afdb7ba3765_1639967790522.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zFIbaHDGQ6fBg0qn2CPY5wAC//8=)
 

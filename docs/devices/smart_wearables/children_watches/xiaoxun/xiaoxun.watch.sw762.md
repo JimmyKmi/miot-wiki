@@ -9,7 +9,7 @@ description : ''
 ---
 # 米兔儿童电话手表4C
 
-米兔小寻 | 2020/6/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw762/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw762&region=cn)
+米兔小寻 | 2020/6/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw762) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw762&region=cn)
 
 ![xiaoxun.watch.sw762](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1593401132973GFZMznrF.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oyI3EDP+ymHddhHw4RrZ3xYDJQU=)
 

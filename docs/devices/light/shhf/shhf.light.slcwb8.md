@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能色温灯蓝牙版V2
 
-汉枫 | 2023/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shhf.light.slcwb8/) | [说明书](https://home.mi.com/views/introduction.html?model=shhf.light.slcwb8&region=cn)
+汉枫 | 2023/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shhf.light.slcwb8) | [说明书](https://home.mi.com/views/introduction.html?model=shhf.light.slcwb8&region=cn)
 
 ![shhf.light.slcwb8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9eb6ac4f8cc904045a2ed5fcb22c18a3_1668494464004.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xTOmeqwXvYgQadMluycZ/c7WCHg=)
 

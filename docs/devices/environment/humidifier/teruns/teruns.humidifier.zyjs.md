@@ -9,7 +9,7 @@ description : ''
 ---
 # 特润斯中央智慧加湿系统
 
-特润斯 | 2022/12/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=teruns.humidifier.zyjs/) | [说明书](https://home.mi.com/views/introduction.html?model=teruns.humidifier.zyjs&region=cn)
+特润斯 | 2022/12/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=teruns.humidifier.zyjs) | [说明书](https://home.mi.com/views/introduction.html?model=teruns.humidifier.zyjs&region=cn)
 
 ![teruns.humidifier.zyjs](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/80f620d3e70b86a58ba320a2cce6bc40_1654594350928.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aC1orQeP/pFq6YkVL4QxrZLzPS4=)
 

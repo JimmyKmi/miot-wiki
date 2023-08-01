@@ -9,7 +9,7 @@ description : ''
 ---
 # 米兔儿童学习手表6C
 
-米兔小寻 | 2022/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw772/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw772&region=cn)
+米兔小寻 | 2022/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw772) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw772&region=cn)
 
 ![xiaoxun.watch.sw772](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8814534c9f78243d1b54a13aa124a8dc_1646704875747.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=OnzU0dBw1b7ZbBq/afhReR4ZCU4=)
 

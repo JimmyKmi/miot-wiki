@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网电热水器50L（优享版）
 
-云米 Viomi | 2018/12/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e4/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e4&region=cn)
+云米 Viomi | 2018/12/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e4) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e4&region=cn)
 
 ![viomi.waterheater.e4](https://static.home.mi.com/app/image/get/file/developer_1543977897rnakrs6n.png)
 

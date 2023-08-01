@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能门铃2
 
-小米/米家 | 2021/11/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.mic2jz/) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.mic2jz&region=cn)
+小米/米家 | 2021/11/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.mic2jz) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.mic2jz&region=cn)
 
 ![madv.cateye.mic2jz](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fb2408ffbeb98bd1a264791a278031e3_1625738899632.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TVH62uSnronSNYKN+hEP1eP5vM8=)
 

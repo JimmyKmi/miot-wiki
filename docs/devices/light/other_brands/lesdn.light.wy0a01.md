@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷施顿智能灯
 
-其他品牌 | 2021/11/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lesdn.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=lesdn.light.wy0a01&region=cn)
+其他品牌 | 2021/11/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lesdn.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=lesdn.light.wy0a01&region=cn)
 
 ![lesdn.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d0100a027094c52ef10216a84639805f_1628325315301.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mA+LrxbzZopxAu1qtH1UWzTS8tg=)
 

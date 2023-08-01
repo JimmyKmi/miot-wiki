@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI石墨烯踢脚线电暖器Smart Pro
 
-云米 Viomi | 2022/9/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.heater.v10/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.heater.v10&region=cn)
+云米 Viomi | 2022/9/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.heater.v10) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.heater.v10&region=cn)
 
 ![viomi.heater.v10](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fa9fee6dc2f543f2f2a386d2ba68730d_1661133239246.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cXpRbEXYSDBjZ7C8DZK3wsLE/34=)
 

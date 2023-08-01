@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能磁吸灯
 
-创米小白 | 2022/2/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.light.718a02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.light.718a02&region=cn)
+创米小白 | 2022/2/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.light.718a02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.light.718a02&region=cn)
 
 ![chuangmi.light.718a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/178b5a523f2ad18ea1def25ef429647c_1641546556421.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QcLXOLgruKd3JphxGTe4cv1+UPI=)
 

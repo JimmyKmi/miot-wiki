@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能二键开关（零火mesh）
 
-其他品牌 | 2021/10/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyzngc.switch.hy0602/) | [说明书](https://home.mi.com/views/introduction.html?model=hyzngc.switch.hy0602&region=cn)
+其他品牌 | 2021/10/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyzngc.switch.hy0602) | [说明书](https://home.mi.com/views/introduction.html?model=hyzngc.switch.hy0602&region=cn)
 
 ![hyzngc.switch.hy0602](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068994011ntnSVMbb.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5Jp1BolEMhG84/fdFA/LhL8CjWY=)
 

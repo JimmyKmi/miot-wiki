@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普智能筒射灯
 
-领普 | 2022/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.light.ldcw01/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.light.ldcw01&region=cn)
+领普 | 2022/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.light.ldcw01) | [说明书](https://home.mi.com/views/introduction.html?model=linp.light.ldcw01&region=cn)
 
 ![linp.light.ldcw01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cdd8742952a6f8112109f0da44a25c63_1652845771110.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wCiyFiTvN9CwIN+umpUcH5HtdbI=)
 

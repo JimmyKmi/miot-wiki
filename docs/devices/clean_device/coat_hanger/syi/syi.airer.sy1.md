@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡瑞琪电动晾衣架
 
-小匠 | 2021/3/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syi.airer.sy1/) | [说明书](https://home.mi.com/views/introduction.html?model=syi.airer.sy1&region=cn)
+小匠 | 2021/3/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syi.airer.sy1) | [说明书](https://home.mi.com/views/introduction.html?model=syi.airer.sy1&region=cn)
 
 ![syi.airer.sy1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071455120aUMN5N83.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xXVX0JEOKQZvGMkyQwrKyhoIgW8=)
 

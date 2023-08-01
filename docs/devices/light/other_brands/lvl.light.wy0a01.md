@@ -9,7 +9,7 @@ description : ''
 ---
 # 莱维超薄智能吸顶灯
 
-其他品牌 | 2022/2/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lvl.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=lvl.light.wy0a01&region=cn)
+其他品牌 | 2022/2/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lvl.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=lvl.light.wy0a01&region=cn)
 
 ![lvl.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/56120f0936d5b115b3006c5840e8cb59_1641440050309.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Zi1NVsjz8oF1L2lE1i3ld5CcHuQ=)
 

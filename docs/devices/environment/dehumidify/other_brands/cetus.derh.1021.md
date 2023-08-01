@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏宁宜品除湿机STSD20-1021/1022
 
-其他品牌 | 2023/4/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cetus.derh.1021/) | [说明书](https://home.mi.com/views/introduction.html?model=cetus.derh.1021&region=cn)
+其他品牌 | 2023/4/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cetus.derh.1021) | [说明书](https://home.mi.com/views/introduction.html?model=cetus.derh.1021&region=cn)
 
 ![cetus.derh.1021](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3ca76b47f8edf124a3590b18c2cd2883_1681265846884.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BbpDi50eXQFfbsn4QXKJ7o4E7SE=)
 

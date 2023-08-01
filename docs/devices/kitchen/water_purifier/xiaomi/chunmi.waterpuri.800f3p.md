@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米净水器H800G Pro
 
-小米/米家 | 2022/6/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.waterpuri.800f3p/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.waterpuri.800f3p&region=cn)
+小米/米家 | 2022/6/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.waterpuri.800f3p) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.waterpuri.800f3p&region=cn)
 
 ![chunmi.waterpuri.800f3p](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/baa219a0704dc31e64c0b72677d3f040_1646215733209.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=EbqDCEuqTq5d0zPPwRKvH5ek1+A=)
 

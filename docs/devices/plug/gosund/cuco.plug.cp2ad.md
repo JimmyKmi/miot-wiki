@@ -9,7 +9,7 @@ description : ''
 ---
 # gosund | 电小酷 CP2-AM
 
-Gosund / 电小酷 | 2022/3/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp2ad/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp2ad&region=cn)
+Gosund / 电小酷 | 2022/3/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp2ad) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp2ad&region=cn)
 
 ![cuco.plug.cp2ad](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cbb5a3179a5cea77bd25f1a22cf72ff7_拟物.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=EFzMSHC+TZPpPIAL3D/qLrq2+Do=)
 

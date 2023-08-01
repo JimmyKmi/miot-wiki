@@ -9,7 +9,7 @@ description : ''
 ---
 # 智慧屏开关
 
-向往 | 2021/12/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hope.switch.w1/) | [说明书](https://home.mi.com/views/introduction.html?model=hope.switch.w1&region=cn)
+向往 | 2021/12/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hope.switch.w1) | [说明书](https://home.mi.com/views/introduction.html?model=hope.switch.w1&region=cn)
 
 ![hope.switch.w1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f1267c15031265f299982fb7cac4c3dd_1637906798183.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5cQ8uT9GoEH4rDdROdFEE5bKStA=)
 

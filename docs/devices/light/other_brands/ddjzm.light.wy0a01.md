@@ -9,7 +9,7 @@ description : ''
 ---
 # 帅灯堡智能吸顶灯
 
-其他品牌 | 2021/1/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ddjzm.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=ddjzm.light.wy0a01&region=cn)
+其他品牌 | 2021/1/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ddjzm.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=ddjzm.light.wy0a01&region=cn)
 
 ![ddjzm.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2579d03ccd01a494bf966ac00f362f9c_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PAFYe/FSJWiXCqeLlSMrbarlX9E=)
 

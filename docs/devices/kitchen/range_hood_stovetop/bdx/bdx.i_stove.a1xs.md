@@ -9,7 +9,7 @@ description : ''
 ---
 # 北斗星互联网集成灶（A1消毒柜S款）
 
-北斗星 | 2019/5/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bdx.i_stove.a1xs/) | [说明书](https://home.mi.com/views/introduction.html?model=bdx.i_stove.a1xs&region=cn)
+北斗星 | 2019/5/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bdx.i_stove.a1xs) | [说明书](https://home.mi.com/views/introduction.html?model=bdx.i_stove.a1xs&region=cn)
 
 ![bdx.i_stove.a1xs](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870891016IS8mNWfX.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nqSYnR/v9e7TSwdjIAVLPV+jH28=)
 

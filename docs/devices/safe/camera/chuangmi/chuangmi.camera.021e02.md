@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能摄像机A2
 
-创米小白 | 2020/12/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.021e02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.021e02&region=cn)
+创米小白 | 2020/12/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.021e02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.021e02&region=cn)
 
 ![chuangmi.camera.021e02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dd6f4f60d62d54adb211cb3fd853a181_111.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CMMHQrJV2Nor/ya+13SsFYxKC0M=)
 

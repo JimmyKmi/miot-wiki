@@ -9,7 +9,7 @@ description : ''
 ---
 # 华帝电热水器DJ10
 
-华帝 | 2023/7/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=vatti.waterheater.dj10/) | [说明书](https://home.mi.com/views/introduction.html?model=vatti.waterheater.dj10&region=cn)
+华帝 | 2023/7/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=vatti.waterheater.dj10) | [说明书](https://home.mi.com/views/introduction.html?model=vatti.waterheater.dj10&region=cn)
 
 ![vatti.waterheater.dj10](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4be205758ba933944d8afa4a001e9a4a_1684739426911.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rVw3oxDMHBymk7rpyi28I42vgi0=)
 

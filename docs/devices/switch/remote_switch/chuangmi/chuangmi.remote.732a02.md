@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白蓝牙无线开关K2（单键版）
 
-创米小白 | 2021/10/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.remote.732a02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.remote.732a02&region=cn)
+创米小白 | 2021/10/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.remote.732a02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.remote.732a02&region=cn)
 
 ![chuangmi.remote.732a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a3d9687d0e789391435b30bc1522651a_1629970721065.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fJNYvXOeU3xbKbZEhUBc8N+JJ68=)
 

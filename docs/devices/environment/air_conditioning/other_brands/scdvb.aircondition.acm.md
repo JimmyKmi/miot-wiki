@@ -9,7 +9,7 @@ description : ''
 ---
 # 蓝牙VRF中央空调控制器
 
-其他品牌 | 2023/7/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=scdvb.aircondition.acm/) | [说明书](https://home.mi.com/views/introduction.html?model=scdvb.aircondition.acm&region=cn)
+其他品牌 | 2023/7/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=scdvb.aircondition.acm) | [说明书](https://home.mi.com/views/introduction.html?model=scdvb.aircondition.acm&region=cn)
 
 ![scdvb.aircondition.acm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b0c60ac381e090f10026caf64d37236a_1682213461166.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Z1DAqw32bUGonY1ipcoKVASihjQ=)
 

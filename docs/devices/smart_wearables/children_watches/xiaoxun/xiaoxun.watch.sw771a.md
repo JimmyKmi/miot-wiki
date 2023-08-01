@@ -9,7 +9,7 @@ description : ''
 ---
 # 米兔儿童学习手表6X-奥特曼定制版
 
-米兔小寻 | 2022/10/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw771a/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw771a&region=cn)
+米兔小寻 | 2022/10/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw771a) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw771a&region=cn)
 
 ![xiaoxun.watch.sw771a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c4bf0d103e1f931c2fcfae4194db3305_1658223970429.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RjgwQBuefEL6e58agmAgl/p+5wQ=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 比特306网关
 
-比特 | 2021/3/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.gateway.306v1/) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.gateway.306v1&region=cn)
+比特 | 2021/3/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.gateway.306v1) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.gateway.306v1&region=cn)
 
 ![btzn.gateway.306v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e4a4210f997633d891a7026f848493de_569.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5SL4GqaMuOTZIU8Ojf9nPhY6XWw=)
 

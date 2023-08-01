@@ -9,7 +9,7 @@ description : ''
 ---
 # 贝昂A5/MINI空气净化器
 
-贝昂 | 2020/5/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=airdog.airpurifier.mn/) | [说明书](https://home.mi.com/views/introduction.html?model=airdog.airpurifier.mn&region=cn)
+贝昂 | 2020/5/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=airdog.airpurifier.mn) | [说明书](https://home.mi.com/views/introduction.html?model=airdog.airpurifier.mn&region=cn)
 
 ![airdog.airpurifier.mn](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1659671227519iCfUs0EA.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4pHFv7qdRUSuicgCubaeTeDQrJo=)
 

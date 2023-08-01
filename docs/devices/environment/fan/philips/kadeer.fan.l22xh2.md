@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦ACR4142CF循环扇
 
-飞利浦 | 2023/3/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.l22xh2/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.l22xh2&region=cn)
+飞利浦 | 2023/3/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.l22xh2) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.l22xh2&region=cn)
 
 ![kadeer.fan.l22xh2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a293b93983b4698d99734b2f09c9d6b0_1675153577199.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vVqwNBqC74q+EphXGlB0T0fD9+0=)
 

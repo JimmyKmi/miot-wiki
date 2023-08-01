@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智能插座CP3-AM
 
-Gosund / 电小酷 | 2021/5/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp3a/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp3a&region=cn)
+Gosund / 电小酷 | 2021/5/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp3a) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp3a&region=cn)
 
 ![cuco.plug.cp3a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1629446193907OPOgmUuM.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CCONyovm58uRQi+UXp0xaivfEK8=)
 

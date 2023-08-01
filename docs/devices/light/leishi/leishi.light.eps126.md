@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能灯饰pro
 
-雷士 | 2022/10/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps126/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps126&region=cn)
+雷士 | 2022/10/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps126) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps126&region=cn)
 
 ![leishi.light.eps126](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/88a12d4c5cc0a500fff4c4e364e12336_1665384744153.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YdZH1641iZCdD7h8hCCnLY8e24s=)
 

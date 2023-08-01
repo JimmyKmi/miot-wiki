@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT 智能热敏炉青春版
 
-其他品牌 | 2019/3/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.ihcooker.tkv1/) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.ihcooker.tkv1&region=cn)
+其他品牌 | 2019/3/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.ihcooker.tkv1) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.ihcooker.tkv1&region=cn)
 
 ![tokit.ihcooker.tkv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047612719MI5RtcXx.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=T1uEPRITTfq2xXmYpI4bVKPIxXc=)
 

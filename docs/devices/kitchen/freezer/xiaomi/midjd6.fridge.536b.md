@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家对开门冰箱 墨羽岩 (适用于536L/530L)
 
-小米/米家 | 2023/7/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.536b/) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.536b&region=cn)
+小米/米家 | 2023/7/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.536b) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.536b&region=cn)
 
 ![midjd6.fridge.536b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a6c74b30255848497b2655d0c8fb7502_1654164790017.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ablhgCwEx6dXXFkFsGgc2YJX7cI=)
 

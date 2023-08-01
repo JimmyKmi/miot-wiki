@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米智能窗帘电机 T1  Pro
 
-苏米 | 2021/8/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.curtain.cura03/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.curtain.cura03&region=cn)
+苏米 | 2021/8/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.curtain.cura03) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.curtain.cura03&region=cn)
 
 ![xhuan.curtain.cura03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047905083Jsz2rgTe.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NEVPJawCwSyhnpbR9Qx5F+aCMuU=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 圈厨S90智联油烟机
 
-圈厨 | 2020/3/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xckj.hood.s9001/) | [说明书](https://home.mi.com/views/introduction.html?model=xckj.hood.s9001&region=cn)
+圈厨 | 2020/3/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xckj.hood.s9001) | [说明书](https://home.mi.com/views/introduction.html?model=xckj.hood.s9001&region=cn)
 
 ![xckj.hood.s9001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871067659lHnNuVYr.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ORU++sEBFmZaFJ43NV20Nd2uFhs=)
 

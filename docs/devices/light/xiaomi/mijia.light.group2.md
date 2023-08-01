@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能灯组
 
-小米/米家 | 2021/3/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mijia.light.group2/) | [说明书](https://home.mi.com/views/introduction.html?model=mijia.light.group2&region=cn)
+小米/米家 | 2021/3/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mijia.light.group2) | [说明书](https://home.mi.com/views/introduction.html?model=mijia.light.group2&region=cn)
 
 ![mijia.light.group2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1575600419832l4rsrNX9.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ntQ5oxi8XIPC8W6Dit8Rj7yyEG0=)
 

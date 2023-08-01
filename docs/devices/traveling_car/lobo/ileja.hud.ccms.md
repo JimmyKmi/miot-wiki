@@ -9,7 +9,7 @@ description : ''
 ---
 # 车萝卜智能HUD智炫版Pro
 
-车萝卜 | 2020/11/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ileja.hud.ccms/) | [说明书](https://home.mi.com/views/introduction.html?model=ileja.hud.ccms&region=cn)
+车萝卜 | 2020/11/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ileja.hud.ccms) | [说明书](https://home.mi.com/views/introduction.html?model=ileja.hud.ccms&region=cn)
 
 ![ileja.hud.ccms](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1593498759860tLifhxkD.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=P6eVY6GRa5mO+pt/tVdgol7Q/Yg=)
 

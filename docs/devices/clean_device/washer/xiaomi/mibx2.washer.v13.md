@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家Mini洗衣机 1kg
 
-小米/米家 | 2023/2/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mibx2.washer.v13/) | [说明书](https://home.mi.com/views/introduction.html?model=mibx2.washer.v13&region=cn)
+小米/米家 | 2023/2/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mibx2.washer.v13) | [说明书](https://home.mi.com/views/introduction.html?model=mibx2.washer.v13&region=cn)
 
 ![mibx2.washer.v13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e6ac8d7750b1897ab51a4c4404f0059b_1665214908754.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4dcOgliryhNPj41ryepaPqTRwtY=)
 

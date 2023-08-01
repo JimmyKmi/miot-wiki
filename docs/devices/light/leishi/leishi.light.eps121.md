@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士风扇灯
 
-雷士 | 2022/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps121/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps121&region=cn)
+雷士 | 2022/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps121) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps121&region=cn)
 
 ![leishi.light.eps121](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6b684c96e87d74d7c6483df0595d8f31_1650448023753.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=OitxsIxjQhnNxBjOL2M9bhWhOTw=)
 

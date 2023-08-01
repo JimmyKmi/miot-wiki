@@ -9,7 +9,7 @@ description : ''
 ---
 # 恩嘉智能床
 
-其他品牌 | 2021/8/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=enjia1.bed.ej001/) | [说明书](https://home.mi.com/views/introduction.html?model=enjia1.bed.ej001&region=cn)
+其他品牌 | 2021/8/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=enjia1.bed.ej001) | [说明书](https://home.mi.com/views/introduction.html?model=enjia1.bed.ej001&region=cn)
 
 ![enjia1.bed.ej001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790676208961ym5b9bs.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uWhse8PbxIyibiwFlp41jk969/o=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能一键Mesh开关
 
-其他品牌 | 2021/10/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.201m/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.201m&region=cn)
+其他品牌 | 2021/10/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.201m) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.201m&region=cn)
 
 ![babai.switch.201m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068029832q7Zup6v5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0NDv8ZxsACHzcBihkvyHyzrfecs=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐三键零火灯控开关（D5）
 
-智拉斐 | 2022/7/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.switch.lh3d5/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.switch.lh3d5&region=cn)
+智拉斐 | 2022/7/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.switch.lh3d5) | [说明书](https://home.mi.com/views/introduction.html?model=slf.switch.lh3d5&region=cn)
 
 ![slf.switch.lh3d5](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/df1d7aefd9586d59e0ff536355f43a81_1652687914223.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=iqTj0Tjh0YTwn05Z9VEeWYyZddw=)
 

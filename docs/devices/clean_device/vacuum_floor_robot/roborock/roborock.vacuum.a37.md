@@ -9,7 +9,7 @@ description : ''
 ---
 # 石头扫拖机器人T8
 
-石头 Roborock | 2022/3/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.a37/) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.a37&region=cn)
+石头 Roborock | 2022/3/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.a37) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.a37&region=cn)
 
 ![roborock.vacuum.a37](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4e42c0df1b6f653de8b3934d70e3f9d7_1640605825521.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ijlQcqtreM72Nvo8UHG2tjydCt8=)
 

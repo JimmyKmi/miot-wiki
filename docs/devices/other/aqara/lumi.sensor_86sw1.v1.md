@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara 无线开关（贴墙式单键版）
 
-绿米 Aqara | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sensor_86sw1.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sensor_86sw1.v1&region=cn)
+绿米 Aqara | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sensor_86sw1.v1) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sensor_86sw1.v1&region=cn)
 
 ![lumi.sensor_86sw1.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047511223QV6p2kBC.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3l2OKuXUQd1yJN95WQU83cvH+yo=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # znsn蓝牙Mesh开关双键（单火）
 
-ZNSN | 2022/3/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=znsn.switch.zm2d/) | [说明书](https://home.mi.com/views/introduction.html?model=znsn.switch.zm2d&region=cn)
+ZNSN | 2022/3/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=znsn.switch.zm2d) | [说明书](https://home.mi.com/views/introduction.html?model=znsn.switch.zm2d&region=cn)
 
 ![znsn.switch.zm2d](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c797e994d365e07860c94aad58a3c9ac_1642558608882.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4jyi/f3klQfs2I1jBSns+2uiE10=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 优点智能门铃R1
 
-优点智能 | 2019/11/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydhome.cateye.pr1/) | [说明书](https://home.mi.com/views/introduction.html?model=ydhome.cateye.pr1&region=cn)
+优点智能 | 2019/11/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydhome.cateye.pr1) | [说明书](https://home.mi.com/views/introduction.html?model=ydhome.cateye.pr1&region=cn)
 
 ![ydhome.cateye.pr1](https://static.home.mi.com/app/image/get/file/developer_1564140533mwwrtyy1.png)
 

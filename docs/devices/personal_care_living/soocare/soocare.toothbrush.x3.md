@@ -9,7 +9,7 @@ description : ''
 ---
 # 素士声波电动牙刷
 
-舒可士 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=soocare.toothbrush.x3/) | [说明书](https://home.mi.com/views/introduction.html?model=soocare.toothbrush.x3&region=cn)
+舒可士 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=soocare.toothbrush.x3) | [说明书](https://home.mi.com/views/introduction.html?model=soocare.toothbrush.x3&region=cn)
 
 ![soocare.toothbrush.x3](https://static.home.mi.com/app/image/get/file/developer_14902553001nlk9n4r.png)
 

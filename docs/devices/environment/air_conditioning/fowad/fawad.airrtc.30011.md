@@ -9,7 +9,7 @@ description : ''
 ---
 # FOWAD 中央空调VRF控制器
 
-FOWAD | 2021/5/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fawad.airrtc.30011/) | [说明书](https://home.mi.com/views/introduction.html?model=fawad.airrtc.30011&region=cn)
+FOWAD | 2021/5/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fawad.airrtc.30011) | [说明书](https://home.mi.com/views/introduction.html?model=fawad.airrtc.30011&region=cn)
 
 ![fawad.airrtc.30011](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048482617ZMx5naVZ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GlMuq1ZZLjO1cOpSqi1Tf2ffspU=)
 

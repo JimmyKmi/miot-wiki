@@ -9,7 +9,7 @@ description : ''
 ---
 # 8H石墨烯智能控温3D薄床垫
 
-8H | 2022/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.blanket.g22/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.blanket.g22&region=cn)
+8H | 2022/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.blanket.g22) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.blanket.g22&region=cn)
 
 ![qushui.blanket.g22](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/da8153fa71186fb611559fdaf94ee53b_1663388961686.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sAbkjuXK5b0tIRbfUsxgz5Q++Bc=)
 

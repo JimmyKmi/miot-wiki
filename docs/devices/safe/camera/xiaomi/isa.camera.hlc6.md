@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能摄像机 标准版
 
-小米/米家 | 2020/3/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.hlc6/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.hlc6&region=cn)
+小米/米家 | 2020/3/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.hlc6) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.hlc6&region=cn)
 
 ![isa.camera.hlc6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871035189W5ZqoNNm.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PuitPSNjXZ0Gm6aR43rQVgPfXsE=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 显示器挂灯
 
-易来 Yeelight | 2020/11/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp15/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp15&region=cn)
+易来 Yeelight | 2020/11/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp15) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp15&region=cn)
 
 ![yeelink.light.lamp15](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790488340849bsbpPfS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=63jaNa80Jcqr7sPJoeP+0Ph3Q3c=)
 

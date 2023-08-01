@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI电热水器Super 2 Pro
 
-云米 Viomi | 2023/6/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e48/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e48&region=cn)
+云米 Viomi | 2023/6/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e48) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e48&region=cn)
 
 ![viomi.waterheater.e48](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/61d9c4ab8350d1fc0cf6b90641fd65ae_1685412370282.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MQgOe0NDI7EWMtWaIayG0Yy2UVs=)
 

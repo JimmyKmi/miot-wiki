@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家新风空调 （尊享版 1.5匹）
 
-小米/米家 | 2022/3/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.mt0/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.mt0&region=cn)
+小米/米家 | 2022/3/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.mt0) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.mt0&region=cn)
 
 ![xiaomi.aircondition.mt0](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2ba9de2ebae96fb223b01a41d50a251f_1640569400302.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DeWwGFTwDB7BNi19mRVMXE3XXvQ=)
 

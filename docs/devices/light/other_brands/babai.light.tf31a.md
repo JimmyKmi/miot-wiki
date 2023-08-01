@@ -9,7 +9,7 @@ description : ''
 ---
 # 泰孚灯控器
 
-其他品牌 | 2020/8/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.light.tf31a/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.light.tf31a&region=cn)
+其他品牌 | 2020/8/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.light.tf31a) | [说明书](https://home.mi.com/views/introduction.html?model=babai.light.tf31a&region=cn)
 
 ![babai.light.tf31a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1595489686315rXoJ8UIb.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fRZGegA0oDRl35bggxWp6re41So=)
 

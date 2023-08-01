@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi路由器AX6000
 
-红米 | 2022/4/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.rb06/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.rb06&region=cn)
+红米 | 2022/4/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.rb06) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.rb06&region=cn)
 
 ![xiaomi.router.rb06](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/780c65fa9ef901ab3cd96e10daa65516_1638861404513.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LhSCZHBCpz+MT2q4k9jhGpuQh+Y=)
 

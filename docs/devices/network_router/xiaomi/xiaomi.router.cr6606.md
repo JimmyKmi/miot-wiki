@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米路由器CR6606
 
-小米/米家 | 2021/4/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.cr6606/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.cr6606&region=cn)
+小米/米家 | 2021/4/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.cr6606) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.cr6606&region=cn)
 
 ![xiaomi.router.cr6606](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048939216Xy7BWEDd.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BAKrlef6UgzZhlgzXqJsXmhqSu4=)
 

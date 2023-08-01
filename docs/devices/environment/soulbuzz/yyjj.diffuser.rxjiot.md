@@ -9,7 +9,7 @@ description : ''
 ---
 # 日暮香薰机IOT版
 
-舒柏思soulbuzz | 2023/3/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyjj.diffuser.rxjiot/) | [说明书](https://home.mi.com/views/introduction.html?model=yyjj.diffuser.rxjiot&region=cn)
+舒柏思soulbuzz | 2023/3/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyjj.diffuser.rxjiot) | [说明书](https://home.mi.com/views/introduction.html?model=yyjj.diffuser.rxjiot&region=cn)
 
 ![yyjj.diffuser.rxjiot](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/daa20f017281bfd8a7980be8aa50cd28_1658224148094.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gJKhwJY4uGyfLz2bbVPymIsZP4g=)
 

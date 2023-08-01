@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米米家屏显开关（单开单控）
 
-小米/米家 | 2021/6/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.switch.kg01hl/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.switch.kg01hl&region=cn)
+小米/米家 | 2021/6/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.switch.kg01hl) | [说明书](https://home.mi.com/views/introduction.html?model=isa.switch.kg01hl&region=cn)
 
 ![isa.switch.kg01hl](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790477251397QdTI1TL.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+y+FAblEhKPfzkpGDp4l6AYz8HI=)
 

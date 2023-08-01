@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI燃气热水器VGW1823 18L
 
-云米 Viomi | 2021/8/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u53/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u53&region=cn)
+云米 Viomi | 2021/8/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u53) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u53&region=cn)
 
 ![viomi.waterheater.u53](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_167904802704991k5AOn1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=B86/FRtQiZq5/j114y47XOftVVA=)
 

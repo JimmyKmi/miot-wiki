@@ -9,7 +9,7 @@ description : ''
 ---
 # GAX多功能颈椎按摩枕
 
-其他品牌 | 2023/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.u101/) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.u101&region=cn)
+其他品牌 | 2023/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.u101) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.u101&region=cn)
 
 ![jieman.magic_touch.u101](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/69634a60b02e51e0a4f873b7cc84f6f6_1672725738251.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xHSD0fDLd5Tz53yTWzU9CAJIJbg=)
 

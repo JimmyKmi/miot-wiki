@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网免更换镁棒电热水器 50L
 
-云米 Viomi | 2020/4/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e13/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e13&region=cn)
+云米 Viomi | 2020/4/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e13) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e13&region=cn)
 
 ![viomi.waterheater.e13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1583230443315oipgDIje.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9I1fRFPjfp8AY+9OmocQb4mKk00=)
 

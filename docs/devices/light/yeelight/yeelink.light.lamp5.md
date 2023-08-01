@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 智能护眼台灯 Prime
 
-易来 Yeelight | 2018/12/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp5/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp5&region=cn)
+易来 Yeelight | 2018/12/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp5) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp5&region=cn)
 
 ![yeelink.light.lamp5](https://static.home.mi.com/app/image/get/file/developer_15409736510kq7r7fr.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米净水器厨下式
 
-小米/米家 | 2018/7/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx6/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx6&region=cn)
+小米/米家 | 2018/7/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx6) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx6&region=cn)
 
 ![yunmi.waterpuri.lx6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679073307672IRfDiV2w.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Gum9m8QMAgNE/lQK3Vq8BVqYka4=)
 

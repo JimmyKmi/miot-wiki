@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai home智能筒射灯
 
-其他品牌 | 2023/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyzn.light.wy0a03/) | [说明书](https://home.mi.com/views/introduction.html?model=yyzn.light.wy0a03&region=cn)
+其他品牌 | 2023/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyzn.light.wy0a03) | [说明书](https://home.mi.com/views/introduction.html?model=yyzn.light.wy0a03&region=cn)
 
 ![yyzn.light.wy0a03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/544e098a8c4e92f4ecf9cb92aa3286c4_1683096425906.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=McXV8+M61A7J8XquccVfAAczcZY=)
 

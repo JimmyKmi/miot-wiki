@@ -9,7 +9,7 @@ description : ''
 ---
 # Amazfit智能运动手表
 
-华米 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hmpace.watch.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=hmpace.watch.v1&region=cn)
+华米 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hmpace.watch.v1) | [说明书](https://home.mi.com/views/introduction.html?model=hmpace.watch.v1&region=cn)
 
 ![hmpace.watch.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679072496224dV1plAxv.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FskafK84LA63SWe2fAKenl3fSA8=)
 

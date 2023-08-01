@@ -9,7 +9,7 @@ description : ''
 ---
 # 空调插座
 
-其他品牌 | 2021/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zyzy1.plug.y07012/) | [说明书](https://home.mi.com/views/introduction.html?model=zyzy1.plug.y07012&region=cn)
+其他品牌 | 2021/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zyzy1.plug.y07012) | [说明书](https://home.mi.com/views/introduction.html?model=zyzy1.plug.y07012&region=cn)
 
 ![zyzy1.plug.y07012](https://cnbj1-fds.api.xiaomi.net/iotweb-product-center/37bf66ba677053528208688eb2777ab0_1625126011989.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PevDF4SdcnZVsTvvWJauyTcHUI4=)
 

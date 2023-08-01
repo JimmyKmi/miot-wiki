@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米扫地机器人PRO
 
-云米 Viomi | 2019/10/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v6/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v6&region=cn)
+云米 Viomi | 2019/10/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v6) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v6&region=cn)
 
 ![viomi.vacuum.v6](https://static.home.mi.com/app/image/get/file/developer_1554173663z3e0m8is.png)
 

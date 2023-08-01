@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 泛影LED灯带
 
-易来 Yeelight | 2019/6/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.strip4/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.strip4&region=cn)
+易来 Yeelight | 2019/6/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.strip4) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.strip4&region=cn)
 
 ![yeelink.light.strip4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870890734doig3N64.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=T0nV2TZnFaGmBmTjk+xqYWA5h9Q=)
 

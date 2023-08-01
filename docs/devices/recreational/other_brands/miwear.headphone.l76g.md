@@ -9,7 +9,7 @@ description : ''
 ---
 # L76_Global
 
-其他品牌 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miwear.headphone.l76g/) | [说明书](https://home.mi.com/views/introduction.html?model=miwear.headphone.l76g&region=cn)
+其他品牌 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miwear.headphone.l76g) | [说明书](https://home.mi.com/views/introduction.html?model=miwear.headphone.l76g&region=cn)
 
 ![miwear.headphone.l76g](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6b626566678a1e5b1b21f4784e4a7db5_1650012468303.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rA3qdqNsZWFYtsOpahT6CQQrhOY=)
 

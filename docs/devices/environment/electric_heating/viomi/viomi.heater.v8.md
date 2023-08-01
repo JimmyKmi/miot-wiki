@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI对流电暖器
 
-云米 Viomi | 2021/10/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.heater.v8/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.heater.v8&region=cn)
+云米 Viomi | 2021/10/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.heater.v8) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.heater.v8&region=cn)
 
 ![viomi.heater.v8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/45b2bd3b38fda72a127de53ec378c218_1630660797771.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xOOEKzURB66pt/j2sBS1ZGgHzQw=)
 

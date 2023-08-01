@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能窗帘电机 L1C
 
-创米小白 | 2022/10/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.curtain.723a02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.curtain.723a02&region=cn)
+创米小白 | 2022/10/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.curtain.723a02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.curtain.723a02&region=cn)
 
 ![chuangmi.curtain.723a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5087a9153150d08c1b3baf829fefd289_1660646113321.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=pmcn5xg2AAzWoT4Vr3Cmq7f20yc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 金贵夫人XM
 
-其他品牌 | 2020/5/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nbczwl.airer.airer/) | [说明书](https://home.mi.com/views/introduction.html?model=nbczwl.airer.airer&region=cn)
+其他品牌 | 2020/5/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nbczwl.airer.airer) | [说明书](https://home.mi.com/views/introduction.html?model=nbczwl.airer.airer&region=cn)
 
 ![nbczwl.airer.airer](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871067936ID2AAqPA.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=iLFTFeivRxlakNFXudfur04tpTg=)
 

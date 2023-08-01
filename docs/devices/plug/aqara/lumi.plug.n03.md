@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara 86 型智能墙壁插座H1
 
-绿米 Aqara | 2020/9/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.plug.n03/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.plug.n03&region=cn)
+绿米 Aqara | 2020/9/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.plug.n03) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.plug.n03&region=cn)
 
 ![lumi.plug.n03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1601027174477eJDsuUGz.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tc6/w1jKVKMUimF8M2MohpvFyd0=)
 

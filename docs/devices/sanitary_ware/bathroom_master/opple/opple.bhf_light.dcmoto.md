@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧普智能浴霸 Mode B
 
-欧普 OPPLE | 2020/9/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.bhf_light.dcmoto/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.bhf_light.dcmoto&region=cn)
+欧普 OPPLE | 2020/9/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.bhf_light.dcmoto) | [说明书](https://home.mi.com/views/introduction.html?model=opple.bhf_light.dcmoto&region=cn)
 
 ![opple.bhf_light.dcmoto](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047767603rFLbK2cw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=t6wU22UfM51nadn4O8AA85oMzd8=)
 

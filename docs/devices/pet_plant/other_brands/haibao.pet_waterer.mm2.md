@@ -9,7 +9,7 @@ description : ''
 ---
 # 伺宠官智能宠物饮水机
 
-其他品牌 | 2022/7/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=haibao.pet_waterer.mm2/) | [说明书](https://home.mi.com/views/introduction.html?model=haibao.pet_waterer.mm2&region=cn)
+其他品牌 | 2022/7/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=haibao.pet_waterer.mm2) | [说明书](https://home.mi.com/views/introduction.html?model=haibao.pet_waterer.mm2&region=cn)
 
 ![haibao.pet_waterer.mm2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0e7d4b483382cc9ca6f9360878b02d26_1656926178471.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dfniJQBw8bF2n3sz6An+euraqGQ=)
 

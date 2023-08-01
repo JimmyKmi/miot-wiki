@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家互联网对开门冰箱540L
 
-小米/米家 | 2020/11/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.v1&region=cn)
+小米/米家 | 2020/11/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.v1) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.v1&region=cn)
 
 ![midjd6.fridge.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047807132XztzGqQE.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aa6nILVZyqVGFeczFx5+Mtd53Zk=)
 

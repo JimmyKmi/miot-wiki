@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥普浴霸S618M
 
-奥普 AUPU | 2023/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.s618m1/) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.s618m1&region=cn)
+奥普 AUPU | 2023/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.s618m1) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.s618m1&region=cn)
 
 ![aupu.bhf_light.s618m1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8dda55f0508eded308319e900ccec732_1676627746127.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BQCRMt1qJsYM98VMF8pNAt/mc70=)
 

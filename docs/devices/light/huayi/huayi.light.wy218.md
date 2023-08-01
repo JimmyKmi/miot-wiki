@@ -9,7 +9,7 @@ description : ''
 ---
 # 华艺智能磁吸灯
 
-华艺 | 2023/3/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy218/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy218&region=cn)
+华艺 | 2023/3/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy218) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy218&region=cn)
 
 ![huayi.light.wy218](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/98ed44a14431a617b5e446bd1279ef4f_1677723964595.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0kX0kr6qcIz1GSZbg6DKYMPYejQ=)
 

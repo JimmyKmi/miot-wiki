@@ -9,7 +9,7 @@ description : ''
 ---
 # 松伟智能吊灯
 
-其他品牌 | 2022/7/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.sw01/) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.sw01&region=cn)
+其他品牌 | 2022/7/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.sw01) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.sw01&region=cn)
 
 ![rjxn20.light.sw01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5885db1ac6a18dbf73301f4121bd77eb_1653286058329.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=K3jXYRNIsz99TJadt/jRINtB6wA=)
 

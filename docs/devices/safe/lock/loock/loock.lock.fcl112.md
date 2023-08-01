@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客智能锁S50M Pro
 
-鹿客 Loock | 2022/8/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.fcl112/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.fcl112&region=cn)
+鹿客 Loock | 2022/8/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.fcl112) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.fcl112&region=cn)
 
 ![loock.lock.fcl112](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f4a7406b9b6269b4e582cbf18a426ee3_1652255460695.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TqfYL8a1fcMbyzyQmizjj0EgPGQ=)
 

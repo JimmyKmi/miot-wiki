@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能枕
 
-小米/米家 | 2022/9/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.pillow.mj02/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.pillow.mj02&region=cn)
+小米/米家 | 2022/9/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.pillow.mj02) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.pillow.mj02&region=cn)
 
 ![qushui.pillow.mj02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2dc8a97966a1ee7f8717769cb8402a50_1653379818590.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fUZrxTRWj3LPylSg4LRMKkFhmcA=)
 

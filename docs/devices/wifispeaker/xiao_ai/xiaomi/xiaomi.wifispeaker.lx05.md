@@ -9,7 +9,7 @@ description : ''
 ---
 # 小爱音箱Play（2019款）
 
-小米/米家 | 2019/6/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.lx05/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.lx05&region=cn)
+小米/米家 | 2019/6/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.lx05) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.lx05&region=cn)
 
 ![xiaomi.wifispeaker.lx05](https://static.home.mi.com/app/image/get/file/developer_1555064240aps4z5f5.png)
 

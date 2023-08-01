@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米双核净水器1000G
 
-小米/米家 | 2022/3/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx24/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx24&region=cn)
+小米/米家 | 2022/3/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx24) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx24&region=cn)
 
 ![yunmi.waterpuri.lx24](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048029520LCSc4Sbu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bPtnZAPl3P23MvOv3/TA2VRzH44=)
 

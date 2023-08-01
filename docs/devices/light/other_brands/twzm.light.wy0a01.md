@@ -9,7 +9,7 @@ description : ''
 ---
 # 泰沃磁吸灯
 
-其他品牌 | 2021/2/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=twzm.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=twzm.light.wy0a01&region=cn)
+其他品牌 | 2021/2/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=twzm.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=twzm.light.wy0a01&region=cn)
 
 ![twzm.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047723755urLweKMp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=22n8MZkbneleLRBXT2njWFz/d6o=)
 

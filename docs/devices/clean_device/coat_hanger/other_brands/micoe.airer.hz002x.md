@@ -9,7 +9,7 @@ description : ''
 ---
 # Rise10-环形極固杆（除菌&体感灯）
 
-其他品牌 | 2020/8/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=micoe.airer.hz002x/) | [说明书](https://home.mi.com/views/introduction.html?model=micoe.airer.hz002x&region=cn)
+其他品牌 | 2020/8/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=micoe.airer.hz002x) | [说明书](https://home.mi.com/views/introduction.html?model=micoe.airer.hz002x&region=cn)
 
 ![micoe.airer.hz002x](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048479140uxzKk5T5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AS0+AyotLDYrD2v00qWXDqL6dPo=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 宜家麦希瑟E14 470lm智能球泡灯
 
-宜家 Ikea | 2023/7/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=devcea.light.ls2304/) | [说明书](https://home.mi.com/views/introduction.html?model=devcea.light.ls2304&region=cn)
+宜家 Ikea | 2023/7/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=devcea.light.ls2304) | [说明书](https://home.mi.com/views/introduction.html?model=devcea.light.ls2304&region=cn)
 
 ![devcea.light.ls2304](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/892ca4cc8a8fcd5d244854f068247662_1683541501922.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=a60pEHmjMeYH0MaAjVYWJE+LwU0=)
 

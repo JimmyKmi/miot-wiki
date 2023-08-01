@@ -9,7 +9,7 @@ description : ''
 ---
 # NOVO智能电动晾衣架豪华款
 
-NOVO | 2021/6/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=novo.airer.g30/) | [说明书](https://home.mi.com/views/introduction.html?model=novo.airer.g30&region=cn)
+NOVO | 2021/6/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=novo.airer.g30) | [说明书](https://home.mi.com/views/introduction.html?model=novo.airer.g30&region=cn)
 
 ![novo.airer.g30](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/86b95d259b1c7d2927a806acda453dae_晾衣架-168x168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PnApwPFynsMm/ZJQiiCHNwemX4s=)
 

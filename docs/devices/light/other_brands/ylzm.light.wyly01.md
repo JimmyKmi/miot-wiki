@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷圆智能客厅灯
 
-其他品牌 | 2019/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ylzm.light.wyly01/) | [说明书](https://home.mi.com/views/introduction.html?model=ylzm.light.wyly01&region=cn)
+其他品牌 | 2019/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ylzm.light.wyly01) | [说明书](https://home.mi.com/views/introduction.html?model=ylzm.light.wyly01&region=cn)
 
 ![ylzm.light.wyly01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790476548440wAJ6F5w.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PfbL4Freh1eXA3yR2Z+8wXke1xE=)
 

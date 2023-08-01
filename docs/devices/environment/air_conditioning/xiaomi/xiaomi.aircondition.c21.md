@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家空调 巨省电（大1匹 新三级能效）
 
-小米/米家 | 2022/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c21/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c21&region=cn)
+小米/米家 | 2022/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c21) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c21&region=cn)
 
 ![xiaomi.aircondition.c21](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/24e44daacc0fa49786d6b37703a19c8f_1637637479307.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=00eUmOCBzdkVK2fYm39vfj4PaA4=)
 

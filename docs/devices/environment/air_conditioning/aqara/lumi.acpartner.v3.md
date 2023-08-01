@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara 空调伴侣(升级版)
 
-绿米 Aqara | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.acpartner.v3/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.acpartner.v3&region=cn)
+绿米 Aqara | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.acpartner.v3) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.acpartner.v3&region=cn)
 
 ![lumi.acpartner.v3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679130062069Som3yH5E.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9tVVf1m1c/z3Xve+lCJ6YZ91J1U=)
 

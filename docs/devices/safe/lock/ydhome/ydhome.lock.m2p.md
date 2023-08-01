@@ -9,7 +9,7 @@ description : ''
 ---
 # 优点智能锁M2 Pro
 
-优点智能 | 2020/6/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydhome.lock.m2p/) | [说明书](https://home.mi.com/views/introduction.html?model=ydhome.lock.m2p&region=cn)
+优点智能 | 2020/6/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydhome.lock.m2p) | [说明书](https://home.mi.com/views/introduction.html?model=ydhome.lock.m2p&region=cn)
 
 ![ydhome.lock.m2p](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790477257477gCRUw1I.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oVA6orB0MgUtQRaRVexjAWpJ2eU=)
 

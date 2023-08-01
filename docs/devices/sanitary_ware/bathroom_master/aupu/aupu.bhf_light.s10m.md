@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥普浴霸S10M
 
-奥普 AUPU | 2023/3/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.s10m/) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.s10m&region=cn)
+奥普 AUPU | 2023/3/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.bhf_light.s10m) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.bhf_light.s10m&region=cn)
 
 ![aupu.bhf_light.s10m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/05cbeb52681b52b4fecd034f57a2b2aa_1676010185943.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qOhXENbE0cT9RDhIMuRnwku9NBk=)
 

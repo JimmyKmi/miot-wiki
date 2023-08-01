@@ -9,7 +9,7 @@ description : ''
 ---
 # 黑创 智能晾衣架 s63
 
-其他品牌 | 2021/1/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.airer.hc01b/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.airer.hc01b&region=cn)
+其他品牌 | 2021/1/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.airer.hc01b) | [说明书](https://home.mi.com/views/introduction.html?model=babai.airer.hc01b&region=cn)
 
 ![babai.airer.hc01b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047840312AmLthk8k.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bFiSI81tv7tbCETUCtV4DEmdp9k=)
 

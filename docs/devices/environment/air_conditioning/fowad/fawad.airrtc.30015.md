@@ -9,7 +9,7 @@ description : ''
 ---
 # 星空版VRF空调控制器 FOWAD
 
-FOWAD | 2023/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fawad.airrtc.30015/) | [说明书](https://home.mi.com/views/introduction.html?model=fawad.airrtc.30015&region=cn)
+FOWAD | 2023/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fawad.airrtc.30015) | [说明书](https://home.mi.com/views/introduction.html?model=fawad.airrtc.30015&region=cn)
 
 ![fawad.airrtc.30015](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5d4576b586b9bb9cd303ff113cc62ef9_1656574072731.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9eT0WML6cKLNykQfWa7dKem8t/M=)
 

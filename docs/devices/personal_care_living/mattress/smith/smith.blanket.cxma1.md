@@ -9,7 +9,7 @@ description : ''
 ---
 # 佳尼特恒温水暖床垫 CXM-A1
 
-佳尼特 Smith | 2019/8/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smith.blanket.cxma1/) | [说明书](https://home.mi.com/views/introduction.html?model=smith.blanket.cxma1&region=cn)
+佳尼特 Smith | 2019/8/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smith.blanket.cxma1) | [说明书](https://home.mi.com/views/introduction.html?model=smith.blanket.cxma1&region=cn)
 
 ![smith.blanket.cxma1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047614552jJL9tuGR.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7K+opDZBstngszv2hd1uNFxgwlU=)
 

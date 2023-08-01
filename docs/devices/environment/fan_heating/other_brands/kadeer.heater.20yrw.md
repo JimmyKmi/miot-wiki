@@ -9,7 +9,7 @@ description : ''
 ---
 # 至凡室内加热器（挂壁暖风机）
 
-其他品牌 | 2020/11/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.heater.20yrw/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.heater.20yrw&region=cn)
+其他品牌 | 2020/11/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.heater.20yrw) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.heater.20yrw&region=cn)
 
 ![kadeer.heater.20yrw](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870953076qYjRjSJP.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jXRIJrGzoG9U1JoHJkIYM4+2A/0=)
 

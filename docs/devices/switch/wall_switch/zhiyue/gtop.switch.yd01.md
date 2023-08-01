@@ -9,7 +9,7 @@ description : ''
 ---
 # 智悦智能开关
 
-智悦 | 2022/3/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gtop.switch.yd01/) | [说明书](https://home.mi.com/views/introduction.html?model=gtop.switch.yd01&region=cn)
+智悦 | 2022/3/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gtop.switch.yd01) | [说明书](https://home.mi.com/views/introduction.html?model=gtop.switch.yd01&region=cn)
 
 ![gtop.switch.yd01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/69b72650d0747aded396cb3b409f11a2_1642235449782.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vrRWFkMomiPt+2qy6FAT8JLK/Ys=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # SKG按摩腰带W5 TE
 
-其他品牌 | 2021/4/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skg.magic_touch.skgw50/) | [说明书](https://home.mi.com/views/introduction.html?model=skg.magic_touch.skgw50&region=cn)
+其他品牌 | 2021/4/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skg.magic_touch.skgw50) | [说明书](https://home.mi.com/views/introduction.html?model=skg.magic_touch.skgw50&region=cn)
 
 ![skg.magic_touch.skgw50](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/eea692a7bcdfca93b4b253e0ef099ee1_产品拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=twssnbgsfoS1xoau6bPGQ/5Nlpk=)
 

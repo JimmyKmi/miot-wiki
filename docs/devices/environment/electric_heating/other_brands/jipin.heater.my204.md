@@ -9,7 +9,7 @@ description : ''
 ---
 # 即品智能电暖器
 
-其他品牌 | 2020/12/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jipin.heater.my204/) | [说明书](https://home.mi.com/views/introduction.html?model=jipin.heater.my204&region=cn)
+其他品牌 | 2020/12/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jipin.heater.my204) | [说明书](https://home.mi.com/views/introduction.html?model=jipin.heater.my204&region=cn)
 
 ![jipin.heater.my204](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047652743ZLbaD9w1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5HQNYP1PnpxIAQSlY4xlGFdaXTU=)
 

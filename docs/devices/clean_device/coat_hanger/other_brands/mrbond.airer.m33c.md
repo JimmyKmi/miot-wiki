@@ -9,7 +9,7 @@ description : ''
 ---
 # 邦先生智能晾衣机-消毒款3
 
-其他品牌 | 2021/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.airer.m33c/) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.airer.m33c&region=cn)
+其他品牌 | 2021/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.airer.m33c) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.airer.m33c&region=cn)
 
 ![mrbond.airer.m33c](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/243d6a6555de4380487dc0b717ad744f_M33c拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XjCnoSZ4t13ELEDlhbo737/p2p0=)
 

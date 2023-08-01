@@ -9,7 +9,7 @@ description : ''
 ---
 # gosund | 电小酷 P8AM
 
-Gosund / 电小酷 | 2022/8/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.p8amd/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.p8amd&region=cn)
+Gosund / 电小酷 | 2022/8/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.p8amd) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.p8amd&region=cn)
 
 ![cuco.plug.p8amd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f6700dd0da07be0ee9309cd3a2dcd8ea_1658110569168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=f2ni+/LET/Sj4+Zlw4kcPH9qEmI=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智能墙插CO1-M
 
-Gosund / 电小酷 | 2021/5/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.co1/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.co1&region=cn)
+Gosund / 电小酷 | 2021/5/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.co1) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.co1&region=cn)
 
 ![cuco.plug.co1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a0f5ec571266f2d1749f3e8b47741831_拟物.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=m6gQV6+049B3t+XKjWEJL4j7I2g=)
 

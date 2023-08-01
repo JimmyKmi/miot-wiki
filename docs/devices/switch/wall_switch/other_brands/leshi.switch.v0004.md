@@ -9,7 +9,7 @@ description : ''
 ---
 # 3位智慧开关WIFI X1版
 
-其他品牌 | 2020/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshi.switch.v0004/) | [说明书](https://home.mi.com/views/introduction.html?model=leshi.switch.v0004&region=cn)
+其他品牌 | 2020/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshi.switch.v0004) | [说明书](https://home.mi.com/views/introduction.html?model=leshi.switch.v0004&region=cn)
 
 ![leshi.switch.v0004](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047690824NYDh3Q48.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=r9qYbBIK9UaqTxkU/Hb3Deqc06Q=)
 

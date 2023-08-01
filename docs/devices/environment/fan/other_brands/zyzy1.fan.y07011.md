@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能米家风扇
 
-其他品牌 | 2021/7/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zyzy1.fan.y07011/) | [说明书](https://home.mi.com/views/introduction.html?model=zyzy1.fan.y07011&region=cn)
+其他品牌 | 2021/7/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zyzy1.fan.y07011) | [说明书](https://home.mi.com/views/introduction.html?model=zyzy1.fan.y07011&region=cn)
 
 ![zyzy1.fan.y07011](https://cnbj1-fds.api.xiaomi.net/iotweb-product-center/5ebd1c8bb87f605e6f9979d8def132ee_1625124760622.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=T4DnK9kzwLMHFIocldVVIW/wVuA=)
 

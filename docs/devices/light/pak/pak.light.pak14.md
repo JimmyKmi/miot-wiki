@@ -9,7 +9,7 @@ description : ''
 ---
 # 三雄极光Pak智能家居灯饰
 
-三雄极光 | 2023/2/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.pak14/) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.pak14&region=cn)
+三雄极光 | 2023/2/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.pak14) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.pak14&region=cn)
 
 ![pak.light.pak14](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/47f51e23c71adae3ad31ea717438317c_1669103306286.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xQZzzMsCcDaRm/bE1OVYWlGW65c=)
 

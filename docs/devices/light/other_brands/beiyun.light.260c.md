@@ -9,7 +9,7 @@ description : ''
 ---
 # seebest照云吸顶灯
 
-其他品牌 | 2022/4/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beiyun.light.260c/) | [说明书](https://home.mi.com/views/introduction.html?model=beiyun.light.260c&region=cn)
+其他品牌 | 2022/4/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beiyun.light.260c) | [说明书](https://home.mi.com/views/introduction.html?model=beiyun.light.260c&region=cn)
 
 ![beiyun.light.260c](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7bce8d2cb38f0dbc9fb1b9eea89c60d4_1629712412526.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=I1moNBP/kUsT+gYZheFSuKUrp2o=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能摄像机大众版1080P
 
-创米小白 | 2019/9/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.ipc017/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.ipc017&region=cn)
+创米小白 | 2019/9/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.ipc017) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.ipc017&region=cn)
 
 ![chuangmi.camera.ipc017](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1585702667164lrSESbpH.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tToph+WlMeejy0pEwIi+MMagMss=)
 

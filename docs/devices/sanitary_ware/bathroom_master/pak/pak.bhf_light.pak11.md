@@ -9,7 +9,7 @@ description : ''
 ---
 # 三雄智能浴霸
 
-三雄极光 | 2022/1/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.bhf_light.pak11/) | [说明书](https://home.mi.com/views/introduction.html?model=pak.bhf_light.pak11&region=cn)
+三雄极光 | 2022/1/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.bhf_light.pak11) | [说明书](https://home.mi.com/views/introduction.html?model=pak.bhf_light.pak11&region=cn)
 
 ![pak.bhf_light.pak11](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/53fd2983ec9ed7fe46722ceccd259434_1640249621894.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nby59ASFJpbBx6qP6+lYEqEDETQ=)
 

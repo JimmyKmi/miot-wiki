@@ -9,7 +9,7 @@ description : ''
 ---
 # 追觅S10 Plus
 
-追觅 | 2022/9/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2246/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2246&region=cn)
+追觅 | 2022/9/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2246) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2246&region=cn)
 
 ![dreame.vacuum.r2246](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/78800b8c686a3999bb004352d2326815_1661496675874.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Yvd8aS1Gao5Mh7AdkjegZncSnm0=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米VRF控制器
 
-苏米 | 2022/2/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.aircondition.ac01/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.aircondition.ac01&region=cn)
+苏米 | 2022/2/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.aircondition.ac01) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.aircondition.ac01&region=cn)
 
 ![xhuan.aircondition.ac01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2043d94e9c7960ad8ee9a63128699c27_1634874640750.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fKWKDb6x9fTxF+cyZF8Hfi1n4ac=)
 

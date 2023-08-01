@@ -9,7 +9,7 @@ description : ''
 ---
 # OPPLE冰雨筒灯
 
-欧普 OPPLE | 2022/8/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.bytd/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.bytd&region=cn)
+欧普 OPPLE | 2022/8/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.bytd) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.bytd&region=cn)
 
 ![opple.light.bytd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ba6177a6a7b3f023d3131af216eec8b3_1657764699338.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7gpIEq4N9fnFBGZay9WpsEC5qY4=)
 

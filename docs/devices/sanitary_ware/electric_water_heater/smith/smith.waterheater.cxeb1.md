@@ -9,7 +9,7 @@ description : ''
 ---
 # 佳尼特电热水器CXE-60B1
 
-佳尼特 Smith | 2019/8/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smith.waterheater.cxeb1/) | [说明书](https://home.mi.com/views/introduction.html?model=smith.waterheater.cxeb1&region=cn)
+佳尼特 Smith | 2019/8/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smith.waterheater.cxeb1) | [说明书](https://home.mi.com/views/introduction.html?model=smith.waterheater.cxeb1&region=cn)
 
 ![smith.waterheater.cxeb1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1564389714652RfLgEhMy.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Q23jO6nhUnLxIh3wkVbvCQfMVOM=)
 

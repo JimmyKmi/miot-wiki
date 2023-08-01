@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网冰箱21Face（428L）
 
-云米 Viomi | 2019/5/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x7/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x7&region=cn)
+云米 Viomi | 2019/5/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x7) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x7&region=cn)
 
 ![viomi.fridge.x7](https://static.home.mi.com/app/image/get/file/developer_1557800578zvtkibo9.png)
 

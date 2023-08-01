@@ -9,7 +9,7 @@ description : ''
 ---
 # 朗越智能安防系统
 
-其他品牌 | 2019/3/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyzhn.gateway.yn181126/) | [说明书](https://home.mi.com/views/introduction.html?model=yyzhn.gateway.yn181126&region=cn)
+其他品牌 | 2019/3/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyzhn.gateway.yn181126) | [说明书](https://home.mi.com/views/introduction.html?model=yyzhn.gateway.yn181126&region=cn)
 
 ![yyzhn.gateway.yn181126](https://static.home.mi.com/app/image/get/file/developer_1549874958mjjwmaws.png)
 

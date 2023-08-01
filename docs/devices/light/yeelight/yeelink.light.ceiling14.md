@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight LED吸顶灯 Mini
 
-易来 Yeelight | 2019/5/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling14/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling14&region=cn)
+易来 Yeelight | 2019/5/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling14) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling14&region=cn)
 
 ![yeelink.light.ceiling14](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790701044340cNIl1R7.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4ovLTcVN6+cwJDO8e5g1M5jMKg8=)
 

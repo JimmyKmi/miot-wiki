@@ -9,7 +9,7 @@ description : ''
 ---
 # 通士达智慧灯带
 
-通士达 | 2021/7/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsd.light.amn002/) | [说明书](https://home.mi.com/views/introduction.html?model=tsd.light.amn002&region=cn)
+通士达 | 2021/7/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsd.light.amn002) | [说明书](https://home.mi.com/views/introduction.html?model=tsd.light.amn002&region=cn)
 
 ![tsd.light.amn002](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047904670HajEDsvC.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=m2H0KrswEWArLIRB9L9Lg+gFAOA=)
 

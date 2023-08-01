@@ -9,7 +9,7 @@ description : ''
 ---
 # 西顿智家卧室灯PLUS
 
-CDN西顿照明 | 2022/10/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zedong.light.cdnxd2/) | [说明书](https://home.mi.com/views/introduction.html?model=zedong.light.cdnxd2&region=cn)
+CDN西顿照明 | 2022/10/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zedong.light.cdnxd2) | [说明书](https://home.mi.com/views/introduction.html?model=zedong.light.cdnxd2&region=cn)
 
 ![zedong.light.cdnxd2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/13633b9656ed982e094659cc5f6234f9_1659921874391.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Xn+uJ+k5Iq/Ns+4W4NpvR+lVvdQ=)
 

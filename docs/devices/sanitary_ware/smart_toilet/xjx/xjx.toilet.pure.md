@@ -9,7 +9,7 @@ description : ''
 ---
 # 小鲸洗一体式智能马桶Pure
 
-小鲸洗 | 2020/2/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xjx.toilet.pure/) | [说明书](https://home.mi.com/views/introduction.html?model=xjx.toilet.pure&region=cn)
+小鲸洗 | 2020/2/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xjx.toilet.pure) | [说明书](https://home.mi.com/views/introduction.html?model=xjx.toilet.pure&region=cn)
 
 ![xjx.toilet.pure](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1576571370360de4wv1FN.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=052jgZLiCzPIYIu0Vqf8i/pKVpo=)
 

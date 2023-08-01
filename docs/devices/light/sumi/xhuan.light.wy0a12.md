@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米线性灯Pro
 
-苏米 | 2023/5/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a12/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a12&region=cn)
+苏米 | 2023/5/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a12) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a12&region=cn)
 
 ![xhuan.light.wy0a12](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/242500f8749148f2dd3aa9b011571562_1682055801121.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zVrrrdsOVmYP48MUusup4FIE+m4=)
 

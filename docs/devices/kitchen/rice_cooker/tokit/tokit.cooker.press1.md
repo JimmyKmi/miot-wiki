@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT 压力IH智能电饭煲
 
-TOKIT | 2019/8/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.cooker.press1/) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.cooker.press1&region=cn)
+TOKIT | 2019/8/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.cooker.press1) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.cooker.press1&region=cn)
 
 ![tokit.cooker.press1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870890753TxP5tIHp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=JhHKLpkM5TNGcoabbV4rFWl6JYw=)
 

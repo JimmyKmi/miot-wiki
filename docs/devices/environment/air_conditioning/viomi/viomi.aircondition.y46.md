@@ -9,7 +9,7 @@ description : ''
 ---
 # Smart 1C 1.5P
 
-云米 Viomi | 2020/9/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y46/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y46&region=cn)
+云米 Viomi | 2020/9/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y46) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y46&region=cn)
 
 ![viomi.aircondition.y46](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047770248jXkTxSnv.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cru7Z+1cCAX2KpXpHrZk/0ryNEs=)
 

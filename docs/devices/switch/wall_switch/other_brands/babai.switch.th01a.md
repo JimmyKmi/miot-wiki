@@ -9,7 +9,7 @@ description : ''
 ---
 # ThoughtHome智能通断器
 
-其他品牌 | 2020/9/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.th01a/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.th01a&region=cn)
+其他品牌 | 2020/9/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.th01a) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.th01a&region=cn)
 
 ![babai.switch.th01a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048937821zYW54Ai0.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RJ7UUq2QLZksbZqtEVp4HSWjFMI=)
 

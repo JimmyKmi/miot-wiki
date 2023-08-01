@@ -9,7 +9,7 @@ description : ''
 ---
 # 居意电动卷帘
 
-其他品牌 | 2020/12/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.curtain.m1/) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.curtain.m1&region=cn)
+其他品牌 | 2020/12/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.curtain.m1) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.curtain.m1&region=cn)
 
 ![syniot.curtain.m1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c3185556038381302f156a1acae79156_juanlian168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0CPL+8hhBOD3Go5e5Vr1BT4HGBg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧普智能灯带 Mode A
 
-欧普 OPPLE | 2021/1/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.lgtstr/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.lgtstr&region=cn)
+欧普 OPPLE | 2021/1/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.lgtstr) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.lgtstr&region=cn)
 
 ![opple.light.lgtstr](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047768419LyWAjW13.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NQXbnp0zgk1rtWmczMklztKPUcw=)
 

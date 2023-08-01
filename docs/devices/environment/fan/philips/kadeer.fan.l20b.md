@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦无叶冷风扇
 
-飞利浦 | 2020/6/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.l20b/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.l20b&region=cn)
+飞利浦 | 2020/6/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.l20b) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.l20b&region=cn)
 
 ![kadeer.fan.l20b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047725845MW03sI3c.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=kjjIE25OMVjXN0lawcRXWwotjIs=)
 

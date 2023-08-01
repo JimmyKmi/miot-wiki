@@ -9,7 +9,7 @@ description : ''
 ---
 # 韩娥音响吊灯
 
-其他品牌 | 2022/4/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beiyun.light.hane/) | [说明书](https://home.mi.com/views/introduction.html?model=beiyun.light.hane&region=cn)
+其他品牌 | 2022/4/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beiyun.light.hane) | [说明书](https://home.mi.com/views/introduction.html?model=beiyun.light.hane&region=cn)
 
 ![beiyun.light.hane](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3a22780b35c5416cfbedb43980deb9e0_1639709012138.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6uyzxQ2VCLRtYQlJ/eD88Esb5ak=)
 

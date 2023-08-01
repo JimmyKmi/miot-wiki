@@ -9,7 +9,7 @@ description : ''
 ---
 # Smart 2A
 
-云米 Viomi | 2021/3/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y75/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y75&region=cn)
+云米 Viomi | 2021/3/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y75) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y75&region=cn)
 
 ![viomi.aircondition.y75](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047904841VOZJHmfB.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=s5pzceNU2vmp/MZGIXI4QY8bKxs=)
 

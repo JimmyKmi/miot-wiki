@@ -9,7 +9,7 @@ description : ''
 ---
 # 芝华仕智能沙发M1
 
-其他品牌 | 2023/4/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=homray.sofa.zhsm1/) | [说明书](https://home.mi.com/views/introduction.html?model=homray.sofa.zhsm1&region=cn)
+其他品牌 | 2023/4/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=homray.sofa.zhsm1) | [说明书](https://home.mi.com/views/introduction.html?model=homray.sofa.zhsm1&region=cn)
 
 ![homray.sofa.zhsm1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f4bdb928efe7ace488311a9ba0ec4f75_1670119973235.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=w0jp1uVQNRDvi7RJcu42iESThA0=)
 

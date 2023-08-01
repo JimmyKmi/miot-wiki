@@ -9,7 +9,7 @@ description : ''
 ---
 # 曼斯库博Y款
 
-其他品牌 | 2020/8/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bangbo.airer.y6/) | [说明书](https://home.mi.com/views/introduction.html?model=bangbo.airer.y6&region=cn)
+其他品牌 | 2020/8/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bangbo.airer.y6) | [说明书](https://home.mi.com/views/introduction.html?model=bangbo.airer.y6&region=cn)
 
 ![bangbo.airer.y6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16788709529999kj5zi7H.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=g3tMY4MeNhd+znVRNqmS1nhYUuc=)
 

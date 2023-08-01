@@ -9,7 +9,7 @@ description : ''
 ---
 # SmartJoy智臻墙壁开关（零火三键蓝牙Mesh版）
 
-智臻 SmartJoy | 2020/11/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.switch.sjlh3s/) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.switch.sjlh3s&region=cn)
+智臻 SmartJoy | 2020/11/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.switch.sjlh3s) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.switch.sjlh3s&region=cn)
 
 ![smartj.switch.sjlh3s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047808607nV4GM9QQ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Xf1OIoO3c26PbIGlfGqpOCQNtp4=)
 

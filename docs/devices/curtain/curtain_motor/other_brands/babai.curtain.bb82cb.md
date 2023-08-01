@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能窗帘（WiFi）
 
-其他品牌 | 2023/3/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.bb82cb/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.bb82cb&region=cn)
+其他品牌 | 2023/3/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.bb82cb) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.bb82cb&region=cn)
 
 ![babai.curtain.bb82cb](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a243cd20fbfc7eb93ae86d1c2e5d55ad_1670383581547.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=n6uxsorjlSuQXM64QGYqvCgSOWE=)
 

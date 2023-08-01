@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景WiFi色温灯C系列
 
-情景mesh芯片 | 2023/6/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wy02/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wy02&region=cn)
+情景mesh芯片 | 2023/6/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wy02) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wy02&region=cn)
 
 ![lemesh.light.wy02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1b4148330841bde38a21495585282594_1667209538523.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=IEXR76P3sQFPCb3LjIqzTw5JOQw=)
 

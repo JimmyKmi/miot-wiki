@@ -9,7 +9,7 @@ description : ''
 ---
 # 至凡石墨烯踢脚线电暖器
 
-其他品牌 | 2021/10/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.heater.l200mr/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.heater.l200mr&region=cn)
+其他品牌 | 2021/10/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.heater.l200mr) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.heater.l200mr&region=cn)
 
 ![kadeer.heater.l200mr](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5f712ea358547ecb1913fd2fa99945ca_1631690326454.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HOSY41Orj1puFgKxS0QCk0FRhT4=)
 

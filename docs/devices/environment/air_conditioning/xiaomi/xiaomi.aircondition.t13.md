@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米巨省电空调 （1.5匹|变频|新一级能效）
 
-小米/米家 | 2022/3/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.t13/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.t13&region=cn)
+小米/米家 | 2022/3/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.t13) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.t13&region=cn)
 
 ![xiaomi.aircondition.t13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d3fc6740a12c8ad263821057333d6624_1642410378415.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cG0+VaikUXD/NeLePVSVLS8S2zQ=)
 

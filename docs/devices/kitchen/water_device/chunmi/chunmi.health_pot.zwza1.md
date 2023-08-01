@@ -9,7 +9,7 @@ description : ''
 ---
 # 知吾煮智能多功能养生壶
 
-知吾煮 Chunmi | 2022/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.health_pot.zwza1/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.health_pot.zwza1&region=cn)
+知吾煮 Chunmi | 2022/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.health_pot.zwza1) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.health_pot.zwza1&region=cn)
 
 ![chunmi.health_pot.zwza1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/db7787c10df52a70882c00b0f776b986_1648535634787.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=y/3Kn1IMBn8qsRqNNtvolM5JVbY=)
 

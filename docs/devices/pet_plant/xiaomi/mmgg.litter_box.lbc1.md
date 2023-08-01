@@ -9,7 +9,7 @@ description : ''
 ---
 # 小顽智能全自动猫砂盆
 
-小米/米家 | 2023/2/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mmgg.litter_box.lbc1/) | [说明书](https://home.mi.com/views/introduction.html?model=mmgg.litter_box.lbc1&region=cn)
+小米/米家 | 2023/2/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mmgg.litter_box.lbc1) | [说明书](https://home.mi.com/views/introduction.html?model=mmgg.litter_box.lbc1&region=cn)
 
 ![mmgg.litter_box.lbc1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2251a3bc1c0897bfd60e80d9f695d6c6_1657709612364.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Hx8KmylWQsELEYzk9zduqICvN3c=)
 

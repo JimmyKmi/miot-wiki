@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家LED吸顶灯
 
-小米/米家 | 2018/5/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling5/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling5&region=cn)
+小米/米家 | 2018/5/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling5) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling5&region=cn)
 
 ![yeelink.light.ceiling5](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069106883Zn0QDjnR.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tko7/gBG93D4R5cyosiYAu4eimg=)
 

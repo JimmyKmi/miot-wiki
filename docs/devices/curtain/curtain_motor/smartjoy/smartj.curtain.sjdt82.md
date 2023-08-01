@@ -9,7 +9,7 @@ description : ''
 ---
 # SmartJoy智能窗帘电机（WiFi版）
 
-智臻 SmartJoy | 2020/3/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.curtain.sjdt82/) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.curtain.sjdt82&region=cn)
+智臻 SmartJoy | 2020/3/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.curtain.sjdt82) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.curtain.sjdt82&region=cn)
 
 ![smartj.curtain.sjdt82](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_157593806133186L4JN0q.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hjCISOoa99ktjRsLawHfUdBC5fg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # GAX砭石腰腹部按摩仪
 
-其他品牌 | 2022/1/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.fbv1/) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.fbv1&region=cn)
+其他品牌 | 2022/1/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.fbv1) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.fbv1&region=cn)
 
 ![jieman.magic_touch.fbv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047956418bN3U7awr.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=G+hgi2estb9wpHDsnRn6wO5hkYo=)
 

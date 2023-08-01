@@ -9,7 +9,7 @@ description : ''
 ---
 # 丹麦格澜空调
 
-丹麦 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nhy.rtc.pexrtc730/) | [说明书](https://home.mi.com/views/introduction.html?model=nhy.rtc.pexrtc730&region=cn)
+丹麦 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nhy.rtc.pexrtc730) | [说明书](https://home.mi.com/views/introduction.html?model=nhy.rtc.pexrtc730&region=cn)
 
 ![nhy.rtc.pexrtc730](https://static.home.mi.com/app/image/get/file/common_image_1437379417b64fpda7.png)
 

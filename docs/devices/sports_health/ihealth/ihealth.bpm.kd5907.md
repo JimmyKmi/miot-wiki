@@ -9,7 +9,7 @@ description : ''
 ---
 # 九安智能血压计
 
-iHealth | 2019/5/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ihealth.bpm.kd5907/) | [说明书](https://home.mi.com/views/introduction.html?model=ihealth.bpm.kd5907&region=cn)
+iHealth | 2019/5/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ihealth.bpm.kd5907) | [说明书](https://home.mi.com/views/introduction.html?model=ihealth.bpm.kd5907&region=cn)
 
 ![ihealth.bpm.kd5907](https://static.home.mi.com/app/image/get/file/developer_15300660376zgj7tpi.png)
 

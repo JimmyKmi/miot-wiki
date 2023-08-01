@@ -9,7 +9,7 @@ description : ''
 ---
 # 8H 乐轻松智能电动慢摇沙发
 
-8H | 2022/5/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.sofa.b7/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.sofa.b7&region=cn)
+8H | 2022/5/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.sofa.b7) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.sofa.b7&region=cn)
 
 ![qushui.sofa.b7](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/60c9ae727b904c33fc03b37f6e35a828_1650955666696.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GJyCLWwBEiF2WZi7YtjJQwKSwyM=)
 

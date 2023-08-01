@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智能插座CP1-AM(计电量)
 
-Gosund / 电小酷 | 2021/5/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp1m/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp1m&region=cn)
+Gosund / 电小酷 | 2021/5/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp1m) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp1m&region=cn)
 
 ![cuco.plug.cp1m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/df5545ee3d87d201784afb224ae88cc2_拟物.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cv4QzC5/qUIqQKxK4qvAowi8E60=)
 

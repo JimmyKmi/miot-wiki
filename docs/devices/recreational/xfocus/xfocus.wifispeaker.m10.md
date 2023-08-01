@@ -9,7 +9,7 @@ description : ''
 ---
 # 声必可安卓中控面板
 
-声必可 | 2023/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xfocus.wifispeaker.m10/) | [说明书](https://home.mi.com/views/introduction.html?model=xfocus.wifispeaker.m10&region=cn)
+声必可 | 2023/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xfocus.wifispeaker.m10) | [说明书](https://home.mi.com/views/introduction.html?model=xfocus.wifispeaker.m10&region=cn)
 
 ![xfocus.wifispeaker.m10](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2298f815c3db584d3f85854ccc5e3cc3_1681373436821.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Nvs9cqAs/4fsirWmhpkoQYYzSik=)
 

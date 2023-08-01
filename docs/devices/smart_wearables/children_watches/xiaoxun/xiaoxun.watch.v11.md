@@ -9,7 +9,7 @@ description : ''
 ---
 # 米兔儿童电话手表3
 
-米兔小寻 | 2018/5/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.v11/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.v11&region=cn)
+米兔小寻 | 2018/5/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.v11) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.v11&region=cn)
 
 ![xiaoxun.watch.v11](https://static.home.mi.com/app/image/get/file/developer_1520908654qdqos62l.png)
 

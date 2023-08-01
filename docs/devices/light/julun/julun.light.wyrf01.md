@@ -9,7 +9,7 @@ description : ''
 ---
 # JL炫彩风扇灯
 
-julun | 2023/5/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=julun.light.wyrf01/) | [说明书](https://home.mi.com/views/introduction.html?model=julun.light.wyrf01&region=cn)
+julun | 2023/5/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=julun.light.wyrf01) | [说明书](https://home.mi.com/views/introduction.html?model=julun.light.wyrf01&region=cn)
 
 ![julun.light.wyrf01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9b14cd9e8ba39dc516be1bcf400055e4_1682133316626.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=11yY7Vc5J45doCbxmu9bW2AK4Ac=)
 

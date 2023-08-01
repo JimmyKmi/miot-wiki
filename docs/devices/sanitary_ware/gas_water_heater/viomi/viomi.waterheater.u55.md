@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI燃气热水器 小蓝调
 
-云米 Viomi | 2022/4/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u55/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u55&region=cn)
+云米 Viomi | 2022/4/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u55) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u55&region=cn)
 
 ![viomi.waterheater.u55](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2fecdb94b427a8e35428e0f16ef7254b_1647849607081.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FEoAP83sew1HAhb2/uEeUWC7fEM=)
 

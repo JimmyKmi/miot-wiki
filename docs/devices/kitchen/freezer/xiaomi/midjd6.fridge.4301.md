@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家冰箱 十字对开门430L 墨羽岩
 
-小米/米家 | 2023/5/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.4301/) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.4301&region=cn)
+小米/米家 | 2023/5/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.4301) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.4301&region=cn)
 
 ![midjd6.fridge.4301](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3ece8cd5f8d32398c2e47930c92d74b1_1661159662788.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gapkbTGnrpKF++HspLAXDo4JR5w=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能插座（虚拟）
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.plug.vtl_v1/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.plug.vtl_v1&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.plug.vtl_v1) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.plug.vtl_v1&region=cn)
 
 ![chuangmi.plug.vtl_v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16788708886420pVswOP8.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hS73fufHvqfkol0NKvKd/EMYvTI=)
 

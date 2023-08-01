@@ -9,7 +9,7 @@ description : ''
 ---
 # 北斗星互联网集成灶(C2/C3蒸烤款)
 
-其他品牌 | 2021/9/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bdx.i_stove.c5zk/) | [说明书](https://home.mi.com/views/introduction.html?model=bdx.i_stove.c5zk&region=cn)
+其他品牌 | 2021/9/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bdx.i_stove.c5zk) | [说明书](https://home.mi.com/views/introduction.html?model=bdx.i_stove.c5zk&region=cn)
 
 ![bdx.i_stove.c5zk](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/17027044e946c9c40ebc16d449a26781_C5蒸烤正视图168px.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DrJP5DFga21Z8jfSYn9ayaJSEEs=)
 

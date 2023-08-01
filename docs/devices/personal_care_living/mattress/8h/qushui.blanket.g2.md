@@ -9,7 +9,7 @@ description : ''
 ---
 # 薄床垫
 
-8H | 2022/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.blanket.g2/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.blanket.g2&region=cn)
+8H | 2022/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.blanket.g2) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.blanket.g2&region=cn)
 
 ![qushui.blanket.g2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790479592021wvWBtD5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vv8ti/r4k5TUmTTBsGz4OklMbA4=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 测小菲甲醛监测仪
 
-其他品牌 | 2020/5/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fbs.airmonitor.pth02/) | [说明书](https://home.mi.com/views/introduction.html?model=fbs.airmonitor.pth02&region=cn)
+其他品牌 | 2020/5/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fbs.airmonitor.pth02) | [说明书](https://home.mi.com/views/introduction.html?model=fbs.airmonitor.pth02&region=cn)
 
 ![fbs.airmonitor.pth02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047654219Y81IjSLR.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TQ/iWRC0rgpW+Hm0EFAC80N6JXM=)
 

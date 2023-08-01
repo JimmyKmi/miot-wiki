@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI电热水器 Air 双胆优享版
 
-云米 Viomi | 2022/9/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e44/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e44&region=cn)
+云米 Viomi | 2022/9/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e44) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e44&region=cn)
 
 ![viomi.waterheater.e44](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1ebf990005f6124c367492f75846f89b_1661138577949.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fMnISyge+NWjYYzyR4jb91/zGoA=)
 

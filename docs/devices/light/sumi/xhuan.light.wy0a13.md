@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米筒射灯Pro
 
-苏米 | 2023/4/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a13/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a13&region=cn)
+苏米 | 2023/4/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a13) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a13&region=cn)
 
 ![xhuan.light.wy0a13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a333c10debb79d91354149a87dac76a4_1680778138361.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=J5FbFUFa7MuALzgajFoo8YQVXng=)
 

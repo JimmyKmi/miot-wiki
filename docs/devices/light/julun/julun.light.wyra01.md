@@ -9,7 +9,7 @@ description : ''
 ---
 # JL溢彩吸顶灯
 
-julun | 2022/12/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=julun.light.wyra01/) | [说明书](https://home.mi.com/views/introduction.html?model=julun.light.wyra01&region=cn)
+julun | 2022/12/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=julun.light.wyra01) | [说明书](https://home.mi.com/views/introduction.html?model=julun.light.wyra01&region=cn)
 
 ![julun.light.wyra01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7b8600492288c1ecc40b5c8cd64a65f4_1668149699889.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BRi90ZZYiZ9ha6fid3HPPLaDxX8=)
 

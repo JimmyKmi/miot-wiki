@@ -9,7 +9,7 @@ description : ''
 ---
 # 利维斯顿加湿器
 
-其他品牌 | 2022/1/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ilvsd.humidifier.jl/) | [说明书](https://home.mi.com/views/introduction.html?model=ilvsd.humidifier.jl&region=cn)
+其他品牌 | 2022/1/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ilvsd.humidifier.jl) | [说明书](https://home.mi.com/views/introduction.html?model=ilvsd.humidifier.jl&region=cn)
 
 ![ilvsd.humidifier.jl](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790687373306lcKYtXo.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WChVZD7KlPOwofOczgV+SSVYcJ8=)
 

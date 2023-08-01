@@ -9,7 +9,7 @@ description : ''
 ---
 # GSD八键智能开关
 
-其他品牌 | 2022/9/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gsd.switch.sw8a01/) | [说明书](https://home.mi.com/views/introduction.html?model=gsd.switch.sw8a01&region=cn)
+其他品牌 | 2022/9/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gsd.switch.sw8a01) | [说明书](https://home.mi.com/views/introduction.html?model=gsd.switch.sw8a01&region=cn)
 
 ![gsd.switch.sw8a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ee2ebd81ee152263c84967b63d8452d8_1662990329333.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MjkKOkNaBxM4Qdfex/v53pm+/3c=)
 

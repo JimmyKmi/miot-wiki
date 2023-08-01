@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能浴霸V2
 
-雷士 | 2022/11/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.bhf_light.lsyb01/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.bhf_light.lsyb01&region=cn)
+雷士 | 2022/11/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.bhf_light.lsyb01) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.bhf_light.lsyb01&region=cn)
 
 ![leishi.bhf_light.lsyb01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/817ed07414c4f086aef35b203083917e_1660204524006.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=66NkCYDwIa+uPv+VVMnaXKg5Zt8=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 万能遥控器
 
-小米/米家 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.switch.a2ota/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.switch.a2ota&region=cn)
+小米/米家 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.switch.a2ota) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.switch.a2ota&region=cn)
 
 ![xiaomi.switch.a2ota](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9163222ce56f3062734100076bb8bdb3_1646366423299.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FQLgrmcXU9ZJT9s7AtrO3uNVXRk=)
 

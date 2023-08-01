@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能晾衣架
 
-其他品牌 | 2020/3/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.airer.lyj01/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.airer.lyj01&region=cn)
+其他品牌 | 2020/3/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.airer.lyj01) | [说明书](https://home.mi.com/views/introduction.html?model=babai.airer.lyj01&region=cn)
 
 ![babai.airer.lyj01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1582341132573bmkGl6nx.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yqVa3UcIzyuHGOoevYSoIH5wk0A=)
 

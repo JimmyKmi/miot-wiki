@@ -9,7 +9,7 @@ description : ''
 ---
 # 三键智能开关（零火mesh）
 
-其他品牌 | 2022/10/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyzngc.switch.zm0603/) | [说明书](https://home.mi.com/views/introduction.html?model=hyzngc.switch.zm0603&region=cn)
+其他品牌 | 2022/10/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyzngc.switch.zm0603) | [说明书](https://home.mi.com/views/introduction.html?model=hyzngc.switch.zm0603&region=cn)
 
 ![hyzngc.switch.zm0603](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/50ee89386c6b039094b0b551dbd936c7_1661830224862.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=naJuL8NS6KcU2hbK0jE+z42Msxg=)
 

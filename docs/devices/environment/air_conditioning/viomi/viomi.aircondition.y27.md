@@ -9,7 +9,7 @@ description : ''
 ---
 # Milano 1N 1P
 
-云米 Viomi | 2020/8/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y27/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y27&region=cn)
+云米 Viomi | 2020/8/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y27) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y27&region=cn)
 
 ![viomi.aircondition.y27](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047768180JGWvgPTT.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1GhPUKj7AY2uA/y1cpYD4kifbf8=)
 

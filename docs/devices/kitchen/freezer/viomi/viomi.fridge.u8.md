@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网冰箱iLive（对开门 603L）
 
-云米 Viomi | 2020/1/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u8/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u8&region=cn)
+云米 Viomi | 2020/1/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u8) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u8&region=cn)
 
 ![viomi.fridge.u8](https://static.home.mi.com/app/image/get/file/developer_1576649257tpnk08wv.png)
 

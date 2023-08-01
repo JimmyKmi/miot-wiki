@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能二键开关(MESH零火)
 
-其他品牌 | 2022/11/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.302m/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.302m&region=cn)
+其他品牌 | 2022/11/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.302m) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.302m&region=cn)
 
 ![babai.switch.302m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d1a6cc95777c1b7fb6be0d7fbe95f8e1_1661932850587.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=c4xVwnvLhTjHMKDPNHVTVxP9aJI=)
 

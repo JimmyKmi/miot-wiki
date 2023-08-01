@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai home智能灯带
 
-其他品牌 | 2023/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyzn.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=yyzn.light.wy0a01&region=cn)
+其他品牌 | 2023/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyzn.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=yyzn.light.wy0a01&region=cn)
 
 ![yyzn.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/eb39a6227bd83fb2995d4245d963bcc5_1683095810296.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Fu6LCzo4RDAJcgl+7LUT+4+MXTs=)
 

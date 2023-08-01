@@ -9,7 +9,7 @@ description : ''
 ---
 # 湃妮迷你可视宠物喂食器
 
-湃妮 | 2021/2/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skyrc.feeder.vdfeed/) | [说明书](https://home.mi.com/views/introduction.html?model=skyrc.feeder.vdfeed&region=cn)
+湃妮 | 2021/2/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skyrc.feeder.vdfeed) | [说明书](https://home.mi.com/views/introduction.html?model=skyrc.feeder.vdfeed&region=cn)
 
 ![skyrc.feeder.vdfeed](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790489945215cwK3jlD.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RJGmsQFrSZ3Qa8AODJevt3VG8xk=)
 

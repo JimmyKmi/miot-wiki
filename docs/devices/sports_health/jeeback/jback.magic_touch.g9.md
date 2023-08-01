@@ -9,7 +9,7 @@ description : ''
 ---
 # 腰部按摩器
 
-Jeeback | 2022/8/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jback.magic_touch.g9/) | [说明书](https://home.mi.com/views/introduction.html?model=jback.magic_touch.g9&region=cn)
+Jeeback | 2022/8/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jback.magic_touch.g9) | [说明书](https://home.mi.com/views/introduction.html?model=jback.magic_touch.g9&region=cn)
 
 ![jback.magic_touch.g9](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/30098a12bfa86fb3381ce70010f1786a_1657008513993.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=c6f+5Ld3A6uinAZbRku/mQrHp1U=)
 

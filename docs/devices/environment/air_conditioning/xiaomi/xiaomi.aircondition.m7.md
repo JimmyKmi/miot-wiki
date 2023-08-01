@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米柔风空调 (大1匹 新一级能效)
 
-小米/米家 | 2023/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m7/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m7&region=cn)
+小米/米家 | 2023/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m7) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m7&region=cn)
 
 ![xiaomi.aircondition.m7](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/300aa8c19db2726afaf3cbf8b77627c2_1655259236868.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sADFKXWRcFU2YCCPa0gNEHG4C7E=)
 

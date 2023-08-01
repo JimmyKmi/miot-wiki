@@ -9,7 +9,7 @@ description : ''
 ---
 # 六路开关模块
 
-其他品牌 | 2021/5/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjcx.switch.s6/) | [说明书](https://home.mi.com/views/introduction.html?model=zjcx.switch.s6&region=cn)
+其他品牌 | 2021/5/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjcx.switch.s6) | [说明书](https://home.mi.com/views/introduction.html?model=zjcx.switch.s6&region=cn)
 
 ![zjcx.switch.s6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cee361b720d5d95794c12ca5277ab582_图标168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zTriE1uk5E6gN2ZlFZ7Jkh/DVs0=)
 

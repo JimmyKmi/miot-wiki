@@ -9,7 +9,7 @@ description : ''
 ---
 # 普为特智能蓝牙跳绳
 
-其他品牌 | 2022/6/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=povit.jmprope.p231/) | [说明书](https://home.mi.com/views/introduction.html?model=povit.jmprope.p231&region=cn)
+其他品牌 | 2022/6/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=povit.jmprope.p231) | [说明书](https://home.mi.com/views/introduction.html?model=povit.jmprope.p231&region=cn)
 
 ![povit.jmprope.p231](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/da6099a56cc70c5bf09932feb8da3795_1639553936721.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nTRde9Fh5eJAP74wcgiTVdSzNes=)
 

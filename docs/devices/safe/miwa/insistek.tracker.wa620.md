@@ -9,7 +9,7 @@ description : ''
 ---
 # 米哇定位豆
 
-米哇 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=insistek.tracker.wa620/) | [说明书](https://home.mi.com/views/introduction.html?model=insistek.tracker.wa620&region=cn)
+米哇 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=insistek.tracker.wa620) | [说明书](https://home.mi.com/views/introduction.html?model=insistek.tracker.wa620&region=cn)
 
 ![insistek.tracker.wa620](https://static.home.mi.com/app/image/get/file/developer_1469527469wxw2cr6u.png)
 

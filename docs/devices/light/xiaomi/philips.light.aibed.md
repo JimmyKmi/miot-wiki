@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家伴睡唤醒灯
 
-小米/米家 | 2022/6/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.aibed/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.aibed&region=cn)
+小米/米家 | 2022/6/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.aibed) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.aibed&region=cn)
 
 ![philips.light.aibed](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047839286E1COmL0q.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=li1yMa1WHC8tVLWcRquLmThKhjs=)
 

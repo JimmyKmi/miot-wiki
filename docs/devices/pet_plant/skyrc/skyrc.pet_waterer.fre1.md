@@ -9,7 +9,7 @@ description : ''
 ---
 # 湃妮智能宠物饮水机
 
-湃妮 | 2019/10/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skyrc.pet_waterer.fre1/) | [说明书](https://home.mi.com/views/introduction.html?model=skyrc.pet_waterer.fre1&region=cn)
+湃妮 | 2019/10/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skyrc.pet_waterer.fre1) | [说明书](https://home.mi.com/views/introduction.html?model=skyrc.pet_waterer.fre1&region=cn)
 
 ![skyrc.pet_waterer.fre1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15698062238734wrD3pCB.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1CULLIj7siDY45D/Q9ESJqD0dxY=)
 

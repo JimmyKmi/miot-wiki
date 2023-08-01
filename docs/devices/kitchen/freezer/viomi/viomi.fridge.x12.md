@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网冰箱21Face（T型三门 408L）
 
-云米 Viomi | 2019/9/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x12/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x12&region=cn)
+云米 Viomi | 2019/9/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x12) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x12&region=cn)
 
 ![viomi.fridge.x12](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871036399XHF7ONb0.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yfFMjW/lqNd5z/qBwuFDSZSF/BA=)
 

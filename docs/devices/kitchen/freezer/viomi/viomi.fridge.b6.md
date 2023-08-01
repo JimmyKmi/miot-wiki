@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互动大屏冰箱(对开门518L)
 
-云米 Viomi | 2021/3/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.b6/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.b6&region=cn)
+云米 Viomi | 2021/3/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.b6) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.b6&region=cn)
 
 ![viomi.fridge.b6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9b1ee058533d02f9fadd64ea8d4a6b94_168_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VAI+BMo0vyVceLZZ43x+k/WD7ak=)
 

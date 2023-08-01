@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家互联网迷你波轮洗衣机Pro 3kg
 
-小米/米家 | 2022/11/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=minij.washer.v27/) | [说明书](https://home.mi.com/views/introduction.html?model=minij.washer.v27&region=cn)
+小米/米家 | 2022/11/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=minij.washer.v27) | [说明书](https://home.mi.com/views/introduction.html?model=minij.washer.v27&region=cn)
 
 ![minij.washer.v27](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6faad384bd5d816717b226ee9fd0bfcb_1641870118620.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hWU9dqsDjcPZH3P6uYaF50kQ+UU=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 康佳按摩椅KZ-RH8800
 
-其他品牌 | 2022/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jare.massage.jrq81u/) | [说明书](https://home.mi.com/views/introduction.html?model=jare.massage.jrq81u&region=cn)
+其他品牌 | 2022/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jare.massage.jrq81u) | [说明书](https://home.mi.com/views/introduction.html?model=jare.massage.jrq81u&region=cn)
 
 ![jare.massage.jrq81u](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/12291a5c8579a4a6fdb150030d47e571_1646884749384.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=J+jXwR5RWdCY6MXgmxNJfYn5F94=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网洗碗机10套嵌入式0804
 
-云米 Viomi | 2021/3/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.dishwasher.v11/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.dishwasher.v11&region=cn)
+云米 Viomi | 2021/3/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.dishwasher.v11) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.dishwasher.v11&region=cn)
 
 ![viomi.dishwasher.v11](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/21690d135c3a0391de5dc6c78a96d3b5_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=X1IDCIPnVE8C8DDR/luquMB6rQA=)
 

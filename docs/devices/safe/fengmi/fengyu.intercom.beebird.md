@@ -9,7 +9,7 @@ description : ''
 ---
 # 极蜂智能网络对讲机
 
-峰米 Fengmi | 2020/1/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengyu.intercom.beebird/) | [说明书](https://home.mi.com/views/introduction.html?model=fengyu.intercom.beebird&region=cn)
+峰米 Fengmi | 2020/1/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengyu.intercom.beebird) | [说明书](https://home.mi.com/views/introduction.html?model=fengyu.intercom.beebird&region=cn)
 
 ![fengyu.intercom.beebird](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1576039334515yGgHec55.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=JxZgqhbEERT/vX6ayVnVHpSP2Z0=)
 

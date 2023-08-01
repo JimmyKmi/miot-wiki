@@ -9,7 +9,7 @@ description : ''
 ---
 # 威仕达梦幻帘电机-WiFi版
 
-其他品牌 | 2023/4/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.curtain.ctw1/) | [说明书](https://home.mi.com/views/introduction.html?model=bean.curtain.ctw1&region=cn)
+其他品牌 | 2023/4/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.curtain.ctw1) | [说明书](https://home.mi.com/views/introduction.html?model=bean.curtain.ctw1&region=cn)
 
 ![bean.curtain.ctw1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/62d766b16e980ce8ef9368208daf32a9_1681363260524.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tiovscBjFboibCxTPoaNrtZ/qfU=)
 

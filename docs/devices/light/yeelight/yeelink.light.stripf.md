@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight智能高压色温灯带
 
-易来 Yeelight | 2022/12/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.stripf/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.stripf&region=cn)
+易来 Yeelight | 2022/12/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.stripf) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.stripf&region=cn)
 
 ![yeelink.light.stripf](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/35a6f8ee7336efad033160d8c9143ebd_1668480134627.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=k/6JxuE91ihBqTdZDbIql6x9TvA=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # LineHope智能墙壁开关K1（零火单键版）
 
-方舟鱼 LineHope | 2021/12/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.switch.kgk1/) | [说明书](https://home.mi.com/views/introduction.html?model=line.switch.kgk1&region=cn)
+方舟鱼 LineHope | 2021/12/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.switch.kgk1) | [说明书](https://home.mi.com/views/introduction.html?model=line.switch.kgk1&region=cn)
 
 ![line.switch.kgk1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679067620628x8a4E6Dr.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Amcv8oRnReh8HG3rf4KzLvViOFE=)
 

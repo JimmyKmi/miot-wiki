@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米门窗传感器2
 
-小米/米家 | 2020/8/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.magnet.dw2hl/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.magnet.dw2hl&region=cn)
+小米/米家 | 2020/8/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.magnet.dw2hl) | [说明书](https://home.mi.com/views/introduction.html?model=isa.magnet.dw2hl&region=cn)
 
 ![isa.magnet.dw2hl](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15882313789856TfOG0Ab.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=B7ZRCrVr0DimiAwU6awFWXjg8Rg=)
 

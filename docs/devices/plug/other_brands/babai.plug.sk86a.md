@@ -9,7 +9,7 @@ description : ''
 ---
 # Babuy 二三极智能插座
 
-其他品牌 | 2020/7/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.plug.sk86a/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.plug.sk86a&region=cn)
+其他品牌 | 2020/7/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.plug.sk86a) | [说明书](https://home.mi.com/views/introduction.html?model=babai.plug.sk86a&region=cn)
 
 ![babai.plug.sk86a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1593253176319iiKpfBrJ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XhvMEV22RkNNYuRmpP9sjxCwN6Y=)
 

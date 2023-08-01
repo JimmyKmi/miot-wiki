@@ -9,7 +9,7 @@ description : ''
 ---
 # 聆巨蓝牙Mesh通断器
 
-聆巨 | 2022/12/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linju.switch.sw0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=linju.switch.sw0a01&region=cn)
+聆巨 | 2022/12/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linju.switch.sw0a01) | [说明书](https://home.mi.com/views/introduction.html?model=linju.switch.sw0a01&region=cn)
 
 ![linju.switch.sw0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5ec0a9bda530f19b05369f6406029b49_1668679567798.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+GTFWjVVnXkJBm0Wl5WgwNqxuM0=)
 

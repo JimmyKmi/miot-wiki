@@ -9,7 +9,7 @@ description : ''
 ---
 # 质零智能水暖床垫
 
-其他品牌 | 2021/9/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wanrui.blanket.psn2a/) | [说明书](https://home.mi.com/views/introduction.html?model=wanrui.blanket.psn2a&region=cn)
+其他品牌 | 2021/9/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wanrui.blanket.psn2a) | [说明书](https://home.mi.com/views/introduction.html?model=wanrui.blanket.psn2a&region=cn)
 
 ![wanrui.blanket.psn2a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048028382qJtph4S3.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=m9y2LpI4hiOeHccHZWdQEKjk2Hg=)
 

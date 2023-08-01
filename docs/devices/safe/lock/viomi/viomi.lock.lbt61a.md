@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能门锁Super 2E（蓝牙版）
 
-云米 Viomi | 2023/2/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.lbt61a/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.lbt61a&region=cn)
+云米 Viomi | 2023/2/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.lbt61a) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.lbt61a&region=cn)
 
 ![viomi.lock.lbt61a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0971a3475f92e0fb086a61993cc48931_1667475812392.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+76vVPj+Hu720H28CGGSYeTnbbA=)
 

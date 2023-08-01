@@ -9,7 +9,7 @@ description : ''
 ---
 # FIVE智能烘鞋暖被干衣机
 
-FIVE | 2021/9/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uvfive.dryer.panda/) | [说明书](https://home.mi.com/views/introduction.html?model=uvfive.dryer.panda&region=cn)
+FIVE | 2021/9/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uvfive.dryer.panda) | [说明书](https://home.mi.com/views/introduction.html?model=uvfive.dryer.panda&region=cn)
 
 ![uvfive.dryer.panda](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047839011d560PCoo.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZOa2bZHrs1QHRjhfhgnfDb5J1go=)
 

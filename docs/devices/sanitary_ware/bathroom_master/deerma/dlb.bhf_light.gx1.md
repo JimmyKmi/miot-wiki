@@ -9,7 +9,7 @@ description : ''
 ---
 # 德莱宝线型浴霸 极线GX1
 
-德莱宝 | 2022/7/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dlb.bhf_light.gx1/) | [说明书](https://home.mi.com/views/introduction.html?model=dlb.bhf_light.gx1&region=cn)
+德莱宝 | 2022/7/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dlb.bhf_light.gx1) | [说明书](https://home.mi.com/views/introduction.html?model=dlb.bhf_light.gx1&region=cn)
 
 ![dlb.bhf_light.gx1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a7585f6df7a343e287658120e0725c1f_1640671042289.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sCcgmjHbY6v9LPZ/wup6HrJYDxE=)
 

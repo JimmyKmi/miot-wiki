@@ -9,7 +9,7 @@ description : ''
 ---
 # Jya 峡湾 Atom 除甲醛空气净化器
 
-智米 | 2021/9/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airp.ja1/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airp.ja1&region=cn)
+智米 | 2021/9/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airp.ja1) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airp.ja1&region=cn)
 
 ![zhimi.airp.ja1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047955990uDrDRqrW.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8iAen+KClLQ8dWBabBm7dtUpisY=)
 

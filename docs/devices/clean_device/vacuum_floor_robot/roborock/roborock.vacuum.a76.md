@@ -9,7 +9,7 @@ description : ''
 ---
 # 石头自清洁扫拖机器人G10S Auto
 
-石头 Roborock | 2022/9/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.a76/) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.a76&region=cn)
+石头 Roborock | 2022/9/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.a76) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.a76&region=cn)
 
 ![roborock.vacuum.a76](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ff701ac33391eeabd6744286360ee199_1661502815050.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+r+RyPgCHjBvcz+a0lX/vF+dEJA=)
 

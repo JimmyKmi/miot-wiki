@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT超薄盖吸油烟机X1 风幕款（白色）
 
-知吾煮 Chunmi | 2022/11/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.hood.tkx102/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.hood.tkx102&region=cn)
+知吾煮 Chunmi | 2022/11/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.hood.tkx102) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.hood.tkx102&region=cn)
 
 ![chunmi.hood.tkx102](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d5b3a21fb15810e09d893faf3d426063_1667456665056.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=L5voohJxPXrvqSLzwGiqWIX89XY=)
 

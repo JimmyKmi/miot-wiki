@@ -9,7 +9,7 @@ description : ''
 ---
 # Nanoleaf 智能星座灯
 
-Nanoleaf | 2022/12/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nnleaf.light.nl59/) | [说明书](https://home.mi.com/views/introduction.html?model=nnleaf.light.nl59&region=cn)
+Nanoleaf | 2022/12/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nnleaf.light.nl59) | [说明书](https://home.mi.com/views/introduction.html?model=nnleaf.light.nl59&region=cn)
 
 ![nnleaf.light.nl59](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6a905986094fa34adf1cc0018f1f0305_1645408325575.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TbrdOAPNkc0D6RpSOKUXIL1W6aw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # SmartJoy智臻窗帘电机（蓝牙Mesh版）
 
-智臻 SmartJoy | 2022/9/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.curtain.sjscmm/) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.curtain.sjscmm&region=cn)
+智臻 SmartJoy | 2022/9/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.curtain.sjscmm) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.curtain.sjscmm&region=cn)
 
 ![smartj.curtain.sjscmm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7a2a7f6ec86d8d0f4618de2ec370497e_1639203041862.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aWEDTFGOTvJZIG4NduhUZreBg+k=)
 

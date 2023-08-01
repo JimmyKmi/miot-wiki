@@ -9,7 +9,7 @@ description : ''
 ---
 # Space X 1.5P(新版)
 
-云米 Viomi | 2022/9/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.sd02/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.sd02&region=cn)
+云米 Viomi | 2022/9/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.sd02) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.sd02&region=cn)
 
 ![viomi.aircondition.sd02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6599f83d814852de3cd36e32aa493281_1660047482251.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DW20qF5nPGNhIW6H75cJiNF9EVY=)
 

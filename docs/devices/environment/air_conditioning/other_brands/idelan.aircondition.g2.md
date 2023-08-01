@@ -9,7 +9,7 @@ description : ''
 ---
 # 金兴智能空调
 
-其他品牌 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=idelan.aircondition.g2/) | [说明书](https://home.mi.com/views/introduction.html?model=idelan.aircondition.g2&region=cn)
+其他品牌 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=idelan.aircondition.g2) | [说明书](https://home.mi.com/views/introduction.html?model=idelan.aircondition.g2&region=cn)
 
 ![idelan.aircondition.g2](https://cdn.cnbj0.fds.api.mi-img.com/miio.files/commonfile_png_8d3a82489a8e498437efbe08a5a9c193.png)
 

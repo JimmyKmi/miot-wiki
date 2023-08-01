@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI冰箱21Face2(十字四门506L)智目版
 
-云米 Viomi | 2021/10/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x38/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x38&region=cn)
+云米 Viomi | 2021/10/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x38) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x38&region=cn)
 
 ![viomi.fridge.x38](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/627f4b1693582e77dec1e8577cd40fe2_1627453072956.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VLeiQxYy/T/K1/+lLD69QWRVg4M=)
 

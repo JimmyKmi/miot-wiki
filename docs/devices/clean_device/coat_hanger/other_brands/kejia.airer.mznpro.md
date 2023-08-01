@@ -9,7 +9,7 @@ description : ''
 ---
 # 米智能·电动晾衣机PRO
 
-其他品牌 | 2021/1/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kejia.airer.mznpro/) | [说明书](https://home.mi.com/views/introduction.html?model=kejia.airer.mznpro&region=cn)
+其他品牌 | 2021/1/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kejia.airer.mznpro) | [说明书](https://home.mi.com/views/introduction.html?model=kejia.airer.mznpro&region=cn)
 
 ![kejia.airer.mznpro](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/df0a730a5b898203aea54560a246715c_产品拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NQPxv5AvcUfmE9dh4u7miPWSiGM=)
 

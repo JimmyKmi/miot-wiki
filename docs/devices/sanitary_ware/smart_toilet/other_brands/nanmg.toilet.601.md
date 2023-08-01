@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能马桶一体机601
 
-其他品牌 | 2023/7/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nanmg.toilet.601/) | [说明书](https://home.mi.com/views/introduction.html?model=nanmg.toilet.601&region=cn)
+其他品牌 | 2023/7/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nanmg.toilet.601) | [说明书](https://home.mi.com/views/introduction.html?model=nanmg.toilet.601&region=cn)
 
 ![nanmg.toilet.601](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/66478da0d601097d4dc227c8d6b7c48c_1684146004414.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=iFSEJFj+i+cAMhh/PCCDO1nmLoA=)
 

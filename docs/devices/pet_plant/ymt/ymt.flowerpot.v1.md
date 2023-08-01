@@ -9,7 +9,7 @@ description : ''
 ---
 # 一米田智能种植伴侣
 
-一米田 | 2020/9/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ymt.flowerpot.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=ymt.flowerpot.v1&region=cn)
+一米田 | 2020/9/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ymt.flowerpot.v1) | [说明书](https://home.mi.com/views/introduction.html?model=ymt.flowerpot.v1&region=cn)
 
 ![ymt.flowerpot.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047725010v95VokoA.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3SYzgZYx9Dn3mE5MuS0POfYpW2w=)
 

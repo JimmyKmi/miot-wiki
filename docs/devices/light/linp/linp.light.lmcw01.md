@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普智能磁吸灯
 
-领普 | 2022/6/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.light.lmcw01/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.light.lmcw01&region=cn)
+领普 | 2022/6/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.light.lmcw01) | [说明书](https://home.mi.com/views/introduction.html?model=linp.light.lmcw01&region=cn)
 
 ![linp.light.lmcw01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/737aadb3c4e088650db96705f5d92222_1650450469970.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gtETLN6pGHndyuksjqFHKP0a968=)
 

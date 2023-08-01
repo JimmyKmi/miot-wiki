@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能除湿机 50L
 
-小米/米家 | 2023/2/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.derh.50l/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.derh.50l&region=cn)
+小米/米家 | 2023/2/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.derh.50l) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.derh.50l&region=cn)
 
 ![dmaker.derh.50l](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f524571b5080dcd552d6ce39be3d507a_1664446354957.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rixoPAiVZVkiCV2zGvdY0y+2L+8=)
 

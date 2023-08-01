@@ -9,7 +9,7 @@ description : ''
 ---
 # 小沐智能马桶盖
 
-小沐 | 2018/3/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tinymu.toiletlid.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=tinymu.toiletlid.v1&region=cn)
+小沐 | 2018/3/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tinymu.toiletlid.v1) | [说明书](https://home.mi.com/views/introduction.html?model=tinymu.toiletlid.v1&region=cn)
 
 ![tinymu.toiletlid.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069107964eG0VQZzw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=emRbGAn2bjKRUXtAImGe4KHIyec=)
 

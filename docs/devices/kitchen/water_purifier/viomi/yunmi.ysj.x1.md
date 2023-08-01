@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米泉先AI 1秒即热净饮机X2 mini Mango 智联版
 
-云米 Viomi | 2022/3/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.ysj.x1/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.ysj.x1&region=cn)
+云米 Viomi | 2022/3/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.ysj.x1) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.ysj.x1&region=cn)
 
 ![yunmi.ysj.x1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4b0c009c221a6d32c4838b24891c1d1f_1642670605083.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2RASb5+nPnT0MxEIlLT8sIYaxJ0=)
 

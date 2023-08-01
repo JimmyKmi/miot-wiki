@@ -9,7 +9,7 @@ description : ''
 ---
 # 三位单火Mesh开关
 
-Topwit | 2021/7/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.switch.rzw03/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.switch.rzw03&region=cn)
+Topwit | 2021/7/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.switch.rzw03) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.switch.rzw03&region=cn)
 
 ![topwit.switch.rzw03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047905570L1rEfgkw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=H29ztMGC1dG7rGjjgx24RDZLJN4=)
 

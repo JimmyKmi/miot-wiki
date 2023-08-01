@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家户外电源1000
 
-小米/米家 | 2022/11/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.enstor.cndy02/) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.enstor.cndy02&region=cn)
+小米/米家 | 2022/11/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.enstor.cndy02) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.enstor.cndy02&region=cn)
 
 ![zimi.enstor.cndy02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2f4c0aadb70bf429b119626511ca6554_1661936871449.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=km6BAV5aSHIO4S5ZltLeyBxCIsU=)
 

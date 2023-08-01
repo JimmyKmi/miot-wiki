@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏宁宜品智能循环风扇
 
-其他品牌 | 2023/5/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pxiang.fan.2310/) | [说明书](https://home.mi.com/views/introduction.html?model=pxiang.fan.2310&region=cn)
+其他品牌 | 2023/5/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pxiang.fan.2310) | [说明书](https://home.mi.com/views/introduction.html?model=pxiang.fan.2310&region=cn)
 
 ![pxiang.fan.2310](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0982ec051acca8270acafa6cd692de30_1680482973644.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=f0ZbIBf8ONzvnBuLeb2o0owHv6Q=)
 

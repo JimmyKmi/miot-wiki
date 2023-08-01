@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能摄像机2 云台版
 
-小米/米家 | 2023/6/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.039c01/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.039c01&region=cn)
+小米/米家 | 2023/6/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.039c01) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.039c01&region=cn)
 
 ![chuangmi.camera.039c01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fcd84313cb5be314b08f893402185f56_1679316563380.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+m2KS3/nM8LN2YgFCTLLxdULpbM=)
 

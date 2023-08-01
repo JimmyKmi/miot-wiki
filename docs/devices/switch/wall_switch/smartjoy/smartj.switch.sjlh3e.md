@@ -9,7 +9,7 @@ description : ''
 ---
 # SmartJoy智享墙壁开关（零火三键WiFi版）
 
-智臻 SmartJoy | 2020/9/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.switch.sjlh3e/) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.switch.sjlh3e&region=cn)
+智臻 SmartJoy | 2020/9/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.switch.sjlh3e) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.switch.sjlh3e&region=cn)
 
 ![smartj.switch.sjlh3e](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048833816FTxATi45.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bDO8cdVGx0ATofCXkq9O80o3QuY=)
 

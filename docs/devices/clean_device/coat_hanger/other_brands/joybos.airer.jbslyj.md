@@ -9,7 +9,7 @@ description : ''
 ---
 # 佳帮手智能电动晾衣架
 
-其他品牌 | 2023/4/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=joybos.airer.jbslyj/) | [说明书](https://home.mi.com/views/introduction.html?model=joybos.airer.jbslyj&region=cn)
+其他品牌 | 2023/4/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=joybos.airer.jbslyj) | [说明书](https://home.mi.com/views/introduction.html?model=joybos.airer.jbslyj&region=cn)
 
 ![joybos.airer.jbslyj](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/57229bff6afee80ccbd89e509d85cc6c_1663145686012.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6DHe/oGMXGti0jfX2BivNO11JIc=)
 

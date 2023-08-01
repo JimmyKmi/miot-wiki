@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏宁宜品冷风无叶扇( 杀菌加湿版 )
 
-苏宁宜品 | 2023/3/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nbsxh.fan.alw5dw/) | [说明书](https://home.mi.com/views/introduction.html?model=nbsxh.fan.alw5dw&region=cn)
+苏宁宜品 | 2023/3/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nbsxh.fan.alw5dw) | [说明书](https://home.mi.com/views/introduction.html?model=nbsxh.fan.alw5dw&region=cn)
 
 ![nbsxh.fan.alw5dw](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5d106920e7337aa5742319ea550d1d08_1676258480396.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oqhgZ2GF9iaRqWFVBtG3nAoZ1ow=)
 

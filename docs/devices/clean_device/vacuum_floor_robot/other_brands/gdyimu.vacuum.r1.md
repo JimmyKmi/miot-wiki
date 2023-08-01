@@ -9,7 +9,7 @@ description : ''
 ---
 # Lydsto扫拖一体机R1A
 
-其他品牌 | 2021/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gdyimu.vacuum.r1/) | [说明书](https://home.mi.com/views/introduction.html?model=gdyimu.vacuum.r1&region=cn)
+其他品牌 | 2021/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gdyimu.vacuum.r1) | [说明书](https://home.mi.com/views/introduction.html?model=gdyimu.vacuum.r1&region=cn)
 
 ![gdyimu.vacuum.r1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8848d588c1f935e199f1b85b108d8056_微信图片_20210108110816.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5qi7bgncibvGDtTUmbl/8F3EQPA=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 峥果多段温控器
 
-峥果 | 2023/7/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.etool.sc03/) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.etool.sc03&region=cn)
+峥果 | 2023/7/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.etool.sc03) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.etool.sc03&region=cn)
 
 ![zinguo.etool.sc03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/db50a6b92d322b32bc6cd7d245fe63fc_1684810154652.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xTUX5+J00eLqT/9QWtot/q4WJGY=)
 

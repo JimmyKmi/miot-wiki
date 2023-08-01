@@ -9,7 +9,7 @@ description : ''
 ---
 # 玉百纳智能颈椎按摩仪
 
-其他品牌 | 2021/4/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.x5b/) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.x5b&region=cn)
+其他品牌 | 2021/4/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.x5b) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.x5b&region=cn)
 
 ![jieman.magic_touch.x5b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bbafd31d755244a4971f73b39b28c5ba_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YPmVZF9AzycUi9oHzvuTlLy6b34=)
 

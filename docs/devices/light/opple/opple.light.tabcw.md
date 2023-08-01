@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧普智能台灯 Mode C
 
-欧普 OPPLE | 2020/8/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.tabcw/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.tabcw&region=cn)
+欧普 OPPLE | 2020/8/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.tabcw) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.tabcw&region=cn)
 
 ![opple.light.tabcw](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071858910kXW7ERrn.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1Gszl83mKtHeA4u5CUH5GiTu2cw=)
 

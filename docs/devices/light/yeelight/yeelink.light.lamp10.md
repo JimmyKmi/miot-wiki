@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 星辰落地灯
 
-易来 Yeelight | 2019/9/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp10/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp10&region=cn)
+易来 Yeelight | 2019/9/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp10) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp10&region=cn)
 
 ![yeelink.light.lamp10](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790476134415PZYVdwg.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RgGeH8a22UxZZTwW9FzsB8Zqy78=)
 

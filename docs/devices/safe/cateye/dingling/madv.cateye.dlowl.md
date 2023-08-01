@@ -9,7 +9,7 @@ description : ''
 ---
 # 叮零智能视频门铃
 
-叮零 | 2022/7/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.dlowl/) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.dlowl&region=cn)
+叮零 | 2022/7/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.dlowl) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.dlowl&region=cn)
 
 ![madv.cateye.dlowl](https://static.home.mi.com/app/image/get/file/developer_15341266381yv7ncx7.png)
 

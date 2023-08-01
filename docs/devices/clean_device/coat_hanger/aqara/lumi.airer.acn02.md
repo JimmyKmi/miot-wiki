@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara智能晾衣机 Lite
 
-绿米 Aqara | 2020/6/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.airer.acn02/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.airer.acn02&region=cn)
+绿米 Aqara | 2020/6/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.airer.acn02) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.airer.acn02&region=cn)
 
 ![lumi.airer.acn02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871067606e6gu8VP9.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RI+h0cKJcG8p9rTJTNoOpnayXX0=)
 

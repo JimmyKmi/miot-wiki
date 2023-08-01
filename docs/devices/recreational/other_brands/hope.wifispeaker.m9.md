@@ -9,7 +9,7 @@ description : ''
 ---
 # 向往M9
 
-其他品牌 | 2021/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hope.wifispeaker.m9/) | [说明书](https://home.mi.com/views/introduction.html?model=hope.wifispeaker.m9&region=cn)
+其他品牌 | 2021/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hope.wifispeaker.m9) | [说明书](https://home.mi.com/views/introduction.html?model=hope.wifispeaker.m9&region=cn)
 
 ![hope.wifispeaker.m9](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/48ece73bf8932d5718e5f331727cddd2_m9_168产品拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6HtptIPOqAVSqgpU7a+hUkHwdSk=)
 

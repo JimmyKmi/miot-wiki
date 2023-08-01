@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居面板
 
-未来居 Bymiot | 2023/6/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.remote.wl/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.remote.wl&region=cn)
+未来居 Bymiot | 2023/6/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.remote.wl) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.remote.wl&region=cn)
 
 ![bymiot.remote.wl](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b44baa4a028ed3c032700fe00d5d8b91_1684754446915.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cajxZRgOzmdt3u02x4eug3Yth1A=)
 

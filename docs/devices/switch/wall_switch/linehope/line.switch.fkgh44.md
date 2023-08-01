@@ -9,7 +9,7 @@ description : ''
 ---
 # 方舟鱼智能墙壁开关H4（零火四键版）
 
-方舟鱼 LineHope | 2023/4/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.switch.fkgh44/) | [说明书](https://home.mi.com/views/introduction.html?model=line.switch.fkgh44&region=cn)
+方舟鱼 LineHope | 2023/4/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.switch.fkgh44) | [说明书](https://home.mi.com/views/introduction.html?model=line.switch.fkgh44&region=cn)
 
 ![line.switch.fkgh44](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fa9e4379e614e0a34c2f67892e35b332_1676614633022.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=U394vffge32wXd06BmQhbaRMFW4=)
 

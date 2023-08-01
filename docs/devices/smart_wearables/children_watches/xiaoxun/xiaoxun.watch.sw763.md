@@ -9,7 +9,7 @@ description : ''
 ---
 # 米兔儿童学习手表4X
 
-米兔小寻 | 2020/8/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw763/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw763&region=cn)
+米兔小寻 | 2020/8/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoxun.watch.sw763) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoxun.watch.sw763&region=cn)
 
 ![xiaoxun.watch.sw763](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1592357077916ARjScA1z.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TEb9HkoPJ7c4g4JvSxhBYRtrrTc=)
 

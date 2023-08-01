@@ -9,7 +9,7 @@ description : ''
 ---
 # 荣事达智能衣物护理机
 
-Royalstar | 2022/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pgkj.dry.300pzr/) | [说明书](https://home.mi.com/views/introduction.html?model=pgkj.dry.300pzr&region=cn)
+Royalstar | 2022/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pgkj.dry.300pzr) | [说明书](https://home.mi.com/views/introduction.html?model=pgkj.dry.300pzr&region=cn)
 
 ![pgkj.dry.300pzr](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/694492e1c6e017da63908083357ccc68_1647833435775.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZP4Z/NpwUL/4XA4nm61vhcBo2b8=)
 

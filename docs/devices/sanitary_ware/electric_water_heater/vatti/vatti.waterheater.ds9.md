@@ -9,7 +9,7 @@ description : ''
 ---
 # 华帝电热水器DS9
 
-华帝 | 2023/6/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=vatti.waterheater.ds9/) | [说明书](https://home.mi.com/views/introduction.html?model=vatti.waterheater.ds9&region=cn)
+华帝 | 2023/6/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=vatti.waterheater.ds9) | [说明书](https://home.mi.com/views/introduction.html?model=vatti.waterheater.ds9&region=cn)
 
 ![vatti.waterheater.ds9](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/517e4bbcb55986b0a53e1236acf652a2_1684808248565.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Il+S2ub8nMwHa32rg/w3kPoUC9A=)
 

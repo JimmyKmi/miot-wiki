@@ -9,7 +9,7 @@ description : ''
 ---
 # 风扇灯
 
-星虹 | 2022/11/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xingh.light.fsd1/) | [说明书](https://home.mi.com/views/introduction.html?model=xingh.light.fsd1&region=cn)
+星虹 | 2022/11/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xingh.light.fsd1) | [说明书](https://home.mi.com/views/introduction.html?model=xingh.light.fsd1&region=cn)
 
 ![xingh.light.fsd1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b5a8564e69e259aa819d3b6a46a844b1_1669256464039.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=p9tTOqTrMdzok+8HiWGEjomewKo=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara光照传感器T1
 
-绿米 Aqara | 2020/4/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sen_ill.agl01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sen_ill.agl01&region=cn)
+绿米 Aqara | 2020/4/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.sen_ill.agl01) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.sen_ill.agl01&region=cn)
 
 ![lumi.sen_ill.agl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870989139aIDw1xA0.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cca2Q7E+OnbnsyYuRbVE+SiB5fY=)
 

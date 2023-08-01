@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家冰箱 十字对开门603L 冰晶岩
 
-小米/米家 | 2023/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd.fridge.603/) | [说明书](https://home.mi.com/views/introduction.html?model=midjd.fridge.603&region=cn)
+小米/米家 | 2023/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd.fridge.603) | [说明书](https://home.mi.com/views/introduction.html?model=midjd.fridge.603&region=cn)
 
 ![midjd.fridge.603](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0f0d5d515995e1447e96778a2500403c_1678438041573.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=npjhWMzTHWVwPH7vCGLb1W1cNa0=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 青萍空气检测仪
 
-青萍 | 2018/11/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cgllc.airmonitor.s1/) | [说明书](https://home.mi.com/views/introduction.html?model=cgllc.airmonitor.s1&region=cn)
+青萍 | 2018/11/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cgllc.airmonitor.s1) | [说明书](https://home.mi.com/views/introduction.html?model=cgllc.airmonitor.s1&region=cn)
 
 ![cgllc.airmonitor.s1](https://static.home.mi.com/app/image/get/file/developer_1538106585zgtaf5xo.png)
 

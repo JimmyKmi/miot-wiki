@@ -9,7 +9,7 @@ description : ''
 ---
 # 小爱音箱Play
 
-小米/米家 | 2021/9/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.l05b/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.l05b&region=cn)
+小米/米家 | 2021/9/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.l05b) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.l05b&region=cn)
 
 ![xiaomi.wifispeaker.l05b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047686756Ag6e366u.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3AikhN3tyEeH/kEyMsJ5R920KQM=)
 

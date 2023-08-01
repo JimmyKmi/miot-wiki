@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米电视
 
-小米/米家 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.b1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.b1&region=cn)
+小米/米家 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.b1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.b1&region=cn)
 
 ![xiaomi.tv.b1](https://static.home.mi.com/app/image/get/file/developer_1548125721dbx2yfo4.png)
 

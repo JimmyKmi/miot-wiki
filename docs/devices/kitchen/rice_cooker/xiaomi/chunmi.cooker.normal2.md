@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家IH电饭煲
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.normal2/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.normal2&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.normal2) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.normal2&region=cn)
 
 ![chunmi.cooker.normal2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047511962cd5UjYAv.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3T1JoHE8BAANv69fa2vwijDdcK0=)
 

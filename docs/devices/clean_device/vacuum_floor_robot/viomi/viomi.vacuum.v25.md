@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网扫拖机器人X3
 
-云米 Viomi | 2021/5/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v25/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v25&region=cn)
+云米 Viomi | 2021/5/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v25) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v25&region=cn)
 
 ![viomi.vacuum.v25](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7e41606db5aeff397349703fcf068aeb_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xLWrGBrFx9ghtZCGRLT6Ao2ws2s=)
 

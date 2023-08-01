@@ -9,7 +9,7 @@ description : ''
 ---
 # 美仕杰集成灶
 
-美高 | 2022/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.i_stove.g7/) | [说明书](https://home.mi.com/views/introduction.html?model=msj.i_stove.g7&region=cn)
+美高 | 2022/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=msj.i_stove.g7) | [说明书](https://home.mi.com/views/introduction.html?model=msj.i_stove.g7&region=cn)
 
 ![msj.i_stove.g7](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8ffe46937a3a4bc8eb695a8806c1f829_1636182522502.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aE4B6CpHSF53UqiLSuWDoRGVAJg=)
 

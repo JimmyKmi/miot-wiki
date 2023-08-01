@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普人体存在传感器
 
-领普 | 2022/10/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.sensor_occupy.hb01/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.sensor_occupy.hb01&region=cn)
+领普 | 2022/10/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.sensor_occupy.hb01) | [说明书](https://home.mi.com/views/introduction.html?model=linp.sensor_occupy.hb01&region=cn)
 
 ![linp.sensor_occupy.hb01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1675824015651FzRwfQIz.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2vCbiXqImaUE9geJBsbbaar1w+Y=)
 

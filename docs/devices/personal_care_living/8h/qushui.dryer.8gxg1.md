@@ -9,7 +9,7 @@ description : ''
 ---
 # 8H Free智能护理除菌除臭鞋柜
 
-8H | 2021/4/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.dryer.8gxg1/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.dryer.8gxg1&region=cn)
+8H | 2021/4/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.dryer.8gxg1) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.dryer.8gxg1&region=cn)
 
 ![qushui.dryer.8gxg1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e18cb347c9ae3ca025bc82dca09053e5_产品拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=IhELlTGNvcKSpP245+cB6PeJWUc=)
 

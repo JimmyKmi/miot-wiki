@@ -9,7 +9,7 @@ description : ''
 ---
 # 指静脉识别私密箱
 
-多亲 | 2019/11/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=duoqin.safe.pbfv01/) | [说明书](https://home.mi.com/views/introduction.html?model=duoqin.safe.pbfv01&region=cn)
+多亲 | 2019/11/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=duoqin.safe.pbfv01) | [说明书](https://home.mi.com/views/introduction.html?model=duoqin.safe.pbfv01&region=cn)
 
 ![duoqin.safe.pbfv01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047615237kzXeZb4f.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Si433R1bioAsPcwGGzqGDU9GWCs=)
 

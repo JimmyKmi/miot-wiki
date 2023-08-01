@@ -9,7 +9,7 @@ description : ''
 ---
 # King 1S(AI柔风版)
 
-云米 Viomi | 2019/11/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v8/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v8&region=cn)
+云米 Viomi | 2019/11/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v8) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v8&region=cn)
 
 ![viomi.aircondition.v8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047612447gz32VLLM.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nahlxliPxY1Yx9DRqjUGMR/0Jo8=)
 

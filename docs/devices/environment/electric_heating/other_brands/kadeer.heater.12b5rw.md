@@ -9,7 +9,7 @@ description : ''
 ---
 # 至凡室内加热器（电热油汀）
 
-其他品牌 | 2020/11/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.heater.12b5rw/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.heater.12b5rw&region=cn)
+其他品牌 | 2020/11/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.heater.12b5rw) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.heater.12b5rw&region=cn)
 
 ![kadeer.heater.12b5rw](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047807848AvGjPrsy.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=q81UMGrJ6XblYtfn68+rffIXa7M=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家扫拖机器人2C
 
-小米/米家 | 2021/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.p2140/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.p2140&region=cn)
+小米/米家 | 2021/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.p2140) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.p2140&region=cn)
 
 ![dreame.vacuum.p2140](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/adeb75b97ed4e02353e05bb9538b8e13_2C换图-24.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Adkb3fuzn6WXFjj+81LoKr/xyao=)
 

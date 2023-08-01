@@ -9,7 +9,7 @@ description : ''
 ---
 # M6 真揉捏颈椎按摩仪
 
-其他品牌 | 2022/9/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pgg.magic_touch.m4/) | [说明书](https://home.mi.com/views/introduction.html?model=pgg.magic_touch.m4&region=cn)
+其他品牌 | 2022/9/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pgg.magic_touch.m4) | [说明书](https://home.mi.com/views/introduction.html?model=pgg.magic_touch.m4&region=cn)
 
 ![pgg.magic_touch.m4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/39677adb6a1b88d983b3af345af5a00f_1645585878097.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PbJS97gGlb7JhFc1stET/AviyaI=)
 

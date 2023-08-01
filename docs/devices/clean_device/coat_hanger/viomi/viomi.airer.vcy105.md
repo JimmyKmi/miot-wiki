@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能晾衣机Super
 
-云米 Viomi | 2022/8/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.vcy105/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.vcy105&region=cn)
+云米 Viomi | 2022/8/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.vcy105) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.vcy105&region=cn)
 
 ![viomi.airer.vcy105](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/661afffa3ef4ebd2908409bbf182b762_1656554767601.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uHsIBDmxfkfJ6K44To5FEZxgrD0=)
 

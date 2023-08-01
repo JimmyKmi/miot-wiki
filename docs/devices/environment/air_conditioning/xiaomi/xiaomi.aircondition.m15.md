@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米柔风空调（1.5匹 新一级能效）
 
-小米/米家 | 2023/2/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m15/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m15&region=cn)
+小米/米家 | 2023/2/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m15) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m15&region=cn)
 
 ![xiaomi.aircondition.m15](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7da4c45899e8e97da70c709180169623_1660707625625.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=z+S+xOPNcdtucQTn80V/T5krXYM=)
 

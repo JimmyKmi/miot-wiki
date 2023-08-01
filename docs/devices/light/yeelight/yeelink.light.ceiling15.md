@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 皎月 LED吸顶灯480（升级版）
 
-易来 Yeelight | 2019/9/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling15/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling15&region=cn)
+易来 Yeelight | 2019/9/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling15) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling15&region=cn)
 
 ![yeelink.light.ceiling15](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070104424ntp2xrfR.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=eU5I21b+gcEg/hl3+VRHOcCd64g=)
 

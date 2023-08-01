@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米即热净水器Q600
 
-小米/米家 | 2021/8/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.waterpuri.600j6/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.waterpuri.600j6&region=cn)
+小米/米家 | 2021/8/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.waterpuri.600j6) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.waterpuri.600j6&region=cn)
 
 ![chunmi.waterpuri.600j6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047901647hz7BXVM7.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zEzAw95y+cCY5FIt/JiSGmuNSJs=)
 

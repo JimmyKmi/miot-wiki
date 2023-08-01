@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦智奕吸顶灯 流年版 卧室28W
 
-飞利浦 | 2019/8/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.lnblight2/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.lnblight2&region=cn)
+飞利浦 | 2019/8/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.lnblight2) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.lnblight2&region=cn)
 
 ![philips.light.lnblight2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790476149697pwnPDXV.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yxoqaPHS9Af/l9oI8yTUYQQCfxM=)
 

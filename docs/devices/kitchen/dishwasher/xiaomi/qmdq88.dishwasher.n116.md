@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能独嵌两用洗碗机16套N1
 
-小米/米家 | 2023/4/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qmdq88.dishwasher.n116/) | [说明书](https://home.mi.com/views/introduction.html?model=qmdq88.dishwasher.n116&region=cn)
+小米/米家 | 2023/4/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qmdq88.dishwasher.n116) | [说明书](https://home.mi.com/views/introduction.html?model=qmdq88.dishwasher.n116&region=cn)
 
 ![qmdq88.dishwasher.n116](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/35cbdcedc50086039bd18e7c8905e33c_1665639567861.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Wiu1S9r7i2UMkM3XXh/5PFa5zYc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara无线开关 E1 (贴墙式单键版)
 
-绿米 Aqara | 2021/8/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.remote.acn003/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.remote.acn003&region=cn)
+绿米 Aqara | 2021/8/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.remote.acn003) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.remote.acn003&region=cn)
 
 ![lumi.remote.acn003](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/64de0437ae61e78bf4e2324b8ba4cb8e_a5b77920c41e27a0a7751fea6a87bb9e_E1-2.2.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QhT+4ZDQt2scUkz+FyxSAcK2cBs=)
 

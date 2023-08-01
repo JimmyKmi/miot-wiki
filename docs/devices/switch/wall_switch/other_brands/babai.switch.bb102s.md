@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能二键WiFi开关
 
-其他品牌 | 2020/1/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.bb102s/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.bb102s&region=cn)
+其他品牌 | 2020/1/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.bb102s) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.bb102s&region=cn)
 
 ![babai.switch.bb102s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1577330807856Qb8qwpI0.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=piZCMNjNp/B15CtaPyKv7GmGg4Y=)
 

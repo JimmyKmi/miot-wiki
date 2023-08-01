@@ -9,7 +9,7 @@ description : ''
 ---
 # 海享说智能生态缸
 
-海享说 | 2022/10/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hsg.fishbowl.hxs01/) | [说明书](https://home.mi.com/views/introduction.html?model=hsg.fishbowl.hxs01&region=cn)
+海享说 | 2022/10/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hsg.fishbowl.hxs01) | [说明书](https://home.mi.com/views/introduction.html?model=hsg.fishbowl.hxs01&region=cn)
 
 ![hsg.fishbowl.hxs01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/444225940f12a23ecedc6f5980f83274_1665212719437.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/4KtTidcljL1oYL9LvuvC/nib4w=)
 

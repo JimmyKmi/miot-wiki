@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能电饭煲 3L
 
-小米/米家 | 2021/7/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.wy3/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.wy3&region=cn)
+小米/米家 | 2021/7/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.wy3) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.wy3&region=cn)
 
 ![chunmi.cooker.wy3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fe689b420c29ab207c4b66abae222aed_realism_K7C_normal.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=v9q1FC1JZFyQIH1bv1Y1vD2fs1c=)
 

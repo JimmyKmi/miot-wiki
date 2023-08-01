@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米智能开关（零火四键）
 
-苏米 | 2023/6/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.switch.sw4b01/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.switch.sw4b01&region=cn)
+苏米 | 2023/6/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.switch.sw4b01) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.switch.sw4b01&region=cn)
 
 ![xhuan.switch.sw4b01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0cdc2af6232bfb304816d47b40c06987_1675837871788.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YBih+9qfneG75X9NHaBPF9LJBX4=)
 

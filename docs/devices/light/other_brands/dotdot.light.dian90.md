@@ -9,7 +9,7 @@ description : ''
 ---
 # 点点Diandian皓光90w
 
-其他品牌 | 2020/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dotdot.light.dian90/) | [说明书](https://home.mi.com/views/introduction.html?model=dotdot.light.dian90&region=cn)
+其他品牌 | 2020/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dotdot.light.dian90) | [说明书](https://home.mi.com/views/introduction.html?model=dotdot.light.dian90&region=cn)
 
 ![dotdot.light.dian90](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047690450awJFxhMs.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=s/Hfe9HIRCltT3e/9HDu0czAPvU=)
 

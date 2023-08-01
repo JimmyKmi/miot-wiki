@@ -9,7 +9,7 @@ description : ''
 ---
 # 誉璇智能吸顶灯
 
-其他品牌 | 2021/5/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yuxuan.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=yuxuan.light.wy0a01&region=cn)
+其他品牌 | 2021/5/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yuxuan.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=yuxuan.light.wy0a01&region=cn)
 
 ![yuxuan.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047902156W9fLIJv9.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BfVGJJGAW1eRMjNrCcIng8uQYbg=)
 

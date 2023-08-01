@@ -9,7 +9,7 @@ description : ''
 ---
 # Super 2 (柜式柔风版) 3P
 
-云米 Viomi | 2022/10/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.sd11/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.sd11&region=cn)
+云米 Viomi | 2022/10/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.sd11) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.sd11&region=cn)
 
 ![viomi.aircondition.sd11](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/68eb720e921ae5ba66f4fe8e62afedb1_1657964950290.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Fukvg62+HTYxWiBYAJ+GdZzQW4s=)
 

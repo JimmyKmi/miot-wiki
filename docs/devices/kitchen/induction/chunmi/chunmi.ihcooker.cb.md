@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT超薄智能电磁炉-AI智享版
 
-知吾煮 Chunmi | 2022/3/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.cb/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.cb&region=cn)
+知吾煮 Chunmi | 2022/3/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.cb) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.cb&region=cn)
 
 ![chunmi.ihcooker.cb](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071858383AyDpbFER.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=65HpxvsYggZXBieX7PBSymlZIuY=)
 

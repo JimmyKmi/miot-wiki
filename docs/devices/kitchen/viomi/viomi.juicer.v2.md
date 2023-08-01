@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米破壁料理机（静音版）
 
-云米 Viomi | 2018/10/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.juicer.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.juicer.v2&region=cn)
+云米 Viomi | 2018/10/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.juicer.v2) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.juicer.v2&region=cn)
 
 ![viomi.juicer.v2](https://static.home.mi.com/app/image/get/file/developer_1534761442ykiht9se.png)
 

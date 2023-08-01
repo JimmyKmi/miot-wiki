@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网洗衣机Master（10KG）
 
-云米 Viomi | 2020/10/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.v24/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.v24&region=cn)
+云米 Viomi | 2020/10/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.v24) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.v24&region=cn)
 
 ![viomi.washer.v24](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048481430LHy2Z03N.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=m2i8n79bOP0Fj+ZhUy6HO7fUPTk=)
 

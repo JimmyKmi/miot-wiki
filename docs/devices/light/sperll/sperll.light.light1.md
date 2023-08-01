@@ -9,7 +9,7 @@ description : ''
 ---
 # BanlanX幻彩灯
 
-SPERLL | 2023/2/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sperll.light.light1/) | [说明书](https://home.mi.com/views/introduction.html?model=sperll.light.light1&region=cn)
+SPERLL | 2023/2/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sperll.light.light1) | [说明书](https://home.mi.com/views/introduction.html?model=sperll.light.light1&region=cn)
 
 ![sperll.light.light1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/561ea0b6ee4a5d98cc42acd12723aede_1667806918409.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zEqTS5p9UXR1zFQExPtAeJeNXEg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米泉先AI净水器 Super Y
 
-云米 Viomi | 2022/4/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s30/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s30&region=cn)
+云米 Viomi | 2022/4/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s30) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s30&region=cn)
 
 ![yunmi.waterpuri.s30](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8b9aa6958d411f3de4ebfff9676b2e12_1649322397533.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UCURHK+xtXJbf7XCZBr/6NbqDDc=)
 

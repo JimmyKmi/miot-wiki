@@ -9,7 +9,7 @@ description : ''
 ---
 # 哥曼尼情景双色吸顶灯
 
-其他品牌 | 2019/12/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gmn.light.wy0w01/) | [说明书](https://home.mi.com/views/introduction.html?model=gmn.light.wy0w01&region=cn)
+其他品牌 | 2019/12/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gmn.light.wy0w01) | [说明书](https://home.mi.com/views/introduction.html?model=gmn.light.wy0w01&region=cn)
 
 ![gmn.light.wy0w01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047687003flrRYYFP.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FfCC2pd5/tWG7qEoHWDaVRnxPKE=)
 

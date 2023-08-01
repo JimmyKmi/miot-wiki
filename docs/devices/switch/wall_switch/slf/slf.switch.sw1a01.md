@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐单键零火灯控开关（Y8）
 
-智拉斐 | 2022/1/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.switch.sw1a01/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.switch.sw1a01&region=cn)
+智拉斐 | 2022/1/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.switch.sw1a01) | [说明书](https://home.mi.com/views/introduction.html?model=slf.switch.sw1a01&region=cn)
 
 ![slf.switch.sw1a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a1e47a4f6f5a114eacebb269e1115fa6_1637909944208.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DaDHloka9FwBY3LGoRiK/WLyOqM=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # GAX智能U型按摩器
 
-其他品牌 | 2022/10/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.u1/) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.u1&region=cn)
+其他品牌 | 2022/10/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jieman.magic_touch.u1) | [说明书](https://home.mi.com/views/introduction.html?model=jieman.magic_touch.u1&region=cn)
 
 ![jieman.magic_touch.u1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1ede8882f57b627829fe3aabab4166be_1664163524857.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vteJBHYTp/dkZCZk8LxbLy8ymx8=)
 

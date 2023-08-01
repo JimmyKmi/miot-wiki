@@ -9,7 +9,7 @@ description : ''
 ---
 # 小爱触屏音箱Pro 8
 
-小米/米家 | 2019/12/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.x08a/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.x08a&region=cn)
+小米/米家 | 2019/12/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.x08a) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.x08a&region=cn)
 
 ![xiaomi.wifispeaker.x08a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047654244g7qBWAFa.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6sTchQjVq7CjS0B4/JokRrYotd8=)
 

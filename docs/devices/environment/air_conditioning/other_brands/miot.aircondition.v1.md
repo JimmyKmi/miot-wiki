@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能空调
 
-其他品牌 | 2022/4/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miot.aircondition.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=miot.aircondition.v1&region=cn)
+其他品牌 | 2022/4/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miot.aircondition.v1) | [说明书](https://home.mi.com/views/introduction.html?model=miot.aircondition.v1&region=cn)
 
 ![miot.aircondition.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16788709543857lN1lwRE.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=IvA5vHIM93KRM75S3tDPmhRiTbI=)
 

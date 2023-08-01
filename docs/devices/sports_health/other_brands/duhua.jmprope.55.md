@@ -9,7 +9,7 @@ description : ''
 ---
 # 度华体能管理智能跳绳
 
-其他品牌 | 2023/3/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=duhua.jmprope.55/) | [说明书](https://home.mi.com/views/introduction.html?model=duhua.jmprope.55&region=cn)
+其他品牌 | 2023/3/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=duhua.jmprope.55) | [说明书](https://home.mi.com/views/introduction.html?model=duhua.jmprope.55&region=cn)
 
 ![duhua.jmprope.55](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2d93b2763ecf2f39a3e519470903a2cd_1678504607375.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6HN/pIuhE9DZiAknXowVs/g6sXo=)
 

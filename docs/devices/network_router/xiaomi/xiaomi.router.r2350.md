@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米AIoT路由器AC2350
 
-小米/米家 | 2020/7/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.r2350/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.r2350&region=cn)
+小米/米家 | 2020/7/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.r2350) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.r2350&region=cn)
 
 ![xiaomi.router.r2350](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1588905621680MBL6YqzF.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qBxV1C3+wx9+t0kqaPiZ3jKCSww=)
 

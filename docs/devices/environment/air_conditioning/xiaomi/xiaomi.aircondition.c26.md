@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家空调 自然风 立式 2 匹（新一级能效）
 
-小米/米家 | 2022/4/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c26/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c26&region=cn)
+小米/米家 | 2022/4/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c26) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c26&region=cn)
 
 ![xiaomi.aircondition.c26](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0db52e16391c655d88a590f1cd5b5772_1646622126038.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Sed/LrR/gsErMQnXc7wbpdJi31Y=)
 

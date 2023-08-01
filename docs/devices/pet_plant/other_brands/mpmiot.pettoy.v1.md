@@ -9,7 +9,7 @@ description : ''
 ---
 # 毛绒派智能宠物陪伴球
 
-其他品牌 | 2021/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mpmiot.pettoy.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=mpmiot.pettoy.v1&region=cn)
+其他品牌 | 2021/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mpmiot.pettoy.v1) | [说明书](https://home.mi.com/views/introduction.html?model=mpmiot.pettoy.v1&region=cn)
 
 ![mpmiot.pettoy.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6aeb2563996e3b2a029765c11bac2b3b_1634640315987.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wdjXsWJlZA027tf9bbv7uo+aY7g=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能充电台灯
 
-小米/米家 | 2021/9/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp21/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp21&region=cn)
+小米/米家 | 2021/9/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp21) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp21&region=cn)
 
 ![yeelink.light.lamp21](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8bae7e6ac6b3b9d80f322bc972017040_拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=D25ZKZHFdFulZmHHyROFhhx4aBM=)
 

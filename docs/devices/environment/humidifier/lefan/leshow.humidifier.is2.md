@@ -9,7 +9,7 @@ description : ''
 ---
 # 乐秀纯净型加湿器 IS2
 
-乐秀 | 2019/11/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.humidifier.is2/) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.humidifier.is2&region=cn)
+乐秀 | 2019/11/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.humidifier.is2) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.humidifier.is2&region=cn)
 
 ![leshow.humidifier.is2](https://static.home.mi.com/app/image/get/file/developer_1566528611op8gnzab.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家互联网空调C1（1.5匹/定频/三级能效）
 
-小米/米家 | 2019/8/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.ma6/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.ma6&region=cn)
+小米/米家 | 2019/8/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.ma6) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.ma6&region=cn)
 
 ![xiaomi.aircondition.ma6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047614855eAytGfhj.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8l4nQBgYM1X1PKEC4LCGuCV7ZMQ=)
 

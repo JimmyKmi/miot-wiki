@@ -9,7 +9,7 @@ description : ''
 ---
 # 手机红外遥控器
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.phone_ir.t1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.phone_ir.t1&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.phone_ir.t1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.phone_ir.t1&region=cn)
 
 ![xiaomi.phone_ir.t1](https://cdn.cnbj0.fds.api.mi-img.com/miio_user_head/6znbxo07_1441868894.png)
 

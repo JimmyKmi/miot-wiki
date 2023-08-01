@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara墙壁开关（零火线单键版）
 
-绿米 Aqara | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.ctrl_ln1.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.ctrl_ln1.v1&region=cn)
+绿米 Aqara | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.ctrl_ln1.v1) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.ctrl_ln1.v1&region=cn)
 
 ![lumi.ctrl_ln1.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047512810yw1DBtCv.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=c567zLOY6om+6Jo9Iejh75stlL8=)
 

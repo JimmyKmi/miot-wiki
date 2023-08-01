@@ -9,7 +9,7 @@ description : ''
 ---
 # 左点小艾2Max
 
-左点 Zdeer | 2019/12/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zdeer.ajh.zda10/) | [说明书](https://home.mi.com/views/introduction.html?model=zdeer.ajh.zda10&region=cn)
+左点 Zdeer | 2019/12/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zdeer.ajh.zda10) | [说明书](https://home.mi.com/views/introduction.html?model=zdeer.ajh.zda10&region=cn)
 
 ![zdeer.ajh.zda10](https://static.home.mi.com/app/image/get/file/developer_1574150908i83rhw1m.png)
 

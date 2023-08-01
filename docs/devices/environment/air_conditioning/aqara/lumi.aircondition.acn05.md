@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara空调伴侣 P3
 
-绿米 Aqara | 2020/12/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.aircondition.acn05/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.aircondition.acn05&region=cn)
+绿米 Aqara | 2020/12/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.aircondition.acn05) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.aircondition.acn05&region=cn)
 
 ![lumi.aircondition.acn05](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1583814272010KuBKHIvQ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dxs2ceitwpkzC0OeUrBFtrFyObk=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # FOWAD 空调温控器2
 
-FOWAD | 2023/6/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fawad.aircondition.3010/) | [说明书](https://home.mi.com/views/introduction.html?model=fawad.aircondition.3010&region=cn)
+FOWAD | 2023/6/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fawad.aircondition.3010) | [说明书](https://home.mi.com/views/introduction.html?model=fawad.aircondition.3010&region=cn)
 
 ![fawad.aircondition.3010](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/15415534a5bed5745c759ea3f81508e8_1681697872134.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=kwTjhSpC6lJpMDz42m9PEMG1JwQ=)
 

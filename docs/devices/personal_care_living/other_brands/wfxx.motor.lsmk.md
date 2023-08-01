@@ -9,7 +9,7 @@ description : ''
 ---
 # 麒石门控
 
-其他品牌 | 2023/3/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wfxx.motor.lsmk/) | [说明书](https://home.mi.com/views/introduction.html?model=wfxx.motor.lsmk&region=cn)
+其他品牌 | 2023/3/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wfxx.motor.lsmk) | [说明书](https://home.mi.com/views/introduction.html?model=wfxx.motor.lsmk&region=cn)
 
 ![wfxx.motor.lsmk](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/deebbb5cb0ab8cf68d1ebd3ac52c71c7_1677806403181.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yE0Ymzs8PePL5FTw8rpapgate2I=)
 

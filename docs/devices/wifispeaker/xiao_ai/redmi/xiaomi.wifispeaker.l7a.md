@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi小爱音箱 Play
 
-红米 | 2019/12/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.l7a/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.l7a&region=cn)
+红米 | 2019/12/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.l7a) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.l7a&region=cn)
 
 ![xiaomi.wifispeaker.l7a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870891969qtq9bzeM.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=76aBEQ18pM2ej4L6OUS7jc/UKdw=)
 

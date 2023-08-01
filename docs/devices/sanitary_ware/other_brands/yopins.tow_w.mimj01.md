@@ -9,7 +9,7 @@ description : ''
 ---
 # YOPINS智能毛巾机
 
-其他品牌 | 2022/2/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yopins.tow_w.mimj01/) | [说明书](https://home.mi.com/views/introduction.html?model=yopins.tow_w.mimj01&region=cn)
+其他品牌 | 2022/2/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yopins.tow_w.mimj01) | [说明书](https://home.mi.com/views/introduction.html?model=yopins.tow_w.mimj01&region=cn)
 
 ![yopins.tow_w.mimj01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7d472579abe6c0aa181216af3a6137eb_1640847337300.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=itQsc3NjzwOjgMnAlD/LoybFba8=)
 

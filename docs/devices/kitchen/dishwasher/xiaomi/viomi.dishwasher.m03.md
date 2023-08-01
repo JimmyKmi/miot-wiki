@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能独嵌两用洗碗机15套S1
 
-小米/米家 | 2022/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.dishwasher.m03/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.dishwasher.m03&region=cn)
+小米/米家 | 2022/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.dishwasher.m03) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.dishwasher.m03&region=cn)
 
 ![viomi.dishwasher.m03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ec70ed39fc9d34c1a4543e97cf7cd05a_1645666367250.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8sJ0ICO46FALQZKG3btipR68E58=)
 

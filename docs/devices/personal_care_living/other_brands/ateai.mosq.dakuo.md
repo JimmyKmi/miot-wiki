@@ -9,7 +9,7 @@ description : ''
 ---
 # 达阔智能电蚊香
 
-其他品牌 | 2020/4/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ateai.mosq.dakuo/) | [说明书](https://home.mi.com/views/introduction.html?model=ateai.mosq.dakuo&region=cn)
+其他品牌 | 2020/4/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ateai.mosq.dakuo) | [说明书](https://home.mi.com/views/introduction.html?model=ateai.mosq.dakuo&region=cn)
 
 ![ateai.mosq.dakuo](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1592880130318aO7csYwj.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9RD95g/Z5ua585JoJHZTL+e245g=)
 

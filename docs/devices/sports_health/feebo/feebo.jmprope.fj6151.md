@@ -9,7 +9,7 @@ description : ''
 ---
 # FEEBO智能计数跳绳
 
-菲柏 | 2022/9/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=feebo.jmprope.fj6151/) | [说明书](https://home.mi.com/views/introduction.html?model=feebo.jmprope.fj6151&region=cn)
+菲柏 | 2022/9/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=feebo.jmprope.fj6151) | [说明书](https://home.mi.com/views/introduction.html?model=feebo.jmprope.fj6151&region=cn)
 
 ![feebo.jmprope.fj6151](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cf5b7068902647343851cebef86fb2ae_1656485548797.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0aN9tyzt+kkyQgWqgiVdD496kiI=)
 

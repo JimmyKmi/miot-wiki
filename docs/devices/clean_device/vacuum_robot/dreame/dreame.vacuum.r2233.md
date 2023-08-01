@@ -9,7 +9,7 @@ description : ''
 ---
 # 追觅S10 Pro
 
-追觅 | 2022/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2233/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2233&region=cn)
+追觅 | 2022/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2233) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2233&region=cn)
 
 ![dreame.vacuum.r2233](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cf90b9a91857b6bac22486c0c9cc885b_1652174180938.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=q7cyZCxmzdLqeOF7IIYPduWdqrM=)
 

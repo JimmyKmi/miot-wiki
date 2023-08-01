@@ -9,7 +9,7 @@ description : ''
 ---
 # 宜家麦希瑟E27 1055lm智能球泡灯
 
-宜家 Ikea | 2023/7/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=devcea.light.ls2303/) | [说明书](https://home.mi.com/views/introduction.html?model=devcea.light.ls2303&region=cn)
+宜家 Ikea | 2023/7/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=devcea.light.ls2303) | [说明书](https://home.mi.com/views/introduction.html?model=devcea.light.ls2303&region=cn)
 
 ![devcea.light.ls2303](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9bad447c98955f4f5e90fd986df8a609_1683541525027.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=iXl8U8IxepTrv/7H/E5CJhh6+MU=)
 

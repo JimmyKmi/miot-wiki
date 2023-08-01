@@ -9,7 +9,7 @@ description : ''
 ---
 # 至凡FT-TS45HRLDC直流塔扇
 
-其他品牌 | 2021/5/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.ts45hr/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.ts45hr&region=cn)
+其他品牌 | 2021/5/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.ts45hr) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.ts45hr&region=cn)
 
 ![kadeer.fan.ts45hr](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071060225MTby5IBF.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9zL1EMTJ0LS3h62j02I9jk33oC0=)
 

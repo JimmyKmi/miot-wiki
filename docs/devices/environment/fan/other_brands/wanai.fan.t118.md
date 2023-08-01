@@ -9,7 +9,7 @@ description : ''
 ---
 # 德姆勒电风扇（单冷塔扇）
 
-其他品牌 | 2020/5/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wanai.fan.t118/) | [说明书](https://home.mi.com/views/introduction.html?model=wanai.fan.t118&region=cn)
+其他品牌 | 2020/5/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wanai.fan.t118) | [说明书](https://home.mi.com/views/introduction.html?model=wanai.fan.t118&region=cn)
 
 ![wanai.fan.t118](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047724838QRKoKcQY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VSbZkkxcrUkNlrf19tHmLNBoBbo=)
 

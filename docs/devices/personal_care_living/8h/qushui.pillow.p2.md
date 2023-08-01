@@ -9,7 +9,7 @@ description : ''
 ---
 # 8H智能助眠天然乳胶枕X
 
-8H | 2021/11/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.pillow.p2/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.pillow.p2&region=cn)
+8H | 2021/11/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.pillow.p2) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.pillow.p2&region=cn)
 
 ![qushui.pillow.p2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790687374310GFfHcYp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jNXcznN5tph+GVtG9/fWtIkpl4s=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能温控器
 
-峥果 | 2022/7/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.etool.sc01/) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.etool.sc01&region=cn)
+峥果 | 2022/7/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.etool.sc01) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.etool.sc01&region=cn)
 
 ![zinguo.etool.sc01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c1e3191d191e8127e40fdd60ed46f0e3_1653916240299.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gltR5XPoAEVgCXuTAJ8zGl+hI14=)
 

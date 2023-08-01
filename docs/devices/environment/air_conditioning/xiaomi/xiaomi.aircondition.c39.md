@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米巨省电立式空调（2匹|变频|新三级能效）
 
-小米/米家 | 2023/4/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c39/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c39&region=cn)
+小米/米家 | 2023/4/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c39) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c39&region=cn)
 
 ![xiaomi.aircondition.c39](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c46e9a5fe524c2fd94bdc3e01abd19fe_1677422456446.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=G7RqRnS/Q0AodEQm1mgE9ZPKyQ8=)
 

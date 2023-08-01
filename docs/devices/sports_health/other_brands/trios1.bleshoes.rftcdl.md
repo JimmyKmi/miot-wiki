@@ -9,7 +9,7 @@ description : ''
 ---
 # 赤燚温控鞋左
 
-其他品牌 | 2021/12/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=trios1.bleshoes.rftcdl/) | [说明书](https://home.mi.com/views/introduction.html?model=trios1.bleshoes.rftcdl&region=cn)
+其他品牌 | 2021/12/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=trios1.bleshoes.rftcdl) | [说明书](https://home.mi.com/views/introduction.html?model=trios1.bleshoes.rftcdl&region=cn)
 
 ![trios1.bleshoes.rftcdl](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6dde70a5c5abdd11a3b97a43be74c34d_1637320126380.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=a+vbpPcSjQz0NSa4ywjVAlxJu/c=)
 

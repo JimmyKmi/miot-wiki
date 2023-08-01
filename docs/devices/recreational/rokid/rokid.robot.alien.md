@@ -9,7 +9,7 @@ description : ''
 ---
 # Rokid 机器人
 
-若琪 Rokid | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rokid.robot.alien/) | [说明书](https://home.mi.com/views/introduction.html?model=rokid.robot.alien&region=cn)
+若琪 Rokid | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rokid.robot.alien) | [说明书](https://home.mi.com/views/introduction.html?model=rokid.robot.alien&region=cn)
 
 ![rokid.robot.alien](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870888782KE4kD8oK.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5Ub58P/9q3eqyXVX1OdbXB+1O0s=)
 

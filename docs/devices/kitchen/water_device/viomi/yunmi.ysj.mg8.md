@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米泉先AI冷热管线机 Super 2E
 
-云米 Viomi | 2023/5/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.ysj.mg8/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.ysj.mg8&region=cn)
+云米 Viomi | 2023/5/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.ysj.mg8) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.ysj.mg8&region=cn)
 
 ![yunmi.ysj.mg8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3786e69fbadecf4da6a8cb224700ab8d_1681980192180.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gsTEu9hC5CUi3ZJY3IAofFcrg5M=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # LS智能窗帘
 
-其他品牌 | 2021/8/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lonsam.curtain.lscl/) | [说明书](https://home.mi.com/views/introduction.html?model=lonsam.curtain.lscl&region=cn)
+其他品牌 | 2021/8/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lonsam.curtain.lscl) | [说明书](https://home.mi.com/views/introduction.html?model=lonsam.curtain.lscl&region=cn)
 
 ![lonsam.curtain.lscl](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047955986TyJxxet0.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=x5ZgoG0Nsimmuqfp4CWWj707b78=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能墙壁插座WiFi版
 
-峥果 | 2021/6/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.plug.c2m/) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.plug.c2m&region=cn)
+峥果 | 2021/6/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.plug.c2m) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.plug.c2m&region=cn)
 
 ![zinguo.plug.c2m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048995410Jdj4xgcg.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rRkHSKzWcG5SSAP0/D7J+zX2LuI=)
 

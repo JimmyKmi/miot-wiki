@@ -9,7 +9,7 @@ description : ''
 ---
 # 箭牌浴霸
 
-其他品牌 | 2023/3/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.bhf_light.jpbm/) | [说明书](https://home.mi.com/views/introduction.html?model=giot.bhf_light.jpbm&region=cn)
+其他品牌 | 2023/3/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.bhf_light.jpbm) | [说明书](https://home.mi.com/views/introduction.html?model=giot.bhf_light.jpbm&region=cn)
 
 ![giot.bhf_light.jpbm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5ffdcf0599d75d506dae79f1c8e08079_1668407030946.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=IxaU8aA909PtXghP5afyflSzHVw=)
 

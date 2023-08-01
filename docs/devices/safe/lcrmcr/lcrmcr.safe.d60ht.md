@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡唛百宝智能保险柜
 
-卡唛 | 2021/6/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.d60ht/) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.d60ht&region=cn)
+卡唛 | 2021/6/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.d60ht) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.d60ht&region=cn)
 
 ![lcrmcr.safe.d60ht](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070336991SF3kMA9r.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oW46qXLMyAFtR61cYIEjbv2321Y=)
 

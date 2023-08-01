@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米头戴影院
 
-小米/米家 | 2019/5/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linqi.projector.td01lq/) | [说明书](https://home.mi.com/views/introduction.html?model=linqi.projector.td01lq&region=cn)
+小米/米家 | 2019/5/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linqi.projector.td01lq) | [说明书](https://home.mi.com/views/introduction.html?model=linqi.projector.td01lq&region=cn)
 
 ![linqi.projector.td01lq](https://static.home.mi.com/app/image/get/file/developer_1551238826ew3y59yj.png)
 

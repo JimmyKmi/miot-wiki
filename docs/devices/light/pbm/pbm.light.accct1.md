@@ -9,7 +9,7 @@ description : ''
 ---
 # 柏曼智能双色灯
 
-柏曼 | 2022/10/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pbm.light.accct1/) | [说明书](https://home.mi.com/views/introduction.html?model=pbm.light.accct1&region=cn)
+柏曼 | 2022/10/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pbm.light.accct1) | [说明书](https://home.mi.com/views/introduction.html?model=pbm.light.accct1&region=cn)
 
 ![pbm.light.accct1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b6fe601c001704bf56b49d5257d2cf52_1663214447621.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZPxpZFKkKUr9qiuYZrEDINK62KQ=)
 

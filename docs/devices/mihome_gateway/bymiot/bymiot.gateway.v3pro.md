@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居有线智能网关3.0增强版
 
-未来居 Bymiot | 2021/12/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.gateway.v3pro/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.gateway.v3pro&region=cn)
+未来居 Bymiot | 2021/12/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.gateway.v3pro) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.gateway.v3pro&region=cn)
 
 ![bymiot.gateway.v3pro](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048030244ZumD9RvC.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rie/9HxbyUFUWsw9oD17iT0PwlA=)
 

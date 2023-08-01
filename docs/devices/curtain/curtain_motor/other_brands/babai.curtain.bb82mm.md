@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能窗帘（Mesh）
 
-其他品牌 | 2022/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.bb82mm/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.bb82mm&region=cn)
+其他品牌 | 2022/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.bb82mm) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.bb82mm&region=cn)
 
 ![babai.curtain.bb82mm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/41be5296e2b61347228d354f22527aba_1647936764108.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WcjFNe4oQbbdcJNwGRUay4YX0qw=)
 

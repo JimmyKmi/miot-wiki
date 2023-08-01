@@ -9,7 +9,7 @@ description : ''
 ---
 # 电小酷智能开关S6AM(单火线三键版)
 
-Gosund / 电小酷 | 2022/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.s6amtd/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.s6amtd&region=cn)
+Gosund / 电小酷 | 2022/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.s6amtd) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.s6amtd&region=cn)
 
 ![cuco.switch.s6amtd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b6e20e289cd63e049277645c5fd4ca8b_1625129842814.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0TYVlniQMZjLfkMXVQ+pMMSp7W8=)
 

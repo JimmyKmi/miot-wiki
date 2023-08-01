@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能晾衣机
 
-其他品牌 | 2020/12/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beihao.airer.lyj08/) | [说明书](https://home.mi.com/views/introduction.html?model=beihao.airer.lyj08&region=cn)
+其他品牌 | 2020/12/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=beihao.airer.lyj08) | [说明书](https://home.mi.com/views/introduction.html?model=beihao.airer.lyj08&region=cn)
 
 ![beihao.airer.lyj08](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047770023tgTN3LKm.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NnAj63ZW2h0lF1q48dcRwuHVS/k=)
 

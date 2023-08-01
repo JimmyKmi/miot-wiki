@@ -9,7 +9,7 @@ description : ''
 ---
 # xiaovv户外云台摄像机 2K
 
-xiaovv | 2021/1/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.p1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.p1&region=cn)
+xiaovv | 2021/1/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.p1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.p1&region=cn)
 
 ![xiaovv.camera.p1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/aa160b6567484adaa7c57bdb7be8a3d7_01拟物图标常态.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=o18iHRVvYSUUXByW7YdHsXjdBKg=)
 

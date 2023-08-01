@@ -9,7 +9,7 @@ description : ''
 ---
 # Super 2S (除菌版) 1P
 
-云米 Viomi | 2022/9/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.sd06/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.sd06&region=cn)
+云米 Viomi | 2022/9/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.sd06) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.sd06&region=cn)
 
 ![viomi.aircondition.sd06](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/df943c16749c8a7546eed2b59326c80c_1657956173833.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=lP0abcwiA3ue6kE+H36A7jZx7yM=)
 

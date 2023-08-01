@@ -9,7 +9,7 @@ description : ''
 ---
 # 熠世华彩射灯
 
-其他品牌 | 2021/3/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.light.sd330/) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.light.sd330&region=cn)
+其他品牌 | 2021/3/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.light.sd330) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.light.sd330&region=cn)
 
 ![daolai.light.sd330](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c4d310e3598fc488b413079e89f42047_拟物图_射灯.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RTwBgxry5pctxXTOrMSaiXAqD0I=)
 

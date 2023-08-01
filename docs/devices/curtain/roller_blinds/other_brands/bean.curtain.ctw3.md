@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能开合帘电机V2-WiFi版
 
-其他品牌 | 2023/7/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.curtain.ctw3/) | [说明书](https://home.mi.com/views/introduction.html?model=bean.curtain.ctw3&region=cn)
+其他品牌 | 2023/7/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.curtain.ctw3) | [说明书](https://home.mi.com/views/introduction.html?model=bean.curtain.ctw3&region=cn)
 
 ![bean.curtain.ctw3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/02b0fb41453dd7bb9be85c37bc855ea7_1687326386147.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wHKcnwspYft/b0YnWnOC+8lF/Tk=)
 

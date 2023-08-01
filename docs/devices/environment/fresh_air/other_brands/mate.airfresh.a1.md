@@ -9,7 +9,7 @@ description : ''
 ---
 # MATE新风机A1
 
-其他品牌 | 2023/3/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mate.airfresh.a1/) | [说明书](https://home.mi.com/views/introduction.html?model=mate.airfresh.a1&region=cn)
+其他品牌 | 2023/3/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mate.airfresh.a1) | [说明书](https://home.mi.com/views/introduction.html?model=mate.airfresh.a1&region=cn)
 
 ![mate.airfresh.a1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f3b1d21027212a3115d577bfe5a46826_1647827919228.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=lNKiSACmtPqqY49qtedA8VtmhNg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家电磁炉
 
-小米/米家 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.hk1/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.hk1&region=cn)
+小米/米家 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.hk1) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.hk1&region=cn)
 
 ![chunmi.ihcooker.hk1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069105619Wog4nBph.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bfThHzABXAfPo7r3AwxwtZdclII=)
 

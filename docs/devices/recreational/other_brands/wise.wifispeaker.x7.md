@@ -9,7 +9,7 @@ description : ''
 ---
 # WISE背景音乐情景面板
 
-其他品牌 | 2021/9/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wise.wifispeaker.x7/) | [说明书](https://home.mi.com/views/introduction.html?model=wise.wifispeaker.x7&region=cn)
+其他品牌 | 2021/9/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wise.wifispeaker.x7) | [说明书](https://home.mi.com/views/introduction.html?model=wise.wifispeaker.x7&region=cn)
 
 ![wise.wifispeaker.x7](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1632895549971dHDu2xhQ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Oas3Su9Fodnsmvz+btGFprTeC/Q=)
 

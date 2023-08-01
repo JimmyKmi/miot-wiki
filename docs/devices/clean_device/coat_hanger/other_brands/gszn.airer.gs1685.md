@@ -9,7 +9,7 @@ description : ''
 ---
 # 金贵夫人晾衣架
 
-其他品牌 | 2023/2/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gszn.airer.gs1685/) | [说明书](https://home.mi.com/views/introduction.html?model=gszn.airer.gs1685&region=cn)
+其他品牌 | 2023/2/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gszn.airer.gs1685) | [说明书](https://home.mi.com/views/introduction.html?model=gszn.airer.gs1685&region=cn)
 
 ![gszn.airer.gs1685](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4cbd0320727e874002e8eb93679a6a91_1673430056070.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HVjhyVOXz77Ivwxu5lQlbJ6NqEQ=)
 

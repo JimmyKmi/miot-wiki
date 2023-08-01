@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能锁芯
 
-绿米 Aqara | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.v1&region=cn)
+绿米 Aqara | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.v1) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.v1&region=cn)
 
 ![lumi.lock.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_167904754176306aFP06z.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UALKR4FjxM8AGr1PHbZGQCeWaKI=)
 

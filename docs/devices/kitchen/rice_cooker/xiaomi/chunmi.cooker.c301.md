@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能小饭煲2
 
-小米/米家 | 2023/7/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.c301/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.c301&region=cn)
+小米/米家 | 2023/7/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.c301) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.c301&region=cn)
 
 ![chunmi.cooker.c301](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2e9f9b64e58db57a68f344fd5c83fc04_1683213951217.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=EWNjseYBvWEKMH5pIqYuucx/tSI=)
 

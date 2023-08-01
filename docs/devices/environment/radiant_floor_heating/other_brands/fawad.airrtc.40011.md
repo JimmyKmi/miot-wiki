@@ -9,7 +9,7 @@ description : ''
 ---
 # FOWAD地暖温控器
 
-其他品牌 | 2021/2/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fawad.airrtc.40011/) | [说明书](https://home.mi.com/views/introduction.html?model=fawad.airrtc.40011&region=cn)
+其他品牌 | 2021/2/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fawad.airrtc.40011) | [说明书](https://home.mi.com/views/introduction.html?model=fawad.airrtc.40011&region=cn)
 
 ![fawad.airrtc.40011](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048938612QaCPycf9.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NtSrV/MJP6GIZghUmx7aPCXLtOM=)
 

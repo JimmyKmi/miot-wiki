@@ -9,7 +9,7 @@ description : ''
 ---
 # 全自动智能推拉锁 D100
 
-绿米 Aqara | 2020/11/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.bacn01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.bacn01&region=cn)
+绿米 Aqara | 2020/11/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.bacn01) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.bacn01&region=cn)
 
 ![lumi.lock.bacn01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047767663W7N2jmTS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WXgbrf1y7tGV+TgVHEmhO6Gl8fE=)
 

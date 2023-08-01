@@ -9,7 +9,7 @@ description : ''
 ---
 # 四季沐歌浴霸
 
-其他品牌 | 2023/4/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.bhf_light.sjbm/) | [说明书](https://home.mi.com/views/introduction.html?model=giot.bhf_light.sjbm&region=cn)
+其他品牌 | 2023/4/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.bhf_light.sjbm) | [说明书](https://home.mi.com/views/introduction.html?model=giot.bhf_light.sjbm&region=cn)
 
 ![giot.bhf_light.sjbm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/727b864d405a28e1c24bdba12dee84bf_1668155217961.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2f/AdZX+LvzC3cCJGPbIJtDeay8=)
 

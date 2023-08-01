@@ -9,7 +9,7 @@ description : ''
 ---
 # GM智能窗帘电机
 
-其他品牌 | 2021/10/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gerwin.curtain.gm35xm/) | [说明书](https://home.mi.com/views/introduction.html?model=gerwin.curtain.gm35xm&region=cn)
+其他品牌 | 2021/10/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gerwin.curtain.gm35xm) | [说明书](https://home.mi.com/views/introduction.html?model=gerwin.curtain.gm35xm&region=cn)
 
 ![gerwin.curtain.gm35xm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5650bf4d40332dbac823f6be55410ef9_1631859981432.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=o0t4RvrRkVS4NQO99HzHIZJJhZ8=)
 

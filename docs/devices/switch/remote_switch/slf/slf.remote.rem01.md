@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐单键零火场景开关（Y8）
 
-智拉斐 | 2022/4/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.remote.rem01/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.remote.rem01&region=cn)
+智拉斐 | 2022/4/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.remote.rem01) | [说明书](https://home.mi.com/views/introduction.html?model=slf.remote.rem01&region=cn)
 
 ![slf.remote.rem01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/49b40d5e669308c930755d38a1f81038_1642422807990.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Bv8CwvfBSSYaElsa8KIuplDyDsQ=)
 

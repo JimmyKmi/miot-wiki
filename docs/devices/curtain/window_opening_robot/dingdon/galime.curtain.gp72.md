@@ -9,7 +9,7 @@ description : ''
 ---
 # 叮咚智能平移式开窗器
 
-叮咚智能 | 2021/10/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=galime.curtain.gp72/) | [说明书](https://home.mi.com/views/introduction.html?model=galime.curtain.gp72&region=cn)
+叮咚智能 | 2021/10/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=galime.curtain.gp72) | [说明书](https://home.mi.com/views/introduction.html?model=galime.curtain.gp72&region=cn)
 
 ![galime.curtain.gp72](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790694207969fusiOKn.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3CCAnWcuOGAXDJuvN/2YUZieCWY=)
 

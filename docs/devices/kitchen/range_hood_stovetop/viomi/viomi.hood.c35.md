@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI油烟机 Super 2 Pro
 
-云米 Viomi | 2023/4/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.c35/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.c35&region=cn)
+云米 Viomi | 2023/4/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.c35) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.c35&region=cn)
 
 ![viomi.hood.c35](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/92096b9a6deb61abe1b2bb1782cbcbaa_1679903087338.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=iFsQdEY6+GHFjXt3NptKsxffF4s=)
 

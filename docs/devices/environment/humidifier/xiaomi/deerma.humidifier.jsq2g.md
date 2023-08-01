@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能除菌加湿器2
 
-小米/米家 | 2022/8/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=deerma.humidifier.jsq2g/) | [说明书](https://home.mi.com/views/introduction.html?model=deerma.humidifier.jsq2g&region=cn)
+小米/米家 | 2022/8/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=deerma.humidifier.jsq2g) | [说明书](https://home.mi.com/views/introduction.html?model=deerma.humidifier.jsq2g&region=cn)
 
 ![deerma.humidifier.jsq2g](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/96878d11393c70ef37167085af77d5e4_1637220539192.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KoRcS/gJs8IJ+nYi9ZlDYzORb0A=)
 

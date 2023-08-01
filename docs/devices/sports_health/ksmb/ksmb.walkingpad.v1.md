@@ -9,7 +9,7 @@ description : ''
 ---
 # WalkingPad走步机
 
-小金 | 2018/4/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ksmb.walkingpad.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=ksmb.walkingpad.v1&region=cn)
+小金 | 2018/4/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ksmb.walkingpad.v1) | [说明书](https://home.mi.com/views/introduction.html?model=ksmb.walkingpad.v1&region=cn)
 
 ![ksmb.walkingpad.v1](https://static.home.mi.com/app/image/get/file/developer_1522663080hs73r1g0.png)
 

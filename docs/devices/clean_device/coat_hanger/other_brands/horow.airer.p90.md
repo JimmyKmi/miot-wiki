@@ -9,7 +9,7 @@ description : ''
 ---
 # 希箭智能晾衣机
 
-其他品牌 | 2021/6/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.airer.p90/) | [说明书](https://home.mi.com/views/introduction.html?model=horow.airer.p90&region=cn)
+其他品牌 | 2021/6/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.airer.p90) | [说明书](https://home.mi.com/views/introduction.html?model=horow.airer.p90&region=cn)
 
 ![horow.airer.p90](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047958588GTRID3K7.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qyaIyYuFu3ptB37v2tjYwsGPQ/k=)
 

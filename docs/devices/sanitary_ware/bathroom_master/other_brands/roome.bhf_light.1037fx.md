@@ -9,7 +9,7 @@ description : ''
 ---
 # 箭牌智能浴霸 X2
 
-其他品牌 | 2020/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roome.bhf_light.1037fx/) | [说明书](https://home.mi.com/views/introduction.html?model=roome.bhf_light.1037fx&region=cn)
+其他品牌 | 2020/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roome.bhf_light.1037fx) | [说明书](https://home.mi.com/views/introduction.html?model=roome.bhf_light.1037fx&region=cn)
 
 ![roome.bhf_light.1037fx](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16788710681893G8HEMTi.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=npNKx5PrhKYL8WLvwXzkMciS2OQ=)
 

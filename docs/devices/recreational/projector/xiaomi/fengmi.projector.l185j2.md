@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米激光投影仪 1S
 
-小米/米家 | 2022/6/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l185j2/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l185j2&region=cn)
+小米/米家 | 2022/6/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l185j2) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l185j2&region=cn)
 
 ![fengmi.projector.l185j2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3070c549b64a236afbae828edb413d52_1627107960101.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uMmGeE5iRC+gK1phRFP4eiMnK4g=)
 

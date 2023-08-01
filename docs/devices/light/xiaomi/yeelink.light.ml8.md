@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能磁吸轨道系统 射灯
 
-小米/米家 | 2023/3/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ml8/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ml8&region=cn)
+小米/米家 | 2023/3/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ml8) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ml8&region=cn)
 
 ![yeelink.light.ml8](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2883638c34cdfb0cc480f914d7357a56_1663729354382.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XD38NiNQO+UOdzdQAXX+MMLnbZs=)
 

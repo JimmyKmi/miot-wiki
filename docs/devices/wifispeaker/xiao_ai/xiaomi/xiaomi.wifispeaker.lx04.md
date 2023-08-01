@@ -9,7 +9,7 @@ description : ''
 ---
 # 小爱触屏音箱
 
-小米/米家 | 2019/2/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.lx04/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.lx04&region=cn)
+小米/米家 | 2019/2/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.lx04) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.lx04&region=cn)
 
 ![xiaomi.wifispeaker.lx04](https://static.home.mi.com/app/image/get/file/developer_1549852817fk1fko6k.png)
 

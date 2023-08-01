@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能浴霸N4
 
-雷士 | 2023/3/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.bhf_light.lsyb04/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.bhf_light.lsyb04&region=cn)
+雷士 | 2023/3/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.bhf_light.lsyb04) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.bhf_light.lsyb04&region=cn)
 
 ![leishi.bhf_light.lsyb04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/371f7d0db3c94580bacb44a11512258c_1677656622643.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7EpgbgQtTsjx1mMmTae05hLj+B8=)
 

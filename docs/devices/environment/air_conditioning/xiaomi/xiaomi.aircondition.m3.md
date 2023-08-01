@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家空调 自然风 1.5匹 （新一级能效）
 
-小米/米家 | 2022/8/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m3/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m3&region=cn)
+小米/米家 | 2022/8/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m3) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m3&region=cn)
 
 ![xiaomi.aircondition.m3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b12d1c0173abb1f45663df47798758fc_1648733844181.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yw9Jnk5dg+H8GAMb3QTN3WGYO4A=)
 

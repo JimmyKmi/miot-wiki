@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白万能遥控器
 
-创米小白 | 2018/9/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.remote.h102a03/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.remote.h102a03&region=cn)
+创米小白 | 2018/9/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.remote.h102a03) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.remote.h102a03&region=cn)
 
 ![chuangmi.remote.h102a03](https://static.home.mi.com/app/image/get/file/developer_1537361203vdg9eofr.png)
 

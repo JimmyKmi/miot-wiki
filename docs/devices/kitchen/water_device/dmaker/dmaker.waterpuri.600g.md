@@ -9,7 +9,7 @@ description : ''
 ---
 # 嘀米RO净水机650G
 
-星月 | 2019/12/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.waterpuri.600g/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.waterpuri.600g&region=cn)
+星月 | 2019/12/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.waterpuri.600g) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.waterpuri.600g&region=cn)
 
 ![dmaker.waterpuri.600g](https://static.home.mi.com/app/image/get/file/developer_1571025809j4cy708z.png)
 

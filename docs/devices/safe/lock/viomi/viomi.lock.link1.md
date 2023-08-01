@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联智能门锁Link（蓝牙版）
 
-云米 Viomi | 2019/11/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.link1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.link1&region=cn)
+云米 Viomi | 2019/11/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.link1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.link1&region=cn)
 
 ![viomi.lock.link1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047614196qC9Ll507.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BPuA/1qiL7MISUYj/50HLnH2ZVI=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智慧门2
 
-创米小白 | 2022/9/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.door.518a01/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.door.518a01&region=cn)
+创米小白 | 2022/9/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.door.518a01) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.door.518a01&region=cn)
 
 ![chuangmi.door.518a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5775c30f534cb5ac1a6f74fd9e796f9a_1659431497747.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cHWyek0CMlQ9sxbY42VCGI4COOQ=)
 

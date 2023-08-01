@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦智奕台灯
 
-飞利浦 | 2018/5/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.zysread/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.zysread&region=cn)
+飞利浦 | 2018/5/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.zysread) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.zysread&region=cn)
 
 ![philips.light.zysread](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069106661wDdhlbxa.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=c9sWyDSbTg6CAstoS5GDt2ULtQg=)
 

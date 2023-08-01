@@ -9,7 +9,7 @@ description : ''
 ---
 # 四键开关-零火Mesh版
 
-其他品牌 | 2022/6/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.switch.bln04/) | [说明书](https://home.mi.com/views/introduction.html?model=bean.switch.bln04&region=cn)
+其他品牌 | 2022/6/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.switch.bln04) | [说明书](https://home.mi.com/views/introduction.html?model=bean.switch.bln04&region=cn)
 
 ![bean.switch.bln04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870954538OOHcYjmT.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=JlEcRRYo1EwClbLoVQqpC4YRopk=)
 

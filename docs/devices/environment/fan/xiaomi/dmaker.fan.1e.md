@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家直流变频落地扇E
 
-小米/米家 | 2021/6/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.1e/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.1e&region=cn)
+小米/米家 | 2021/6/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.fan.1e) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.fan.1e&region=cn)
 
 ![dmaker.fan.1e](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071455091b8h82BPH.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=iPJADTI4R+S8giq7XeHZY5gr/5Q=)
 

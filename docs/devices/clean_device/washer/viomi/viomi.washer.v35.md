@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网洗烘机Master 2PRO 蒸汽护理10kg
 
-云米 Viomi | 2021/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.v35/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.v35&region=cn)
+云米 Viomi | 2021/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.v35) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.v35&region=cn)
 
 ![viomi.washer.v35](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790478408149fkFLjDu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ggiKNFud9oqFWJZskMhsvBLWmhs=)
 

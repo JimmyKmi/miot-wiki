@@ -9,7 +9,7 @@ description : ''
 ---
 # 叮零智能视频门铃E3
 
-叮零 | 2020/11/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.dlowle/) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.dlowle&region=cn)
+叮零 | 2020/11/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.dlowle) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.dlowle&region=cn)
 
 ![madv.cateye.dlowle](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1595318655180rIg0Dm06.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DVDlBYzogJmMAifcQDvK1hDz6i0=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 席位智能按摩椅JY-740
 
-其他品牌 | 2022/6/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyyx.massage.s518/) | [说明书](https://home.mi.com/views/introduction.html?model=hyyx.massage.s518&region=cn)
+其他品牌 | 2022/6/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyyx.massage.s518) | [说明书](https://home.mi.com/views/introduction.html?model=hyyx.massage.s518&region=cn)
 
 ![hyyx.massage.s518](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9a1feb22382265ef6d00f8671e278636_1650333946999.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wSbIOCkNeP8nrlK88fcKr9OVZZ0=)
 

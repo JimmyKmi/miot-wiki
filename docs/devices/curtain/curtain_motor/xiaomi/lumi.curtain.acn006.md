@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能窗帘 锂电池版
 
-小米/米家 | 2021/10/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.acn006/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.acn006&region=cn)
+小米/米家 | 2021/10/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.acn006) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.acn006&region=cn)
 
 ![lumi.curtain.acn006](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/67b06860f72f91951aca4c4692d1bff4_米家智能窗帘锂电池.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KZEHiVki1ddEjclnLEN4CEy4jOU=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI燃气热水器VGW1623 16L
 
-云米 Viomi | 2021/8/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u52/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u52&region=cn)
+云米 Viomi | 2021/8/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u52) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u52&region=cn)
 
 ![viomi.waterheater.u52](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048027069cuqglGPS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=i9mBWpeLhpcD12qshE5lBS0rbcw=)
 

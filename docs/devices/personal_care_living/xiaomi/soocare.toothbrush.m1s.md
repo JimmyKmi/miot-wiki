@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家声波电动牙刷T500
 
-小米/米家 | 2019/8/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=soocare.toothbrush.m1s/) | [说明书](https://home.mi.com/views/introduction.html?model=soocare.toothbrush.m1s&region=cn)
+小米/米家 | 2019/8/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=soocare.toothbrush.m1s) | [说明书](https://home.mi.com/views/introduction.html?model=soocare.toothbrush.m1s&region=cn)
 
 ![soocare.toothbrush.m1s](https://static.home.mi.com/app/image/get/file/developer_1555650507d0vg0u4i.png)
 

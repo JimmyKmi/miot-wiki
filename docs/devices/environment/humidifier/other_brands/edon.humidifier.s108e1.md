@@ -9,7 +9,7 @@ description : ''
 ---
 # Edon爱登39°加湿器
 
-其他品牌 | 2021/1/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=edon.humidifier.s108e1/) | [说明书](https://home.mi.com/views/introduction.html?model=edon.humidifier.s108e1&region=cn)
+其他品牌 | 2021/1/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=edon.humidifier.s108e1) | [说明书](https://home.mi.com/views/introduction.html?model=edon.humidifier.s108e1&region=cn)
 
 ![edon.humidifier.s108e1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047809302rWlkp82p.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=g6dCLLhu7/6MaHlQ5QxI9r2cO6I=)
 

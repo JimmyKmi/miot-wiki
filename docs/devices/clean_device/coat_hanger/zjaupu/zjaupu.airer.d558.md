@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥普晾衣机D558
 
-宅鲸奥普 | 2022/7/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjaupu.airer.d558/) | [说明书](https://home.mi.com/views/introduction.html?model=zjaupu.airer.d558&region=cn)
+宅鲸奥普 | 2022/7/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjaupu.airer.d558) | [说明书](https://home.mi.com/views/introduction.html?model=zjaupu.airer.d558&region=cn)
 
 ![zjaupu.airer.d558](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/71923277e8e1579ee7e77db09ac3de18_1652947202600.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=j6FAROCQnOg8k64LSkUBuPxi3bk=)
 

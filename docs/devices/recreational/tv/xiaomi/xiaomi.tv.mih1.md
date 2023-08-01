@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米电视
 
-小米/米家 | 2023/3/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.mih1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.mih1&region=cn)
+小米/米家 | 2023/3/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.mih1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.mih1&region=cn)
 
 ![xiaomi.tv.mih1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9f347598320f23a0cd21d234e0e0d893_1661155157542.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WfLLMjVUJdO65BWi09X2ZDVhYFY=)
 

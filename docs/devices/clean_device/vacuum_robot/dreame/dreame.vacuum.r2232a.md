@@ -9,7 +9,7 @@ description : ''
 ---
 # 追觅W10s Pro
 
-追觅 | 2022/9/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2232a/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2232a&region=cn)
+追觅 | 2022/9/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2232a) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2232a&region=cn)
 
 ![dreame.vacuum.r2232a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fce0c0b651b593840d12b8e49f8c2ef1_1658289068267.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DVUvCAAt6w+4IHjGwJOHkWidOUQ=)
 

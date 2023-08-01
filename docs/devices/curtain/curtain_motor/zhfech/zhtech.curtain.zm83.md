@@ -9,7 +9,7 @@ description : ''
 ---
 # 智皇开合窗帘电机
 
-智皇科技 | 2022/4/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhtech.curtain.zm83/) | [说明书](https://home.mi.com/views/introduction.html?model=zhtech.curtain.zm83&region=cn)
+智皇科技 | 2022/4/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhtech.curtain.zm83) | [说明书](https://home.mi.com/views/introduction.html?model=zhtech.curtain.zm83&region=cn)
 
 ![zhtech.curtain.zm83](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/193a201a5b34841ef2024a5283652839_1645523937588.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KUQrRbmYxx/SQ2M1AF0URvgBfLI=)
 

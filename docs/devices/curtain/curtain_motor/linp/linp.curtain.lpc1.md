@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普窗帘电机
 
-领普 | 2020/11/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.curtain.lpc1/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.curtain.lpc1&region=cn)
+领普 | 2020/11/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.curtain.lpc1) | [说明书](https://home.mi.com/views/introduction.html?model=linp.curtain.lpc1&region=cn)
 
 ![linp.curtain.lpc1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790478091529LbbF1vK.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VTb8n/GCPXZmU8ZVoDC3/WZ5/mk=)
 

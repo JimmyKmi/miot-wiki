@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥科LM100智能窗帘电机
 
-其他品牌 | 2021/1/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aok98.curtain.aok100/) | [说明书](https://home.mi.com/views/introduction.html?model=aok98.curtain.aok100&region=cn)
+其他品牌 | 2021/1/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aok98.curtain.aok100) | [说明书](https://home.mi.com/views/introduction.html?model=aok98.curtain.aok100&region=cn)
 
 ![aok98.curtain.aok100](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047809560esRJSCbI.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AuTFyqWRTVVq7kG3V/SWsQ0SQqs=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米1秒即热管线机
 
-云米 Viomi | 2019/12/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.plmachine.mg2/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.plmachine.mg2&region=cn)
+云米 Viomi | 2019/12/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.plmachine.mg2) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.plmachine.mg2&region=cn)
 
 ![yunmi.plmachine.mg2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790691062548erridFu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6d3ZlGVL53hJI9+IJefFBZjeUVw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # SAYSO智能开关（二键）
 
-sayso | 2023/6/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sayso.switch.sw2a01/) | [说明书](https://home.mi.com/views/introduction.html?model=sayso.switch.sw2a01&region=cn)
+sayso | 2023/6/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sayso.switch.sw2a01) | [说明书](https://home.mi.com/views/introduction.html?model=sayso.switch.sw2a01&region=cn)
 
 ![sayso.switch.sw2a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f5ee4f00cf0c301ea4194fe90fe7bc51_1684201350701.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=pSSJ3P8Kify2ZVAm0+SGM4CLLU8=)
 

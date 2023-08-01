@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家走步机（扶手版）
 
-小米/米家 | 2022/9/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=runmi.walkingpad.walk01/) | [说明书](https://home.mi.com/views/introduction.html?model=runmi.walkingpad.walk01&region=cn)
+小米/米家 | 2022/9/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=runmi.walkingpad.walk01) | [说明书](https://home.mi.com/views/introduction.html?model=runmi.walkingpad.walk01&region=cn)
 
 ![runmi.walkingpad.walk01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7bad5cb1b5ed5af9482ce33090299deb_1644895576024.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=pURYsEfoq7yx7z4MYItSW+PPzSg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi路由器AX5 京东云无线宝
 
-红米 | 2021/1/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.ra50/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.ra50&region=cn)
+红米 | 2021/1/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.ra50) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.ra50&region=cn)
 
 ![xiaomi.router.ra50](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048938804DHUqZA01.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hFl4eutPnshUOLg1BxFRKcg5Qio=)
 

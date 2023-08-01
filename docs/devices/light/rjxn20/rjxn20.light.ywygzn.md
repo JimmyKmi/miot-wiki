@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹦鹉易管智能调光灯
 
-睿晶小智 | 2022/12/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.ywygzn/) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.ywygzn&region=cn)
+睿晶小智 | 2022/12/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.ywygzn) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.ywygzn&region=cn)
 
 ![rjxn20.light.ywygzn](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bcb7b84bb6322438faa195e7d1efe729_1667953214018.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=krZuw6twwPsrmrddCEhY1VXhD84=)
 

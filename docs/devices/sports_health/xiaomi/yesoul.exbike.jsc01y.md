@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家动感单车 自发电版
 
-小米/米家 | 2023/5/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yesoul.exbike.jsc01y/) | [说明书](https://home.mi.com/views/introduction.html?model=yesoul.exbike.jsc01y&region=cn)
+小米/米家 | 2023/5/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yesoul.exbike.jsc01y) | [说明书](https://home.mi.com/views/introduction.html?model=yesoul.exbike.jsc01y&region=cn)
 
 ![yesoul.exbike.jsc01y](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/567d45f6d8355e2cda5d0613117c5448_1680069023306.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dtulDarJfHGZW7rKdUpKtlHoszw=)
 

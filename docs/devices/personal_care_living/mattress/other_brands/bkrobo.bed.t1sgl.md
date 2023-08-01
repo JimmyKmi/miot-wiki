@@ -9,7 +9,7 @@ description : ''
 ---
 # Blupeace 智能助眠床垫单人
 
-其他品牌 | 2021/4/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bkrobo.bed.t1sgl/) | [说明书](https://home.mi.com/views/introduction.html?model=bkrobo.bed.t1sgl&region=cn)
+其他品牌 | 2021/4/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bkrobo.bed.t1sgl) | [说明书](https://home.mi.com/views/introduction.html?model=bkrobo.bed.t1sgl&region=cn)
 
 ![bkrobo.bed.t1sgl](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071060238WF8Z1ssx.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yOkEr9/K9qWYNpME8MAcdH4o0jc=)
 

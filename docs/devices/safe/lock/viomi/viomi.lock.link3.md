@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能门锁eLink 2C
 
-云米 Viomi | 2022/1/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.link3/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.link3&region=cn)
+云米 Viomi | 2022/1/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.link3) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.link3&region=cn)
 
 ![viomi.lock.link3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047806908khhTXE0l.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=F1tg6NO6CKyf+OFJoYWbCk4Nz/g=)
 

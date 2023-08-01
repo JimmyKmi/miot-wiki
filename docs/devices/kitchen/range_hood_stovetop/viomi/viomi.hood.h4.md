@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网油烟机Wing（AI手势操控版）
 
-云米 Viomi | 2019/12/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.h4/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.h4&region=cn)
+云米 Viomi | 2019/12/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.h4) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.h4&region=cn)
 
 ![viomi.hood.h4](https://static.home.mi.com/app/image/get/file/developer_1569812836gon1xl41.png)
 

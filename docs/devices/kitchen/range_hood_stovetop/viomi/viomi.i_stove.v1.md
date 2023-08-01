@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网集成灶
 
-云米 Viomi | 2019/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.i_stove.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.i_stove.v1&region=cn)
+云米 Viomi | 2019/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.i_stove.v1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.i_stove.v1&region=cn)
 
 ![viomi.i_stove.v1](https://static.home.mi.com/app/image/get/file/developer_1552121478bfz4iddb.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI扫拖机器人Alpha 2 Pro
 
-云米 Viomi | 2021/5/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v15/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v15&region=cn)
+云米 Viomi | 2021/5/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v15) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v15&region=cn)
 
 ![viomi.vacuum.v15](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0748ced221bd5a835f884cfe7fbf3723_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cpJPbt9WtVU1Fz9ptc5eP1guC+k=)
 

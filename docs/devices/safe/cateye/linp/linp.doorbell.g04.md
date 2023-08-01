@@ -9,7 +9,7 @@ description : ''
 ---
 # 自发电WIFI门铃2
 
-领普 | 2021/7/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.doorbell.g04/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.doorbell.g04&region=cn)
+领普 | 2021/7/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.doorbell.g04) | [说明书](https://home.mi.com/views/introduction.html?model=linp.doorbell.g04&region=cn)
 
 ![linp.doorbell.g04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071455089ZP2m3Er0.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=goYpYLy3FIiq1mmmSRp20M318mg=)
 

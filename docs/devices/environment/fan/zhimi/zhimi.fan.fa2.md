@@ -9,7 +9,7 @@ description : ''
 ---
 # 智米直流变频空气循环扇2
 
-智米 | 2021/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.fan.fa2/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.fan.fa2&region=cn)
+智米 | 2021/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.fan.fa2) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.fan.fa2&region=cn)
 
 ![zhimi.fan.fa2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/31df39f5a20d63058caf91a47e2e47ff_循环扇2-168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QdhHn3B5lFLQRgM79aM2ozRE1Jo=)
 

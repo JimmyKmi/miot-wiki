@@ -9,7 +9,7 @@ description : ''
 ---
 # 松下花吊灯
 
-松下 Panasonic | 2022/1/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.xsx344/) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.xsx344&region=cn)
+松下 Panasonic | 2022/1/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.xsx344) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.xsx344&region=cn)
 
 ![pmfbj.light.xsx344](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1685081061492nJAi2KYY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rVDtreRG8hvp4T/jNO0/BWmqGec=)
 

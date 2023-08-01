@@ -9,7 +9,7 @@ description : ''
 ---
 # 小方智能摄像机 云台版
 
-华来小方 | 2022/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.panjd1/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.panjd1&region=cn)
+华来小方 | 2022/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.panjd1) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.panjd1&region=cn)
 
 ![isa.camera.panjd1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fd7ace675e8406bd288cb8972bf072a2_1651043923381.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=pzJ5DAPezzb4G43pRu9prytvqfo=)
 

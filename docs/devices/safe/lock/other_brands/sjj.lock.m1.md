@@ -9,7 +9,7 @@ description : ''
 ---
 # 石将军智能门锁 M1
 
-其他品牌 | 2023/2/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sjj.lock.m1/) | [说明书](https://home.mi.com/views/introduction.html?model=sjj.lock.m1&region=cn)
+其他品牌 | 2023/2/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sjj.lock.m1) | [说明书](https://home.mi.com/views/introduction.html?model=sjj.lock.m1&region=cn)
 
 ![sjj.lock.m1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9ddb694956512275d9c46d33f00b3851_1667996565753.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RyqIfQxDbd/u06dpZhn79IQsX40=)
 

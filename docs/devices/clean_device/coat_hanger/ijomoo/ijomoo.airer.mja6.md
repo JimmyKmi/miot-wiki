@@ -9,7 +9,7 @@ description : ''
 ---
 # 九牧智能晾衣机-A6090
 
-九牧 | 2022/4/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ijomoo.airer.mja6/) | [说明书](https://home.mi.com/views/introduction.html?model=ijomoo.airer.mja6&region=cn)
+九牧 | 2022/4/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ijomoo.airer.mja6) | [说明书](https://home.mi.com/views/introduction.html?model=ijomoo.airer.mja6&region=cn)
 
 ![ijomoo.airer.mja6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d5cd781631c74f79b3005431f39c1054_1636540255941.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=lFjTfTkU2VCAyjLiwjTm7aSx2oM=)
 

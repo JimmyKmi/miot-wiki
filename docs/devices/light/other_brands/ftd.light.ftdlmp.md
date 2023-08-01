@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能双色灯V2(MESH)
 
-其他品牌 | 2023/1/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ftd.light.ftdlmp/) | [说明书](https://home.mi.com/views/introduction.html?model=ftd.light.ftdlmp&region=cn)
+其他品牌 | 2023/1/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ftd.light.ftdlmp) | [说明书](https://home.mi.com/views/introduction.html?model=ftd.light.ftdlmp&region=cn)
 
 ![ftd.light.ftdlmp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/92c190a0cf252f193a9565fde99a3b65_1665220660377.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3RQx2QGIruNFNARjtruWwb1u3mQ=)
 

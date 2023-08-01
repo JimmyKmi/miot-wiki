@@ -9,7 +9,7 @@ description : ''
 ---
 # 易而达MESH单火开关3键
 
-易而达 Eda | 2021/7/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=eda.switch.3sfsw/) | [说明书](https://home.mi.com/views/introduction.html?model=eda.switch.3sfsw&region=cn)
+易而达 Eda | 2021/7/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=eda.switch.3sfsw) | [说明书](https://home.mi.com/views/introduction.html?model=eda.switch.3sfsw&region=cn)
 
 ![eda.switch.3sfsw](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679065658192hGjCjJ08.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=JTfmqvO5fEHyNM35XqB13B17CSw=)
 

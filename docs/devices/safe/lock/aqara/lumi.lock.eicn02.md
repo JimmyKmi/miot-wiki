@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能门锁 J1
 
-绿米 Aqara | 2022/3/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.eicn02/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.eicn02&region=cn)
+绿米 Aqara | 2022/3/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.eicn02) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.eicn02&region=cn)
 
 ![lumi.lock.eicn02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069810290FUUaoWuw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GpCs8DDHc+JhpRxxB4EZP+cjaJg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥克斯KDY10-01WS智能除湿机
 
-至凡 | 2023/3/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.derh.x1701/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.derh.x1701&region=cn)
+至凡 | 2023/3/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.derh.x1701) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.derh.x1701&region=cn)
 
 ![kadeer.derh.x1701](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a1d9d83d2551254d48d785f6ec64064e_1674037715049.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=C/fNlFxbZyXDoGKG+YMaoP+BwDE=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米米家空气检测仪
 
-小米/米家 | 2018/11/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cgllc.airmonitor.b1/) | [说明书](https://home.mi.com/views/introduction.html?model=cgllc.airmonitor.b1&region=cn)
+小米/米家 | 2018/11/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cgllc.airmonitor.b1) | [说明书](https://home.mi.com/views/introduction.html?model=cgllc.airmonitor.b1&region=cn)
 
 ![cgllc.airmonitor.b1](https://cdn.cnbj0.fds.api.mi-img.com/miio.files/commonfile_png_c041b020930cfc8c53fcf80eb8528a9c.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 喜辉智能吸顶灯
 
-其他品牌 | 2021/2/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hwzn.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=hwzn.light.wy0a01&region=cn)
+其他品牌 | 2021/2/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hwzn.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=hwzn.light.wy0a01&region=cn)
 
 ![hwzn.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047769427qyRD8a69.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HFk6nJiVobnE6IFhkV2Q34FcWgU=)
 

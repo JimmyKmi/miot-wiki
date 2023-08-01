@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能计时器
 
-小米/米家 | 2022/10/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hoto.timer.kt/) | [说明书](https://home.mi.com/views/introduction.html?model=hoto.timer.kt&region=cn)
+小米/米家 | 2022/10/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hoto.timer.kt) | [说明书](https://home.mi.com/views/introduction.html?model=hoto.timer.kt&region=cn)
 
 ![hoto.timer.kt](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/291b42009f9fd76a51a558732bd6a2fe_1654484126166.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MvuWK1t0xvdSRGnIgBTl/00hAjI=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 四季沐歌  银河系列003(照明款)
 
-四季沐歌? | 2020/10/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=micoe.airer.hz003z/) | [说明书](https://home.mi.com/views/introduction.html?model=micoe.airer.hz003z&region=cn)
+四季沐歌? | 2020/10/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=micoe.airer.hz003z) | [说明书](https://home.mi.com/views/introduction.html?model=micoe.airer.hz003z&region=cn)
 
 ![micoe.airer.hz003z](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048938687Z8itbhBB.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KhL2yWCtMcn/f9dKtZ1VoBxPeLE=)
 

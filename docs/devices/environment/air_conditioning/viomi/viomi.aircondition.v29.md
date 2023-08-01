@@ -9,7 +9,7 @@ description : ''
 ---
 # Royal(AI语音版) 3P
 
-云米 Viomi | 2020/5/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v29/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v29&region=cn)
+云米 Viomi | 2020/5/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v29) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v29&region=cn)
 
 ![viomi.aircondition.v29](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_158735039989949HX9oYM.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ztLAPMpjEPew2Ddsb6xwNAQKK6U=)
 

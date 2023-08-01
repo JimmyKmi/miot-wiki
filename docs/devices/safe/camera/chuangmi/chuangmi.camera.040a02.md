@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能户外摄像机 AI高清版
 
-创米小白 | 2022/3/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.040a02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.040a02&region=cn)
+创米小白 | 2022/3/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.040a02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.040a02&region=cn)
 
 ![chuangmi.camera.040a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7ff0a273cf99e3c77df2360b6cffdc8f_1646389768631.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tKs700yZ1cOL52lsOZBzrPvn9rY=)
 

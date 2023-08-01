@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网洗衣机（10KG）
 
-云米 Viomi | 2018/11/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.u4/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.u4&region=cn)
+云米 Viomi | 2018/11/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.washer.u4) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.washer.u4&region=cn)
 
 ![viomi.washer.u4](https://static.home.mi.com/app/image/get/file/developer_1536647388ryg2ydfn.png)
 

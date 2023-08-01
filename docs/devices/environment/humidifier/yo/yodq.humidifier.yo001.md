@@ -9,7 +9,7 @@ description : ''
 ---
 # YO-M2加湿器
 
-Y&O | 2023/6/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yodq.humidifier.yo001/) | [说明书](https://home.mi.com/views/introduction.html?model=yodq.humidifier.yo001&region=cn)
+Y&O | 2023/6/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yodq.humidifier.yo001) | [说明书](https://home.mi.com/views/introduction.html?model=yodq.humidifier.yo001&region=cn)
 
 ![yodq.humidifier.yo001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/48c1e504024c9000db1aa6497e6456c3_1677204126538.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=484JfWXE0iU7GF7MaEXON7Rt3Zc=)
 

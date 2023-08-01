@@ -9,7 +9,7 @@ description : ''
 ---
 # 小默智能猫眼
 
-小默 | 2019/9/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mxiang.cateye.xmcatt1/) | [说明书](https://home.mi.com/views/introduction.html?model=mxiang.cateye.xmcatt1&region=cn)
+小默 | 2019/9/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mxiang.cateye.xmcatt1) | [说明书](https://home.mi.com/views/introduction.html?model=mxiang.cateye.xmcatt1&region=cn)
 
 ![mxiang.cateye.xmcatt1](https://static.home.mi.com/app/image/get/file/developer_15446711221xf1ryll.png)
 

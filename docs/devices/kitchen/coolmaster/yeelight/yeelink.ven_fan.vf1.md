@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 智能凉霸
 
-易来 Yeelight | 2019/7/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.ven_fan.vf1/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.ven_fan.vf1&region=cn)
+易来 Yeelight | 2019/7/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.ven_fan.vf1) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.ven_fan.vf1&region=cn)
 
 ![yeelink.ven_fan.vf1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047613460udKGNa90.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sPRRjgGhpgwBQjb4Ar1Mof0JhTo=)
 

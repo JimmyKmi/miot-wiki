@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能主辅灯饰
 
-雷士 | 2021/10/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps119/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps119&region=cn)
+雷士 | 2021/10/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.eps119) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.eps119&region=cn)
 
 ![leishi.light.eps119](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069183175Bx4mVd9V.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=b2UZd0wQrfjaugAkJND9nGdgJbE=)
 

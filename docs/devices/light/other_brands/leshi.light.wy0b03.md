@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景WIFI色温灯
 
-其他品牌 | 2021/6/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshi.light.wy0b03/) | [说明书](https://home.mi.com/views/introduction.html?model=leshi.light.wy0b03&region=cn)
+其他品牌 | 2021/6/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshi.light.wy0b03) | [说明书](https://home.mi.com/views/introduction.html?model=leshi.light.wy0b03&region=cn)
 
 ![leshi.light.wy0b03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047768100fBG2UPUS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TqGbjoz0aE/J78PGp1n0OeTk74k=)
 

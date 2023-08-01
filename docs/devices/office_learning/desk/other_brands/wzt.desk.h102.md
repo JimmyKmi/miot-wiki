@@ -9,7 +9,7 @@ description : ''
 ---
 # ULOVEHOME尤爱智能升降桌
 
-其他品牌 | 2023/6/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wzt.desk.h102/) | [说明书](https://home.mi.com/views/introduction.html?model=wzt.desk.h102&region=cn)
+其他品牌 | 2023/6/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wzt.desk.h102) | [说明书](https://home.mi.com/views/introduction.html?model=wzt.desk.h102&region=cn)
 
 ![wzt.desk.h102](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7f87f03d749d5ebb50fa51f0a14320d1_1685513247510.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1wDHyFJvGyHUENWWn4E7031eiuc=)
 

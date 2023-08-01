@@ -9,7 +9,7 @@ description : ''
 ---
 # 峰米激光电视4K Cinema
 
-峰米 Fengmi | 2019/6/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l176/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l176&region=cn)
+峰米 Fengmi | 2019/6/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l176) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l176&region=cn)
 
 ![fengmi.projector.l176](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870989419p8wWhMvv.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4OcajWEnBoWMWlUk3Vmny3hwXPg=)
 

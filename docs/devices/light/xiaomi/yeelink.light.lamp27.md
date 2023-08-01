@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家台灯1S 增强版
 
-小米/米家 | 2022/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp27/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp27&region=cn)
+小米/米家 | 2022/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp27) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp27&region=cn)
 
 ![yeelink.light.lamp27](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6f498992ecfc7a1fb05f56c5fa74161d_1636962472745.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2bFxjnF2xqKFJlxbxHOuEpeFrzg=)
 

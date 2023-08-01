@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能激光电视伸缩平台
 
-其他品牌 | 2022/3/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.motor.jdts/) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.motor.jdts&region=cn)
+其他品牌 | 2022/3/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.motor.jdts) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.motor.jdts&region=cn)
 
 ![daolai.motor.jdts](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/13008dadf8022ddb8fda0031e777d3e2_1628826801258.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XUxWeZyLuVdEgWqGtNa6QmHFed0=)
 

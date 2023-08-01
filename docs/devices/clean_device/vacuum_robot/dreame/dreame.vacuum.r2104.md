@@ -9,7 +9,7 @@ description : ''
 ---
 # 追觅W10 Pro
 
-追觅 | 2021/12/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2104/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2104&region=cn)
+追觅 | 2021/12/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2104) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2104&region=cn)
 
 ![dreame.vacuum.r2104](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cf707fbde3dc40fe4b26398e6ed84975_1641864356891.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=kebXbqFjsG2JgL8s94YnZtJlrVE=)
 

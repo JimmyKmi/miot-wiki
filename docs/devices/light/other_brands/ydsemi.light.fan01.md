@@ -9,7 +9,7 @@ description : ''
 ---
 # 智悦智能风扇灯
 
-其他品牌 | 2022/11/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydsemi.light.fan01/) | [说明书](https://home.mi.com/views/introduction.html?model=ydsemi.light.fan01&region=cn)
+其他品牌 | 2022/11/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydsemi.light.fan01) | [说明书](https://home.mi.com/views/introduction.html?model=ydsemi.light.fan01&region=cn)
 
 ![ydsemi.light.fan01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/089b6c8c855b04f7453873f017943c21_1666948523661.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6zw9wOT9iriht7kCIx5QS7znHno=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米冰箱21Face（法式四门505L）
 
-云米 Viomi | 2020/10/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x29/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x29&region=cn)
+云米 Viomi | 2020/10/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x29) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x29&region=cn)
 
 ![viomi.fridge.x29](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790489380919cVEJCp2.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Kli+2sQq3IUik00Y/v2Jh5mgOPw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Rokid Me
 
-若琪 Rokid | 2018/7/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rokid.robot.me/) | [说明书](https://home.mi.com/views/introduction.html?model=rokid.robot.me&region=cn)
+若琪 Rokid | 2018/7/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rokid.robot.me) | [说明书](https://home.mi.com/views/introduction.html?model=rokid.robot.me&region=cn)
 
 ![rokid.robot.me](https://static.home.mi.com/app/image/get/file/developer_1530870728hpe6elmw.png)
 

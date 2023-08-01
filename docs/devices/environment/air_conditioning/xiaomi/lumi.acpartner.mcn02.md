@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家空调伴侣2
 
-小米/米家 | 2019/5/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.acpartner.mcn02/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.acpartner.mcn02&region=cn)
+小米/米家 | 2019/5/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.acpartner.mcn02) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.acpartner.mcn02&region=cn)
 
 ![lumi.acpartner.mcn02](https://static.home.mi.com/app/image/get/file/developer_1542341608m1iix5la.png)
 

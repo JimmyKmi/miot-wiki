@@ -9,7 +9,7 @@ description : ''
 ---
 # 三键开关-单火Mesh版
 
-其他品牌 | 2022/7/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.switch.bl03/) | [说明书](https://home.mi.com/views/introduction.html?model=bean.switch.bl03&region=cn)
+其他品牌 | 2022/7/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bean.switch.bl03) | [说明书](https://home.mi.com/views/introduction.html?model=bean.switch.bl03&region=cn)
 
 ![bean.switch.bl03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/76226dd393d53b873bc331d9b15b2161_1652151836138.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SMgn1Uj8macnFgcFVhlcB7jwB0g=)
 

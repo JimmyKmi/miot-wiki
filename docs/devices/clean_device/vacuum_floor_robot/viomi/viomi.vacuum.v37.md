@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI集尘扫拖机器人Alpha Lite
 
-云米 Viomi | 2021/10/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v37/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v37&region=cn)
+云米 Viomi | 2021/10/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v37) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v37&region=cn)
 
 ![viomi.vacuum.v37](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e57cc9d19515e7e20d6bd291ea5cf4c8_1630574955040.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3hVn1b5pjd1O1iDPfQBD0UsYWLs=)
 

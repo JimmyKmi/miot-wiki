@@ -9,7 +9,7 @@ description : ''
 ---
 # 优点智能锁C1P
 
-优点智能 | 2019/8/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydhome.lock.c1p/) | [说明书](https://home.mi.com/views/introduction.html?model=ydhome.lock.c1p&region=cn)
+优点智能 | 2019/8/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydhome.lock.c1p) | [说明书](https://home.mi.com/views/introduction.html?model=ydhome.lock.c1p&region=cn)
 
 ![ydhome.lock.c1p](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047614840tciNlolT.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wgxMdTBm8wdRiO6q9FVOckiqIM8=)
 

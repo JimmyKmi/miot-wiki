@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT智能燃气灶X1
 
-知吾煮 Chunmi | 2022/9/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.i_stove.x1/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.i_stove.x1&region=cn)
+知吾煮 Chunmi | 2022/9/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.i_stove.x1) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.i_stove.x1&region=cn)
 
 ![chunmi.i_stove.x1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fe1c5789116e7025ee6d0219b3aeb630_1657510328249.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uyDCBqwxBapSZoXwBXggqyxBHX4=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米磁吸格栅灯
 
-苏米 | 2021/2/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a04/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a04&region=cn)
+苏米 | 2021/2/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a04) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a04&region=cn)
 
 ![xhuan.light.wy0a04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047901981G54wRZZu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Y1hetNOHrFRW9JYkiT1dwRzOcCc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 阳光智能晾衣机
 
-其他品牌 | 2022/2/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yankon.airer.l66/) | [说明书](https://home.mi.com/views/introduction.html?model=yankon.airer.l66&region=cn)
+其他品牌 | 2022/2/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yankon.airer.l66) | [说明书](https://home.mi.com/views/introduction.html?model=yankon.airer.l66&region=cn)
 
 ![yankon.airer.l66](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5ca695b5c2e0ba93bfd9b634b0f647d7_1640764607135.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=J+sfPei9pqSitIKJ13hCl9LFwU8=)
 

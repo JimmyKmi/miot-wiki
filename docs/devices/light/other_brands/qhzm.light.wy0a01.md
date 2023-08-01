@@ -9,7 +9,7 @@ description : ''
 ---
 # 轻禾智能灯
 
-其他品牌 | 2021/1/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qhzm.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=qhzm.light.wy0a01&region=cn)
+其他品牌 | 2021/1/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qhzm.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=qhzm.light.wy0a01&region=cn)
 
 ![qhzm.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790478092615usAaYNV.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7zw9rQUAD/8uo9cvvxK8AX7NXfM=)
 

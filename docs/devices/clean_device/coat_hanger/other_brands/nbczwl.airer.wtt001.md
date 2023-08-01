@@ -9,7 +9,7 @@ description : ''
 ---
 # WTT智能晾衣架
 
-其他品牌 | 2021/9/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nbczwl.airer.wtt001/) | [说明书](https://home.mi.com/views/introduction.html?model=nbczwl.airer.wtt001&region=cn)
+其他品牌 | 2021/9/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nbczwl.airer.wtt001) | [说明书](https://home.mi.com/views/introduction.html?model=nbczwl.airer.wtt001&region=cn)
 
 ![nbczwl.airer.wtt001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/178044f92df842e26f82a239e6092732_1627542837325.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/7Wz+pyvH+5Jw9DNJfIEktsUUgY=)
 

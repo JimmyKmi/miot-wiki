@@ -9,7 +9,7 @@ description : ''
 ---
 # 小吉448升智能法式复古冰箱
 
-小吉 | 2021/4/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=minij.fridge.448w/) | [说明书](https://home.mi.com/views/introduction.html?model=minij.fridge.448w&region=cn)
+小吉 | 2021/4/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=minij.fridge.448w) | [说明书](https://home.mi.com/views/introduction.html?model=minij.fridge.448w&region=cn)
 
 ![minij.fridge.448w](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070518624cVmIyp7g.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2c0ttTAiVYfUgXE4bJpBo1RTbVY=)
 

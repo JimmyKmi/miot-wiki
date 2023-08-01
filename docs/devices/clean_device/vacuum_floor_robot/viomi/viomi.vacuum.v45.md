@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI洗烘除菌扫拖机器人Alpha 3
 
-云米 Viomi | 2022/1/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v45/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v45&region=cn)
+云米 Viomi | 2022/1/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v45) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v45&region=cn)
 
 ![viomi.vacuum.v45](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/949eae1ff7f394801491169cf8c0a0fe_1639360679601.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7IyCUZs+xrm9Ag4zKUQLfmCJgUg=)
 

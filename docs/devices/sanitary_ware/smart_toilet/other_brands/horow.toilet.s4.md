@@ -9,7 +9,7 @@ description : ''
 ---
 # 希箭大冲力智能马桶
 
-其他品牌 | 2021/1/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.toilet.s4/) | [说明书](https://home.mi.com/views/introduction.html?model=horow.toilet.s4&region=cn)
+其他品牌 | 2021/1/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.toilet.s4) | [说明书](https://home.mi.com/views/introduction.html?model=horow.toilet.s4&region=cn)
 
 ![horow.toilet.s4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/83aec1781b7dce2d38748e5f2c0b4027_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GpUc51Xk++mf8Qu5vsMYgcFAJco=)
 

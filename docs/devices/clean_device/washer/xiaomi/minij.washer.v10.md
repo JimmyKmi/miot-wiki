@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家洗烘一体机10kg
 
-小米/米家 | 2020/4/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=minij.washer.v10/) | [说明书](https://home.mi.com/views/introduction.html?model=minij.washer.v10&region=cn)
+小米/米家 | 2020/4/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=minij.washer.v10) | [说明书](https://home.mi.com/views/introduction.html?model=minij.washer.v10&region=cn)
 
 ![minij.washer.v10](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047613180Ev9E4Ti8.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AL+HbacOA4NMDZz8gGY70O773x0=)
 

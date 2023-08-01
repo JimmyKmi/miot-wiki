@@ -9,7 +9,7 @@ description : ''
 ---
 # DT82TN/S
 
-杜亚 Dooya | 2020/9/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.w1578/) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.w1578&region=cn)
+杜亚 Dooya | 2020/9/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.w1578) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.w1578&region=cn)
 
 ![dooya.curtain.w1578](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16788710681404IXDIYw4.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wLc5TDATqQrR5CzxR/ho4UgE7KU=)
 

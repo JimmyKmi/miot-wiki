@@ -9,7 +9,7 @@ description : ''
 ---
 # Zemismart智能卷帘电机
 
-Zemismart | 2022/5/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zemi.curtain.zm25/) | [说明书](https://home.mi.com/views/introduction.html?model=zemi.curtain.zm25&region=cn)
+Zemismart | 2022/5/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zemi.curtain.zm25) | [说明书](https://home.mi.com/views/introduction.html?model=zemi.curtain.zm25&region=cn)
 
 ![zemi.curtain.zm25](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/099415f8350bc8e922e491b1028351b2_1647326587595.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+Naa1MB/oBrlj+sA28A3KEe1diQ=)
 

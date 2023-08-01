@@ -9,7 +9,7 @@ description : ''
 ---
 # 灯带控制器
 
-其他品牌 | 2021/4/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pwzn.light.apple/) | [说明书](https://home.mi.com/views/introduction.html?model=pwzn.light.apple&region=cn)
+其他品牌 | 2021/4/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pwzn.light.apple) | [说明书](https://home.mi.com/views/introduction.html?model=pwzn.light.apple&region=cn)
 
 ![pwzn.light.apple](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5110e684b02221264e6eda06029dd60f_灯带控制器168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PKXDFVCO7LGpNgTKXe26OSywaVs=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智慧门Blade Star系列
 
-创米小白 | 2022/4/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.door.515a01/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.door.515a01&region=cn)
+创米小白 | 2022/4/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.door.515a01) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.door.515a01&region=cn)
 
 ![chuangmi.door.515a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bb5c83c2fa0d31c9e97521b0669b330a_1646982180984.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dcqoVeXED9zEp8gydZraDCNKexw=)
 

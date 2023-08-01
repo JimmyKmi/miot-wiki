@@ -9,7 +9,7 @@ description : ''
 ---
 # 伟伽桦智能捶打披肩
 
-伟伽桦 | 2022/10/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wjh.magic_touch.p1/) | [说明书](https://home.mi.com/views/introduction.html?model=wjh.magic_touch.p1&region=cn)
+伟伽桦 | 2022/10/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wjh.magic_touch.p1) | [说明书](https://home.mi.com/views/introduction.html?model=wjh.magic_touch.p1&region=cn)
 
 ![wjh.magic_touch.p1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a4cd15f6c3b6f1d93325a6381a9d3c6a_1653977922552.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZzDQPI1azM75ccocsqZGShauW9U=)
 

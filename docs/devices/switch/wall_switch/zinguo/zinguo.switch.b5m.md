@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能浴霸开关
 
-峥果 | 2021/12/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.switch.b5m/) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.switch.b5m&region=cn)
+峥果 | 2021/12/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.switch.b5m) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.switch.b5m&region=cn)
 
 ![zinguo.switch.b5m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047959407BFHRkjYL.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=EdQxtiuvdLUQRWPFMa0N03L7kis=)
 

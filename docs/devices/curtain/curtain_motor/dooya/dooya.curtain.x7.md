@@ -9,7 +9,7 @@ description : ''
 ---
 # 杜亚智能窗帘X7
 
-杜亚 Dooya | 2023/4/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.x7/) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.x7&region=cn)
+杜亚 Dooya | 2023/4/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.x7) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.x7&region=cn)
 
 ![dooya.curtain.x7](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/955bc5fe367b1d962d927c9a7ecc6c72_1680832543176.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=u6udkdq7gbTyI+KQFLFzLVghRtQ=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小爱音箱
 
-小米/米家 | 2019/9/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.l06a/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.l06a&region=cn)
+小米/米家 | 2019/9/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.l06a) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.l06a&region=cn)
 
 ![xiaomi.wifispeaker.l06a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047615650cCXwpqaM.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=t0pZ2BpapESeAQOg+vHCHfGW7ag=)
 

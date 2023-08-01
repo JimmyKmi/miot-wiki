@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能筒射灯
 
-雷士 | 2021/4/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.cw0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.cw0a01&region=cn)
+雷士 | 2021/4/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.cw0a01) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.cw0a01&region=cn)
 
 ![leishi.light.cw0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3129210e75725263b55f809525d4b929_小米筒射灯-168x168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gZQA6VnF2ec+G16DVqzQae8k/jM=)
 

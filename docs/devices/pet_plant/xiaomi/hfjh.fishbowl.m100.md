@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能鱼缸
 
-小米/米家 | 2022/12/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hfjh.fishbowl.m100/) | [说明书](https://home.mi.com/views/introduction.html?model=hfjh.fishbowl.m100&region=cn)
+小米/米家 | 2022/12/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hfjh.fishbowl.m100) | [说明书](https://home.mi.com/views/introduction.html?model=hfjh.fishbowl.m100&region=cn)
 
 ![hfjh.fishbowl.m100](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7eb6d61007b9d5a9bc808b1620c862f3_1657789622611.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=p6qX+I5G4IK065Bw0rWsbhNLUQQ=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家飞利浦彩光灯泡
 
-飞利浦 | 2019/9/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.cbulb/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.cbulb&region=cn)
+飞利浦 | 2019/9/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.cbulb) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.cbulb&region=cn)
 
 ![philips.light.cbulb](https://static.home.mi.com/app/image/get/file/developer_1547623719w644t8pq.png)
 

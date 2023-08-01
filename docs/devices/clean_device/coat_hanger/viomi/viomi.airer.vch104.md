@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能晾衣机Warm 2Pro(杀菌暖烘版)
 
-云米 Viomi | 2022/5/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.vch104/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.vch104&region=cn)
+云米 Viomi | 2022/5/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.vch104) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.vch104&region=cn)
 
 ![viomi.airer.vch104](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679104309905BKWSR7Oz.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cSNQs7Jlu5kf04oSgSkKkPzBkKQ=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # VRF空调
 
-其他品牌 | 2022/3/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.aircondition.ac/) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.aircondition.ac&region=cn)
+其他品牌 | 2022/3/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qdhkl.aircondition.ac) | [说明书](https://home.mi.com/views/introduction.html?model=qdhkl.aircondition.ac&region=cn)
 
 ![qdhkl.aircondition.ac](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e2e1fc520c2a7c2d1de0a0f552e3e56c_1643164408223.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5i3R82OxyNw0QZHWENtk32Hxzr4=)
 

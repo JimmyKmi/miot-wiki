@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥享毛巾架
 
-其他品牌 | 2022/7/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=filos.tow_w.x/) | [说明书](https://home.mi.com/views/introduction.html?model=filos.tow_w.x&region=cn)
+其他品牌 | 2022/7/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=filos.tow_w.x) | [说明书](https://home.mi.com/views/introduction.html?model=filos.tow_w.x&region=cn)
 
 ![filos.tow_w.x](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c5f1d4f089ef88432a9101ee6faa0e6f_1654494122053.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+fibGiEizCxVmqIVrOIMRXtXFqc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家净水器1600G
 
-小米/米家 | 2022/9/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx29/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx29&region=cn)
+小米/米家 | 2022/9/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx29) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx29&region=cn)
 
 ![yunmi.waterpuri.lx29](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/063dcd310e058a7ebdb22ccf3e0de1ba_1656915971589.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZAT+zR+Ibj6LNF0EutuGAhR69Qk=)
 

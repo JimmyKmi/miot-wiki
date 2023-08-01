@@ -9,7 +9,7 @@ description : ''
 ---
 # LX存在传感器
 
-其他品牌 | 2023/7/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.sensor_occupy.cz01/) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.sensor_occupy.cz01&region=cn)
+其他品牌 | 2023/7/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.sensor_occupy.cz01) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.sensor_occupy.cz01&region=cn)
 
 ![lxun.sensor_occupy.cz01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/00313c5224a844b973661f1488acddd1_1686810329360.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tzcD6hq6VdtWVoN+d9mw936Jna8=)
 

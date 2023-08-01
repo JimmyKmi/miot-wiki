@@ -9,7 +9,7 @@ description : ''
 ---
 # UE  艾米智能按摩沙发
 
-永艺股份 | 2022/4/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uehome.sofa.imi1/) | [说明书](https://home.mi.com/views/introduction.html?model=uehome.sofa.imi1&region=cn)
+永艺股份 | 2022/4/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uehome.sofa.imi1) | [说明书](https://home.mi.com/views/introduction.html?model=uehome.sofa.imi1&region=cn)
 
 ![uehome.sofa.imi1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/83afb12e6859e23f85c4e3645760f52b_1646365294916.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=p4a28SHn4/zJxkCQH+Ecc9MMm4Y=)
 

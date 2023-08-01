@@ -9,7 +9,7 @@ description : ''
 ---
 # 追觅X10 Pro（原尊享版）
 
-追觅 | 2022/9/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2215/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2215&region=cn)
+追觅 | 2022/9/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2215) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2215&region=cn)
 
 ![dreame.vacuum.r2215](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cf205b235ca17e80da2b1441a1dcca40_1663222029555.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sU6YlAOwn6KQ1McFyGzEpXKo/k8=)
 

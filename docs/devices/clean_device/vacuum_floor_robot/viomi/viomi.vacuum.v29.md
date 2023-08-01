@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网扫拖机器人Eagle
 
-云米 Viomi | 2021/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v29/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v29&region=cn)
+云米 Viomi | 2021/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v29) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v29&region=cn)
 
 ![viomi.vacuum.v29](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9009f08cb5e62284aa923895e557204e_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2O20yws8qGVTwgozGV0hbZeRw14=)
 

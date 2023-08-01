@@ -9,7 +9,7 @@ description : ''
 ---
 # 一百分智能射灯
 
-其他品牌 | 2022/1/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ybf.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=ybf.light.wy0a01&region=cn)
+其他品牌 | 2022/1/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ybf.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=ybf.light.wy0a01&region=cn)
 
 ![ybf.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870954348b1dujjm9.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0H8iYw4GPaqt0P+2vrNINQ/bedo=)
 

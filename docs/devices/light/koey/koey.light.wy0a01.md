@@ -9,7 +9,7 @@ description : ''
 ---
 # KOEY疆域系列智能筒射灯
 
-KOEY | 2022/12/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=koey.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=koey.light.wy0a01&region=cn)
+KOEY | 2022/12/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=koey.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=koey.light.wy0a01&region=cn)
 
 ![koey.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/942844fdfc17d29a4bf142bf8aa8fa84_1670375151937.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ysBWpO0BTKDaNeyJQEP0Am5SCx8=)
 

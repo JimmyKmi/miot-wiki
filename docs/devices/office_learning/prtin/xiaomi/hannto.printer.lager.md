@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米激光打印一体机K200
 
-小米/米家 | 2022/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hannto.printer.lager/) | [说明书](https://home.mi.com/views/introduction.html?model=hannto.printer.lager&region=cn)
+小米/米家 | 2022/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hannto.printer.lager) | [说明书](https://home.mi.com/views/introduction.html?model=hannto.printer.lager&region=cn)
 
 ![hannto.printer.lager](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047840555SKDCqQfU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nM5y5MfMGqL0vFZC7rqKYPRWuLI=)
 

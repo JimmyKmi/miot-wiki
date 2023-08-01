@@ -9,7 +9,7 @@ description : ''
 ---
 # Smart 2 Max 2P
 
-云米 Viomi | 2021/3/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y74/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y74&region=cn)
+云米 Viomi | 2021/3/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y74) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y74&region=cn)
 
 ![viomi.aircondition.y74](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047904192EziVU96M.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=G9P8u42AO636FWezHK58yFFDDpA=)
 

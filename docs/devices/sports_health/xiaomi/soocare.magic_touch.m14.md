@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能颈部按摩仪
 
-小米/米家 | 2023/4/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=soocare.magic_touch.m14/) | [说明书](https://home.mi.com/views/introduction.html?model=soocare.magic_touch.m14&region=cn)
+小米/米家 | 2023/4/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=soocare.magic_touch.m14) | [说明书](https://home.mi.com/views/introduction.html?model=soocare.magic_touch.m14&region=cn)
 
 ![soocare.magic_touch.m14](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8e1dbb8747562dd0a4b92a8fafd86480_1678696153079.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ScFx/29Af+HDzuH3jX+Pk5orhtg=)
 

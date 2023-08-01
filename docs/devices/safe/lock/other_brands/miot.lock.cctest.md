@@ -9,7 +9,7 @@ description : ''
 ---
 # mijia智能蓝牙门锁
 
-其他品牌 | 2023/6/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miot.lock.cctest/) | [说明书](https://home.mi.com/views/introduction.html?model=miot.lock.cctest&region=cn)
+其他品牌 | 2023/6/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miot.lock.cctest) | [说明书](https://home.mi.com/views/introduction.html?model=miot.lock.cctest&region=cn)
 
 ![miot.lock.cctest](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4a19615110a6fcc79ea738679eefde46_1635245097939.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NL/JpLUYnfr0BD3tB9ukZA27aqE=)
 

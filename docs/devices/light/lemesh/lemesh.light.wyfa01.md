@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景智慧风扇灯通用款C3版
 
-情景mesh芯片 | 2023/3/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wyfa01/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wyfa01&region=cn)
+情景mesh芯片 | 2023/3/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wyfa01) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wyfa01&region=cn)
 
 ![lemesh.light.wyfa01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bbca887564e8e2be7b24f454053fb836_1678340559540.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ke/TRJQtYHlHNCCeTU7SAR4Db44=)
 

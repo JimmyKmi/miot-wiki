@@ -9,7 +9,7 @@ description : ''
 ---
 # 即品智能云可视化空气炸锅
 
-其他品牌 | 2022/11/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jipin.fryer.my982w/) | [说明书](https://home.mi.com/views/introduction.html?model=jipin.fryer.my982w&region=cn)
+其他品牌 | 2022/11/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jipin.fryer.my982w) | [说明书](https://home.mi.com/views/introduction.html?model=jipin.fryer.my982w&region=cn)
 
 ![jipin.fryer.my982w](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9f771b9a7a5bf7004c11da7ab95b4673_1665283995245.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sWlq+yocK6VOfoXoy6fC/ElB6a0=)
 

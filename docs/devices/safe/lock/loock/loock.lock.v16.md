@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客指静脉全自动门锁SV40
 
-鹿客 Loock | 2021/4/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.v16/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.v16&region=cn)
+鹿客 Loock | 2021/4/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.v16) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.v16&region=cn)
 
 ![loock.lock.v16](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/904634d2a4f6f916615a002bfca07bed_指静脉-168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nMm9yLj1GT2BbIXLRDKAfdpJtis=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 单路开关模块Mesh版
 
-其他品牌 | 2021/7/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.switch.k1/) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.switch.k1&region=cn)
+其他品牌 | 2021/7/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=daolai.switch.k1) | [说明书](https://home.mi.com/views/introduction.html?model=daolai.switch.k1&region=cn)
 
 ![daolai.switch.k1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790479590849uRVE5ZU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Y3vw0NXvF10W+kOcIVesX/zWG/k=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米泉先互联网净水器Fast3 800G
 
-云米 Viomi | 2021/1/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s17/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s17&region=cn)
+云米 Viomi | 2021/1/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s17) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s17&region=cn)
 
 ![yunmi.waterpuri.s17](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790478400876TSCKh0a.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rlRHPPaB07DjPw4okgFredaddMU=)
 

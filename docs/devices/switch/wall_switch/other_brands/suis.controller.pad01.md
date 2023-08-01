@@ -9,7 +9,7 @@ description : ''
 ---
 # 菲马仕控制面板
 
-其他品牌 | 2021/12/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=suis.controller.pad01/) | [说明书](https://home.mi.com/views/introduction.html?model=suis.controller.pad01&region=cn)
+其他品牌 | 2021/12/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=suis.controller.pad01) | [说明书](https://home.mi.com/views/introduction.html?model=suis.controller.pad01&region=cn)
 
 ![suis.controller.pad01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7b01e0a542733f38b21ad82196bd4878_1632473649219.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Pb4peCYiuM5Nzv8MDRT+ydexd+E=)
 

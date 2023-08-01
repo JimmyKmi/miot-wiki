@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米智能开关H（单火一键）
 
-苏米 | 2023/6/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.switch.1lrz02/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.switch.1lrz02&region=cn)
+苏米 | 2023/6/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.switch.1lrz02) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.switch.1lrz02&region=cn)
 
 ![xhuan.switch.1lrz02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/492cf40ca3335525585f69120a1d79c0_1684738630008.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=59i6fZCAC9TZedHd+Qcvg4xYGYs=)
 

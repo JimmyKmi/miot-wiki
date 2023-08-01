@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米壁画电视 65英寸
 
-小米/米家 | 2019/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.h1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.h1&region=cn)
+小米/米家 | 2019/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.h1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.h1&region=cn)
 
 ![xiaomi.tv.h1](https://static.home.mi.com/app/image/get/file/developer_1542267700066prtnm.png)
 

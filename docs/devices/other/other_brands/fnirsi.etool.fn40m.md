@@ -9,7 +9,7 @@ description : ''
 ---
 # FNIRSI 40m智能测距仪
 
-其他品牌 | 2022/7/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fnirsi.etool.fn40m/) | [说明书](https://home.mi.com/views/introduction.html?model=fnirsi.etool.fn40m&region=cn)
+其他品牌 | 2022/7/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fnirsi.etool.fn40m) | [说明书](https://home.mi.com/views/introduction.html?model=fnirsi.etool.fn40m&region=cn)
 
 ![fnirsi.etool.fn40m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f358a38676a84fe41742d9c08a6a594c_1640674998286.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NI02B/rEzlSG7DJ9DdGtpgm1Sis=)
 

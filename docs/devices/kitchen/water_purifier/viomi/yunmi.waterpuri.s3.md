@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网净水器S2（400G）
 
-云米 Viomi | 2019/12/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s3/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s3&region=cn)
+云米 Viomi | 2019/12/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s3) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s3&region=cn)
 
 ![yunmi.waterpuri.s3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1594102615130wnFzajje.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4q6J000HKP9kVJ96lvx6vQyGlfY=)
 

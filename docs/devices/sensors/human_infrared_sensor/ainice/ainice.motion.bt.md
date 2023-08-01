@@ -9,7 +9,7 @@ description : ''
 ---
 # AInice人体传感器
 
-艾奈斯 | 2022/9/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ainice.motion.bt/) | [说明书](https://home.mi.com/views/introduction.html?model=ainice.motion.bt&region=cn)
+艾奈斯 | 2022/9/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ainice.motion.bt) | [说明书](https://home.mi.com/views/introduction.html?model=ainice.motion.bt&region=cn)
 
 ![ainice.motion.bt](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fefcc0be1fbf5c2512b3038670d92914_1634457671675.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Yve1jnIpNxk8y2VWSH4ehQRqUD4=)
 

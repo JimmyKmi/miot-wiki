@@ -9,7 +9,7 @@ description : ''
 ---
 # 炒菜机SD-CJ01
 
-九阳 | 2021/5/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jyaiot.cm.jycj01/) | [说明书](https://home.mi.com/views/introduction.html?model=jyaiot.cm.jycj01&region=cn)
+九阳 | 2021/5/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jyaiot.cm.jycj01) | [说明书](https://home.mi.com/views/introduction.html?model=jyaiot.cm.jycj01&region=cn)
 
 ![jyaiot.cm.jycj01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/89bbd3de1e260eeb7d3453578860a256_168-1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ib62QeHpQi6379BpVo+eHPpH+ws=)
 

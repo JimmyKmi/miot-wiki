@@ -9,7 +9,7 @@ description : ''
 ---
 # 哥曼尼情景双色筒灯（蓝牙mesh版）
 
-哥曼尼 | 2020/5/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gmn.light.wy0a02/) | [说明书](https://home.mi.com/views/introduction.html?model=gmn.light.wy0a02&region=cn)
+哥曼尼 | 2020/5/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gmn.light.wy0a02) | [说明书](https://home.mi.com/views/introduction.html?model=gmn.light.wy0a02&region=cn)
 
 ![gmn.light.wy0a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047725510fj6cff4e.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UFo9rT2P3Zf1/Nx5i7lvoGsyHy4=)
 

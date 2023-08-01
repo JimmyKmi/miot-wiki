@@ -9,7 +9,7 @@ description : ''
 ---
 # 建筑倾斜振动安全监测仪
 
-其他品牌 | 2021/3/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=easc.alarm.biv1/) | [说明书](https://home.mi.com/views/introduction.html?model=easc.alarm.biv1&region=cn)
+其他品牌 | 2021/3/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=easc.alarm.biv1) | [说明书](https://home.mi.com/views/introduction.html?model=easc.alarm.biv1&region=cn)
 
 ![easc.alarm.biv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790718583027qr96jAs.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SrnpgxLKFglXCdLC6K1zmkIq9XQ=)
 

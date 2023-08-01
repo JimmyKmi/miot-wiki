@@ -9,7 +9,7 @@ description : ''
 ---
 # 云鹿智能门Y
 
-云鹿 | 2022/9/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunlu.door.sd2104/) | [说明书](https://home.mi.com/views/introduction.html?model=yunlu.door.sd2104&region=cn)
+云鹿 | 2022/9/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunlu.door.sd2104) | [说明书](https://home.mi.com/views/introduction.html?model=yunlu.door.sd2104&region=cn)
 
 ![yunlu.door.sd2104](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/599b60b73c8bc6ee95a28b641f8aee82_1661596123923.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7Bi/BZSPueGL0UAUMLZgoUKAGvQ=)
 

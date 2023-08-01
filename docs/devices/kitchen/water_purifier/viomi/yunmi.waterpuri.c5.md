@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网净水器C1（500G）
 
-云米 Viomi | 2020/8/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.c5/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.c5&region=cn)
+云米 Viomi | 2020/8/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.c5) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.c5&region=cn)
 
 ![yunmi.waterpuri.c5](https://static.home.mi.com/app/image/get/file/developer_1565677076pld1bdo2.png)
 

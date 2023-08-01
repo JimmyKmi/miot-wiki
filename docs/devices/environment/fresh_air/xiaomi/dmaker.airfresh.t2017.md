@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家新风机
 
-小米/米家 | 2018/11/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.airfresh.t2017/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.airfresh.t2017&region=cn)
+小米/米家 | 2018/11/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.airfresh.t2017) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.airfresh.t2017&region=cn)
 
 ![dmaker.airfresh.t2017](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679073468643vLH9gq4E.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2ResFXmnSaffvQ8etYnHvq3ztQE=)
 

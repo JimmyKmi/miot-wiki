@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网冰箱 十字四门398/415L 定频
 
-云米 Viomi | 2019/9/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u12/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u12&region=cn)
+云米 Viomi | 2019/9/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u12) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u12&region=cn)
 
 ![viomi.fridge.u12](https://static.home.mi.com/app/image/get/file/developer_1566270433795h7pnx.png)
 

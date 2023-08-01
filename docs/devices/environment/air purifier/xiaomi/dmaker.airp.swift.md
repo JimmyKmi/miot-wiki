@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家循环风空气净化器
 
-小米/米家 | 2021/9/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.airp.swift/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.airp.swift&region=cn)
+小米/米家 | 2021/9/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.airp.swift) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.airp.swift&region=cn)
 
 ![dmaker.airp.swift](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a04db391a335b97e286068b4054daabc_45度正面148_148.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=i+LE7IKUF35nLeG3bNvxgQEmLgY=)
 

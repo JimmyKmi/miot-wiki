@@ -9,7 +9,7 @@ description : ''
 ---
 # 三雄极光智能射灯
 
-三雄极光 | 2022/4/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.pak12/) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.pak12&region=cn)
+三雄极光 | 2022/4/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.pak12) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.pak12&region=cn)
 
 ![pak.light.pak12](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2168adf2999136834f110cd0a1b12f03_1648956162170.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3nIYSmS0QeFJNzhNqgu9nql9PLM=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智能排插CP5
 
-Gosund / 电小酷 | 2022/7/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.sp5/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.sp5&region=cn)
+Gosund / 电小酷 | 2022/7/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.sp5) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.sp5&region=cn)
 
 ![cuco.plug.sp5](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1618226454608bVrzgQY3.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=E+cuc2fZ4ZCs7HYuo3qPEAwXq18=)
 

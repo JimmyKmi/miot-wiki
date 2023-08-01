@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景彩光灯Mesh X1版
 
-情景mesh芯片 | 2022/10/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wyra01/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wyra01&region=cn)
+情景mesh芯片 | 2022/10/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wyra01) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wyra01&region=cn)
 
 ![lemesh.light.wyra01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/622ada3c2bc6ed1b57ee88946f3a3ef9_1661220482163.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1NS2KpL4KiU3s8xL4eECo0hSRDw=)
 

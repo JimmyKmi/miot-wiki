@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能双色灯(MESH)
 
-其他品牌 | 2022/7/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jymc.light.falmp/) | [说明书](https://home.mi.com/views/introduction.html?model=jymc.light.falmp&region=cn)
+其他品牌 | 2022/7/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jymc.light.falmp) | [说明书](https://home.mi.com/views/introduction.html?model=jymc.light.falmp&region=cn)
 
 ![jymc.light.falmp](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8e3112d3e641354792f24b398aa2810e_1656403926412.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=e3o4pCz3FnfsOn4IZhqM/MEihSc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 宜家 GU10 暖白灯
 
-宜家 Ikea | 2018/12/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ikea.light.led1650r5/) | [说明书](https://home.mi.com/views/introduction.html?model=ikea.light.led1650r5&region=cn)
+宜家 Ikea | 2018/12/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ikea.light.led1650r5) | [说明书](https://home.mi.com/views/introduction.html?model=ikea.light.led1650r5&region=cn)
 
 ![ikea.light.led1650r5](https://static.home.mi.com/app/image/get/file/developer_15447125074ew31acy.png)
 

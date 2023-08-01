@@ -9,7 +9,7 @@ description : ''
 ---
 # 智米纯净型加湿器2
 
-智米 | 2020/1/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.humidifier.ca4/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.humidifier.ca4&region=cn)
+智米 | 2020/1/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.humidifier.ca4) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.humidifier.ca4&region=cn)
 
 ![zhimi.humidifier.ca4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070104998ZXlI0FL7.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GN0dG7UpciBhKZncJUCTXtWIMrQ=)
 

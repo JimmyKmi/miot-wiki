@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能门锁 M20 大屏猫眼版
 
-小米/米家 | 2023/2/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.t2pv1/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.t2pv1&region=cn)
+小米/米家 | 2023/2/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.t2pv1) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.t2pv1&region=cn)
 
 ![loock.lock.t2pv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f4a69021231f7c16098225439d63d866_1664417178486.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6VKmKoXdsj6F/0nC1RwRHFPtw9k=)
 

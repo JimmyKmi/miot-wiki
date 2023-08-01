@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能窗帘电机Auto 1S
 
-云米 Viomi | 2022/1/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.curtain.v3/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.curtain.v3&region=cn)
+云米 Viomi | 2022/1/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.curtain.v3) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.curtain.v3&region=cn)
 
 ![viomi.curtain.v3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/86e66dad66740167c0432aa190c9416e_1631763165646.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qUJWLCTqTMZcOzEeMZyh1vDlhbc=)
 

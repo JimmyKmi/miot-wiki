@@ -9,7 +9,7 @@ description : ''
 ---
 # Courage智能晾衣机
 
-其他品牌 | 2020/10/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kejia.airer.krq/) | [说明书](https://home.mi.com/views/introduction.html?model=kejia.airer.krq&region=cn)
+其他品牌 | 2020/10/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kejia.airer.krq) | [说明书](https://home.mi.com/views/introduction.html?model=kejia.airer.krq&region=cn)
 
 ![kejia.airer.krq](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048938491ISB1YXvU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fzZEBMODPxDBAsWjE/jgVwporZI=)
 

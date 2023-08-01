@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家空调 自然风（鎏金版 2匹）
 
-小米/米家 | 2021/3/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c13/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c13&region=cn)
+小米/米家 | 2021/3/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c13) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c13&region=cn)
 
 ![xiaomi.aircondition.c13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047839785SW9Dmbr5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KBsIaOQQFx0HyJpFqJpL09lIxm4=)
 

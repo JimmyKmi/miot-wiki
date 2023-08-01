@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能门锁
 
-小米/米家 | 2018/12/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.mcn01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.mcn01&region=cn)
+小米/米家 | 2018/12/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.mcn01) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.mcn01&region=cn)
 
 ![lumi.lock.mcn01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069105528kYjcasAS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9NqzL4LHtYeARhbP2a9yWyDZ1d0=)
 

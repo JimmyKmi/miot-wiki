@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家空调 巨省电 2匹 新一级能效
 
-小米/米家 | 2023/4/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m16/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m16&region=cn)
+小米/米家 | 2023/4/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m16) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m16&region=cn)
 
 ![xiaomi.aircondition.m16](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fd629f2dcd033a2ce7a0e9affffbebcc_1653901922771.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TPhjBkZ6H3mR93lm2bKvMUxoGKE=)
 

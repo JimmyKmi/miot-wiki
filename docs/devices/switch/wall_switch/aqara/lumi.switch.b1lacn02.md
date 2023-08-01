@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara智能墙壁开关 D1（单火线单键版）
 
-绿米 Aqara | 2019/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.b1lacn02/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.b1lacn02&region=cn)
+绿米 Aqara | 2019/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.b1lacn02) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.b1lacn02&region=cn)
 
 ![lumi.switch.b1lacn02](https://static.home.mi.com/app/image/get/file/developer_15543730385pwfgss5.png)
 

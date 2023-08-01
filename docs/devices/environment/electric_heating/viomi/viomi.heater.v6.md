@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI踢脚线电暖器
 
-云米 Viomi | 2021/10/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.heater.v6/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.heater.v6&region=cn)
+云米 Viomi | 2021/10/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.heater.v6) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.heater.v6&region=cn)
 
 ![viomi.heater.v6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790480306565Aa0ZWO8.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4A/P7aNty+nX5nzIRVRi8TMr/h8=)
 

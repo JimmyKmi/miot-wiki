@@ -9,7 +9,7 @@ description : ''
 ---
 # 慧作新风照明(2020版)
 
-华艺 | 2020/9/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.fanwy2/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.fanwy2&region=cn)
+华艺 | 2020/9/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.fanwy2) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.fanwy2&region=cn)
 
 ![huayi.light.fanwy2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047768919sfCzA4uM.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DdqG88x0q05+u0HFL+QomXnK5ek=)
 

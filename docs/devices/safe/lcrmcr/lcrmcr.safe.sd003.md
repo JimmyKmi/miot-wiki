@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡唛水滴型智能保管箱
 
-卡唛 | 2021/11/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.sd003/) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.sd003&region=cn)
+卡唛 | 2021/11/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.sd003) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.sd003&region=cn)
 
 ![lcrmcr.safe.sd003](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/de52725ac9904993f8f4f64cfa853344_1634721291664.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RSpR+h1j+JTstQ2L0JwQu4KdGZI=)
 

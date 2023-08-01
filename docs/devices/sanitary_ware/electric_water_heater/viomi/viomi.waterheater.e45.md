@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI电热水器 Super
 
-云米 Viomi | 2022/9/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e45/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e45&region=cn)
+云米 Viomi | 2022/9/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e45) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e45&region=cn)
 
 ![viomi.waterheater.e45](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d61fcdb4e40c3f475992a152815063f3_1658800918182.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BPnfbwp/5HUU/cDZ3Tb52eHUi+4=)
 

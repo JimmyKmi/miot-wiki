@@ -9,7 +9,7 @@ description : ''
 ---
 # 小摩侠3D按摩椅
 
-摩摩哒 | 2020/4/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.massage.rt5859/) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.massage.rt5859&region=cn)
+摩摩哒 | 2020/4/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.massage.rt5859) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.massage.rt5859&region=cn)
 
 ![rotai.massage.rt5859](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047688921QzPU3iMN.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FoU7RiqQmtEvORBZK+xvdVvpy9U=)
 

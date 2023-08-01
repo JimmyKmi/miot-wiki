@@ -9,7 +9,7 @@ description : ''
 ---
 # 华艺智能顶灯
 
-华艺 | 2022/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy212/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy212&region=cn)
+华艺 | 2022/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy212) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy212&region=cn)
 
 ![huayi.light.wy212](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6aa039964d226c53e10ddec23e849473_1626057269042.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7jsJF4kQtloistAdD6Q/khzfdP4=)
 

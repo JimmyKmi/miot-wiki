@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家台式净饮机 乐享版
 
-小米/米家 | 2022/8/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ysj.tsj9/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ysj.tsj9&region=cn)
+小米/米家 | 2022/8/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ysj.tsj9) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ysj.tsj9&region=cn)
 
 ![chunmi.ysj.tsj9](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bb2990cdd8b863ef9d0fa8f0b106543d_1651934653608.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dSkEss62TxWftrajYW+yi6II7q4=)
 

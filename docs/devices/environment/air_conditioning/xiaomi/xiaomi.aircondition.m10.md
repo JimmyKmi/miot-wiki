@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米空调巨省电 1匹 适用米家速冷静
 
-小米/米家 | 2022/12/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m10/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m10&region=cn)
+小米/米家 | 2022/12/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.m10) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.m10&region=cn)
 
 ![xiaomi.aircondition.m10](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/81f965a95911164cc80751a096f0216f_1667980343390.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=77hLIabEKPuYDJlzp1A1O0ZefPo=)
 

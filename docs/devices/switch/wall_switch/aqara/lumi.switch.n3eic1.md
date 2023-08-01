@@ -9,7 +9,7 @@ description : ''
 ---
 # ES墙壁开关（零火三键版）
 
-绿米 Aqara | 2020/12/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.n3eic1/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.n3eic1&region=cn)
+绿米 Aqara | 2020/12/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.switch.n3eic1) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.switch.n3eic1&region=cn)
 
 ![lumi.switch.n3eic1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d3086c95aef804129a0f6240b699e87b_三路开关正面图%20-%20副本.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=i63hhDkCf7grIkA142StRdXwpUk=)
 

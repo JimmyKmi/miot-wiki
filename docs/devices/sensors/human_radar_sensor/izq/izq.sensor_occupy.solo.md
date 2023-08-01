@@ -9,7 +9,7 @@ description : ''
 ---
 # 子擎存在传感器 Solo
 
-子擎 | 2023/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=izq.sensor_occupy.solo/) | [说明书](https://home.mi.com/views/introduction.html?model=izq.sensor_occupy.solo&region=cn)
+子擎 | 2023/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=izq.sensor_occupy.solo) | [说明书](https://home.mi.com/views/introduction.html?model=izq.sensor_occupy.solo&region=cn)
 
 ![izq.sensor_occupy.solo](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b6e5dd979f2b5b2a5b5ef724b623acb5_1685471842854.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ujT918LpnaYqtIKfZnv8wc3kLKI=)
 

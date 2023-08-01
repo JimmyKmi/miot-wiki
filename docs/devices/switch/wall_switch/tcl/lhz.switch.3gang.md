@@ -9,7 +9,7 @@ description : ''
 ---
 # 罗格朗三位带零线智能开关
 
-罗格朗 | 2023/1/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lhz.switch.3gang/) | [说明书](https://home.mi.com/views/introduction.html?model=lhz.switch.3gang&region=cn)
+罗格朗 | 2023/1/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lhz.switch.3gang) | [说明书](https://home.mi.com/views/introduction.html?model=lhz.switch.3gang&region=cn)
 
 ![lhz.switch.3gang](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2eec320a841074f33792ce6b52d314ad_1662110376767.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KNrFuuX3eRRpPVbTBasdt+q+uI0=)
 

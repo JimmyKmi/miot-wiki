@@ -9,7 +9,7 @@ description : ''
 ---
 # 知吾煮智能电饭煲4L
 
-知吾煮 Chunmi | 2021/5/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.zwz01/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.zwz01&region=cn)
+知吾煮 Chunmi | 2021/5/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.zwz01) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.zwz01&region=cn)
 
 ![chunmi.cooker.zwz01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047957348JIBnSuFs.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vRlGoLgMSHgwaSTkZ5K2fle3bn0=)
 

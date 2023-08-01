@@ -9,7 +9,7 @@ description : ''
 ---
 # 杜亚智能窗帘M6Li
 
-杜亚 Dooya | 2022/10/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.m7li/) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.m7li&region=cn)
+杜亚 Dooya | 2022/10/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.m7li) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.m7li&region=cn)
 
 ![dooya.curtain.m7li](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cd4ae72dbfd912b1341844ab0dfb091d_1664350474515.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=wt1/nFpnEMriTC2nZTLbAcNQc4o=)
 

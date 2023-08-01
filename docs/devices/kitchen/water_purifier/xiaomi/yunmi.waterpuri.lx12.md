@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米净水器S1 800G
 
-小米/米家 | 2019/11/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx12/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx12&region=cn)
+小米/米家 | 2019/11/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx12) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx12&region=cn)
 
 ![yunmi.waterpuri.lx12](https://static.home.mi.com/app/image/get/file/developer_1565848752xnygv1yr.png)
 

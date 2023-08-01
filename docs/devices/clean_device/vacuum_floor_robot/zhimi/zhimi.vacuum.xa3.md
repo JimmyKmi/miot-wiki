@@ -9,7 +9,7 @@ description : ''
 ---
 # Lydsto扫拖一体机S1
 
-智米 | 2021/11/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.vacuum.xa3/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.vacuum.xa3&region=cn)
+智米 | 2021/11/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.vacuum.xa3) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.vacuum.xa3&region=cn)
 
 ![zhimi.vacuum.xa3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6c9134f2b8b5e6cf7964ac3d4f545a74_1633921566417.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gBQFDjmQN2GPKNDmS6dkhrPNI2Y=)
 

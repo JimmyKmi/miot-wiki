@@ -9,7 +9,7 @@ description : ''
 ---
 # 杜亚智能梦幻帘DK60
 
-杜亚 Dooya | 2023/6/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.k60/) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.k60&region=cn)
+杜亚 Dooya | 2023/6/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dooya.curtain.k60) | [说明书](https://home.mi.com/views/introduction.html?model=dooya.curtain.k60&region=cn)
 
 ![dooya.curtain.k60](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c89edfb1b2806a765dcb66a2ba63cac4_1677722077453.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RLr/o5gizoxwiMHlc+260jVoUVQ=)
 

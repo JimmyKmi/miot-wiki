@@ -9,7 +9,7 @@ description : ''
 ---
 # 摩鱼智能母婴洗衣机
 
-其他品牌 | 2018/9/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=moyu.washer.s1hm/) | [说明书](https://home.mi.com/views/introduction.html?model=moyu.washer.s1hm&region=cn)
+其他品牌 | 2018/9/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=moyu.washer.s1hm) | [说明书](https://home.mi.com/views/introduction.html?model=moyu.washer.s1hm&region=cn)
 
 ![moyu.washer.s1hm](https://static.home.mi.com/app/image/get/file/developer_1532501880exk1epyn.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家投影仪2
 
-小米/米家 | 2020/11/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.m085j/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.m085j&region=cn)
+小米/米家 | 2020/11/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.m085j) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.m085j&region=cn)
 
 ![fengmi.projector.m085j](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1588234120536ZAPVH1OK.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=k79sWB+BQ5FyyYiydhV8/aAE2R0=)
 

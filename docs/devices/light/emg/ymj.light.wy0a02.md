@@ -9,7 +9,7 @@ description : ''
 ---
 # EMG智能灯系列
 
-EMG | 2021/3/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ymj.light.wy0a02/) | [说明书](https://home.mi.com/views/introduction.html?model=ymj.light.wy0a02&region=cn)
+EMG | 2021/3/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ymj.light.wy0a02) | [说明书](https://home.mi.com/views/introduction.html?model=ymj.light.wy0a02&region=cn)
 
 ![ymj.light.wy0a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e0ca05786bb113308bf01088b7b076c3_小米.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=N68C/ZKBqUUGf/1ZcWLyrWk7AYw=)
 

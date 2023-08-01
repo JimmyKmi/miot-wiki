@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能温度控制器
 
-其他品牌 | 2023/3/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ytl.airrtc.8921/) | [说明书](https://home.mi.com/views/introduction.html?model=ytl.airrtc.8921&region=cn)
+其他品牌 | 2023/3/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ytl.airrtc.8921) | [说明书](https://home.mi.com/views/introduction.html?model=ytl.airrtc.8921&region=cn)
 
 ![ytl.airrtc.8921](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9bf51710271cae2a310c60e97db40b14_1675911784336.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ihDpqxBjT3ITRbQQvy4VJwoYPxM=)
 

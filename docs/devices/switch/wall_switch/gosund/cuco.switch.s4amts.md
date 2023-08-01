@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智能开关S4AM （单火线单键版)
 
-Gosund / 电小酷 | 2021/10/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.s4amts/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.s4amts&region=cn)
+Gosund / 电小酷 | 2021/10/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.s4amts) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.s4amts&region=cn)
 
 ![cuco.switch.s4amts](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790680297615CR1XY74.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Qk8p/Db/6DTIvTidfiYuFUyAIRg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家风冷十字四门冰箱 486L
 
-小米/米家 | 2019/10/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.m1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.m1&region=cn)
+小米/米家 | 2019/10/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.m1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.m1&region=cn)
 
 ![viomi.fridge.m1](https://static.home.mi.com/app/image/get/file/developer_1564133078lyma6lfa.png)
 

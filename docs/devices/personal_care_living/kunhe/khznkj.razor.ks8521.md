@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能剃须刀
 
-KUNHE | 2023/7/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=khznkj.razor.ks8521/) | [说明书](https://home.mi.com/views/introduction.html?model=khznkj.razor.ks8521&region=cn)
+KUNHE | 2023/7/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=khznkj.razor.ks8521) | [说明书](https://home.mi.com/views/introduction.html?model=khznkj.razor.ks8521&region=cn)
 
 ![khznkj.razor.ks8521](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3a43e47390944aa5d821f27b010d9cbf_1687317413326.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nR2IsiNf5cl6ET8HiU8NMv0tCtI=)
 

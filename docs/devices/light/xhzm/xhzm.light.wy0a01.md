@@ -9,7 +9,7 @@ description : ''
 ---
 # 馨宏吸顶灯
 
-馨宏 | 2021/2/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhzm.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=xhzm.light.wy0a01&region=cn)
+馨宏 | 2021/2/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhzm.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=xhzm.light.wy0a01&region=cn)
 
 ![xhzm.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047808873jNukYEIr.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sguTb/x+G1svlxzeLmbm/MAemr4=)
 

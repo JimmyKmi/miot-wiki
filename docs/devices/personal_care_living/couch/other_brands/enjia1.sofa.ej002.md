@@ -9,7 +9,7 @@ description : ''
 ---
 # 恩嘉智能沙发
 
-其他品牌 | 2021/8/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=enjia1.sofa.ej002/) | [说明书](https://home.mi.com/views/introduction.html?model=enjia1.sofa.ej002&region=cn)
+其他品牌 | 2021/8/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=enjia1.sofa.ej002) | [说明书](https://home.mi.com/views/introduction.html?model=enjia1.sofa.ej002&region=cn)
 
 ![enjia1.sofa.ej002](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679104309973CE6Dt3M6.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Slxua0ZSiJD1e79xd1VhEWRfIaE=)
 

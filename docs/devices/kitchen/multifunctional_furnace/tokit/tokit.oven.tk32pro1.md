@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT 智能电烤箱
 
-TOKIT | 2019/6/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.oven.tk32pro1/) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.oven.tk32pro1&region=cn)
+TOKIT | 2019/6/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.oven.tk32pro1) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.oven.tk32pro1&region=cn)
 
 ![tokit.oven.tk32pro1](https://static.home.mi.com/app/image/get/file/developer_15541077377x4qykd6.png)
 

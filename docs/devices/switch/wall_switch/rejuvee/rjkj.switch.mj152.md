@@ -9,7 +9,7 @@ description : ''
 ---
 # 睿据交流单相数字断路器2型
 
-rejuvee | 2023/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjkj.switch.mj152/) | [说明书](https://home.mi.com/views/introduction.html?model=rjkj.switch.mj152&region=cn)
+rejuvee | 2023/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjkj.switch.mj152) | [说明书](https://home.mi.com/views/introduction.html?model=rjkj.switch.mj152&region=cn)
 
 ![rjkj.switch.mj152](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/49cd1d1b73766784ae84829b8e8d6193_1676441591908.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1gsxZi3J/5VJKGRVE6Ock020hjU=)
 

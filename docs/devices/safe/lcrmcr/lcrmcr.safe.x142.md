@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡唛mini智能复古保管箱
 
-卡唛 | 2021/11/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.x142/) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.x142&region=cn)
+卡唛 | 2021/11/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.x142) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.x142&region=cn)
 
 ![lcrmcr.safe.x142](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048029593URxZftw6.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QiiOOSfKFuob2RlWvvJsBPLiksc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 东东简约智能客厅灯
 
-其他品牌 | 2021/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dong.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=dong.light.wy0a01&region=cn)
+其他品牌 | 2021/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dong.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=dong.light.wy0a01&region=cn)
 
 ![dong.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790479024705xWtDYxr.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=W//qc0FrVPbPzrZhkH0CUEZC5+8=)
 

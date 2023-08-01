@@ -9,7 +9,7 @@ description : ''
 ---
 # 帝菲斯智能窗帘D1
 
-其他品牌 | 2020/10/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=difeis.curtain.d1/) | [说明书](https://home.mi.com/views/introduction.html?model=difeis.curtain.d1&region=cn)
+其他品牌 | 2020/10/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=difeis.curtain.d1) | [说明书](https://home.mi.com/views/introduction.html?model=difeis.curtain.d1&region=cn)
 
 ![difeis.curtain.d1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1600940539041RcZpc9Zh.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dOG0xpZ7AFL1S6j97L1jL301wrg=)
 

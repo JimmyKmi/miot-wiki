@@ -9,7 +9,7 @@ description : ''
 ---
 # 爱璐仕新风控温床垫
 
-其他品牌 | 2021/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=eairpo.bed.mi12/) | [说明书](https://home.mi.com/views/introduction.html?model=eairpo.bed.mi12&region=cn)
+其他品牌 | 2021/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=eairpo.bed.mi12) | [说明书](https://home.mi.com/views/introduction.html?model=eairpo.bed.mi12&region=cn)
 
 ![eairpo.bed.mi12](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/361d0ed568a4537a3a72cc5951725b28_1634023450573.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TEIcMDj+jh0h5ADV3yHl/cCCKN0=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客人脸智能锁S50F
 
-鹿客 Loock | 2022/2/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.s50f/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.s50f&region=cn)
+鹿客 Loock | 2022/2/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.s50f) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.s50f&region=cn)
 
 ![loock.lock.s50f](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4c7613dedd421b5d3049673042094bfb_1638781064959.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ffuqsXXsLqOfGhyeGGDY3lgf54k=)
 

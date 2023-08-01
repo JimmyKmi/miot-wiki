@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi投影仪
 
-红米 | 2022/10/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=asu.projector.proja/) | [说明书](https://home.mi.com/views/introduction.html?model=asu.projector.proja&region=cn)
+红米 | 2022/10/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=asu.projector.proja) | [说明书](https://home.mi.com/views/introduction.html?model=asu.projector.proja&region=cn)
 
 ![asu.projector.proja](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/298df1f090c7f2ef84a4669178d537b9_1658714143006.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7FcCyrztIBfFFdWlffZHTONIjIg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 倍增智能卫浴架
 
-其他品牌 | 2020/11/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.tow_w.wyj001/) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.tow_w.wyj001&region=cn)
+其他品牌 | 2020/11/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.tow_w.wyj001) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.tow_w.wyj001&region=cn)
 
 ![cchome.tow_w.wyj001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048480651FgSAYld7.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=eQRbGjB17YNYeX9yoExgJ14lYXg=)
 

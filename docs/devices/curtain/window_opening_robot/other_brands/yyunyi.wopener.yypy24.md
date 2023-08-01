@@ -9,7 +9,7 @@ description : ''
 ---
 # 云仪平移开窗器
 
-其他品牌 | 2019/11/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyunyi.wopener.yypy24/) | [说明书](https://home.mi.com/views/introduction.html?model=yyunyi.wopener.yypy24&region=cn)
+其他品牌 | 2019/11/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yyunyi.wopener.yypy24) | [说明书](https://home.mi.com/views/introduction.html?model=yyunyi.wopener.yypy24&region=cn)
 
 ![yyunyi.wopener.yypy24](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/49ec40d92b21577dc2bb9cecda5197e2_product.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bXx/EOKuD+2DUrbjztYGIiBnW0Y=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能宠物喂食器
 
-小米/米家 | 2020/5/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mmgg.feeder.petfeeder/) | [说明书](https://home.mi.com/views/introduction.html?model=mmgg.feeder.petfeeder&region=cn)
+小米/米家 | 2020/5/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mmgg.feeder.petfeeder) | [说明书](https://home.mi.com/views/introduction.html?model=mmgg.feeder.petfeeder&region=cn)
 
 ![mmgg.feeder.petfeeder](https://static.home.mi.com/app/image/get/file/developer_1556271525kt09njfa.png)
 

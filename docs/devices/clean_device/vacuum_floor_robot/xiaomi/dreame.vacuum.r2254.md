@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家全能扫拖机器人 1S
 
-小米/米家 | 2022/9/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2254/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2254&region=cn)
+小米/米家 | 2022/9/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.r2254) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.r2254&region=cn)
 
 ![dreame.vacuum.r2254](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/695df0b1ba772c8d8d38860474c156f1_1663559669654.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NUSMch22U2Qdz5EefsmBfu18t7Q=)
 

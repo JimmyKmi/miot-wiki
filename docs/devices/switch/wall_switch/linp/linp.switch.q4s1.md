@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普单火墙壁开关MESH（单键）
 
-领普 | 2021/6/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.q4s1/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.q4s1&region=cn)
+领普 | 2021/6/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.q4s1) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.q4s1&region=cn)
 
 ![linp.switch.q4s1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/62025974b4a80da4e8e8c30c745e003a_拟物图标常态（单键）.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Lh6zBcw10y08GhpWMmP55CgPZfE=)
 

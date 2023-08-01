@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米网络音箱
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.v1&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.v1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.v1&region=cn)
 
 ![xiaomi.wifispeaker.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047511039iEBqYdYD.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jzaEtTccEvsjrr8GeZweuz87qLo=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight RGB彩光吸顶灯 卧室款
 
-易来 Yeelight | 2019/9/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling20/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling20&region=cn)
+易来 Yeelight | 2019/9/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceiling20) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceiling20&region=cn)
 
 ![yeelink.light.ceiling20](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047613636dvJs1HFE.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5WAfoefqUfSxZl+eEZkZklIPSC4=)
 

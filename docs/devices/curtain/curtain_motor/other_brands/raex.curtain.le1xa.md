@@ -9,7 +9,7 @@ description : ''
 ---
 # 邦先生智能开合帘
 
-其他品牌 | 2022/8/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=raex.curtain.le1xa/) | [说明书](https://home.mi.com/views/introduction.html?model=raex.curtain.le1xa&region=cn)
+其他品牌 | 2022/8/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=raex.curtain.le1xa) | [说明书](https://home.mi.com/views/introduction.html?model=raex.curtain.le1xa&region=cn)
 
 ![raex.curtain.le1xa](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/11518cf25d7e44e6e72c077de13c0f47_1658401000208.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=O48aSqbLNyYyFKqD7U7Ty7OCq+A=)
 

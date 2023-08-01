@@ -9,7 +9,7 @@ description : ''
 ---
 # 心之净智慧新风机
 
-其他品牌 | 2020/3/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=etern.airfresh.nh550/) | [说明书](https://home.mi.com/views/introduction.html?model=etern.airfresh.nh550&region=cn)
+其他品牌 | 2020/3/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=etern.airfresh.nh550) | [说明书](https://home.mi.com/views/introduction.html?model=etern.airfresh.nh550&region=cn)
 
 ![etern.airfresh.nh550](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790476882860PtQeMyC.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vGoBRErdsxSz/IiVWpOFjuqnEmY=)
 

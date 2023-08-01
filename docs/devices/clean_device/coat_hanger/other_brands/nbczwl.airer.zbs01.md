@@ -9,7 +9,7 @@ description : ''
 ---
 # 智帮手电动晾衣架
 
-其他品牌 | 2021/1/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nbczwl.airer.zbs01/) | [说明书](https://home.mi.com/views/introduction.html?model=nbczwl.airer.zbs01&region=cn)
+其他品牌 | 2021/1/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nbczwl.airer.zbs01) | [说明书](https://home.mi.com/views/introduction.html?model=nbczwl.airer.zbs01&region=cn)
 
 ![nbczwl.airer.zbs01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/17dfbc93875732a504007d384b9ade90_智帮手168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Y6hrhNi73v2YzPbljNevX2Q9wIw=)
 

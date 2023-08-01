@@ -9,7 +9,7 @@ description : ''
 ---
 # bittel比特开关2键（蓝牙mesh）
 
-比特 | 2022/1/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.switch.bh8b2/) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.switch.bh8b2&region=cn)
+比特 | 2022/1/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.switch.bh8b2) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.switch.bh8b2&region=cn)
 
 ![btzn.switch.bh8b2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b555aa7e2994646af8ccb3384bf0fb38_1639621288035.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BqHVKeeIsU11ekY9EYKoaDUvqfs=)
 

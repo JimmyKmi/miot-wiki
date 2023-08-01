@@ -9,7 +9,7 @@ description : ''
 ---
 # OPPLE 欧普照明智能灯 PRO
 
-欧普 OPPLE | 2023/3/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.gy/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.gy&region=cn)
+欧普 OPPLE | 2023/3/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.gy) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.gy&region=cn)
 
 ![opple.light.gy](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/47391ada89e9141e6a073d2dfe8f41a9_1678873530384.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uxEOS1qjHfMHa2v5eZzTUa329yU=)
 

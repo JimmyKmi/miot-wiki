@@ -9,7 +9,7 @@ description : ''
 ---
 # 智慧插座WiFi版
 
-汉枫 | 2023/6/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shhf.plug.spwc02/) | [说明书](https://home.mi.com/views/introduction.html?model=shhf.plug.spwc02&region=cn)
+汉枫 | 2023/6/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=shhf.plug.spwc02) | [说明书](https://home.mi.com/views/introduction.html?model=shhf.plug.spwc02&region=cn)
 
 ![shhf.plug.spwc02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/06d74968f66460658ff99db4272376db_1680070664230.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+P5kfIhd8xGn6AirzJVluWlWQIk=)
 

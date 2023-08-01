@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能侧吸油烟机S1
 
-小米/米家 | 2023/3/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.v12/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.v12&region=cn)
+小米/米家 | 2023/3/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.hood.v12) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.hood.v12&region=cn)
 
 ![viomi.hood.v12](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fde19d99e326c9eb7daa620212b13514_1670555478186.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SALX07CoPqeA2nNgkeTipYbs7SA=)
 

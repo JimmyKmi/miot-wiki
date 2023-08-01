@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能窗帘电机mesh版
 
-其他品牌 | 2023/1/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.curtain.cl01/) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.curtain.cl01&region=cn)
+其他品牌 | 2023/1/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.curtain.cl01) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.curtain.cl01&region=cn)
 
 ![lxun.curtain.cl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2aeb964a7d61b0fb8c9144746067ec36_1668580018826.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=z4OYBDSK4ee0JhG2hH5Pmw6FHno=)
 

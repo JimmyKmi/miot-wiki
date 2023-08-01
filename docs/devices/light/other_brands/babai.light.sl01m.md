@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能色温灯(MESH)
 
-其他品牌 | 2023/4/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.light.sl01m/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.light.sl01m&region=cn)
+其他品牌 | 2023/4/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.light.sl01m) | [说明书](https://home.mi.com/views/introduction.html?model=babai.light.sl01m&region=cn)
 
 ![babai.light.sl01m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7a2b5be89fd6c9444dd3a37e25afb470_1677159437319.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NJN6V9ScSKkKrsPeDvjDBtODWrA=)
 

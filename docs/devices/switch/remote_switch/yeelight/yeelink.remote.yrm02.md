@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight Pro 八键控制面板
 
-易来 Yeelight | 2021/9/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.remote.yrm02/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.remote.yrm02&region=cn)
+易来 Yeelight | 2021/9/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.remote.yrm02) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.remote.yrm02&region=cn)
 
 ![yeelink.remote.yrm02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bff46001b48ea5969d6884517345596f_1625204997976.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nVcEFwyWnGdA4hl/o5h5VAPc8Cw=)
 

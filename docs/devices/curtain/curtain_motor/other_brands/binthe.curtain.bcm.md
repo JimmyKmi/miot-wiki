@@ -9,7 +9,7 @@ description : ''
 ---
 # 丙申窗帘电动轨道
 
-其他品牌 | 2020/6/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=binthe.curtain.bcm/) | [说明书](https://home.mi.com/views/introduction.html?model=binthe.curtain.bcm&region=cn)
+其他品牌 | 2020/6/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=binthe.curtain.bcm) | [说明书](https://home.mi.com/views/introduction.html?model=binthe.curtain.bcm&region=cn)
 
 ![binthe.curtain.bcm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047687541U2qB3u1p.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8TtQijOe7U053RQtqA+cWZvcPBk=)
 

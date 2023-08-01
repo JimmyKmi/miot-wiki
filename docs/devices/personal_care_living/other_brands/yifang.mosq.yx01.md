@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能除螨驱蚊器
 
-其他品牌 | 2023/4/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yifang.mosq.yx01/) | [说明书](https://home.mi.com/views/introduction.html?model=yifang.mosq.yx01&region=cn)
+其他品牌 | 2023/4/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yifang.mosq.yx01) | [说明书](https://home.mi.com/views/introduction.html?model=yifang.mosq.yx01&region=cn)
 
 ![yifang.mosq.yx01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/73d62930a9b10610f8f85d97e2c12414_1678354506181.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=mRagVXe7N6QqSRqrTLvTu3339HY=)
 

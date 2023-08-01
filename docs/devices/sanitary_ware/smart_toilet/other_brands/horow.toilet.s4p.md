@@ -9,7 +9,7 @@ description : ''
 ---
 # 希箭大冲力智能马桶S4
 
-其他品牌 | 2022/10/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.toilet.s4p/) | [说明书](https://home.mi.com/views/introduction.html?model=horow.toilet.s4p&region=cn)
+其他品牌 | 2022/10/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=horow.toilet.s4p) | [说明书](https://home.mi.com/views/introduction.html?model=horow.toilet.s4p&region=cn)
 
 ![horow.toilet.s4p](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1678953234710174wGnFH.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZW9GUUALnyCZ26HVveumipP0Qgo=)
 

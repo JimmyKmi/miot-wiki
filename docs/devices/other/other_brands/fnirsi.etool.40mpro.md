@@ -9,7 +9,7 @@ description : ''
 ---
 # IR40智能测距仪
 
-其他品牌 | 2023/1/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fnirsi.etool.40mpro/) | [说明书](https://home.mi.com/views/introduction.html?model=fnirsi.etool.40mpro&region=cn)
+其他品牌 | 2023/1/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fnirsi.etool.40mpro) | [说明书](https://home.mi.com/views/introduction.html?model=fnirsi.etool.40mpro&region=cn)
 
 ![fnirsi.etool.40mpro](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/89e8ab9c57cd3a08913b42bb21be2183_1667208751935.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gw+ZLcuRoW8j7LbJpf+PcArUMyY=)
 

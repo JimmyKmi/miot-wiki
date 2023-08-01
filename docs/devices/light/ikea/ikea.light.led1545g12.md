@@ -9,7 +9,7 @@ description : ''
 ---
 # 宜家 E27 乳白调温灯
 
-宜家 Ikea | 2018/12/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ikea.light.led1545g12/) | [说明书](https://home.mi.com/views/introduction.html?model=ikea.light.led1545g12&region=cn)
+宜家 Ikea | 2018/12/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ikea.light.led1545g12) | [说明书](https://home.mi.com/views/introduction.html?model=ikea.light.led1545g12&region=cn)
 
 ![ikea.light.led1545g12](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870987602TtIxHK1N.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bHwL9pvuohwZfc5Zkh917ByE2Y0=)
 

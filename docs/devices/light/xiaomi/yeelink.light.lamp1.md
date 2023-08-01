@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家台灯
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp1/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp1&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.lamp1) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.lamp1&region=cn)
 
 ![yeelink.light.lamp1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870888550gdE3eYDw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=C+u3OY9o/KlMwUxy/3bhuzXrvLk=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 左点小艾智能艾灸加热器
 
-左点 Zdeer | 2020/6/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zdeer.ajh.zdl9/) | [说明书](https://home.mi.com/views/introduction.html?model=zdeer.ajh.zdl9&region=cn)
+左点 Zdeer | 2020/6/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zdeer.ajh.zdl9) | [说明书](https://home.mi.com/views/introduction.html?model=zdeer.ajh.zdl9&region=cn)
 
 ![zdeer.ajh.zdl9](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1585634918347aKdkwbUH.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=e+Y0323SSR+1xo9p5fcr7uIvG9E=)
 

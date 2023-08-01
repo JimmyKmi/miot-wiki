@@ -9,7 +9,7 @@ description : ''
 ---
 # 倍增墙壁开关三键版
 
-其他品牌 | 2021/2/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.switch.86l3v1/) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.switch.86l3v1&region=cn)
+其他品牌 | 2021/2/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.switch.86l3v1) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.switch.86l3v1&region=cn)
 
 ![cchome.switch.86l3v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1613974057481k7w62O1M.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KycwQTUUoRy5RWPjpLoRVx7f35U=)
 

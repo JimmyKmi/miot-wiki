@@ -9,7 +9,7 @@ description : ''
 ---
 # 公牛智能三位开关（单火）
 
-公牛 Bull | 2021/12/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bull.switch.s312y/) | [说明书](https://home.mi.com/views/introduction.html?model=bull.switch.s312y&region=cn)
+公牛 Bull | 2021/12/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bull.switch.s312y) | [说明书](https://home.mi.com/views/introduction.html?model=bull.switch.s312y&region=cn)
 
 ![bull.switch.s312y](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0806d4845c0d74c1d037b900e0c08884_1636428070980.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jwOD8pp9nzwe74jt/YjVc5YoNaI=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Comotomo智能浴霸
 
-其他品牌 | 2021/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.bhf_light.kmdm01/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.bhf_light.kmdm01&region=cn)
+其他品牌 | 2021/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.bhf_light.kmdm01) | [说明书](https://home.mi.com/views/introduction.html?model=babai.bhf_light.kmdm01&region=cn)
 
 ![babai.bhf_light.kmdm01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/97eaf2131928744d72581d113a23f298_1628503480949.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qHYZVC03qBOb3KB9DOsKonCMtgQ=)
 

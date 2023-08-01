@@ -9,7 +9,7 @@ description : ''
 ---
 # 拜杰智能烘焙营养秤BJ26
 
-其他品牌 | 2023/7/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yoda.k_scale.cy80/) | [说明书](https://home.mi.com/views/introduction.html?model=yoda.k_scale.cy80&region=cn)
+其他品牌 | 2023/7/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yoda.k_scale.cy80) | [说明书](https://home.mi.com/views/introduction.html?model=yoda.k_scale.cy80&region=cn)
 
 ![yoda.k_scale.cy80](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a897da719f2b26f29d4c03922fbdfe93_1686311766063.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dDX41vRNDViw6J9sQB9g+n3u6ew=)
 

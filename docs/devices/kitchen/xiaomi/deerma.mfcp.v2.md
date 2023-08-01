@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能多功能蒸煮锅1.5L（V2)
 
-小米/米家 | 2021/9/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=deerma.mfcp.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=deerma.mfcp.v2&region=cn)
+小米/米家 | 2021/9/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=deerma.mfcp.v2) | [说明书](https://home.mi.com/views/introduction.html?model=deerma.mfcp.v2&region=cn)
 
 ![deerma.mfcp.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069629730yIcFCV6A.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=91HGhNa5jsiupWyTQoT2k+K/oXs=)
 

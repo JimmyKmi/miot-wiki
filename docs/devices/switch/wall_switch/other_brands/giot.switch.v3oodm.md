@@ -9,7 +9,7 @@ description : ''
 ---
 # V3智能通断器（Mesh）
 
-其他品牌 | 2022/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.switch.v3oodm/) | [说明书](https://home.mi.com/views/introduction.html?model=giot.switch.v3oodm&region=cn)
+其他品牌 | 2022/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.switch.v3oodm) | [说明书](https://home.mi.com/views/introduction.html?model=giot.switch.v3oodm&region=cn)
 
 ![giot.switch.v3oodm](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/921be03bef997a2632857c16b6dbf8dc_1662112797835.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DbL4S6b3jei/uWNjLSmd9rK9aOI=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # HITH智能无线足浴器Q2
 
-星曼 | 2019/9/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hith.foot_bath.q2/) | [说明书](https://home.mi.com/views/introduction.html?model=hith.foot_bath.q2&region=cn)
+星曼 | 2019/9/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hith.foot_bath.q2) | [说明书](https://home.mi.com/views/introduction.html?model=hith.foot_bath.q2&region=cn)
 
 ![hith.foot_bath.q2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1612257932083hGX5nKtF.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5aI9UUX/RrIyBAlNlUTdVMJBW80=)
 

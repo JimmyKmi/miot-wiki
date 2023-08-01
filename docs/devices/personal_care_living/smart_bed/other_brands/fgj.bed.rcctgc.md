@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能床头柜
 
-其他品牌 | 2021/8/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fgj.bed.rcctgc/) | [说明书](https://home.mi.com/views/introduction.html?model=fgj.bed.rcctgc&region=cn)
+其他品牌 | 2021/8/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fgj.bed.rcctgc) | [说明书](https://home.mi.com/views/introduction.html?model=fgj.bed.rcctgc&region=cn)
 
 ![fgj.bed.rcctgc](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047902258cas0LXvl.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Pttyn9Qj6fTy67mLIjyQ78tTJ2Q=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # CANY智能窗帘电机
 
-其他品牌 | 2021/9/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.cy850/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.cy850&region=cn)
+其他品牌 | 2021/9/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.cy850) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.cy850&region=cn)
 
 ![babai.curtain.cy850](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790680294581JXPzXsK.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5PtAi6EOMqCCY1A4KU2rCTBX2wA=)
 

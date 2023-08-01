@@ -9,7 +9,7 @@ description : ''
 ---
 # 金贵夫人智能晾衣机
 
-其他品牌 | 2019/10/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kejia.airer.th001/) | [说明书](https://home.mi.com/views/introduction.html?model=kejia.airer.th001&region=cn)
+其他品牌 | 2019/10/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kejia.airer.th001) | [说明书](https://home.mi.com/views/introduction.html?model=kejia.airer.th001&region=cn)
 
 ![kejia.airer.th001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15660510508201DrDaKqq.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;amp;amp;Expires=9223372036854775807&amp;amp;amp;Signature=XyKwa/dsYWP7oZSTQM2HtoobUxo=)
 

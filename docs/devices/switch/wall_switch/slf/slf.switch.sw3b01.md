@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐三键零火灯控开关（HR7）
 
-智拉斐 | 2022/3/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.switch.sw3b01/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.switch.sw3b01&region=cn)
+智拉斐 | 2022/3/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.switch.sw3b01) | [说明书](https://home.mi.com/views/introduction.html?model=slf.switch.sw3b01&region=cn)
 
 ![slf.switch.sw3b01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4dbf32a8e6e2c0d40fce22abe6b95fe6_1642422654927.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=eNJQT5SWDqdksRvPRh7+bFmNU54=)
 

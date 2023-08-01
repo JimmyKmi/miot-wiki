@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网电热水器C1（60L）
 
-云米 Viomi | 2020/5/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e17/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e17&region=cn)
+云米 Viomi | 2020/5/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e17) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e17&region=cn)
 
 ![viomi.waterheater.e17](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1589946016404vInM0peh.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8WrWmXe/0I8E2WMBJV96BMl/RdY=)
 

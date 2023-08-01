@@ -9,7 +9,7 @@ description : ''
 ---
 # 松下吸顶灯
 
-松下 Panasonic | 2021/12/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.xsx340/) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.xsx340&region=cn)
+松下 Panasonic | 2021/12/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.xsx340) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.xsx340&region=cn)
 
 ![pmfbj.light.xsx340](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1685081006528OSRUzOW7.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=pAhpeJqOzJL5IA2RbthVoEyxtZ8=)
 

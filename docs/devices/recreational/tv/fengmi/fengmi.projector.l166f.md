@@ -9,7 +9,7 @@ description : ''
 ---
 # 峰米激光电视 Cinema 2
 
-峰米 Fengmi | 2021/4/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l166f/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l166f&region=cn)
+峰米 Fengmi | 2021/4/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l166f) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l166f&region=cn)
 
 ![fengmi.projector.l166f](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/05274e96561b19ada3ab8209ee33762d_168-168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VC46P8Gv+SmN0vWnoDG8Tn8nwqA=)
 

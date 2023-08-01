@@ -9,7 +9,7 @@ description : ''
 ---
 # 松下台灯pro
 
-松下 Panasonic | 2023/1/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.wy0b01/) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.wy0b01&region=cn)
+松下 Panasonic | 2023/1/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.wy0b01) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.wy0b01&region=cn)
 
 ![pmfbj.light.wy0b01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/69ea1118ea9f7c2421aa1e46eacf6ea1_1669374494526.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=EJUnTVJ4flycCz2Jzw/QuinH9mA=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能台灯V1
 
-雷士 | 2023/4/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.t1/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.t1&region=cn)
+雷士 | 2023/4/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.t1) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.t1&region=cn)
 
 ![leishi.light.t1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9118ed256ad8426696edcdea797d66d2_1676951086801.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FtlwSi7KrIoXeDUwx06+Y/SDnP0=)
 

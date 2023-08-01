@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家走步机
 
-小米/米家 | 2019/4/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ksmb.walkingpad.v3/) | [说明书](https://home.mi.com/views/introduction.html?model=ksmb.walkingpad.v3&region=cn)
+小米/米家 | 2019/4/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ksmb.walkingpad.v3) | [说明书](https://home.mi.com/views/introduction.html?model=ksmb.walkingpad.v3&region=cn)
 
 ![ksmb.walkingpad.v3](https://static.home.mi.com/app/image/get/file/developer_1548407093q37yhcex.png)
 

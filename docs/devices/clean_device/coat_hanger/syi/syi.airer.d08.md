@@ -9,7 +9,7 @@ description : ''
 ---
 # 登帝电动晾衣架
 
-小匠 | 2021/11/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syi.airer.d08/) | [说明书](https://home.mi.com/views/introduction.html?model=syi.airer.d08&region=cn)
+小匠 | 2021/11/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syi.airer.d08) | [说明书](https://home.mi.com/views/introduction.html?model=syi.airer.d08&region=cn)
 
 ![syi.airer.d08](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068737976JsbYgQJv.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oU6ZpQtAGkUUoxmTmRn3XyUPiA8=)
 

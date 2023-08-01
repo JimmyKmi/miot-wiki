@@ -9,7 +9,7 @@ description : ''
 ---
 # 阳光智能吸顶灯
 
-其他品牌 | 2022/5/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yankon.light.xdd01/) | [说明书](https://home.mi.com/views/introduction.html?model=yankon.light.xdd01&region=cn)
+其他品牌 | 2022/5/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yankon.light.xdd01) | [说明书](https://home.mi.com/views/introduction.html?model=yankon.light.xdd01&region=cn)
 
 ![yankon.light.xdd01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/52e82b8d604a2ab5bccabc5cb7080ddf_1649841341375.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/CIwDEvh9QCmjxZoJqZcouhIU98=)
 

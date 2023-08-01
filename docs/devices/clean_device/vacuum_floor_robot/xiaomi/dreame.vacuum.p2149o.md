@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家免洗扫拖机器人Pro
 
-小米/米家 | 2021/10/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.p2149o/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.p2149o&region=cn)
+小米/米家 | 2021/10/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.p2149o) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.p2149o&region=cn)
 
 ![dreame.vacuum.p2149o](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047957097k4lFH0TX.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=IkK/qDoe/G+FS9FE2cCcYSJbBxM=)
 

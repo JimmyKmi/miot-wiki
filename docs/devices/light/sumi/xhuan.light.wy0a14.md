@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米智能灯Pro
 
-苏米 | 2023/4/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a14/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a14&region=cn)
+苏米 | 2023/4/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a14) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a14&region=cn)
 
 ![xhuan.light.wy0a14](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/885c7439e286127ca4da7b149c9e209e_1681184775801.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cYJ7bY8obelX3CpHyBkAc4ppJuo=)
 

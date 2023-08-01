@@ -9,7 +9,7 @@ description : ''
 ---
 # 植树照明智能吸顶灯
 
-植树 | 2019/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zszm.light.wy0a03/) | [说明书](https://home.mi.com/views/introduction.html?model=zszm.light.wy0a03&region=cn)
+植树 | 2019/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zszm.light.wy0a03) | [说明书](https://home.mi.com/views/introduction.html?model=zszm.light.wy0a03&region=cn)
 
 ![zszm.light.wy0a03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047655886s5twrokN.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=75Xhb/O3BB89FPCoca1g02+4uW4=)
 

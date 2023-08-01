@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦智睿台灯2S
 
-飞利浦 | 2021/9/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.sread6/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.sread6&region=cn)
+飞利浦 | 2021/9/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.sread6) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.sread6&region=cn)
 
 ![philips.light.sread6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a963973c04ceb517ec2992cce412a074_1629169956518.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Zl356oRwax/fl1Bt1aiUXSDbY3s=)
 

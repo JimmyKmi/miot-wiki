@@ -9,7 +9,7 @@ description : ''
 ---
 # 摩摩哒头部按摩器
 
-摩摩哒 | 2020/8/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.magic_touch.sx315/) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.magic_touch.sx315&region=cn)
+摩摩哒 | 2020/8/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rotai.magic_touch.sx315) | [说明书](https://home.mi.com/views/introduction.html?model=rotai.magic_touch.sx315&region=cn)
 
 ![rotai.magic_touch.sx315](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047725855JHIiZ1Jy.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Os0i8Tpee/O+yIyn83vB5MCzohA=)
 

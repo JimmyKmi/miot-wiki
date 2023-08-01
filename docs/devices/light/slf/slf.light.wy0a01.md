@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐Y8大板旋钮色温调光
 
-智拉斐 | 2023/4/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.light.wy0a01&region=cn)
+智拉斐 | 2023/4/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=slf.light.wy0a01&region=cn)
 
 ![slf.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dcd9c7181032517fc7843811b9e47d7b_1671691537745.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uwSxftBH/KXB6C7R/ttVYxhskUI=)
 

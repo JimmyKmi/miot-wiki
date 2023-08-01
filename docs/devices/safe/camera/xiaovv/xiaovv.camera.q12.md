@@ -9,7 +9,7 @@ description : ''
 ---
 # xiaovv智能云台摄像机 心享版
 
-xiaovv | 2021/3/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.q12/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.q12&region=cn)
+xiaovv | 2021/3/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaovv.camera.q12) | [说明书](https://home.mi.com/views/introduction.html?model=xiaovv.camera.q12&region=cn)
 
 ![xiaovv.camera.q12](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e16891309a4c96b685d95072d9577216_01拟物图标常态.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HT/57ql00jjBU+R2OMzJHAcirsU=)
 

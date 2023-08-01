@@ -9,7 +9,7 @@ description : ''
 ---
 # 灯部尚书智能灯
 
-其他品牌 | 2023/3/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=scds.light.wy0a03/) | [说明书](https://home.mi.com/views/introduction.html?model=scds.light.wy0a03&region=cn)
+其他品牌 | 2023/3/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=scds.light.wy0a03) | [说明书](https://home.mi.com/views/introduction.html?model=scds.light.wy0a03&region=cn)
 
 ![scds.light.wy0a03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3ba4e619161a5a7818bfa8670e67d628_1677826001547.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hjxsbLvzcrPE8Z/QdvIBdrCj/PA=)
 

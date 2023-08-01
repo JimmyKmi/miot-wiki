@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥普厨房空调KC-26/A
 
-AUPU奥普 | 2023/5/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.aircondition.kc26a/) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.aircondition.kc26a&region=cn)
+AUPU奥普 | 2023/5/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aupu.aircondition.kc26a) | [说明书](https://home.mi.com/views/introduction.html?model=aupu.aircondition.kc26a&region=cn)
 
 ![aupu.aircondition.kc26a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0ba65bf279d13f570642eec3aa1d9916_1682045810783.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yZzwXmfMijLXWEsl95g3pED0YLU=)
 

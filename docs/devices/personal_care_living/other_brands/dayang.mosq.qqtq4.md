@@ -9,7 +9,7 @@ description : ''
 ---
 # 俏蜻蜓智能电蚊香QQT-Q4
 
-其他品牌 | 2023/2/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dayang.mosq.qqtq4/) | [说明书](https://home.mi.com/views/introduction.html?model=dayang.mosq.qqtq4&region=cn)
+其他品牌 | 2023/2/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dayang.mosq.qqtq4) | [说明书](https://home.mi.com/views/introduction.html?model=dayang.mosq.qqtq4&region=cn)
 
 ![dayang.mosq.qqtq4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/63745ffc5930b962df5128eb50a34698_1673249647134.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oKRst94JplnHtOWuMV3od+qCSDI=)
 

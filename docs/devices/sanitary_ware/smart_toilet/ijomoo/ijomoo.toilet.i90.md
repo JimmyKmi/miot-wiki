@@ -9,7 +9,7 @@ description : ''
 ---
 # 九牧智能马桶 i90
 
-九牧 | 2021/7/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ijomoo.toilet.i90/) | [说明书](https://home.mi.com/views/introduction.html?model=ijomoo.toilet.i90&region=cn)
+九牧 | 2021/7/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ijomoo.toilet.i90) | [说明书](https://home.mi.com/views/introduction.html?model=ijomoo.toilet.i90&region=cn)
 
 ![ijomoo.toilet.i90](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047841372TrC58mOJ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=O5o/r95K+yqXeuFzHcCIK2CEf1w=)
 

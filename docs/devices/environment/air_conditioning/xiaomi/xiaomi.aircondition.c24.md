@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家新风空调立式（2匹 新一级能效）
 
-小米/米家 | 2022/4/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c24/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c24&region=cn)
+小米/米家 | 2022/4/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c24) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c24&region=cn)
 
 ![xiaomi.aircondition.c24](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f4718ce3b6b8f7fb01be6a6f0ba593d3_1644375085098.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7mlDynJLIURB3kvxwAFytZR1jQ0=)
 

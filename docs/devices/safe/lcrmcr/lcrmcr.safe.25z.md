@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡唛安诺指纹保管箱25Z
 
-卡唛 | 2022/5/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.25z/) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.25z&region=cn)
+卡唛 | 2022/5/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.25z) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.25z&region=cn)
 
 ![lcrmcr.safe.25z](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7b77da2f0d8e4bb23ee9a76109123398_1650349257444.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zqbMJmbC9LA1uY7P+vKJ3HyfftQ=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 馨光智能灯V2
 
-沃尔特赫 Walter | 2023/3/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wainft.light.wy0a03/) | [说明书](https://home.mi.com/views/introduction.html?model=wainft.light.wy0a03&region=cn)
+沃尔特赫 Walter | 2023/3/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wainft.light.wy0a03) | [说明书](https://home.mi.com/views/introduction.html?model=wainft.light.wy0a03&region=cn)
 
 ![wainft.light.wy0a03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/69e0fdb54cb5ccb16de7ac2f236e6c59_1673329964593.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8pFf3Cdn8/P+qpS0PE+9rYlAAqw=)
 

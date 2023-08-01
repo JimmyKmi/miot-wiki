@@ -9,7 +9,7 @@ description : ''
 ---
 # 邦先生智能晾衣机-风干款
 
-其他品牌 | 2021/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.airer.m53c/) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.airer.m53c&region=cn)
+其他品牌 | 2021/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.airer.m53c) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.airer.m53c&region=cn)
 
 ![mrbond.airer.m53c](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7ceeb12192af022be43507531bed8272_M53产品图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qz+I/YShVSuGeYUaz7c4x0c5kig=)
 

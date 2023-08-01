@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能摄像机 标准版2K
 
-小米/米家 | 2021/4/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.hlc7/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.hlc7&region=cn)
+小米/米家 | 2021/4/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.hlc7) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.hlc7&region=cn)
 
 ![isa.camera.hlc7](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048938667nXZgLbeT.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qTcTww/gEgozFuB4rGQgmnM3iZk=)
 

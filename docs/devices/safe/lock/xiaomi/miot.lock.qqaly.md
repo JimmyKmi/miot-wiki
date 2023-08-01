@@ -9,7 +9,7 @@ description : ''
 ---
 # Qqara 蓝牙智能门锁
 
-小米/米家 | 2021/10/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miot.lock.qqaly/) | [说明书](https://home.mi.com/views/introduction.html?model=miot.lock.qqaly&region=cn)
+小米/米家 | 2021/10/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miot.lock.qqaly) | [说明书](https://home.mi.com/views/introduction.html?model=miot.lock.qqaly&region=cn)
 
 ![miot.lock.qqaly](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4a19615110a6fcc79ea738679eefde46_1635245097939.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NL/JpLUYnfr0BD3tB9ukZA27aqE=)
 

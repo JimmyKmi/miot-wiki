@@ -9,7 +9,7 @@ description : ''
 ---
 # 魔力云智能窗帘电机
 
-其他品牌 | 2021/8/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mly.curtain.cura01/) | [说明书](https://home.mi.com/views/introduction.html?model=mly.curtain.cura01&region=cn)
+其他品牌 | 2021/8/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mly.curtain.cura01) | [说明书](https://home.mi.com/views/introduction.html?model=mly.curtain.cura01&region=cn)
 
 ![mly.curtain.cura01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069183178kMmscxZY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=I1yJi0Klxb7i6DTOrW56v25fQWE=)
 

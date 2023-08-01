@@ -9,7 +9,7 @@ description : ''
 ---
 # VINO空气能热水器200L
 
-VINO | 2023/5/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aden.waterheater.ash200/) | [说明书](https://home.mi.com/views/introduction.html?model=aden.waterheater.ash200&region=cn)
+VINO | 2023/5/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aden.waterheater.ash200) | [说明书](https://home.mi.com/views/introduction.html?model=aden.waterheater.ash200&region=cn)
 
 ![aden.waterheater.ash200](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/36d2402bf07c03ff2257954b1142dd61_1681365702699.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=W4d+XSdkaeHFm1U6D4WaDiBFIxo=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 邦先生M1智能晾衣机
 
-邦先生 | 2018/7/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.airer.m1s/) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.airer.m1s&region=cn)
+邦先生 | 2018/7/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.airer.m1s) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.airer.m1s&region=cn)
 
 ![mrbond.airer.m1s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070103019OgEsNyCU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=VauUd0kxrV8snEw9RdTNbMf/oQI=)
 

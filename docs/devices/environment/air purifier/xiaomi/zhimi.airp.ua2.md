@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家全效空气净化器
 
-小米/米家 | 2023/3/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airp.ua2/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airp.ua2&region=cn)
+小米/米家 | 2023/3/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airp.ua2) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airp.ua2&region=cn)
 
 ![zhimi.airp.ua2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8bb19734071fde6607f239452bb256fb_1660207708203.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LVD0+Dbyh8/8MKvD+09wxhZmEVQ=)
 

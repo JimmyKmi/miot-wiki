@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 皓白 LED面板灯 Pro
 
-易来 Yeelight | 2019/8/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.panel3/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.panel3&region=cn)
+易来 Yeelight | 2019/8/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.panel3) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.panel3&region=cn)
 
 ![yeelink.light.panel3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047614989ORMCNAy9.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=a/dm12tpW82RwJImKSIlQry+IDE=)
 

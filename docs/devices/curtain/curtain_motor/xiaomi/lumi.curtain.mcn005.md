@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能窗帘1S
 
-小米/米家 | 2022/8/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.mcn005/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.mcn005&region=cn)
+小米/米家 | 2022/8/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.mcn005) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.mcn005&region=cn)
 
 ![lumi.curtain.mcn005](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/63d9797c541e82a9b8b88149a8fbacc7_1646993026927.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Oevk/BR9kL6pxQ5KZKdhN9rVF/0=)
 

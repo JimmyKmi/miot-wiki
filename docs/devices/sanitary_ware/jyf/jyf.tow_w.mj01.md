@@ -9,7 +9,7 @@ description : ''
 ---
 # 多功能除菌烘干机
 
-近远方 | 2022/11/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jyf.tow_w.mj01/) | [说明书](https://home.mi.com/views/introduction.html?model=jyf.tow_w.mj01&region=cn)
+近远方 | 2022/11/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jyf.tow_w.mj01) | [说明书](https://home.mi.com/views/introduction.html?model=jyf.tow_w.mj01&region=cn)
 
 ![jyf.tow_w.mj01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/582d65824bbb38c577d4403948d2452a_1660112871889.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dVxjFojLbW+jy1iAO0nSiVTwy/M=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家免洗扫拖机器人
 
-小米/米家 | 2021/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ijai.vacuum.v14/) | [说明书](https://home.mi.com/views/introduction.html?model=ijai.vacuum.v14&region=cn)
+小米/米家 | 2021/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ijai.vacuum.v14) | [说明书](https://home.mi.com/views/introduction.html?model=ijai.vacuum.v14&region=cn)
 
 ![ijai.vacuum.v14](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790480280130saj6Zqp.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7LUwrBuj6uqJ3vtndURRb7UWgDw=)
 

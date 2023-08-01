@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米手环
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.watch.band1a/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.watch.band1a&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.watch.band1a) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.watch.band1a&region=cn)
 
 ![xiaomi.watch.band1a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870888697bcTbHFCC.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MUAPotyauUB8mdJotBf2qWko1s8=)
 

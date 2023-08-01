@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能彩光灯泡
 
-雷士 | 2020/4/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.rgba03/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.rgba03&region=cn)
+雷士 | 2020/4/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.rgba03) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.rgba03&region=cn)
 
 ![leishi.light.rgba03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047724277a9qEGKzU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bCHTkesebrkVbbEh9vAaACukLys=)
 

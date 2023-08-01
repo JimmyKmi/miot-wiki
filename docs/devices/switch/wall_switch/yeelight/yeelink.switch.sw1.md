@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 双路控制模块
 
-易来 Yeelight | 2020/8/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.switch.sw1/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.switch.sw1&region=cn)
+易来 Yeelight | 2020/8/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.switch.sw1) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.switch.sw1&region=cn)
 
 ![yeelink.switch.sw1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15897852814760U6yaDnN.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aShBwu0XnJgnzBs9hhLc3wmCyfs=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米米家连供喷墨打印一体机
 
-小米/米家 | 2022/7/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hannto.printer.rmy/) | [说明书](https://home.mi.com/views/introduction.html?model=hannto.printer.rmy&region=cn)
+小米/米家 | 2022/7/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hannto.printer.rmy) | [说明书](https://home.mi.com/views/introduction.html?model=hannto.printer.rmy&region=cn)
 
 ![hannto.printer.rmy](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/45e7713af90a9398a0a05640ed12ee15_Rosemary-168x168-已压缩.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=F7eMHHLXWcDMwAQEQjU6mSupTpg=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight LED智能灯带
 
-易来 Yeelight | 2023/5/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.wy0a03/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.wy0a03&region=cn)
+易来 Yeelight | 2023/5/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.wy0a03) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.wy0a03&region=cn)
 
 ![yeelink.light.wy0a03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/639174e5dc4e5aaff10f8533fed263f9_1681194588949.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Pir0ArFiYWiJvWIk/9O1C3EVxMg=)
 

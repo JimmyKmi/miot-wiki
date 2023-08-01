@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网燃气热水器VGW1614
 
-云米 Viomi | 2021/2/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u41/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u41&region=cn)
+云米 Viomi | 2021/2/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u41) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u41&region=cn)
 
 ![viomi.waterheater.u41](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790489391734WRbUX2j.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+ZhZKvHLk0G0DASMjFgFPFl2ieI=)
 

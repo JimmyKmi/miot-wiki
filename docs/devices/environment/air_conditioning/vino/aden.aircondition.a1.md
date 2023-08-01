@@ -9,7 +9,7 @@ description : ''
 ---
 # VINO变频空调（三级能效）
 
-VINO | 2019/6/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aden.aircondition.a1/) | [说明书](https://home.mi.com/views/introduction.html?model=aden.aircondition.a1&region=cn)
+VINO | 2019/6/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aden.aircondition.a1) | [说明书](https://home.mi.com/views/introduction.html?model=aden.aircondition.a1&region=cn)
 
 ![aden.aircondition.a1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069105823V8KcM3jh.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=M7PdIivNl1d4i+fDrkOBadQYz80=)
 

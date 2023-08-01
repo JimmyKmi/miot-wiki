@@ -9,7 +9,7 @@ description : ''
 ---
 # 默哈孚嵌墙式室内温控器
 
-默哈孚 | 2022/11/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hvac.airrtc.11m0/) | [说明书](https://home.mi.com/views/introduction.html?model=hvac.airrtc.11m0&region=cn)
+默哈孚 | 2022/11/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hvac.airrtc.11m0) | [说明书](https://home.mi.com/views/introduction.html?model=hvac.airrtc.11m0&region=cn)
 
 ![hvac.airrtc.11m0](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f5ea0d349c937f97833e9233643ec3b7_1655790975404.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GAGaIr29pMzFt/LzxRr0+8RcY24=)
 

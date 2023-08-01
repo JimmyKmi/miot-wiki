@@ -9,7 +9,7 @@ description : ''
 ---
 # 墨小七智能灯开关控制器
 
-墨小七 | 2022/9/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zair.switch.zsc02w/) | [说明书](https://home.mi.com/views/introduction.html?model=zair.switch.zsc02w&region=cn)
+墨小七 | 2022/9/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zair.switch.zsc02w) | [说明书](https://home.mi.com/views/introduction.html?model=zair.switch.zsc02w&region=cn)
 
 ![zair.switch.zsc02w](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c0f405b7756e84e1ce3c8377be0d2c47_1660984782355.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2n+7kiG5khjctU/bmw2soAKGo1E=)
 

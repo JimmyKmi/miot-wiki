@@ -9,7 +9,7 @@ description : ''
 ---
 # 小明 Q1 迷你投影仪
 
-峰米 Fengmi | 2021/4/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.c015/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.c015&region=cn)
+峰米 Fengmi | 2021/4/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.c015) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.c015&region=cn)
 
 ![fengmi.projector.c015](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cdf8859323b1b8459a60a4814fb2190d_168-168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UFlxVg3xz4jDvSdXf+Zyzv06oa8=)
 

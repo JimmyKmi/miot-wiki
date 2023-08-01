@@ -9,7 +9,7 @@ description : ''
 ---
 # 慧作金牛星卧室系列吸顶灯
 
-华艺 | 2019/10/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.tau023/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.tau023&region=cn)
+华艺 | 2019/10/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.tau023) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.tau023&region=cn)
 
 ![huayi.light.tau023](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047652969rAqWMCbc.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NztOZqEADyNsQNA9aykAd8BQxTI=)
 

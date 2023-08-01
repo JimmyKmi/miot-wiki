@@ -9,7 +9,7 @@ description : ''
 ---
 # 慧作新风照明风扇吸顶灯
 
-华艺 | 2019/6/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.fanwy/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.fanwy&region=cn)
+华艺 | 2019/6/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.fanwy) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.fanwy&region=cn)
 
 ![huayi.light.fanwy](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070104846ZEI5ybmY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=azi4fHYrOdS8XtfWsMuE9FbXqic=)
 

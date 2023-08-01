@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米路由器CR8808
 
-小米/米家 | 2021/11/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.cr8808/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.cr8808&region=cn)
+小米/米家 | 2021/11/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.cr8808) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.cr8808&region=cn)
 
 ![xiaomi.router.cr8808](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9309d9656a4255d907dd671978ffa838_1627621611379.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5zqZpP1MSmwDtjoMCUcM4IHE7rs=)
 

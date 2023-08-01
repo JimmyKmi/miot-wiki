@@ -9,7 +9,7 @@ description : ''
 ---
 # 慧作天秤星浴霸Pro
 
-华艺 | 2020/5/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.bhf_light.libra/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.bhf_light.libra&region=cn)
+华艺 | 2020/5/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.bhf_light.libra) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.bhf_light.libra&region=cn)
 
 ![huayi.bhf_light.libra](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047653227mxwEhdqO.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gUP+UhpdEFOqn6z5su/fhKY2tp4=)
 

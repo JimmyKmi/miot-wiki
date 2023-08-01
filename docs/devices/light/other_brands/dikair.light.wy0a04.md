@@ -9,7 +9,7 @@ description : ''
 ---
 # 易唐智能灯
 
-其他品牌 | 2021/2/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dikair.light.wy0a04/) | [说明书](https://home.mi.com/views/introduction.html?model=dikair.light.wy0a04&region=cn)
+其他品牌 | 2021/2/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dikair.light.wy0a04) | [说明书](https://home.mi.com/views/introduction.html?model=dikair.light.wy0a04&region=cn)
 
 ![dikair.light.wy0a04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047842690yXYF74Jn.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=KcmQ8RTKT8OD5iOn3jJJ1qSuIv4=)
 

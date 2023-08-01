@@ -9,7 +9,7 @@ description : ''
 ---
 # 知吾煮电磁炉
 
-知吾煮 Chunmi | 2021/9/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.zwz03/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.zwz03&region=cn)
+知吾煮 Chunmi | 2021/9/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.zwz03) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.zwz03&region=cn)
 
 ![chunmi.ihcooker.zwz03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679067620703jgybR5RS.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=i3ICIn+/gDVrMtTRm2Pnua3aCH8=)
 

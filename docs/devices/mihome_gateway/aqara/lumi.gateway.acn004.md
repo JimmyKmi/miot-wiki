@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara网关 M1S 2022款
 
-绿米 Aqara | 2021/9/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.gateway.acn004/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.gateway.acn004&region=cn)
+绿米 Aqara | 2021/9/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.gateway.acn004) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.gateway.acn004&region=cn)
 
 ![lumi.gateway.acn004](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3a65d22ac775f52a299b3c039fd4b94c_1622171086056.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QOTQpcIsLiU58xwna9lMEL2EreY=)
 

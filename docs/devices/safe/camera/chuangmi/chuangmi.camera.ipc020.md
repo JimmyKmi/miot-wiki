@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能摄像机 户外云台版 N系列
 
-创米小白 | 2019/10/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.ipc020/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.ipc020&region=cn)
+创米小白 | 2019/10/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.ipc020) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.ipc020&region=cn)
 
 ![chuangmi.camera.ipc020](https://static.home.mi.com/app/image/get/file/developer_1563766427i5zteto5.png)
 

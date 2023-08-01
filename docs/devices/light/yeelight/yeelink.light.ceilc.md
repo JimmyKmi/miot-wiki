@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 氛围吸顶灯
 
-易来 Yeelight | 2022/6/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceilc/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceilc&region=cn)
+易来 Yeelight | 2022/6/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ceilc) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ceilc&region=cn)
 
 ![yeelink.light.ceilc](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047769047KU8j2Csu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PxBRIZPulQ7nviRkTTRgYKTPmMw=)
 

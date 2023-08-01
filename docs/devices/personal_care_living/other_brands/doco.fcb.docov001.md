@@ -9,7 +9,7 @@ description : ''
 ---
 # DOCO 微电流精华导入美容仪
 
-其他品牌 | 2020/3/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=doco.fcb.docov001/) | [说明书](https://home.mi.com/views/introduction.html?model=doco.fcb.docov001&region=cn)
+其他品牌 | 2020/3/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=doco.fcb.docov001) | [说明书](https://home.mi.com/views/introduction.html?model=doco.fcb.docov001&region=cn)
 
 ![doco.fcb.docov001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790476136072HFyC3uR.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AqeQEPRMAeZReiC5yKn9YlvUNMM=)
 

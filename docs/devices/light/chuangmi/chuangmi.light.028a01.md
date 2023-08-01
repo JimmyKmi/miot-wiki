@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能看护灯
 
-创米小白 | 2020/11/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.light.028a01/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.light.028a01&region=cn)
+创米小白 | 2020/11/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.light.028a01) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.light.028a01&region=cn)
 
 ![chuangmi.light.028a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048479212ZgB20jxg.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aU17Srg3JRjvJyWzd+iNKeIYHgQ=)
 

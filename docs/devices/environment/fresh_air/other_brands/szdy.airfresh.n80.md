@@ -9,7 +9,7 @@ description : ''
 ---
 # 碧家新风机
 
-其他品牌 | 2019/10/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=szdy.airfresh.n80/) | [说明书](https://home.mi.com/views/introduction.html?model=szdy.airfresh.n80&region=cn)
+其他品牌 | 2019/10/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=szdy.airfresh.n80) | [说明书](https://home.mi.com/views/introduction.html?model=szdy.airfresh.n80&region=cn)
 
 ![szdy.airfresh.n80](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047653075GejG85xJ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DGL8ItFyo+23Q/2dspAQXs4oOpw=)
 

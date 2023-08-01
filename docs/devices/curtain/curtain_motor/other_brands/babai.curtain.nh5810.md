@@ -9,7 +9,7 @@ description : ''
 ---
 # 南虎(NanHoo)智能窗帘
 
-其他品牌 | 2019/12/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.nh5810/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.nh5810&region=cn)
+其他品牌 | 2019/12/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.nh5810) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.nh5810&region=cn)
 
 ![babai.curtain.nh5810](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1572938243178TpWRrGSV.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Vgdl4hUejU5CPVH/IQlJXhZGyGA=)
 

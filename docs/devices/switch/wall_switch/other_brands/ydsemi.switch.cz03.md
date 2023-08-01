@@ -9,7 +9,7 @@ description : ''
 ---
 # 智悦智能插座
 
-其他品牌 | 2022/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydsemi.switch.cz03/) | [说明书](https://home.mi.com/views/introduction.html?model=ydsemi.switch.cz03&region=cn)
+其他品牌 | 2022/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ydsemi.switch.cz03) | [说明书](https://home.mi.com/views/introduction.html?model=ydsemi.switch.cz03&region=cn)
 
 ![ydsemi.switch.cz03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d7a01714bf381b556ead7ca409e73a51_1655882346812.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Wm8IdbRJk34guhdyxS9utngTPrk=)
 

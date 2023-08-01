@@ -9,7 +9,7 @@ description : ''
 ---
 # 佳尼特电热水器CTE-X1
 
-佳尼特 Smith | 2021/6/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smith.waterheater.x1/) | [说明书](https://home.mi.com/views/introduction.html?model=smith.waterheater.x1&region=cn)
+佳尼特 Smith | 2021/6/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smith.waterheater.x1) | [说明书](https://home.mi.com/views/introduction.html?model=smith.waterheater.x1&region=cn)
 
 ![smith.waterheater.x1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/888c8082653666740facd3ab0ae56bac_图片1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aZGuA/YkVmoPJamQjxna86YwTLQ=)
 

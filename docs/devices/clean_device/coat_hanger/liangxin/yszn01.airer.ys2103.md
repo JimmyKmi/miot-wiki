@@ -9,7 +9,7 @@ description : ''
 ---
 # 晾芯M1智能电动晾衣机
 
-晾芯 | 2022/2/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yszn01.airer.ys2103/) | [说明书](https://home.mi.com/views/introduction.html?model=yszn01.airer.ys2103&region=cn)
+晾芯 | 2022/2/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yszn01.airer.ys2103) | [说明书](https://home.mi.com/views/introduction.html?model=yszn01.airer.ys2103&region=cn)
 
 ![yszn01.airer.ys2103](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f5b654b41ae78fd3728b646c5390bfff_1635758948830.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=n3jX//JyPHgJwhSXscq5IiLM5DA=)
 

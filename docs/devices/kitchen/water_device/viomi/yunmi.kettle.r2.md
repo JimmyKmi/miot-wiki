@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米智能即热饮水吧（MINI）
 
-云米 Viomi | 2018/8/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.kettle.r2/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.kettle.r2&region=cn)
+云米 Viomi | 2018/8/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.kettle.r2) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.kettle.r2&region=cn)
 
 ![yunmi.kettle.r2](https://static.home.mi.com/app/image/get/file/developer_1527921207c67k9rl8.png)
 

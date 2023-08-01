@@ -9,7 +9,7 @@ description : '高灵敏度模式、3年超长续航'
 ---
 # 小米人体传感器2S
 
-小米/米家 | 2023/8/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.motion.pir1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.motion.pir1&region=cn)
+小米/米家 | 2023/8/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.motion.pir1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.motion.pir1&region=cn)
 
 ![xiaomi.motion.pir1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d0be98f0495d12eaaf10b726393921fd_1680164909734.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=D5DqnGYi7ZWjuGsn980JZsZnQt0=)
 

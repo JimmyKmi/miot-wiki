@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普全面屏开关
 
-领普 | 2022/4/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.s1/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.s1&region=cn)
+领普 | 2022/4/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.switch.s1) | [说明书](https://home.mi.com/views/introduction.html?model=linp.switch.s1&region=cn)
 
 ![linp.switch.s1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/31345cf569f8fec1570ab0fc0aaa3802_1646037996681.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=M9+tG82ax1RED+oyBJtgfjfPquc=)
 

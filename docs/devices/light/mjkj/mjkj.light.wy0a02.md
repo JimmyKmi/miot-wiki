@@ -9,7 +9,7 @@ description : ''
 ---
 # 即米智能磁吸灯
 
-即米 | 2023/2/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mjkj.light.wy0a02/) | [说明书](https://home.mi.com/views/introduction.html?model=mjkj.light.wy0a02&region=cn)
+即米 | 2023/2/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mjkj.light.wy0a02) | [说明书](https://home.mi.com/views/introduction.html?model=mjkj.light.wy0a02&region=cn)
 
 ![mjkj.light.wy0a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c7a3897515676421527acd71868f626a_1671256248567.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XrNsQpBT93EXW7T2hdOuEyb73zs=)
 

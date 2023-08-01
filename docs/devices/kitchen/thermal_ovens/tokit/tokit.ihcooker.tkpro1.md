@@ -9,7 +9,7 @@ description : ''
 ---
 # TOKIT 智能热敏炉
 
-TOKIT | 2019/3/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.ihcooker.tkpro1/) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.ihcooker.tkpro1&region=cn)
+TOKIT | 2019/3/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tokit.ihcooker.tkpro1) | [说明书](https://home.mi.com/views/introduction.html?model=tokit.ihcooker.tkpro1&region=cn)
 
 ![tokit.ihcooker.tkpro1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870890710H5zFdR3J.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qdZMDFuYdfysL4CSBPb9ZGqhZgI=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 霍曼头等舱净味盒
 
-其他品牌 | 2020/1/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huoman.litter_box.co1/) | [说明书](https://home.mi.com/views/introduction.html?model=huoman.litter_box.co1&region=cn)
+其他品牌 | 2020/1/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huoman.litter_box.co1) | [说明书](https://home.mi.com/views/introduction.html?model=huoman.litter_box.co1&region=cn)
 
 ![huoman.litter_box.co1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047687352sO1msWVU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qS+IHkAs6kxQTiZHdEH8KuKwb9I=)
 

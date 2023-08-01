@@ -9,7 +9,7 @@ description : ''
 ---
 # 盼盼智能电动晾衣架
 
-盼盼 PANPAN | 2022/10/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yszn01.airer.pp01/) | [说明书](https://home.mi.com/views/introduction.html?model=yszn01.airer.pp01&region=cn)
+盼盼 PANPAN | 2022/10/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yszn01.airer.pp01) | [说明书](https://home.mi.com/views/introduction.html?model=yszn01.airer.pp01&region=cn)
 
 ![yszn01.airer.pp01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cd811b87b9f06341be361bd0c158ddc0_1663834308206.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BhjDXRVKq9GKtv7NoC6QNYNLzYI=)
 

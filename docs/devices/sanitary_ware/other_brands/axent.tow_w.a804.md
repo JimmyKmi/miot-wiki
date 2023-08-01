@@ -9,7 +9,7 @@ description : ''
 ---
 # AXENT和煦电热毛巾架
 
-其他品牌 | 2021/12/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=axent.tow_w.a804/) | [说明书](https://home.mi.com/views/introduction.html?model=axent.tow_w.a804&region=cn)
+其他品牌 | 2021/12/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=axent.tow_w.a804) | [说明书](https://home.mi.com/views/introduction.html?model=axent.tow_w.a804&region=cn)
 
 ![axent.tow_w.a804](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4c49bc47a85ad18b5bd9ecf66d345497_1635748059224.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=K5dW8kJEy+Sjz0IqIqIevvx/Sm0=)
 

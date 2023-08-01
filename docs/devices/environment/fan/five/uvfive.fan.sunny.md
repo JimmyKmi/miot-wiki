@@ -9,7 +9,7 @@ description : ''
 ---
 # FIVEHOME智能空气循环扇
 
-FIVE | 2023/3/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uvfive.fan.sunny/) | [说明书](https://home.mi.com/views/introduction.html?model=uvfive.fan.sunny&region=cn)
+FIVE | 2023/3/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=uvfive.fan.sunny) | [说明书](https://home.mi.com/views/introduction.html?model=uvfive.fan.sunny&region=cn)
 
 ![uvfive.fan.sunny](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/828bbefd81792cb0c9173fda8552ccd6_1676876003746.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UMb7+45Nd3tBUZtUbp2bNs0wOJk=)
 

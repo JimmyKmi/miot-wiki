@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能晾衣架PRO
 
-雷士 | 2021/5/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.airer.lyj001/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.airer.lyj001&region=cn)
+雷士 | 2021/5/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.airer.lyj001) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.airer.lyj001&region=cn)
 
 ![leishi.airer.lyj001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9171ed275801ab10c11f25d71f53492e_晾衣架-168x168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ThNjfaX0oYtqGguSRm8868TQYGs=)
 

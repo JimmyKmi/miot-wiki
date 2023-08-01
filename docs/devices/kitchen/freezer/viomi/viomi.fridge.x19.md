@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米冰箱21Face（对开门635L）
 
-云米 Viomi | 2020/9/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x19/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x19&region=cn)
+云米 Viomi | 2020/9/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.x19) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.x19&region=cn)
 
 ![viomi.fridge.x19](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1597303980891W8O6ZA0O.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ERD725s2hJTbFyFfTKjCi6hIxJs=)
 

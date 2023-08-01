@@ -9,7 +9,7 @@ description : ''
 ---
 # 峰米 R1 Nano 超短焦激光投影仪
 
-峰米 Fengmi | 2021/11/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.055fc/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.055fc&region=cn)
+峰米 Fengmi | 2021/11/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.055fc) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.055fc&region=cn)
 
 ![fengmi.projector.055fc](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f74b317f65c98d007263181689e19bf7_1632452301909.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0+It04MwBiChLrx29N8lebc4QZ0=)
 

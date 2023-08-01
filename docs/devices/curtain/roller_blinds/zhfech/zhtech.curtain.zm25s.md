@@ -9,7 +9,7 @@ description : ''
 ---
 # 智皇智能卷帘电机
 
-智皇科技 | 2022/4/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhtech.curtain.zm25s/) | [说明书](https://home.mi.com/views/introduction.html?model=zhtech.curtain.zm25s&region=cn)
+智皇科技 | 2022/4/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhtech.curtain.zm25s) | [说明书](https://home.mi.com/views/introduction.html?model=zhtech.curtain.zm25s&region=cn)
 
 ![zhtech.curtain.zm25s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/26913f135d4f7789933925cc17bddd31_1646013416929.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cdhAq/1MPUzBmwiCJz10OB5gFzs=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 即乘COB筒射灯 蓝牙MESH版
 
-即乘 | 2022/12/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zsjc.light.wy0b02/) | [说明书](https://home.mi.com/views/introduction.html?model=zsjc.light.wy0b02&region=cn)
+即乘 | 2022/12/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zsjc.light.wy0b02) | [说明书](https://home.mi.com/views/introduction.html?model=zsjc.light.wy0b02&region=cn)
 
 ![zsjc.light.wy0b02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a7c013d5b0bc7cc343bedd54b3d34049_1671675698790.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RSKlM87Bjxi817xLmOS9HW1xBd0=)
 

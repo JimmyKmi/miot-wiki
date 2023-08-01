@@ -9,7 +9,7 @@ description : ''
 ---
 # 石头自清洁扫拖机器人G20
 
-石头 Roborock | 2023/3/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.a69/) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.a69&region=cn)
+石头 Roborock | 2023/3/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=roborock.vacuum.a69) | [说明书](https://home.mi.com/views/introduction.html?model=roborock.vacuum.a69&region=cn)
 
 ![roborock.vacuum.a69](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/afd1b747e33eef6ec2984fc162981109_1675670638649.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vMBOpn98LPaPN5Hn359G0fgzPjU=)
 

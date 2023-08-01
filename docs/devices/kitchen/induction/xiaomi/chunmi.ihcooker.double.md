@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家双口电磁炉
 
-小米/米家 | 2020/12/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.double/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.double&region=cn)
+小米/米家 | 2020/12/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.ihcooker.double) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.ihcooker.double&region=cn)
 
 ![chunmi.ihcooker.double](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071135157KndexFba.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=p99mIUnuUOph5KKU1DFeIJ/ooy4=)
 

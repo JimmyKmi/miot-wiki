@@ -9,7 +9,7 @@ description : ''
 ---
 # 智睿吸顶灯 流萤 客厅80W
 
-飞利浦 | 2020/4/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.sceil/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.sceil&region=cn)
+飞利浦 | 2020/4/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.sceil) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.sceil&region=cn)
 
 ![philips.light.sceil](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047724468o6DDbHWU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dCVXqzwsSpgszUlKGZbWGdRlfdk=)
 

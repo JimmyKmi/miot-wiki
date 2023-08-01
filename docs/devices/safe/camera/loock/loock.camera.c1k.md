@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客智能看护AI摄像机
 
-鹿客 Loock | 2023/2/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.camera.c1k/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.camera.c1k&region=cn)
+鹿客 Loock | 2023/2/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.camera.c1k) | [说明书](https://home.mi.com/views/introduction.html?model=loock.camera.c1k&region=cn)
 
 ![loock.camera.c1k](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/35b86c07878b48ea5642f5431e6b12ff_1673446882576.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=l/Lwtw54b46ADMM0e06ilDzz31Q=)
 

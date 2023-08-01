@@ -9,7 +9,7 @@ description : ''
 ---
 # 伟伽桦智能眼部按摩仪
 
-伟伽桦 | 2023/3/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wjh.magic_touch.yb01/) | [说明书](https://home.mi.com/views/introduction.html?model=wjh.magic_touch.yb01&region=cn)
+伟伽桦 | 2023/3/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=wjh.magic_touch.yb01) | [说明书](https://home.mi.com/views/introduction.html?model=wjh.magic_touch.yb01&region=cn)
 
 ![wjh.magic_touch.yb01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cc6ff3b42518a0852af32efd254920a5_1678419678250.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=N58lQuAF5eqtOPNSa0ARpYI2ndo=)
 

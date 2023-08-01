@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智能插座WP5
 
-Gosund / 电小酷 | 2021/12/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.wp5/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.wp5&region=cn)
+Gosund / 电小酷 | 2021/12/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.wp5) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.wp5&region=cn)
 
 ![cuco.plug.wp5](https://static.home.mi.com/app/image/get/file/developer_15480633240zxst3j5.png)
 

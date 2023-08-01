@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight S21 全面屏开关
 
-易来 Yeelight | 2021/1/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.controller.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.controller.v2&region=cn)
+易来 Yeelight | 2021/1/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.controller.v2) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.controller.v2&region=cn)
 
 ![yeelink.controller.v2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5a75194c52d6b80fefba4f665d71ca9c_产品拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QUok06hGgHOGK6wX0AwdK4O1qvE=)
 

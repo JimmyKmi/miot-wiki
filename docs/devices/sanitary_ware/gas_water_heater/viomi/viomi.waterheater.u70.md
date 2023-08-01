@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI燃气热水器 Super Pro
 
-云米 Viomi | 2023/4/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u70/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u70&region=cn)
+云米 Viomi | 2023/4/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u70) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u70&region=cn)
 
 ![viomi.waterheater.u70](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d1175f5c78cad3cfda461ae5b98b324c_1677662105794.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Rl9zLnO392vytJHjjMIlNqcVaNI=)
 

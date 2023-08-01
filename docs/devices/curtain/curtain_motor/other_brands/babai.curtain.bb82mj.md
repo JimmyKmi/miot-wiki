@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能窗帘
 
-其他品牌 | 2019/12/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.bb82mj/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.bb82mj&region=cn)
+其他品牌 | 2019/12/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.curtain.bb82mj) | [说明书](https://home.mi.com/views/introduction.html?model=babai.curtain.bb82mj&region=cn)
 
 ![babai.curtain.bb82mj](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15729452433634mRsGBjb.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QEtz1Mv3qjK1hsZ2XmXWcgKL5Ns=)
 

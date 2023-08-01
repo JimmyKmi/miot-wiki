@@ -9,7 +9,7 @@ description : ''
 ---
 # 宏盛远智能晾衣架
 
-小匠 | 2023/4/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syi.airer.hsy01/) | [说明书](https://home.mi.com/views/introduction.html?model=syi.airer.hsy01&region=cn)
+小匠 | 2023/4/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syi.airer.hsy01) | [说明书](https://home.mi.com/views/introduction.html?model=syi.airer.hsy01&region=cn)
 
 ![syi.airer.hsy01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1724e238ec2d7ea3e73a4464c3af5f40_1668666228155.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ppSDUOlGVaCUoCfbKdY+Maza5Bw=)
 

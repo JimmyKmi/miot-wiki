@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网冰箱iLive(对开门456L)升级版
 
-云米 Viomi | 2021/3/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u46/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u46&region=cn)
+云米 Viomi | 2021/3/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u46) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u46&region=cn)
 
 ![viomi.fridge.u46](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047840998clDFe9GP.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=q7eBcJQAeJCYGHoFaZRs0+Om9cc=)
 

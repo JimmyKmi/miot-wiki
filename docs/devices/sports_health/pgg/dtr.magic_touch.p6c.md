@@ -9,7 +9,7 @@ description : ''
 ---
 # PGG智能颈椎按摩仪P6
 
-PGG | 2022/5/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dtr.magic_touch.p6c/) | [说明书](https://home.mi.com/views/introduction.html?model=dtr.magic_touch.p6c&region=cn)
+PGG | 2022/5/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dtr.magic_touch.p6c) | [说明书](https://home.mi.com/views/introduction.html?model=dtr.magic_touch.p6c&region=cn)
 
 ![dtr.magic_touch.p6c](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2a93b48e1d58b8240e1c917e17cf4a24_1645771535410.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aeJWo2VDpMfASZF+GRwwoJsy81c=)
 

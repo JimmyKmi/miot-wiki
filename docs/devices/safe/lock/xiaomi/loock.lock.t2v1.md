@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能门锁 M20
 
-小米/米家 | 2022/6/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.t2v1/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.t2v1&region=cn)
+小米/米家 | 2022/6/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.t2v1) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.t2v1&region=cn)
 
 ![loock.lock.t2v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4f3812571d8f4c89a82e61a030fa7d68_1644476925523.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cU1YqmggGEaj0/m8jFspfHiUFPM=)
 

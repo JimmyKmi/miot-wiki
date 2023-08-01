@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能摄像机 户外云台版N4
 
-创米小白 | 2021/5/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.042a02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.042a02&region=cn)
+创米小白 | 2021/5/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.042a02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.042a02&region=cn)
 
 ![chuangmi.camera.042a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7679a8a91f445d5b1d931bb13786cf75_1620986071348.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4AdK1oacVjO/JRZ3xektKygOE9Q=)
 

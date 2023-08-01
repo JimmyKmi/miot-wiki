@@ -9,7 +9,7 @@ description : ''
 ---
 # 好易点智能晾衣机-简约款2
 
-好易点 | 2021/6/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyd.airer.h51a/) | [说明书](https://home.mi.com/views/introduction.html?model=hyd.airer.h51a&region=cn)
+好易点 | 2021/6/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyd.airer.h51a) | [说明书](https://home.mi.com/views/introduction.html?model=hyd.airer.h51a&region=cn)
 
 ![hyd.airer.h51a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070061187UxTlL71H.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=JyOG2vI5oc7SlKDTG70BJ3iTJaY=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能多模网关2
 
-小米/米家 | 2022/8/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.gateway.mcn001/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.gateway.mcn001&region=cn)
+小米/米家 | 2022/8/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.gateway.mcn001) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.gateway.mcn001&region=cn)
 
 ![lumi.gateway.mcn001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4a5195cd6b7a4681cafd18489631ac54_1651133561465.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NmxDFkG8A0Ed6I+L4Fl0hAmMLhA=)
 

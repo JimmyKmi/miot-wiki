@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight LED 彩光灯带1S
 
-易来 Yeelight | 2020/6/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.strip6/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.strip6&region=cn)
+易来 Yeelight | 2020/6/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.strip6) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.strip6&region=cn)
 
 ![yeelink.light.strip6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790711196048v76HJVO.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=F064qLMWV059uQHc4Z3n19M5h+8=)
 

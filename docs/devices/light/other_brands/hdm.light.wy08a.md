@@ -9,7 +9,7 @@ description : ''
 ---
 # 哈达曼智能LED吸顶灯
 
-其他品牌 | 2019/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hdm.light.wy08a/) | [说明书](https://home.mi.com/views/introduction.html?model=hdm.light.wy08a&region=cn)
+其他品牌 | 2019/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hdm.light.wy08a) | [说明书](https://home.mi.com/views/introduction.html?model=hdm.light.wy08a&region=cn)
 
 ![hdm.light.wy08a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047654387rlrWL2d1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=e+M0F7dSyKpUZEA4Zr9UtgYf6ZI=)
 

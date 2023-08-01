@@ -9,7 +9,7 @@ description : ''
 ---
 # 亲天K1-MI声波电动牙刷
 
-亲天 | 2023/2/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xjyd.toothbrush.k1/) | [说明书](https://home.mi.com/views/introduction.html?model=xjyd.toothbrush.k1&region=cn)
+亲天 | 2023/2/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xjyd.toothbrush.k1) | [说明书](https://home.mi.com/views/introduction.html?model=xjyd.toothbrush.k1&region=cn)
 
 ![xjyd.toothbrush.k1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2ad1a839b83c080e2e755b088e552295_1675137926755.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=64mmlvub7lvGZBlpmkaHCc+VLAc=)
 

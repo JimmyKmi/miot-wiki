@@ -9,7 +9,7 @@ description : ''
 ---
 # 四键智能开关（零火mesh）
 
-其他品牌 | 2022/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyzngc.switch.zm0604/) | [说明书](https://home.mi.com/views/introduction.html?model=hyzngc.switch.zm0604&region=cn)
+其他品牌 | 2022/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyzngc.switch.zm0604) | [说明书](https://home.mi.com/views/introduction.html?model=hyzngc.switch.zm0604&region=cn)
 
 ![hyzngc.switch.zm0604](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/99e987fc0d58d4b199f09fb4712b5363_1661830263756.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LZMt/LfICxHCkBi1cj597iSsY+w=)
 

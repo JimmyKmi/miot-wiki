@@ -9,7 +9,7 @@ description : ''
 ---
 # MIANCHU免触传感器
 
-免触 | 2023/2/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mipin.motion.mc1/) | [说明书](https://home.mi.com/views/introduction.html?model=mipin.motion.mc1&region=cn)
+免触 | 2023/2/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mipin.motion.mc1) | [说明书](https://home.mi.com/views/introduction.html?model=mipin.motion.mc1&region=cn)
 
 ![mipin.motion.mc1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/688ae9e434052154cb6dfdc96f94cb33_1671716814455.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bcfxyM9OHIT7+SCZrXP334r7ONY=)
 

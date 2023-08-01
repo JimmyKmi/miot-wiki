@@ -9,7 +9,7 @@ description : ''
 ---
 # VINO智能变频除湿机 30L
 
-VINO | 2022/11/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aden.derh.vsid30/) | [说明书](https://home.mi.com/views/introduction.html?model=aden.derh.vsid30&region=cn)
+VINO | 2022/11/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=aden.derh.vsid30) | [说明书](https://home.mi.com/views/introduction.html?model=aden.derh.vsid30&region=cn)
 
 ![aden.derh.vsid30](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dc24c87360c9c448679704d4d8984410_1669005725679.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ifFWaq67WqKMb9h4XDxJRp54IxQ=)
 

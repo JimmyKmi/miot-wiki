@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能晾衣机Smart
 
-云米 Viomi | 2022/8/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.ich110/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.ich110&region=cn)
+云米 Viomi | 2022/8/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.ich110) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.ich110&region=cn)
 
 ![viomi.airer.ich110](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f7300fb4a7b6c160e84197fbb79ed8b1_1656666674947.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=rMjIJKHQMgyZLyTeQshuphF7R/8=)
 

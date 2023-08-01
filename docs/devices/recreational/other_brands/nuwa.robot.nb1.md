@@ -9,7 +9,7 @@ description : ''
 ---
 # 女媧機器人二代
 
-其他品牌 | 2020/9/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nuwa.robot.nb1/) | [说明书](https://home.mi.com/views/introduction.html?model=nuwa.robot.nb1&region=cn)
+其他品牌 | 2020/9/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nuwa.robot.nb1) | [说明书](https://home.mi.com/views/introduction.html?model=nuwa.robot.nb1&region=cn)
 
 ![nuwa.robot.nb1](https://static.home.mi.com/app/image/get/file/developer_1574825625iitjns08.png)
 

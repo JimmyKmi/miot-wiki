@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普智能灯带
 
-领普 | 2022/8/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.light.lscw01/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.light.lscw01&region=cn)
+领普 | 2022/8/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.light.lscw01) | [说明书](https://home.mi.com/views/introduction.html?model=linp.light.lscw01&region=cn)
 
 ![linp.light.lscw01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/56fced77a0856fb311e1db5ac60b3ca3_1657291519710.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=BkQm+Mx83Cdy61tb6F3kUlHDaC0=)
 

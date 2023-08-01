@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米AI音箱
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.s12/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.s12&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.s12) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.s12&region=cn)
 
 ![xiaomi.wifispeaker.s12](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870889162ozE8uxXU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Vx9g/q0NB5eK7oxtCETDSCzww24=)
 

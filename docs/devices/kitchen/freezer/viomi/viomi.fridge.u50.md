@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能冰箱iLive2(十字四门518L)语音版
 
-云米 Viomi | 2021/10/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u50/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u50&region=cn)
+云米 Viomi | 2021/10/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u50) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u50&region=cn)
 
 ![viomi.fridge.u50](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_167906873721246JtfRjQ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6gPYgruOCoEVm25/lH+/nw8vhQo=)
 

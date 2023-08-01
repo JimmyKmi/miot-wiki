@@ -9,7 +9,7 @@ description : ''
 ---
 # 西顿26系列智能射灯
 
-西顿 Cdn | 2021/6/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.light.wy0a01&region=cn)
+西顿 Cdn | 2021/6/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.light.wy0a01&region=cn)
 
 ![cdn.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f9d81f995a97eff37dd8cff17b7d2fbc_26系列（168）.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=viMfhkxhVS/jcjOHgRGKc0nZMmg=)
 

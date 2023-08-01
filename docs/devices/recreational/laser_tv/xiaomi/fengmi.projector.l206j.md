@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米激光影院2 4K
 
-小米/米家 | 2021/10/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l206j/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l206j&region=cn)
+小米/米家 | 2021/10/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.l206j) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.l206j&region=cn)
 
 ![fengmi.projector.l206j](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048938769bZzHP2uw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=etHP3sytUwdTiEKT9qjtoiFyZ0s=)
 

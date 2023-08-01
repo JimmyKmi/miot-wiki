@@ -9,7 +9,7 @@ description : ''
 ---
 # 青萍蓝牙小钟
 
-青萍 | 2021/5/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cgllc.clock.cgc1/) | [说明书](https://home.mi.com/views/introduction.html?model=cgllc.clock.cgc1&region=cn)
+青萍 | 2021/5/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cgllc.clock.cgc1) | [说明书](https://home.mi.com/views/introduction.html?model=cgllc.clock.cgc1&region=cn)
 
 ![cgllc.clock.cgc1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047768158oa31jNhn.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8U7XSbbyqBrrllMNMKZifIwIUxI=)
 

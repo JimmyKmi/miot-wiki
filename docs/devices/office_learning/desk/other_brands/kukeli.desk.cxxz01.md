@@ -9,7 +9,7 @@ description : ''
 ---
 # 酷可立电动学习桌
 
-其他品牌 | 2022/9/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kukeli.desk.cxxz01/) | [说明书](https://home.mi.com/views/introduction.html?model=kukeli.desk.cxxz01&region=cn)
+其他品牌 | 2022/9/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kukeli.desk.cxxz01) | [说明书](https://home.mi.com/views/introduction.html?model=kukeli.desk.cxxz01&region=cn)
 
 ![kukeli.desk.cxxz01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/36fd07d562dc1727527de0aee347814e_1654419360775.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vp2asyaOEpmPjVJjPI8DFN9+yk8=)
 

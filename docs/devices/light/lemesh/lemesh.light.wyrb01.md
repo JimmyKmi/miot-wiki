@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景mesh氛围色温灯
 
-情景mesh芯片 | 2022/10/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wyrb01/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wyrb01&region=cn)
+情景mesh芯片 | 2022/10/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.light.wyrb01) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.light.wyrb01&region=cn)
 
 ![lemesh.light.wyrb01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/476c407070adcbe4755825201e4c3f96_1662110424864.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oJirKLGF/63Pj4AvShAUE/Q/JvU=)
 

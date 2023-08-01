@@ -9,7 +9,7 @@ description : ''
 ---
 # 四位单火Mesh开关
 
-Topwit | 2022/12/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.switch.rzw05/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.switch.rzw05&region=cn)
+Topwit | 2022/12/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.switch.rzw05) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.switch.rzw05&region=cn)
 
 ![topwit.switch.rzw05](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a9c2f02160c2b893e3eaee58fb9ce827_1663893896266.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ZZtn0FDDO8km7cNGWXaldMOF5zM=)
 

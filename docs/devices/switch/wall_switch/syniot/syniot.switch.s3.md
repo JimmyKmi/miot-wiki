@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能开关三位
 
-居意 | 2020/3/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.switch.s3/) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.switch.s3&region=cn)
+居意 | 2020/3/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.switch.s3) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.switch.s3&region=cn)
 
 ![syniot.switch.s3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1582350997582RfaVmsPC.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=h/f3COo/dGDi00o1hVFCKi1Fh9s=)
 

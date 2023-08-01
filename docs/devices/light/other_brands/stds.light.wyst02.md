@@ -9,7 +9,7 @@ description : ''
 ---
 # 胜腾吸顶灯
 
-其他品牌 | 2019/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=stds.light.wyst02/) | [说明书](https://home.mi.com/views/introduction.html?model=stds.light.wyst02&region=cn)
+其他品牌 | 2019/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=stds.light.wyst02) | [说明书](https://home.mi.com/views/introduction.html?model=stds.light.wyst02&region=cn)
 
 ![stds.light.wyst02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047654981NdtUOoSr.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=5fRRjvrO3yCkAbz8KUL3L9g7qWA=)
 

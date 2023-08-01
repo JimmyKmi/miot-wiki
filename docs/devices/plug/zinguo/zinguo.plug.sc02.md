@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能定时器
 
-峥果 | 2022/8/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.plug.sc02/) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.plug.sc02&region=cn)
+峥果 | 2022/8/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zinguo.plug.sc02) | [说明书](https://home.mi.com/views/introduction.html?model=zinguo.plug.sc02&region=cn)
 
 ![zinguo.plug.sc02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0d38287c9e13fd99abf121fb94ee55dd_1658302334147.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=x66f/qKE5/x+o/QHAgdclZ1TOa0=)
 

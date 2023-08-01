@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米磁吸灯Pro
 
-苏米 | 2023/3/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a11/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a11&region=cn)
+苏米 | 2023/3/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.light.wy0a11) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.light.wy0a11&region=cn)
 
 ![xhuan.light.wy0a11](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/10d45bf7c39018d32c96f6e686819dbb_1670487965273.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DQ9+t5xlQ/y2PQ/GW5GZgkA0tSc=)
 

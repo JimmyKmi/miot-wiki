@@ -9,7 +9,7 @@ description : ''
 ---
 # 8H Feel生态皮智能电动床F系列
 
-8H | 2023/2/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.bed.010s/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.bed.010s&region=cn)
+8H | 2023/2/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.bed.010s) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.bed.010s&region=cn)
 
 ![qushui.bed.010s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a9c22396e07ef7e8b6f9bde51e6e383e_1672737382039.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=n2vUEICu8+460kiYTI81bxtXoZc=)
 

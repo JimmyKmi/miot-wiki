@@ -9,7 +9,7 @@ description : ''
 ---
 # 直驱 | 米家滚筒洗衣机 尊享版 10kg
 
-小米/米家 | 2023/6/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mibx5.washer.v13/) | [说明书](https://home.mi.com/views/introduction.html?model=mibx5.washer.v13&region=cn)
+小米/米家 | 2023/6/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mibx5.washer.v13) | [说明书](https://home.mi.com/views/introduction.html?model=mibx5.washer.v13&region=cn)
 
 ![mibx5.washer.v13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6d101dec2b4ec5080241781883467117_1680837556043.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=u+s/4GQ5VC2nHgXRPxinBhC6uL8=)
 

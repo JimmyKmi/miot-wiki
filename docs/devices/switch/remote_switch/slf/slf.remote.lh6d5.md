@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐六键零火场景开关（D5）
 
-智拉斐 | 2022/8/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.remote.lh6d5/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.remote.lh6d5&region=cn)
+智拉斐 | 2022/8/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.remote.lh6d5) | [说明书](https://home.mi.com/views/introduction.html?model=slf.remote.lh6d5&region=cn)
 
 ![slf.remote.lh6d5](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6d221d2d284979a0bb512de8a5e1969f_1656055022298.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QCIs6SXMTa4vw73okl/YGuUF0bU=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # V5智能色温灯（WiFi）
 
-其他品牌 | 2023/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.light.v5ssw/) | [说明书](https://home.mi.com/views/introduction.html?model=giot.light.v5ssw&region=cn)
+其他品牌 | 2023/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.light.v5ssw) | [说明书](https://home.mi.com/views/introduction.html?model=giot.light.v5ssw&region=cn)
 
 ![giot.light.v5ssw](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/27e94ff6b550854b00a4f154b14707d9_1668156736438.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WEUFEWU/KB2qYII8P1oovXrMmpY=)
 

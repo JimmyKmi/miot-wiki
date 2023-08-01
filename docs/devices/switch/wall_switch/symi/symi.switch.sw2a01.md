@@ -9,7 +9,7 @@ description : ''
 ---
 # 亖米二键开关mesh版
 
-亖米 | 2022/8/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.switch.sw2a01/) | [说明书](https://home.mi.com/views/introduction.html?model=symi.switch.sw2a01&region=cn)
+亖米 | 2022/8/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.switch.sw2a01) | [说明书](https://home.mi.com/views/introduction.html?model=symi.switch.sw2a01&region=cn)
 
 ![symi.switch.sw2a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4cde1db7709716b42e351e25d8cdb5c6_1655352670870.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=l/C8jZL+thNJd2UsxOV38a9ArfU=)
 

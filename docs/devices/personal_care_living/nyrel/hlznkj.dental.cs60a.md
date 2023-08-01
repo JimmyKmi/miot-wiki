@@ -9,7 +9,7 @@ description : ''
 ---
 # 奈帕智能电动冲牙器CS60A
 
-Nyrel | 2023/3/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hlznkj.dental.cs60a/) | [说明书](https://home.mi.com/views/introduction.html?model=hlznkj.dental.cs60a&region=cn)
+Nyrel | 2023/3/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hlznkj.dental.cs60a) | [说明书](https://home.mi.com/views/introduction.html?model=hlznkj.dental.cs60a&region=cn)
 
 ![hlznkj.dental.cs60a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6ce36bb8d92c658614825f663624b0ed_1676605566158.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yQWk04Mwael9WgBsysSXR30BAU8=)
 

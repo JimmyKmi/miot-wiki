@@ -9,7 +9,7 @@ description : ''
 ---
 # 慧作良辰吸顶灯(蓝牙Mesh版)
 
-华艺 | 2020/11/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy200/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy200&region=cn)
+华艺 | 2020/11/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.wy200) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.wy200&region=cn)
 
 ![huayi.light.wy200](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047724589l7lLP84K.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2skAComnUZZbcn823SyejUvCAdk=)
 

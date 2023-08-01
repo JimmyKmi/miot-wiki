@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普蓝牙无线开关（三键）
 
-领普 | 2021/5/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.remote.k9b/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.remote.k9b&region=cn)
+领普 | 2021/5/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.remote.k9b) | [说明书](https://home.mi.com/views/introduction.html?model=linp.remote.k9b&region=cn)
 
 ![linp.remote.k9b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d7cf173336533909d59ba9eb685a48e4_拟物图标常态（三键）.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=+bePZmmXuKdGbHSkwNL/8bvSjhg=)
 

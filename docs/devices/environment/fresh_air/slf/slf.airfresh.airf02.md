@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐旋钮新风温控器（HR7）
 
-智拉斐 | 2022/5/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.airfresh.airf02/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.airfresh.airf02&region=cn)
+智拉斐 | 2022/5/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.airfresh.airf02) | [说明书](https://home.mi.com/views/introduction.html?model=slf.airfresh.airf02&region=cn)
 
 ![slf.airfresh.airf02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8510a6fa2df27fc2cbc195d5449c1152_1651634552791.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=s8a1Zsdf37jSnKWgQ8kUeQmhjSY=)
 

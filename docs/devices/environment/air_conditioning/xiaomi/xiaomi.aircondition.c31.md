@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家空调 自然风（鎏金版 2匹 新三级能效）
 
-小米/米家 | 2022/9/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c31/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c31&region=cn)
+小米/米家 | 2022/9/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c31) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c31&region=cn)
 
 ![xiaomi.aircondition.c31](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/96c50f01c06bca4e0bcdc758c00bf09a_1662105782586.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YyFEJc1O3qLw1A7V6UdyGvzb4YA=)
 

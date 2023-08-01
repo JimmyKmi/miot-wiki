@@ -9,7 +9,7 @@ description : ''
 ---
 # Jiuhao电脑开机卡(MESH)
 
-久豪 Jiuhao | 2023/6/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cddz.plug.pc01m/) | [说明书](https://home.mi.com/views/introduction.html?model=cddz.plug.pc01m&region=cn)
+久豪 Jiuhao | 2023/6/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cddz.plug.pc01m) | [说明书](https://home.mi.com/views/introduction.html?model=cddz.plug.pc01m&region=cn)
 
 ![cddz.plug.pc01m](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b54aa4d5dfa0f01c5dfdd4be3bfbe93a_1685586902703.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vy8tWivgArheFNDn42180xMuaNc=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 慧作处女星客厅系列吸顶灯
 
-华艺 | 2019/10/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.virgo/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.virgo&region=cn)
+华艺 | 2019/10/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.virgo) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.virgo&region=cn)
 
 ![huayi.light.virgo](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870891203blDxDIug.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zDWbhgXqJAMU+LyoZaF6qlqPsa0=)
 

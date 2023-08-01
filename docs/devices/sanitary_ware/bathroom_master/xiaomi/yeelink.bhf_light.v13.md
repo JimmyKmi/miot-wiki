@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能浴霸Pro
 
-小米/米家 | 2023/5/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.bhf_light.v13/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.bhf_light.v13&region=cn)
+小米/米家 | 2023/5/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.bhf_light.v13) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.bhf_light.v13&region=cn)
 
 ![yeelink.bhf_light.v13](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/231abf26f26fdd6663e2348e4c958ee8_1679278128057.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Le+0j0YuHQBN2gVNAkpfKRFPfhg=)
 

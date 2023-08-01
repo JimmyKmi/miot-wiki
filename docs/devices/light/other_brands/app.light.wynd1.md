@@ -9,7 +9,7 @@ description : ''
 ---
 # 诺度智能客厅灯
 
-其他品牌 | 2019/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=app.light.wynd1/) | [说明书](https://home.mi.com/views/introduction.html?model=app.light.wynd1&region=cn)
+其他品牌 | 2019/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=app.light.wynd1) | [说明书](https://home.mi.com/views/introduction.html?model=app.light.wynd1&region=cn)
 
 ![app.light.wynd1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790476547491M4OfBUT.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Q2b9hA03DdX3sXRqvScImb8ZN/g=)
 

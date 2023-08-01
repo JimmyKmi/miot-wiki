@@ -9,7 +9,7 @@ description : ''
 ---
 # 小金智能折叠跑步机
 
-小金 | 2018/11/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ksmb.treadmill.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=ksmb.treadmill.v1&region=cn)
+小金 | 2018/11/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ksmb.treadmill.v1) | [说明书](https://home.mi.com/views/introduction.html?model=ksmb.treadmill.v1&region=cn)
 
 ![ksmb.treadmill.v1](https://static.home.mi.com/app/image/get/file/developer_1536217787h7s249yo.png)
 

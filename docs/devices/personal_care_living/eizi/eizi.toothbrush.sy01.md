@@ -9,7 +9,7 @@ description : ''
 ---
 # EIZI亦己超净AI智能牙刷MAGIC 01
 
-EIZI亦己 | 2023/1/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=eizi.toothbrush.sy01/) | [说明书](https://home.mi.com/views/introduction.html?model=eizi.toothbrush.sy01&region=cn)
+EIZI亦己 | 2023/1/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=eizi.toothbrush.sy01) | [说明书](https://home.mi.com/views/introduction.html?model=eizi.toothbrush.sy01&region=cn)
 
 ![eizi.toothbrush.sy01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a93e216b9e97f05e357d87f65ce8b877_1665714931746.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=J2wu118kJkhbKZkoSBlBfvK5WQ0=)
 

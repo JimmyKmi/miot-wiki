@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 彩光灯泡
 
-易来 Yeelight | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.color1/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.color1&region=cn)
+易来 Yeelight | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.color1) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.color1&region=cn)
 
 ![yeelink.light.color1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679073893481CA75CkGc.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/nhehjn3St/QRbbUwB33xLdPUHE=)
 

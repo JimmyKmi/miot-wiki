@@ -9,7 +9,7 @@ description : ''
 ---
 # Milano（柜式）3P
 
-云米 Viomi | 2020/4/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y4/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y4&region=cn)
+云米 Viomi | 2020/4/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.y4) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.y4&region=cn)
 
 ![viomi.aircondition.y4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047690095sTHMgNhT.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=isQ5tOmtzSfXxJe0Em6sfxqXw/o=)
 

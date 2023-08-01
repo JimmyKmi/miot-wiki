@@ -9,7 +9,7 @@ description : ''
 ---
 # 简色智能水暖床垫(单温控)
 
-其他品牌 | 2020/10/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sxds.blanket.jssncd/) | [说明书](https://home.mi.com/views/introduction.html?model=sxds.blanket.jssncd&region=cn)
+其他品牌 | 2020/10/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sxds.blanket.jssncd) | [说明书](https://home.mi.com/views/introduction.html?model=sxds.blanket.jssncd&region=cn)
 
 ![sxds.blanket.jssncd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790711357205rYlSCO5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NmyxiUx6kel7zF5oFF9Muavck4w=)
 

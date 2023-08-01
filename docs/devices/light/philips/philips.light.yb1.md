@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦智睿吸顶灯 月白 客厅80W
 
-飞利浦 | 2021/4/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.yb1/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.yb1&region=cn)
+飞利浦 | 2021/4/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.yb1) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.yb1&region=cn)
 
 ![philips.light.yb1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/189a826dd89bb336ab5f27c2c9e026d0_月白-客厅80W-168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=WRFJWbOrwqC8ylme57rrcTjlMos=)
 

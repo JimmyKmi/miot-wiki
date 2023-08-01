@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米净水器1A/400G增强版
 
-小米/米家 | 2018/4/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx5/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx5&region=cn)
+小米/米家 | 2018/4/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx5) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx5&region=cn)
 
 ![yunmi.waterpuri.lx5](https://static.home.mi.com/app/image/get/file/developer_1510800313ulxx7yfd.png)
 

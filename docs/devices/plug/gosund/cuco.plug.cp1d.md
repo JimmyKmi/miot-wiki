@@ -9,7 +9,7 @@ description : ''
 ---
 # gosund | 电小酷 CP1
 
-Gosund / 电小酷 | 2022/6/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp1d/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp1d&region=cn)
+Gosund / 电小酷 | 2022/6/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.plug.cp1d) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.plug.cp1d&region=cn)
 
 ![cuco.plug.cp1d](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1616064405146pqMc8Ljd.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=4uurkwCd20rrHN+720V+1nSAjhE=)
 

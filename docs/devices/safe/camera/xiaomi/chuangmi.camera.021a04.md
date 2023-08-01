@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能摄像机  云台版Pro
 
-小米/米家 | 2020/11/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.021a04/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.021a04&region=cn)
+小米/米家 | 2020/11/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.021a04) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.021a04&region=cn)
 
 ![chuangmi.camera.021a04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1578477254264BumRLqO4.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;amp;amp;amp;amp;amp;Expires=9223372036854775807&amp;amp;amp;amp;amp;amp;Signature=GR8Y6uC/6PAiNpaJSrIHA2iiWv8=)
 

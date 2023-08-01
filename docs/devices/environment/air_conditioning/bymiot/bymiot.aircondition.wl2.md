@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居无线中央空调控制器
 
-未来居 Bymiot | 2021/6/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.aircondition.wl2/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.aircondition.wl2&region=cn)
+未来居 Bymiot | 2021/6/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.aircondition.wl2) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.aircondition.wl2&region=cn)
 
 ![bymiot.aircondition.wl2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ac9b11a7698605e1da7a9a885fc39f7f_空调控制器_168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8uXissDU6x8CQxC1kxoU94N+K2c=)
 

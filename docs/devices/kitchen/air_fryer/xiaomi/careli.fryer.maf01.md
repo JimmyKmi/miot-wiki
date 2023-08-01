@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能空气炸锅3.5L
 
-小米/米家 | 2021/3/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=careli.fryer.maf01/) | [说明书](https://home.mi.com/views/introduction.html?model=careli.fryer.maf01&region=cn)
+小米/米家 | 2021/3/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=careli.fryer.maf01) | [说明书](https://home.mi.com/views/introduction.html?model=careli.fryer.maf01&region=cn)
 
 ![careli.fryer.maf01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047770500qrmWjPbg.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=o2FMp5KfsX15RkwFt6npfeHPszU=)
 

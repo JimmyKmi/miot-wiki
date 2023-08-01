@@ -9,7 +9,7 @@ description : ''
 ---
 # 博孚智能卷帘
 
-其他品牌 | 2021/11/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bofu.curtain.ey25/) | [说明书](https://home.mi.com/views/introduction.html?model=bofu.curtain.ey25&region=cn)
+其他品牌 | 2021/11/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bofu.curtain.ey25) | [说明书](https://home.mi.com/views/introduction.html?model=bofu.curtain.ey25&region=cn)
 
 ![bofu.curtain.ey25](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cce71007e8419ca7d372d16bfab6915b_1631872765693.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=w/uXrYXEQh7YKnO8SA593bVaxKk=)
 

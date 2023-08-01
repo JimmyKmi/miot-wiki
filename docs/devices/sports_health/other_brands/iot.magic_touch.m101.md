@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能暖宫腰带M101
 
-其他品牌 | 2023/7/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=iot.magic_touch.m101/) | [说明书](https://home.mi.com/views/introduction.html?model=iot.magic_touch.m101&region=cn)
+其他品牌 | 2023/7/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=iot.magic_touch.m101) | [说明书](https://home.mi.com/views/introduction.html?model=iot.magic_touch.m101&region=cn)
 
 ![iot.magic_touch.m101](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2af975af4beeeec0eb648c2c8e2e1c03_1686365674994.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ptj6L7QRwgdRigZTwoeagC2oldM=)
 

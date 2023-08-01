@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米柔风空调立式（3匹 新一级能效）
 
-小米/米家 | 2022/9/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c30/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c30&region=cn)
+小米/米家 | 2022/9/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.aircondition.c30) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.aircondition.c30&region=cn)
 
 ![xiaomi.aircondition.c30](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/efe06900d2280b9e555ac14b345c6c7d_1663237975422.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=76wc8x/AuAeqKP4n1M+kB6eAGok=)
 

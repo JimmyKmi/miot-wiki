@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家新风机A1 150风量
 
-小米/米家 | 2019/10/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.airfresh.a1/) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.airfresh.a1&region=cn)
+小米/米家 | 2019/10/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dmaker.airfresh.a1) | [说明书](https://home.mi.com/views/introduction.html?model=dmaker.airfresh.a1&region=cn)
 
 ![dmaker.airfresh.a1](https://static.home.mi.com/app/image/get/file/developer_1571025467zjgtrzpk.png)
 

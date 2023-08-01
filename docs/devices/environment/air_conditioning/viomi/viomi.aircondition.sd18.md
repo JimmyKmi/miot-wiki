@@ -9,7 +9,7 @@ description : ''
 ---
 # Smart 2（除菌版）2P
 
-云米 Viomi | 2022/10/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.sd18/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.sd18&region=cn)
+云米 Viomi | 2022/10/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.sd18) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.sd18&region=cn)
 
 ![viomi.aircondition.sd18](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f22af93b873469c003f8ea3f79d2f331_1658980783861.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sIbbYRuzPfjKFlAH3RqUFfgI9QI=)
 

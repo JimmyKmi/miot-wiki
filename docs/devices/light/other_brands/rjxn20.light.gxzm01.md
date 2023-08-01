@@ -9,7 +9,7 @@ description : ''
 ---
 # 感谢智能双色温灯
 
-其他品牌 | 2022/10/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.gxzm01/) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.gxzm01&region=cn)
+其他品牌 | 2022/10/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=rjxn20.light.gxzm01) | [说明书](https://home.mi.com/views/introduction.html?model=rjxn20.light.gxzm01&region=cn)
 
 ![rjxn20.light.gxzm01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a9c8f5f4d4be11d794d4cf9e83059794_1659323749618.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1+9o71/IPINuRj62HRoUUToKtd4=)
 

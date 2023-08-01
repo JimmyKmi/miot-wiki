@@ -9,7 +9,7 @@ description : ''
 ---
 # X-Bulb智能灯泡
 
-其他品牌 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ge.light.mono1/) | [说明书](https://home.mi.com/views/introduction.html?model=ge.light.mono1&region=cn)
+其他品牌 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ge.light.mono1) | [说明书](https://home.mi.com/views/introduction.html?model=ge.light.mono1&region=cn)
 
 ![ge.light.mono1](https://cdn.cnbj0.fds.api.mi-img.com/miio_user_head/dfpun6t5_1433322483.png)
 

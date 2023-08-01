@@ -9,7 +9,7 @@ description : ''
 ---
 # 圈厨超薄互联网电热水器50L
 
-圈厨 | 2020/4/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xckj.waterheater.int01/) | [说明书](https://home.mi.com/views/introduction.html?model=xckj.waterheater.int01&region=cn)
+圈厨 | 2020/4/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xckj.waterheater.int01) | [说明书](https://home.mi.com/views/introduction.html?model=xckj.waterheater.int01&region=cn)
 
 ![xckj.waterheater.int01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15782787307282QE0VM80.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cdfqI+akjgv51v7rJy+ViADKaZY=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 智睿LED筒灯 调光版
 
-飞利浦 | 2020/4/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.dlight/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.dlight&region=cn)
+飞利浦 | 2020/4/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.dlight) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.dlight&region=cn)
 
 ![philips.light.dlight](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1584331796225pG0lZvQL.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cHx5sxNovNVswm1Ey5L1n+rtKTY=)
 

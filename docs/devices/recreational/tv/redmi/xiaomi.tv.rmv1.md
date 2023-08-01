@@ -9,7 +9,7 @@ description : ''
 ---
 # Redmi电视
 
-红米 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.rmv1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.rmv1&region=cn)
+红米 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.rmv1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.rmv1&region=cn)
 
 ![xiaomi.tv.rmv1](https://static.home.mi.com/app/image/get/file/developer_1559628128hg5q9jpf.png)
 

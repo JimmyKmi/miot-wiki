@@ -9,7 +9,7 @@ description : ''
 ---
 # 德韵智能现代家居灯
 
-其他品牌 | 2021/12/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dlx.light.eps119/) | [说明书](https://home.mi.com/views/introduction.html?model=dlx.light.eps119&region=cn)
+其他品牌 | 2021/12/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dlx.light.eps119) | [说明书](https://home.mi.com/views/introduction.html?model=dlx.light.eps119&region=cn)
 
 ![dlx.light.eps119](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/410fd7a5d5b22f768fa31f44c20893e0_1636185158022.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ycRWqLExIQHNZzJ30tnFuXm+FK0=)
 

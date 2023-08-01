@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能中央空调控制器
 
-创米小白 | 2022/3/2 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.gateway.720/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.gateway.720&region=cn)
+创米小白 | 2022/3/2 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.gateway.720) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.gateway.720&region=cn)
 
 ![chuangmi.gateway.720](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e92f5ee2b037598e7639004655256820_1642553115692.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LwwR+bvIKi6B1z5Dp5dAIIjbMHk=)
 

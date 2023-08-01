@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士吸顶灯pro
 
-雷士 | 2023/3/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.nvc001/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.nvc001&region=cn)
+雷士 | 2023/3/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.nvc001) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.nvc001&region=cn)
 
 ![leishi.light.nvc001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/046861967d25377fd859f66023edae3b_1668493671373.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yroLDLoM40f5LVC0tcOspYyDAZs=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能卧室风扇灯
 
-雷士 | 2020/6/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.fan01/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.fan01&region=cn)
+雷士 | 2020/6/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.fan01) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.fan01&region=cn)
 
 ![leishi.light.fan01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047724816jXGp4HU5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=iXNfLMb5KQnwe8K46XFd04D39Ww=)
 

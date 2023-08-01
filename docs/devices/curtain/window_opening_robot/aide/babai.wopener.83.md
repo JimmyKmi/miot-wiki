@@ -9,7 +9,7 @@ description : ''
 ---
 # 艾德道开窗器
 
-艾德 | 2023/1/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.wopener.83/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.wopener.83&region=cn)
+艾德 | 2023/1/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.wopener.83) | [说明书](https://home.mi.com/views/introduction.html?model=babai.wopener.83&region=cn)
 
 ![babai.wopener.83](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c61365a5eedf860ad06be9049acc7140_1668999337640.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=GmGjn2oUCDjieYS3mKmtrkTMFaU=)
 

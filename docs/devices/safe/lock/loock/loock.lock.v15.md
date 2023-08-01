@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客智能门锁X1
 
-鹿客 Loock | 2021/4/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.v15/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.v15&region=cn)
+鹿客 Loock | 2021/4/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.v15) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.v15&region=cn)
 
 ![loock.lock.v15](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/258c97799d4cf1a8f4f26b5fc6d41859_道奇168的图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Qos9VtoUr3iv2d7iPcKaa/oTJvM=)
 

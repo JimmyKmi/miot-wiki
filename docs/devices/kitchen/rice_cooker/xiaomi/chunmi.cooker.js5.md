@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能快煮电饭煲 5L
 
-小米/米家 | 2022/9/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.js5/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.js5&region=cn)
+小米/米家 | 2022/9/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.cooker.js5) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.cooker.js5&region=cn)
 
 ![chunmi.cooker.js5](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0b938459819d3b146c13a1fc0506f8b8_1649318168978.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=uSJjDCu+PsHGBLrjZIXtQqJmnA4=)
 

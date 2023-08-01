@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家扫拖机器人
 
-小米/米家 | 2019/8/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v7/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v7&region=cn)
+小米/米家 | 2019/8/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v7) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v7&region=cn)
 
 ![viomi.vacuum.v7](https://static.home.mi.com/app/image/get/file/developer_156211621715fdn2i1.png)
 

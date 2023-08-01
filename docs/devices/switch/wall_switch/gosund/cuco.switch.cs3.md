@@ -9,7 +9,7 @@ description : ''
 ---
 # Gosund智能开关CS3（零火线三键版）
 
-Gosund / 电小酷 | 2020/11/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.cs3/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.cs3&region=cn)
+Gosund / 电小酷 | 2020/11/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.switch.cs3) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.switch.cs3&region=cn)
 
 ![cuco.switch.cs3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048482125ITxeHwbw.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=JemXg/gFJQabgBX0Vg1FfInixbg=)
 

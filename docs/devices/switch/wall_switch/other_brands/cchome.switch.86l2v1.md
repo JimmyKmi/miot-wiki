@@ -9,7 +9,7 @@ description : ''
 ---
 # 倍增墙壁开关双键版
 
-其他品牌 | 2021/2/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.switch.86l2v1/) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.switch.86l2v1&region=cn)
+其他品牌 | 2021/2/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.switch.86l2v1) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.switch.86l2v1&region=cn)
 
 ![cchome.switch.86l2v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/041723fe617935031eba770d050a37b5_b14e6b6538aeda4c52a18ddcb745566e_f6146c02e551349f8ec6e44d781dabe.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=bsj7mehmdabvF5zHBLhq8/pbvFU=)
 

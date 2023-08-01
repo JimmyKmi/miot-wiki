@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网晾衣机（阳光暖烘版）
 
-云米 Viomi | 2021/11/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.xy108b/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.xy108b&region=cn)
+云米 Viomi | 2021/11/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.xy108b) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.xy108b&region=cn)
 
 ![viomi.airer.xy108b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f2c1b3d6bae5d0a36324d6816b9e491a_1634186773195.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=i28qkbMNbsS6hnkIjerQ3IFYiAg=)
 

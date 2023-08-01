@@ -9,7 +9,7 @@ description : ''
 ---
 # 华来AI智能氛围灯带
 
-华来小方 | 2022/12/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.light.camsl1/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.light.camsl1&region=cn)
+华来小方 | 2022/12/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.light.camsl1) | [说明书](https://home.mi.com/views/introduction.html?model=isa.light.camsl1&region=cn)
 
 ![isa.light.camsl1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/76ba19194c1d454850827839afee38fd_1669855679904.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ovrAIHNv0on/vObCBEfZgEV/Q/0=)
 

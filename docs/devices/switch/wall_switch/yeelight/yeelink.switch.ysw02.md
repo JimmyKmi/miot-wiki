@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight Pro 智能开关（双键）
 
-易来 Yeelight | 2022/1/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.switch.ysw02/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.switch.ysw02&region=cn)
+易来 Yeelight | 2022/1/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.switch.ysw02) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.switch.ysw02&region=cn)
 
 ![yeelink.switch.ysw02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8fcd5b4a41e66eb68ebc43b562e27f55_1625474475021.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=R9j9PWhIEH9tvRwW7Lm+dZfT2LM=)
 

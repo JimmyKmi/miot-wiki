@@ -9,7 +9,7 @@ description : ''
 ---
 # 即品智能落地风扇
 
-其他品牌 | 2023/6/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jipin.fan.f001/) | [说明书](https://home.mi.com/views/introduction.html?model=jipin.fan.f001&region=cn)
+其他品牌 | 2023/6/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jipin.fan.f001) | [说明书](https://home.mi.com/views/introduction.html?model=jipin.fan.f001&region=cn)
 
 ![jipin.fan.f001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e966cf16256d1642824378b124a15d6d_1681712808086.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=I5nOcVRud7vdApHKPCuv4uO6B2A=)
 

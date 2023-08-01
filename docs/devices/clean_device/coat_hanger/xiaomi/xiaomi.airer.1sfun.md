@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能晾衣机 1S 多功能版
 
-小米/米家 | 2023/7/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.airer.1sfun/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.airer.1sfun&region=cn)
+小米/米家 | 2023/7/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.airer.1sfun) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.airer.1sfun&region=cn)
 
 ![xiaomi.airer.1sfun](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4dbf7e91700311fc0deb2952f914bad1_1680077238347.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zo7n68zES6W5HntC31DJa8InaN8=)
 

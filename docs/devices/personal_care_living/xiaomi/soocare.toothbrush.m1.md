@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家声波电动牙刷
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=soocare.toothbrush.m1/) | [说明书](https://home.mi.com/views/introduction.html?model=soocare.toothbrush.m1&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=soocare.toothbrush.m1) | [说明书](https://home.mi.com/views/introduction.html?model=soocare.toothbrush.m1&region=cn)
 
 ![soocare.toothbrush.m1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870889098aUKhdGPb.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0wSloAHB++5oM92upXTDisvEi7s=)
 

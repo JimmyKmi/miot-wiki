@@ -9,7 +9,7 @@ description : ''
 ---
 # 领普窗帘电机MESH
 
-领普 | 2022/8/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.curtain.c2/) | [说明书](https://home.mi.com/views/introduction.html?model=linp.curtain.c2&region=cn)
+领普 | 2022/8/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=linp.curtain.c2) | [说明书](https://home.mi.com/views/introduction.html?model=linp.curtain.c2&region=cn)
 
 ![linp.curtain.c2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/eeecb291734a00ef4f9a998efb946fe7_1656979960736.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sLCkSMUUqrhY8sEYH/VAAZs8+Ew=)
 

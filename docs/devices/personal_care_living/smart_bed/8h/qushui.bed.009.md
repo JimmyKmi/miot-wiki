@@ -9,7 +9,7 @@ description : ''
 ---
 # 8H Milan智能电动床Pro Max
 
-8H | 2022/10/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.bed.009/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.bed.009&region=cn)
+8H | 2022/10/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.bed.009) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.bed.009&region=cn)
 
 ![qushui.bed.009](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c36208bd9c83e6d8720adb95b14ab2b0_1663122015082.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nhw7YzSosjP/9oQ6zBAnrqqfMaE=)
 

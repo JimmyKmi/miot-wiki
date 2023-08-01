@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网燃气热水器VGW1621 16L
 
-云米 Viomi | 2021/5/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u48/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u48&region=cn)
+云米 Viomi | 2021/5/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u48) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u48&region=cn)
 
 ![viomi.waterheater.u48](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047902714DL19rvLX.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=psKa3l57yNWySR3w+SdwpoUjI+k=)
 

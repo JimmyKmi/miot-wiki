@@ -9,7 +9,7 @@ description : ''
 ---
 # NPU耐普照明智能灯
 
-其他品牌 | 2022/4/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=npu.light.npu001/) | [说明书](https://home.mi.com/views/introduction.html?model=npu.light.npu001&region=cn)
+其他品牌 | 2022/4/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=npu.light.npu001) | [说明书](https://home.mi.com/views/introduction.html?model=npu.light.npu001&region=cn)
 
 ![npu.light.npu001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/85e9b13f210153e6077d6a284fd52d53_1649666836654.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=E0Hz3zO6BsbHeTSxgtRI4JSzZB4=)
 

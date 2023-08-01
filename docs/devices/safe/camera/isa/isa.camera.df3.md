@@ -9,7 +9,7 @@ description : ''
 ---
 # 大方智能摄像机(1080P云台版)
 
-华来小方 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.df3/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.df3&region=cn)
+华来小方 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.camera.df3) | [说明书](https://home.mi.com/views/introduction.html?model=isa.camera.df3&region=cn)
 
 ![isa.camera.df3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679130062182YKplDnJA.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=vAur2FmEIP6mkPDEokvmURlmgWk=)
 

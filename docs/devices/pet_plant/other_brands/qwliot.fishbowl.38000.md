@@ -9,7 +9,7 @@ description : ''
 ---
 # 黑擎智能水质监测器
 
-其他品牌 | 2022/6/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qwliot.fishbowl.38000/) | [说明书](https://home.mi.com/views/introduction.html?model=qwliot.fishbowl.38000&region=cn)
+其他品牌 | 2022/6/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qwliot.fishbowl.38000) | [说明书](https://home.mi.com/views/introduction.html?model=qwliot.fishbowl.38000&region=cn)
 
 ![qwliot.fishbowl.38000](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3d2486d8be9e12243336d2fbdb20cccf_1646293337567.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ueLMp3daIZXRjbcI7CXC7tEbgO4=)
 

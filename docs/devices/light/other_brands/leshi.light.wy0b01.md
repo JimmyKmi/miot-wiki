@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景WIFI双色灯
 
-其他品牌 | 2020/9/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshi.light.wy0b01/) | [说明书](https://home.mi.com/views/introduction.html?model=leshi.light.wy0b01&region=cn)
+其他品牌 | 2020/9/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshi.light.wy0b01) | [说明书](https://home.mi.com/views/introduction.html?model=leshi.light.wy0b01&region=cn)
 
 ![leshi.light.wy0b01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047689119Y35eyyzH.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sMg+yZeJ5AMZm2W5EZZ3/1991Qg=)
 

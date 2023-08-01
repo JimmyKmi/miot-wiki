@@ -9,7 +9,7 @@ description : ''
 ---
 # 德尔玛热蒸馏加湿器
 
-德尔玛 | 2021/11/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=deerma.humidifier.cz300/) | [说明书](https://home.mi.com/views/introduction.html?model=deerma.humidifier.cz300&region=cn)
+德尔玛 | 2021/11/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=deerma.humidifier.cz300) | [说明书](https://home.mi.com/views/introduction.html?model=deerma.humidifier.cz300&region=cn)
 
 ![deerma.humidifier.cz300](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870953940NB9rM9hG.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=DY9LdNmR/ZRuqjefAA6A4N+pDHw=)
 

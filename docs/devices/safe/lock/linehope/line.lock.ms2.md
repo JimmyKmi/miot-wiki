@@ -9,7 +9,7 @@ description : ''
 ---
 # LineHope智能门锁S2
 
-方舟鱼 LineHope | 2023/3/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.lock.ms2/) | [说明书](https://home.mi.com/views/introduction.html?model=line.lock.ms2&region=cn)
+方舟鱼 LineHope | 2023/3/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.lock.ms2) | [说明书](https://home.mi.com/views/introduction.html?model=line.lock.ms2&region=cn)
 
 ![line.lock.ms2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b21e88d112e096a301382152609f400e_1670489675715.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Mkx57GnvraUrJrzztCccxxZZkqo=)
 

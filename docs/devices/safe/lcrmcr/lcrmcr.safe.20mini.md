@@ -9,7 +9,7 @@ description : ''
 ---
 # 卡唛米克mini智能屏下指纹保管箱
 
-卡唛 | 2021/4/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.20mini/) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.20mini&region=cn)
+卡唛 | 2021/4/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lcrmcr.safe.20mini) | [说明书](https://home.mi.com/views/introduction.html?model=lcrmcr.safe.20mini&region=cn)
 
 ![lcrmcr.safe.20mini](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f9079f45f6d61e6f9425a5791c19a2d9_拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=zDibhpHzTR9uXh7EtNVja1L2I5E=)
 

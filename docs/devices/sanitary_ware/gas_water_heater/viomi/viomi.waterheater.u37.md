@@ -9,7 +9,7 @@ description : ''
 ---
 # coKiing AI燃气热水器 VGW1816 18L
 
-云米 Viomi | 2021/4/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u37/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u37&region=cn)
+云米 Viomi | 2021/4/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u37) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u37&region=cn)
 
 ![viomi.waterheater.u37](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048937398d0v9TIn3.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PS8QhZ1CGv1fFf1mM7sUn3ms8Kc=)
 

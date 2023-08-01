@@ -9,7 +9,7 @@ description : ''
 ---
 # Aqara 吸顶灯 L1-350
 
-绿米 Aqara | 2021/11/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.light.acn003/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.light.acn003&region=cn)
+绿米 Aqara | 2021/11/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.light.acn003) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.light.acn003&region=cn)
 
 ![lumi.light.acn003](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/6464250e5f55aac408cb73fb48d96b16_1624246376477.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=1E+f27X48cq9XpkavqmUyOfcu9Q=)
 

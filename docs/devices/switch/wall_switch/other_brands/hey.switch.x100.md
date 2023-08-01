@@ -9,7 +9,7 @@ description : ''
 ---
 # 微断云控
 
-其他品牌 | 2021/11/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hey.switch.x100/) | [说明书](https://home.mi.com/views/introduction.html?model=hey.switch.x100&region=cn)
+其他品牌 | 2021/11/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hey.switch.x100) | [说明书](https://home.mi.com/views/introduction.html?model=hey.switch.x100&region=cn)
 
 ![hey.switch.x100](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047957943ZzPGkXCj.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hu/2IWOmqI0IFpyEZsoM+sUGpKQ=)
 

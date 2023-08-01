@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐全屏新风控制器（D8）
 
-智拉斐 | 2022/4/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.airfresh.airf01/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.airfresh.airf01&region=cn)
+智拉斐 | 2022/4/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.airfresh.airf01) | [说明书](https://home.mi.com/views/introduction.html?model=slf.airfresh.airf01&region=cn)
 
 ![slf.airfresh.airf01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a88f77f63849ee5e6524bf42b6b7266c_1647670558883.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Q4OegND340VARY5TNmeYkd8tymo=)
 

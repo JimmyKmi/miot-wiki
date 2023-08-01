@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能通断器mesh版
 
-其他品牌 | 2022/10/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.switch.tdq01/) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.switch.tdq01&region=cn)
+其他品牌 | 2022/10/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.switch.tdq01) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.switch.tdq01&region=cn)
 
 ![lxun.switch.tdq01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0541cce6e5d7336a69da7e75449d1947_1663736305460.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qx6H7hd3KP+Zkp/T7EcUCmQJ+/Q=)
 

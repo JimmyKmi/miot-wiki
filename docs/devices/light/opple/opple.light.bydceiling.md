@@ -9,7 +9,7 @@ description : ''
 ---
 # OPPLE欧普照明智能灯
 
-欧普 OPPLE | 2019/8/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.bydceiling/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.bydceiling&region=cn)
+欧普 OPPLE | 2019/8/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.light.bydceiling) | [说明书](https://home.mi.com/views/introduction.html?model=opple.light.bydceiling&region=cn)
 
 ![opple.light.bydceiling](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1589955405746LM0dnZ72.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Qn/8euQCTONTWKqmYt3l9ZcXHOA=)
 

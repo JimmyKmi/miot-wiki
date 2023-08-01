@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能宠物饮水机
 
-小米/米家 | 2020/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mmgg.pet_waterer.s1/) | [说明书](https://home.mi.com/views/introduction.html?model=mmgg.pet_waterer.s1&region=cn)
+小米/米家 | 2020/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mmgg.pet_waterer.s1) | [说明书](https://home.mi.com/views/introduction.html?model=mmgg.pet_waterer.s1&region=cn)
 
 ![mmgg.pet_waterer.s1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_15762045935682DTzmYGL.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3+iJqzbf2zoQw5oy7OORwyYNP/o=)
 

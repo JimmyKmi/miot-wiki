@@ -9,7 +9,7 @@ description : ''
 ---
 # 邦先生智能晾衣机-风烘款Pro
 
-邦先生 | 2021/10/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.airer.m65/) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.airer.m65&region=cn)
+邦先生 | 2021/10/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mrbond.airer.m65) | [说明书](https://home.mi.com/views/introduction.html?model=mrbond.airer.m65&region=cn)
 
 ![mrbond.airer.m65](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069420704UKQMrgtE.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=if7bRQz2+3Jmc86Pqi8tN26PVnc=)
 

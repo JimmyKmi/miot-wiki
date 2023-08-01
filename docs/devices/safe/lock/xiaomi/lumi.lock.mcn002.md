@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米人脸识别智能门锁
 
-小米/米家 | 2022/9/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.mcn002/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.mcn002&region=cn)
+小米/米家 | 2022/9/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.lock.mcn002) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.lock.mcn002&region=cn)
 
 ![lumi.lock.mcn002](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3ddaa31f4802e00bdb733a5751c90b80_1657782725755.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ez+5Nkcb1XHUmMiBU+ldYDJ4PEo=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧普单火蓝牙开关MESH(三键)
 
-欧普 OPPLE | 2021/7/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.switch.lbs03a/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.switch.lbs03a&region=cn)
+欧普 OPPLE | 2021/7/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.switch.lbs03a) | [说明书](https://home.mi.com/views/introduction.html?model=opple.switch.lbs03a&region=cn)
 
 ![opple.switch.lbs03a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790696295228YRe1OQY.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=S59pJYOGdTdy04khGsJSR0gTJus=)
 

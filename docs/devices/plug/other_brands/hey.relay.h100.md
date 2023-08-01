@@ -9,7 +9,7 @@ description : ''
 ---
 # 微断云控智能控制器
 
-其他品牌 | 2023/3/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hey.relay.h100/) | [说明书](https://home.mi.com/views/introduction.html?model=hey.relay.h100&region=cn)
+其他品牌 | 2023/3/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hey.relay.h100) | [说明书](https://home.mi.com/views/introduction.html?model=hey.relay.h100&region=cn)
 
 ![hey.relay.h100](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c68a7e2b9bc2ea470ded822a3510707c_1679046993145.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LZZbNBhRDdT2tfjSmsio0G/CXM8=)
 

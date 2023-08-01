@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight 色温灯泡 M2
 
-易来 Yeelight | 2020/5/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ml2/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ml2&region=cn)
+易来 Yeelight | 2020/5/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ml2) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ml2&region=cn)
 
 ![yeelink.light.ml2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047690593LOXAiVAC.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XYJkBxM27d9PR/56k5uKdp1zoLo=)
 

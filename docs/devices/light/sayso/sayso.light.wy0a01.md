@@ -9,7 +9,7 @@ description : ''
 ---
 # SAYSO智能射灯
 
-sayso | 2023/5/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sayso.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=sayso.light.wy0a01&region=cn)
+sayso | 2023/5/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sayso.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=sayso.light.wy0a01&region=cn)
 
 ![sayso.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/577e006f895f3fcd2b400a58d4a5cc2d_1682328784502.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Egwfi+tzYwbu4EW9MgAenS3NOUU=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家全效空气净化器 Ultra
 
-小米/米家 | 2023/3/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airp.ua1a/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airp.ua1a&region=cn)
+小米/米家 | 2023/3/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airp.ua1a) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airp.ua1a&region=cn)
 
 ![zhimi.airp.ua1a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b581aeb5140a79dbdd8d1e78ede7dbb4_1646043805305.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8mFP8wvuhiSVvJ1ZGZRy5xNOH3k=)
 

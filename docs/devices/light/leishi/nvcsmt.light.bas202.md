@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能筒射灯（双色款TB）
 
-雷士 | 2023/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nvcsmt.light.bas202/) | [说明书](https://home.mi.com/views/introduction.html?model=nvcsmt.light.bas202&region=cn)
+雷士 | 2023/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nvcsmt.light.bas202) | [说明书](https://home.mi.com/views/introduction.html?model=nvcsmt.light.bas202&region=cn)
 
 ![nvcsmt.light.bas202](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/be7749696e8f572dc048824867438775_1671506394496.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=E+dao940+JIOO+0WJ351jCWxjRo=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米5GIOT扫拖机器人凌厉 2
 
-云米 Viomi | 2021/6/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v24/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v24&region=cn)
+云米 Viomi | 2021/6/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.vacuum.v24) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.vacuum.v24&region=cn)
 
 ![viomi.vacuum.v24](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/60e15da7dcb04155c4a87d59a771aa2c_1621496606018.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=IPJmlSeTaGBN9KTunT/D4NBoU3Y=)
 

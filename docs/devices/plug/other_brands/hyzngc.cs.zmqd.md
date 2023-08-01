@@ -9,7 +9,7 @@ description : ''
 ---
 # 蓝牙Mesh插卡取电
 
-其他品牌 | 2022/11/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyzngc.cs.zmqd/) | [说明书](https://home.mi.com/views/introduction.html?model=hyzngc.cs.zmqd&region=cn)
+其他品牌 | 2022/11/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyzngc.cs.zmqd) | [说明书](https://home.mi.com/views/introduction.html?model=hyzngc.cs.zmqd&region=cn)
 
 ![hyzngc.cs.zmqd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/96283cea12f98a21ad343d8f813b3a05_1665666435259.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yqTv9TSMzs2i5rmGC+L54IrpUKc=)
 

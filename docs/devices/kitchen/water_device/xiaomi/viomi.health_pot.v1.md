@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家多功能电煮壶
 
-小米/米家 | 2019/4/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.health_pot.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.health_pot.v1&region=cn)
+小米/米家 | 2019/4/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.health_pot.v1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.health_pot.v1&region=cn)
 
 ![viomi.health_pot.v1](https://static.home.mi.com/app/image/get/file/developer_1531129324rd87sg8c.png)
 

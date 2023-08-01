@@ -9,7 +9,7 @@ description : ''
 ---
 # 好易点智能晾衣机HX2
 
-好易点 | 2021/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyd.airer.hx2/) | [说明书](https://home.mi.com/views/introduction.html?model=hyd.airer.hx2&region=cn)
+好易点 | 2021/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hyd.airer.hx2) | [说明书](https://home.mi.com/views/introduction.html?model=hyd.airer.hx2&region=cn)
 
 ![hyd.airer.hx2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071858621DIugQb2I.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/1l90M4A5p4lPdwLu1a3wgB6aHs=)
 

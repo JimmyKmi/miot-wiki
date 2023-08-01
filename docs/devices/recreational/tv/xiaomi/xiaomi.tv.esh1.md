@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米电视ES 2022
 
-小米/米家 | 2021/7/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.esh1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.esh1&region=cn)
+小米/米家 | 2021/7/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.esh1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.esh1&region=cn)
 
 ![xiaomi.tv.esh1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4ba502bf3d0b81b081a8eef750f5434b_111.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LIQcHkUusTP+boloNew87LNJO+Y=)
 

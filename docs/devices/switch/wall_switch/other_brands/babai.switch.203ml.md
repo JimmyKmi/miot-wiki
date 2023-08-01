@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai 智能三键Mesh开关（单火版）
 
-其他品牌 | 2021/10/14 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.203ml/) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.203ml&region=cn)
+其他品牌 | 2021/10/14 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=babai.switch.203ml) | [说明书](https://home.mi.com/views/introduction.html?model=babai.switch.203ml&region=cn)
 
 ![babai.switch.203ml](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/13b760a58f465c95ae8f0ffc34839ae9_1631789657324.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=S60pog2pr9zKyKSsKKKEVwEF46E=)
 

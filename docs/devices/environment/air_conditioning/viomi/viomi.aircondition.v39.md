@@ -9,7 +9,7 @@ description : ''
 ---
 # Crown-35A3
 
-云米 Viomi | 2021/12/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v39/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v39&region=cn)
+云米 Viomi | 2021/12/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.aircondition.v39) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.aircondition.v39&region=cn)
 
 ![viomi.aircondition.v39](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a40af9393993651ad80228fc949849dd_1634896941167.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=iecacTCn5ELC/KNT+zKGiIOFdk8=)
 

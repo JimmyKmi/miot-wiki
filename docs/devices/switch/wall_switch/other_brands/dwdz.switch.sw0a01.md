@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景mesh通断器DBS版
 
-其他品牌 | 2021/1/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dwdz.switch.sw0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=dwdz.switch.sw0a01&region=cn)
+其他品牌 | 2021/1/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dwdz.switch.sw0a01) | [说明书](https://home.mi.com/views/introduction.html?model=dwdz.switch.sw0a01&region=cn)
 
 ![dwdz.switch.sw0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5664df9633b7c2f323d4068e0273077e_中性mesh通断器168图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=L5bSHuowIHJrsGpbEx1eaXptHK4=)
 

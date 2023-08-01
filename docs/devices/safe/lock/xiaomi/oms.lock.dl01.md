@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能门锁 E10
 
-小米/米家 | 2022/12/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=oms.lock.dl01/) | [说明书](https://home.mi.com/views/introduction.html?model=oms.lock.dl01&region=cn)
+小米/米家 | 2022/12/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=oms.lock.dl01) | [说明书](https://home.mi.com/views/introduction.html?model=oms.lock.dl01&region=cn)
 
 ![oms.lock.dl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9393d66e86e91895f9f36eab4cb03daf_1657768782594.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/UEfY1R7RliWLTcZhHnpUb1GgUI=)
 

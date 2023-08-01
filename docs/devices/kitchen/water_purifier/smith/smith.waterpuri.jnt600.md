@@ -9,7 +9,7 @@ description : ''
 ---
 # 佳尼特智能净水器
 
-佳尼特 Smith | 2019/3/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smith.waterpuri.jnt600/) | [说明书](https://home.mi.com/views/introduction.html?model=smith.waterpuri.jnt600&region=cn)
+佳尼特 Smith | 2019/3/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smith.waterpuri.jnt600) | [说明书](https://home.mi.com/views/introduction.html?model=smith.waterpuri.jnt600&region=cn)
 
 ![smith.waterpuri.jnt600](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1623382359203Of0u2HGk.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=LHu71KtwLhtMKbdWr+l++RragCI=)
 

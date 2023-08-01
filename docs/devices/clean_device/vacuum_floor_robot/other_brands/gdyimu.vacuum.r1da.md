@@ -9,7 +9,7 @@ description : ''
 ---
 # Lydsto智能扫拖机器人R1DA
 
-其他品牌 | 2021/7/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gdyimu.vacuum.r1da/) | [说明书](https://home.mi.com/views/introduction.html?model=gdyimu.vacuum.r1da&region=cn)
+其他品牌 | 2021/7/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gdyimu.vacuum.r1da) | [说明书](https://home.mi.com/views/introduction.html?model=gdyimu.vacuum.r1da&region=cn)
 
 ![gdyimu.vacuum.r1da](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ff6a654d9d5a4f0f4d22cc406443be55_1622692872171.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=dTjBVaI7bdRzd5aRwCaUoVBcwoE=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米盒子4S MAX
 
-小米/米家 | 2022/8/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tvbox.4smv1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tvbox.4smv1&region=cn)
+小米/米家 | 2022/8/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tvbox.4smv1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tvbox.4smv1&region=cn)
 
 ![xiaomi.tvbox.4smv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/726ecebcd0ba81ec4cc2d1f8d22dd78f_1646121472951.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=YyiDG1xhnIOc5GaOn1nFiztC8AQ=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 八键无线情景开关
 
-情景mesh芯片 | 2022/8/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.remote.ts1/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.remote.ts1&region=cn)
+情景mesh芯片 | 2022/8/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.remote.ts1) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.remote.ts1&region=cn)
 
 ![lemesh.remote.ts1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/849cdcd8df2f6b332a1f1f6c305c7cf3_1655981250179.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7JPB2dxlpvjQsAajR7ukGV1Ez98=)
 

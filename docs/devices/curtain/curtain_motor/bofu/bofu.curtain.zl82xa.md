@@ -9,7 +9,7 @@ description : ''
 ---
 # 蓝牙智能窗帘
 
-博孚 | 2023/6/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bofu.curtain.zl82xa/) | [说明书](https://home.mi.com/views/introduction.html?model=bofu.curtain.zl82xa&region=cn)
+博孚 | 2023/6/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bofu.curtain.zl82xa) | [说明书](https://home.mi.com/views/introduction.html?model=bofu.curtain.zl82xa&region=cn)
 
 ![bofu.curtain.zl82xa](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/602bf1670c5f3423be394ad5bf918c59_1681952709502.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XqWU4/KDGf0WTmXXeupODX3n5DA=)
 

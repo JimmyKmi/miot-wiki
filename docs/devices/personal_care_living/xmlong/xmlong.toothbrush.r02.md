@@ -9,7 +9,7 @@ description : ''
 ---
 # 西马龙电动牙刷R02
 
-西马龙 | 2022/12/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xmlong.toothbrush.r02/) | [说明书](https://home.mi.com/views/introduction.html?model=xmlong.toothbrush.r02&region=cn)
+西马龙 | 2022/12/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xmlong.toothbrush.r02) | [说明书](https://home.mi.com/views/introduction.html?model=xmlong.toothbrush.r02&region=cn)
 
 ![xmlong.toothbrush.r02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/10bec4591bc87b3df0a54b9bb98f17ca_1667807175009.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=OimhAeRAdkHcAC7ZRcM/+ceR5XQ=)
 

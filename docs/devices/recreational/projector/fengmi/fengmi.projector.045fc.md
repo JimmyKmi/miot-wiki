@@ -9,7 +9,7 @@ description : ''
 ---
 # 峰米 S5 激光投影仪
 
-峰米 Fengmi | 2022/7/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.045fc/) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.045fc&region=cn)
+峰米 Fengmi | 2022/7/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fengmi.projector.045fc) | [说明书](https://home.mi.com/views/introduction.html?model=fengmi.projector.045fc&region=cn)
 
 ![fengmi.projector.045fc](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7eb644c749385a3b8d10a5e10757810c_1651222144347.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Bqu/YW5PADZSubZZNWhQdlQc9J4=)
 

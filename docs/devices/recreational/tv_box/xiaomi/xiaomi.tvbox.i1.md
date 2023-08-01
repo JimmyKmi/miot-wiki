@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米电视盒子
 
-小米/米家 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tvbox.i1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tvbox.i1&region=cn)
+小米/米家 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tvbox.i1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tvbox.i1&region=cn)
 
 ![xiaomi.tvbox.i1](https://static.home.mi.com/app/image/get/file/developer_1548126479fpdgyewx.png)
 

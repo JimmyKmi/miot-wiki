@@ -9,7 +9,7 @@ description : ''
 ---
 # 至凡带壁挂电热油汀
 
-其他品牌 | 2020/11/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.heater.15b6rw/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.heater.15b6rw&region=cn)
+其他品牌 | 2020/11/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.heater.15b6rw) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.heater.15b6rw&region=cn)
 
 ![kadeer.heater.15b6rw](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790478079278NVKWe0g.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=G1g7IbGlUqud9T5WGUXp6RgPvJg=)
 

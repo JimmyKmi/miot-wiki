@@ -9,7 +9,7 @@ description : ''
 ---
 # Yeelight智能色温筒射灯C1
 
-易来 Yeelight | 2022/10/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ml9/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ml9&region=cn)
+易来 Yeelight | 2022/10/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.ml9) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.ml9&region=cn)
 
 ![yeelink.light.ml9](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/23390c922a1a7664fb6c2a4fe0f0e476_1665223164733.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=w5sgALt3y84tnw3aL2rkQw6hCtE=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家LED筒灯 蓝牙MESH版
 
-小米/米家 | 2020/3/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.light3/) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.light3&region=cn)
+小米/米家 | 2020/3/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yeelink.light.light3) | [说明书](https://home.mi.com/views/introduction.html?model=yeelink.light.light3&region=cn)
 
 ![yeelink.light.light3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047654046NeusMI5g.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=703vSnLNh229EZrvuL1yj0bRdNQ=)
 

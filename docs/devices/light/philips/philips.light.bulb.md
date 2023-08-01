@@ -9,7 +9,7 @@ description : ''
 ---
 # 飞利浦智睿球泡灯
 
-飞利浦 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.bulb/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.bulb&region=cn)
+飞利浦 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.bulb) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.bulb&region=cn)
 
 ![philips.light.bulb](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790674418894nYUbzmv.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ma1rx4Hd2gCsU+oi+mk4qJgHjBc=)
 

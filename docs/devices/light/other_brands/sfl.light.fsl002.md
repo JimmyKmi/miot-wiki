@@ -9,7 +9,7 @@ description : ''
 ---
 # FSL格致系列
 
-其他品牌 | 2021/5/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sfl.light.fsl002/) | [说明书](https://home.mi.com/views/introduction.html?model=sfl.light.fsl002&region=cn)
+其他品牌 | 2021/5/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sfl.light.fsl002) | [说明书](https://home.mi.com/views/introduction.html?model=sfl.light.fsl002&region=cn)
 
 ![sfl.light.fsl002](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a783938c988e20d4cfbf44570af714f3_未标题-1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=C9R8Epiwzmy7JUQJkLa9H7X6w/s=)
 

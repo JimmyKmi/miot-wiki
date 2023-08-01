@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米电视6 oled系列
 
-小米/米家 | 2021/8/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.z2oh1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.z2oh1&region=cn)
+小米/米家 | 2021/8/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.z2oh1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.z2oh1&region=cn)
 
 ![xiaomi.tv.z2oh1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4afff89b7a68bb8a01ef12dc58469281_1626241263359.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0kvhIfvxspVWiJgB9itxsQ/ggqI=)
 

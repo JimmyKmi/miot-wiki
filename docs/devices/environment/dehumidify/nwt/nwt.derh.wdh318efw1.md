@@ -9,7 +9,7 @@ description : ''
 ---
 # NWT 互联网除湿机 18L
 
-NWT | 2019/3/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nwt.derh.wdh318efw1/) | [说明书](https://home.mi.com/views/introduction.html?model=nwt.derh.wdh318efw1&region=cn)
+NWT | 2019/3/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=nwt.derh.wdh318efw1) | [说明书](https://home.mi.com/views/introduction.html?model=nwt.derh.wdh318efw1&region=cn)
 
 ![nwt.derh.wdh318efw1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_167904757845643wLk064.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=FOqE9PO8c5vqpY73dRKY5Q7R3LA=)
 

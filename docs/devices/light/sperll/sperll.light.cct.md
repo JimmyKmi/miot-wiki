@@ -9,7 +9,7 @@ description : ''
 ---
 # BanlanX色温灯
 
-SPERLL | 2023/6/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sperll.light.cct/) | [说明书](https://home.mi.com/views/introduction.html?model=sperll.light.cct&region=cn)
+SPERLL | 2023/6/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sperll.light.cct) | [说明书](https://home.mi.com/views/introduction.html?model=sperll.light.cct&region=cn)
 
 ![sperll.light.cct](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ed17c23dae3e9846b0adba12c79369c2_1681726460267.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=cgFG4Mf8W/evSHEwfHH3FdlkAGk=)
 

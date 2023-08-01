@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网燃气热水器1A（13L）
 
-云米 Viomi | 2018/8/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u1/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u1&region=cn)
+云米 Viomi | 2018/8/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u1) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u1&region=cn)
 
 ![viomi.waterheater.u1](https://static.home.mi.com/app/image/get/file/developer_1531791124f2u1fpad.png)
 

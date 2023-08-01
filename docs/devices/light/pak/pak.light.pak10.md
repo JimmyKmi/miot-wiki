@@ -9,7 +9,7 @@ description : ''
 ---
 # 三雄极光Pak智能吊灯
 
-三雄极光 | 2022/4/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.pak10/) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.pak10&region=cn)
+三雄极光 | 2022/4/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.pak10) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.pak10&region=cn)
 
 ![pak.light.pak10](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/4c8194c5c079829f29f952791eafbe4a_1645690653003.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QOzhAagOIfm0qt+YitbR8Xhzitg=)
 

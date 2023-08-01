@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI零冷水燃气热水器 Super 2 Max
 
-云米 Viomi | 2022/7/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u62/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u62&region=cn)
+云米 Viomi | 2022/7/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u62) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u62&region=cn)
 
 ![viomi.waterheater.u62](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1657175609838FKEPz8G7.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MPOcSs0/DCNJ8vrhssf3EFFwpc0=)
 

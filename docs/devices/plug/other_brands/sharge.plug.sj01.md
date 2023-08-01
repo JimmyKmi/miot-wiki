@@ -9,7 +9,7 @@ description : ''
 ---
 # 闪极  100W 迷你充电器（蓝牙版）
 
-其他品牌 | 2022/8/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sharge.plug.sj01/) | [说明书](https://home.mi.com/views/introduction.html?model=sharge.plug.sj01&region=cn)
+其他品牌 | 2022/8/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=sharge.plug.sj01) | [说明书](https://home.mi.com/views/introduction.html?model=sharge.plug.sj01&region=cn)
 
 ![sharge.plug.sj01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a9b374328e682bf771c26e07d7274e31_1656643552285.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=QbKMhHlqC8PDSTTMS008TX+YAMw=)
 

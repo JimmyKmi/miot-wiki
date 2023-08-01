@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家冰箱 对开门630L冰晶版
 
-小米/米家 | 2022/3/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd8.fridge.630/) | [说明书](https://home.mi.com/views/introduction.html?model=midjd8.fridge.630&region=cn)
+小米/米家 | 2022/3/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd8.fridge.630) | [说明书](https://home.mi.com/views/introduction.html?model=midjd8.fridge.630&region=cn)
 
 ![midjd8.fridge.630](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/2c423cb7da7a4461e2798a986dc22543_1638344187203.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=c5cL/Qwm0OlO+guQdRrt1Menw1o=)
 

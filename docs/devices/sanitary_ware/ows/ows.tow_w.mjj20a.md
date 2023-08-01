@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧伟士NEX毛巾架
 
-欧伟士 | 2021/6/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ows.tow_w.mjj20a/) | [说明书](https://home.mi.com/views/introduction.html?model=ows.tow_w.mjj20a&region=cn)
+欧伟士 | 2021/6/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ows.tow_w.mjj20a) | [说明书](https://home.mi.com/views/introduction.html?model=ows.tow_w.mjj20a&region=cn)
 
 ![ows.tow_w.mjj20a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047842921kN2Vo7xJ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0MgMg4/vq5/bz5Y9jqAdFteoJo0=)
 

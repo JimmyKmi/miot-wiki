@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能晾衣架
 
-居意 | 2020/5/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.airer.l2/) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.airer.l2&region=cn)
+居意 | 2020/5/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=syniot.airer.l2) | [说明书](https://home.mi.com/views/introduction.html?model=syniot.airer.l2&region=cn)
 
 ![syniot.airer.l2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1579434223772TQ7cwq1k.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/JkgcAjnb1ksuXU/zUHpEC8snqk=)
 

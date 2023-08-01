@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居控锁器
 
-未来居 Bymiot | 2022/3/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.remote.lockv2/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.remote.lockv2&region=cn)
+未来居 Bymiot | 2022/3/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.remote.lockv2) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.remote.lockv2&region=cn)
 
 ![bymiot.remote.lockv2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8c3e2919902718ab800e1e0d67d3e318_1641901447669.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PtNiZLmKHKF0qnRUh2rwz99TYt0=)
 

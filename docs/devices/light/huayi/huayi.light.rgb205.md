@@ -9,7 +9,7 @@ description : ''
 ---
 # 慧作慧光板
 
-华艺 | 2021/1/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.rgb205/) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.rgb205&region=cn)
+华艺 | 2021/1/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huayi.light.rgb205) | [说明书](https://home.mi.com/views/introduction.html?model=huayi.light.rgb205&region=cn)
 
 ![huayi.light.rgb205](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047809069M04K686H.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=A1jWWLjk5Uq3RW7n5+gOrBbMhNk=)
 

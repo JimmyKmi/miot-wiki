@@ -9,7 +9,7 @@ description : ''
 ---
 # Xiaomi 智能家庭屏 10
 
-小米/米家 | 2022/4/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.x10a/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.x10a&region=cn)
+小米/米家 | 2022/4/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.x10a) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.x10a&region=cn)
 
 ![xiaomi.wifispeaker.x10a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047769014SrZ7VsMb.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=6718tB89vJs1NgItmk3rYqmIj4I=)
 

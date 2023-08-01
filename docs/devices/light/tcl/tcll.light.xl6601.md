@@ -9,7 +9,7 @@ description : ''
 ---
 # TCL银河智能客厅灯
 
-TCL | 2020/11/26 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tcll.light.xl6601/) | [说明书](https://home.mi.com/views/introduction.html?model=tcll.light.xl6601&region=cn)
+TCL | 2020/11/26 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tcll.light.xl6601) | [说明书](https://home.mi.com/views/introduction.html?model=tcll.light.xl6601&region=cn)
 
 ![tcll.light.xl6601](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071742765fAdp1yC6.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=W8591/AXXuoNVuR5JS5/0jYSZA4=)
 

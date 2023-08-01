@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能插卡取电mesh版
 
-其他品牌 | 2022/11/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.cs.ckqd01/) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.cs.ckqd01&region=cn)
+其他品牌 | 2022/11/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lxun.cs.ckqd01) | [说明书](https://home.mi.com/views/introduction.html?model=lxun.cs.ckqd01&region=cn)
 
 ![lxun.cs.ckqd01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/198ab6a2e26dc3f30dda37da7ad0240e_1667440007856.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=pLkZCH5Q9uAzlvhkxUqY+yU1OyY=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家扫拖机器人1C
 
-小米/米家 | 2019/10/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.mc1808/) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.mc1808&region=cn)
+小米/米家 | 2019/10/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dreame.vacuum.mc1808) | [说明书](https://home.mi.com/views/introduction.html?model=dreame.vacuum.mc1808&region=cn)
 
 ![dreame.vacuum.mc1808](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1562239124014kEE2hXem.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;Expires=9223372036854775807&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;Signature=LHFf3Lj4/j38SuwXmdXKjL1oC7E=)
 

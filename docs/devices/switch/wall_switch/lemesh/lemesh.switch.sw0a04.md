@@ -9,7 +9,7 @@ description : ''
 ---
 # 情景Mesh通断器V2S系列
 
-情景mesh芯片 | 2023/5/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.switch.sw0a04/) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.switch.sw0a04&region=cn)
+情景mesh芯片 | 2023/5/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lemesh.switch.sw0a04) | [说明书](https://home.mi.com/views/introduction.html?model=lemesh.switch.sw0a04&region=cn)
 
 ![lemesh.switch.sw0a04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8086ca19612ff254d349fb7b5e168402_1678842356134.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=gCo0ieLtBztPIRz4ZlTIvFk9kbM=)
 

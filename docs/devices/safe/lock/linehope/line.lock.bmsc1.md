@@ -9,7 +9,7 @@ description : ''
 ---
 # LineHope智能玻璃门锁C1
 
-方舟鱼 LineHope | 2022/9/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.lock.bmsc1/) | [说明书](https://home.mi.com/views/introduction.html?model=line.lock.bmsc1&region=cn)
+方舟鱼 LineHope | 2022/9/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.lock.bmsc1) | [说明书](https://home.mi.com/views/introduction.html?model=line.lock.bmsc1&region=cn)
 
 ![line.lock.bmsc1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/cce0f52529cf3b47e76a0dbeab0933f1_1654770413052.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/cHvWJAJBUa2Ppb6Gb2CQUUXVek=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网电热水器VEW6018
 
-云米 Viomi | 2021/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e25/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e25&region=cn)
+云米 Viomi | 2021/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.e25) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.e25&region=cn)
 
 ![viomi.waterheater.e25](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c73b809651caf56f4d1129283186f6ad_148.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=U0DGaz9njrUbTmo80ljIpUJo1ms=)
 

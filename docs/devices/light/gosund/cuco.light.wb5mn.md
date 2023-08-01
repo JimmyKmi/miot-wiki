@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能彩灯WB5-M
 
-Gosund / 电小酷 | 2022/7/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.light.wb5mn/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.light.wb5mn&region=cn)
+Gosund / 电小酷 | 2022/7/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.light.wb5mn) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.light.wb5mn&region=cn)
 
 ![cuco.light.wb5mn](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/ee979b062c020a6097caeba3402dedf1_1649488776671.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ta7KxKQ5uC7U8J7ZARshwjcGRJY=)
 

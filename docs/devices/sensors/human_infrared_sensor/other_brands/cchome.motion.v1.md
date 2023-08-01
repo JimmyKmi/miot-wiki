@@ -9,7 +9,7 @@ description : ''
 ---
 # 人体感应器
 
-其他品牌 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.motion.v1/) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.motion.v1&region=cn)
+其他品牌 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cchome.motion.v1) | [说明书](https://home.mi.com/views/introduction.html?model=cchome.motion.v1&region=cn)
 
 ![cchome.motion.v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1574125610562qVbBol5O.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7Mlrowp9EMI0AzW2DjIQS4SyngU=)
 

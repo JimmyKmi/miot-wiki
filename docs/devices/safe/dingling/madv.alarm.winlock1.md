@@ -9,7 +9,7 @@ description : ''
 ---
 # 叮零窗户限位报警器 智能版
 
-叮零 | 2020/5/18 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.alarm.winlock1/) | [说明书](https://home.mi.com/views/introduction.html?model=madv.alarm.winlock1&region=cn)
+叮零 | 2020/5/18 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.alarm.winlock1) | [说明书](https://home.mi.com/views/introduction.html?model=madv.alarm.winlock1&region=cn)
 
 ![madv.alarm.winlock1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871037223C2HSP72Q.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ehcgvz87pj/pWGsGec//Skb0DWc=)
 

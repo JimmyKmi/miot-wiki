@@ -9,7 +9,7 @@ description : ''
 ---
 # 俏蜻蜓灭蚊灯
 
-其他品牌 | 2020/7/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dayang.mosq.dyt16s/) | [说明书](https://home.mi.com/views/introduction.html?model=dayang.mosq.dyt16s&region=cn)
+其他品牌 | 2020/7/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dayang.mosq.dyt16s) | [说明书](https://home.mi.com/views/introduction.html?model=dayang.mosq.dyt16s&region=cn)
 
 ![dayang.mosq.dyt16s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047726072hru4t8LI.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MayUutpnayOEA8q9RqVSPRDEV4Y=)
 

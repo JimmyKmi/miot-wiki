@@ -9,7 +9,7 @@ description : ''
 ---
 # 彩色智能灯带SL4
 
-Gosund / 电小酷 | 2020/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.light.sl4/) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.light.sl4&region=cn)
+Gosund / 电小酷 | 2020/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cuco.light.sl4) | [说明书](https://home.mi.com/views/introduction.html?model=cuco.light.sl4&region=cn)
 
 ![cuco.light.sl4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048936366M2NRsmpn.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0VHOZX6fMxEvNYrko8p6/oO1h1Y=)
 

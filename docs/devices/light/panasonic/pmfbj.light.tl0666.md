@@ -9,7 +9,7 @@ description : ''
 ---
 # 松下台灯
 
-松下 Panasonic | 2022/8/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.tl0666/) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.tl0666&region=cn)
+松下 Panasonic | 2022/8/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.tl0666) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.tl0666&region=cn)
 
 ![pmfbj.light.tl0666](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0cf370c7b88f2966c01fd9cd5d07e450_1658402068396.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=eirpHSCqnJFZJjsg7PY2EWtbiF4=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI净水器 蓝调 2
 
-云米 Viomi | 2023/4/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s37/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s37&region=cn)
+云米 Viomi | 2023/4/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.s37) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.s37&region=cn)
 
 ![yunmi.waterpuri.s37](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9998bd38ea2d0a98ae3ab28583cfe56f_1679623883924.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=N7qm0QF9+HHlcZr03lxvX/RLbrE=)
 

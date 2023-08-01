@@ -9,7 +9,7 @@ description : ''
 ---
 # 华来小方智能挂锁
 
-华来小方 | 2021/11/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.lock.hlsl01/) | [说明书](https://home.mi.com/views/introduction.html?model=isa.lock.hlsl01&region=cn)
+华来小方 | 2021/11/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isa.lock.hlsl01) | [说明书](https://home.mi.com/views/introduction.html?model=isa.lock.hlsl01&region=cn)
 
 ![isa.lock.hlsl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070336745RXR1OnMR.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2EmyXYK7CwBa4nx1smc/bT2ctBQ=)
 

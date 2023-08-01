@@ -9,7 +9,7 @@ description : ''
 ---
 # 丹菲诺智能灯
 
-其他品牌 | 2021/2/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dikair.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=dikair.light.wy0a01&region=cn)
+其他品牌 | 2021/2/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dikair.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=dikair.light.wy0a01&region=cn)
 
 ![dikair.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16790478425086nap1OgG.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=eyPTkTZoYhd0Rajbjxg0siOJ5d4=)
 

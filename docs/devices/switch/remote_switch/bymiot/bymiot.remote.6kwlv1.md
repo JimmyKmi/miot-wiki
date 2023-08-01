@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居无线六键场景开关
 
-未来居 Bymiot | 2022/3/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.remote.6kwlv1/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.remote.6kwlv1&region=cn)
+未来居 Bymiot | 2022/3/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.remote.6kwlv1) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.remote.6kwlv1&region=cn)
 
 ![bymiot.remote.6kwlv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e8723fb48338d513ae837ee2e37de91f_1639622755098.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=8Iz3AWS7vzH5n4jIFLJfkz1hQw4=)
 

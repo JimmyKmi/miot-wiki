@@ -9,7 +9,7 @@ description : ''
 ---
 # Heatcold地暖(水)
 
-Heatcold | 2022/12/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cubee.airrtc.th123w/) | [说明书](https://home.mi.com/views/introduction.html?model=cubee.airrtc.th123w&region=cn)
+Heatcold | 2022/12/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cubee.airrtc.th123w) | [说明书](https://home.mi.com/views/introduction.html?model=cubee.airrtc.th123w&region=cn)
 
 ![cubee.airrtc.th123w](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679070105214dg2qXFxu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=sfqRGz3NVCE02dYeB/uVEEgh4eU=)
 

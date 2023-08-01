@@ -9,7 +9,7 @@ description : ''
 ---
 # AInice双存在传感器
 
-艾奈斯 | 2023/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ainice.sensor_occupy.rd/) | [说明书](https://home.mi.com/views/introduction.html?model=ainice.sensor_occupy.rd&region=cn)
+艾奈斯 | 2023/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ainice.sensor_occupy.rd) | [说明书](https://home.mi.com/views/introduction.html?model=ainice.sensor_occupy.rd&region=cn)
 
 ![ainice.sensor_occupy.rd](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/29885b03de2f197188cfd979fb6a4c79_1683861268080.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=hM7OXnqlFd4k8j2ZrWMMC2k6vBk=)
 

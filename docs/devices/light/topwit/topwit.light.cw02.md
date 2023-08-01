@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能磁吸灯
 
-Topwit | 2022/8/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.cw02/) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.cw02&region=cn)
+Topwit | 2022/8/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=topwit.light.cw02) | [说明书](https://home.mi.com/views/introduction.html?model=topwit.light.cw02&region=cn)
 
 ![topwit.light.cw02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f9f399d3ae6ff73bbf599680a81d84c4_1659059608641.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ueY4HeaaMD1ZQjWWh5dwbPBKaIA=)
 

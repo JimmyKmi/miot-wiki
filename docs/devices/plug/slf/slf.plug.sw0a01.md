@@ -9,7 +9,7 @@ description : ''
 ---
 # 智拉斐智能二三极插座（D8）
 
-智拉斐 | 2022/2/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.plug.sw0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=slf.plug.sw0a01&region=cn)
+智拉斐 | 2022/2/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=slf.plug.sw0a01) | [说明书](https://home.mi.com/views/introduction.html?model=slf.plug.sw0a01&region=cn)
 
 ![slf.plug.sw0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b4d94937cf88a43ef4c5c76a9e6dc39c_1632559373709.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HW6Yka75QpLQglgOilPlQ0uwDRE=)
 

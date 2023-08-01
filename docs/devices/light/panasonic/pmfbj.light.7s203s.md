@@ -9,7 +9,7 @@ description : ''
 ---
 # 松下筒射灯
 
-松下 Panasonic | 2023/4/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.7s203s/) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.7s203s&region=cn)
+松下 Panasonic | 2023/4/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pmfbj.light.7s203s) | [说明书](https://home.mi.com/views/introduction.html?model=pmfbj.light.7s203s&region=cn)
 
 ![pmfbj.light.7s203s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1273389643c9e4f74daacfa75c6de7e5_1680141709664.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=AdDuSWod2ftUnN+LSI4pvAx2t4c=)
 

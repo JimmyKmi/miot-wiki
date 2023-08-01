@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网燃气热水器Mate 16L
 
-云米 Viomi | 2020/9/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u32/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u32&region=cn)
+云米 Viomi | 2020/9/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.waterheater.u32) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.waterheater.u32&region=cn)
 
 ![viomi.waterheater.u32](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048481151lxEkYMH1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=W2QZMPCSSMrkWHwNrl7l+ZfCuoQ=)
 

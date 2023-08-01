@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家冰箱 意式400L 冰晶白
 
-小米/米家 | 2023/5/22 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd8.fridge.400b/) | [说明书](https://home.mi.com/views/introduction.html?model=midjd8.fridge.400b&region=cn)
+小米/米家 | 2023/5/22 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd8.fridge.400b) | [说明书](https://home.mi.com/views/introduction.html?model=midjd8.fridge.400b&region=cn)
 
 ![midjd8.fridge.400b](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/e7cccee00ccb017e9a5a5063447eae7f_1680530249879.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=ARguaD/6+IjnQW56suUfyfllqd4=)
 

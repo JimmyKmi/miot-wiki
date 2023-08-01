@@ -9,7 +9,7 @@ description : ''
 ---
 # test-llj
 
-小米/米家 | 2021/12/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miot.pettoy.bbb/) | [说明书](https://home.mi.com/views/introduction.html?model=miot.pettoy.bbb&region=cn)
+小米/米家 | 2021/12/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=miot.pettoy.bbb) | [说明书](https://home.mi.com/views/introduction.html?model=miot.pettoy.bbb&region=cn)
 
 ![miot.pettoy.bbb](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dee64dc86929b7de94aa464b2c7ffd8f_1639118177336.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3Pey7qYfHDSAtD3oSqgfduY2Z54=)
 

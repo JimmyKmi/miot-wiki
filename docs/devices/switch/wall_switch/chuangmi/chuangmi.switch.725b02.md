@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能墙壁开关K3（零火双键）
 
-创米小白 | 2023/3/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.switch.725b02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.switch.725b02&region=cn)
+创米小白 | 2023/3/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.switch.725b02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.switch.725b02&region=cn)
 
 ![chuangmi.switch.725b02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/236e243cb5d4047c327ff8668552710b_1665397729722.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=xm+gA6gdWZNcQHj3pc2qrbLPrxQ=)
 

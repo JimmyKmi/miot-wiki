@@ -9,7 +9,7 @@ description : ''
 ---
 # H+单火开关
 
-H+ | 2022/3/17 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huca.switch.dh1/) | [说明书](https://home.mi.com/views/introduction.html?model=huca.switch.dh1&region=cn)
+H+ | 2022/3/17 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=huca.switch.dh1) | [说明书](https://home.mi.com/views/introduction.html?model=huca.switch.dh1&region=cn)
 
 ![huca.switch.dh1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b59d7470e7628082ceb830b580131afa_1641882751912.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=3sCeMa/hhZKUIg6bGZLBHF6v/Vw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # VTT高端剃须刀
 
-其他品牌 | 2023/7/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tstar.razor.ra2/) | [说明书](https://home.mi.com/views/introduction.html?model=tstar.razor.ra2&region=cn)
+其他品牌 | 2023/7/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tstar.razor.ra2) | [说明书](https://home.mi.com/views/introduction.html?model=tstar.razor.ra2&region=cn)
 
 ![tstar.razor.ra2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3ccb70133f07c820a666158f77787e9f_1685520005137.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nzBTVrcnrSUfwTfJHLT+BG0OvNk=)
 

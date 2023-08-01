@@ -9,7 +9,7 @@ description : ''
 ---
 # 智米直流变频落地扇
 
-智米 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.fan.v3/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.fan.v3&region=cn)
+智米 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.fan.v3) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.fan.v3&region=cn)
 
 ![zhimi.fan.v3](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679069107781ePP8FUg5.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=k9YPWG1ZqpVenqrP2S4mrYmJ5zQ=)
 

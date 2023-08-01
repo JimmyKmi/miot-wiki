@@ -9,7 +9,7 @@ description : ''
 ---
 # 湃妮智能灭菌除臭器 Pro
 
-湃妮 | 2020/11/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skyrc.airp.su001/) | [说明书](https://home.mi.com/views/introduction.html?model=skyrc.airp.su001&region=cn)
+湃妮 | 2020/11/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=skyrc.airp.su001) | [说明书](https://home.mi.com/views/introduction.html?model=skyrc.airp.su001&region=cn)
 
 ![skyrc.airp.su001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679071858495cSIzXqkU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=9WlUkPLUDTz3sHH+C8IvuqVP4+Q=)
 

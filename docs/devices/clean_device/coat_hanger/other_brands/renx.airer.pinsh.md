@@ -9,7 +9,7 @@ description : ''
 ---
 # PISN智能晾衣架
 
-其他品牌 | 2022/3/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=renx.airer.pinsh/) | [说明书](https://home.mi.com/views/introduction.html?model=renx.airer.pinsh&region=cn)
+其他品牌 | 2022/3/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=renx.airer.pinsh) | [说明书](https://home.mi.com/views/introduction.html?model=renx.airer.pinsh&region=cn)
 
 ![renx.airer.pinsh](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/671afea920c8b0f5c03e7f8960682d77_1641633037374.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jT2lDD/av/VmsmnINW6GN1zPKSk=)
 

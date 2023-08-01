@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网电动晾衣架Lite 1C
 
-云米 Viomi | 2022/5/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.ich111/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.ich111&region=cn)
+云米 Viomi | 2022/5/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.ich111) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.ich111&region=cn)
 
 ![viomi.airer.ich111](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1600141982814PkSce2S8.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TBjDtKQcwfrMx24Ow0dbY9T5JV0=)
 

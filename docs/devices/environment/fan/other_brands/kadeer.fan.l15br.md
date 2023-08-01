@@ -9,7 +9,7 @@ description : ''
 ---
 # 至凡FLS-L15BRL无叶冷风扇
 
-其他品牌 | 2021/5/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.l15br/) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.l15br&region=cn)
+其他品牌 | 2021/5/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=kadeer.fan.l15br) | [说明书](https://home.mi.com/views/introduction.html?model=kadeer.fan.l15br&region=cn)
 
 ![kadeer.fan.l15br](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870953777Wr6sqLq4.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=MnxACGRcqk0T9u3k5pz43GlRMog=)
 

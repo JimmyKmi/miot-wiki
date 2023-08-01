@@ -9,7 +9,7 @@ description : ''
 ---
 # 亖米筒射灯mesh版
 
-亖米 | 2022/6/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=symi.light.wy0a01&region=cn)
+亖米 | 2022/6/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=symi.light.wy0a01&region=cn)
 
 ![symi.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1ea43abb2ef47c066f81f6021cfa4e4b_1655351496270.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=/Mdp85Hf+t0esFn/mA1tpXdkPyk=)
 

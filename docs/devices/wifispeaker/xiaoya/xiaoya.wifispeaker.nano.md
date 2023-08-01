@@ -9,7 +9,7 @@ description : ''
 ---
 # 小雅nano音箱
 
-小雅 | 2020/8/11 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoya.wifispeaker.nano/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoya.wifispeaker.nano&region=cn)
+小雅 | 2020/8/11 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaoya.wifispeaker.nano) | [说明书](https://home.mi.com/views/introduction.html?model=xiaoya.wifispeaker.nano&region=cn)
 
 ![xiaoya.wifispeaker.nano](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047654196w8hTogrW.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=66+ymNh/UVETndIDEfuYYn8gBbs=)
 

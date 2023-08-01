@@ -9,7 +9,7 @@ description : ''
 ---
 # 无叶塔扇
 
-乐秀 | 2019/5/6 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.fan.ss4/) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.fan.ss4&region=cn)
+乐秀 | 2019/5/6 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leshow.fan.ss4) | [说明书](https://home.mi.com/views/introduction.html?model=leshow.fan.ss4&region=cn)
 
 ![leshow.fan.ss4](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047578550csISk46S.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=M337JCT0/k0wxVNJCQsUenzRirY=)
 

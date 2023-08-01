@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能浴霸pro
 
-雷士 | 2023/1/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.bhf_light.pro1/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.bhf_light.pro1&region=cn)
+雷士 | 2023/1/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.bhf_light.pro1) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.bhf_light.pro1&region=cn)
 
 ![leishi.bhf_light.pro1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/632fd247903e003cdb1deba03b20b3fe_1660535304364.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yMyAfmYjfpqHqL7rRlkKlL8aSSM=)
 

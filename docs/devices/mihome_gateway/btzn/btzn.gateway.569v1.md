@@ -9,7 +9,7 @@ description : ''
 ---
 # 比特569网关
 
-比特 | 2020/12/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.gateway.569v1/) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.gateway.569v1&region=cn)
+比特 | 2020/12/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=btzn.gateway.569v1) | [说明书](https://home.mi.com/views/introduction.html?model=btzn.gateway.569v1&region=cn)
 
 ![btzn.gateway.569v1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048939458xxiBy0OV.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=NVUiX1LHe0xbBxcqAhnoc2Li6xY=)
 

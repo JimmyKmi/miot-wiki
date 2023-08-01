@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能自清洗破壁料理机
 
-小米/米家 | 2022/10/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.juicer.mx1/) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.juicer.mx1&region=cn)
+小米/米家 | 2022/10/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chunmi.juicer.mx1) | [说明书](https://home.mi.com/views/introduction.html?model=chunmi.juicer.mx1&region=cn)
 
 ![chunmi.juicer.mx1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c995dd08cf2eb202589ad492272aac5f_1656035931696.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=yNZlTimqTv5+ljduLpDi6/E2cWM=)
 

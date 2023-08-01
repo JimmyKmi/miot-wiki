@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米路由器Pro
 
-小米/米家 | 2017/11/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.r3p/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.r3p&region=cn)
+小米/米家 | 2017/11/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.router.r3p) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.router.r3p&region=cn)
 
 ![xiaomi.router.r3p](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_16788708888849opqLZGK.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XswfO94aSku3+hSV7uIJ2hWgEMU=)
 

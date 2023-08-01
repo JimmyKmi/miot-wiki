@@ -9,7 +9,7 @@ description : ''
 ---
 # 8H 5D助眠按摩床垫/S
 
-8H | 2023/5/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.mattress.mt/) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.mattress.mt&region=cn)
+8H | 2023/5/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=qushui.mattress.mt) | [说明书](https://home.mi.com/views/introduction.html?model=qushui.mattress.mt&region=cn)
 
 ![qushui.mattress.mt](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/26ac3c3ef16fc0f598fe0368d2c3500d_1680225027241.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CggKftd7zYnNu6U4Plzm+5mWuyo=)
 

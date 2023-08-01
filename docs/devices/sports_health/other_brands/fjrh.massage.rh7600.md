@@ -9,7 +9,7 @@ description : ''
 ---
 # RH多功能按摩椅
 
-其他品牌 | 2022/6/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fjrh.massage.rh7600/) | [说明书](https://home.mi.com/views/introduction.html?model=fjrh.massage.rh7600&region=cn)
+其他品牌 | 2022/6/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=fjrh.massage.rh7600) | [说明书](https://home.mi.com/views/introduction.html?model=fjrh.massage.rh7600&region=cn)
 
 ![fjrh.massage.rh7600](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/aeef91d86e9f37cadc4baf2ccf43890c_1650887723653.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=b4NI+xztvMTHkPanpgXj7oizCE8=)
 

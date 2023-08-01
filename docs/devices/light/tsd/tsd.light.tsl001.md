@@ -9,7 +9,7 @@ description : ''
 ---
 # 舞光I智慧 坎灯
 
-通士达 | 2019/12/3 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsd.light.tsl001/) | [说明书](https://home.mi.com/views/introduction.html?model=tsd.light.tsl001&region=cn)
+通士达 | 2019/12/3 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=tsd.light.tsl001) | [说明书](https://home.mi.com/views/introduction.html?model=tsd.light.tsl001&region=cn)
 
 ![tsd.light.tsl001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1583229164082ihlaZFlk.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7IWjVkPIC6xsaAoP5jP5GA7C7wA=)
 

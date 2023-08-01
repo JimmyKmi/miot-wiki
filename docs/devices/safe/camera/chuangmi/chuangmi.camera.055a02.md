@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能全景球机 Q1
 
-创米小白 | 2021/11/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.055a02/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.055a02&region=cn)
+创米小白 | 2021/11/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.camera.055a02) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.camera.055a02&region=cn)
 
 ![chuangmi.camera.055a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3511d1ecbaa31392656431a58383c0dd_1629079188221.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=huEPywvhYzHRAarkmMHGhbSjGrw=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米记录仪2 2K版
 
-小米/米家 | 2020/5/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midr.cardvr.mv2/) | [说明书](https://home.mi.com/views/introduction.html?model=midr.cardvr.mv2&region=cn)
+小米/米家 | 2020/5/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midr.cardvr.mv2) | [说明书](https://home.mi.com/views/introduction.html?model=midr.cardvr.mv2&region=cn)
 
 ![midr.cardvr.mv2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1579423641423EjfQnUwj.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&amp;amp;Expires=9223372036854775807&amp;amp;Signature=tJbwqwnLJgDbsMSL/1xw94m9Cv4=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白摄像机网关
 
-创米小白 | 2019/6/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.gateway.ipc011/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.gateway.ipc011&region=cn)
+创米小白 | 2019/6/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.gateway.ipc011) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.gateway.ipc011&region=cn)
 
 ![chuangmi.gateway.ipc011](https://static.home.mi.com/app/image/get/file/developer_1535617936h5w8jq7z.png)
 

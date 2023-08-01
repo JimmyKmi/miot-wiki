@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客智能猫眼CatX
 
-鹿客 Loock | 2022/5/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.cateye.v07/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.cateye.v07&region=cn)
+鹿客 Loock | 2022/5/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.cateye.v07) | [说明书](https://home.mi.com/views/introduction.html?model=loock.cateye.v07&region=cn)
 
 ![loock.cateye.v07](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/d74b2c550d00fc63914d470dd1916c7a_1647503686359.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=stP3ItRDuMUFdfX3IzisWKy1b1Q=)
 

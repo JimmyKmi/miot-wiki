@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能钢琴灯
 
-小米/米家 | 2023/3/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.piano/) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.piano&region=cn)
+小米/米家 | 2023/3/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=philips.light.piano) | [说明书](https://home.mi.com/views/introduction.html?model=philips.light.piano&region=cn)
 
 ![philips.light.piano](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/45c69c4effebfabdb1b96850ae386309_1662605415620.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=eU7StXVw8aiscB2VZjyMO/zSRko=)
 

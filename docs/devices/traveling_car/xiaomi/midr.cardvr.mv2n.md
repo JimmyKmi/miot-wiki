@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米记录仪2 标准版
 
-小米/米家 | 2020/9/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midr.cardvr.mv2n/) | [说明书](https://home.mi.com/views/introduction.html?model=midr.cardvr.mv2n&region=cn)
+小米/米家 | 2020/9/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midr.cardvr.mv2n) | [说明书](https://home.mi.com/views/introduction.html?model=midr.cardvr.mv2n&region=cn)
 
 ![midr.cardvr.mv2n](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/developer_1590395990614F0EX9Ls1.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tkREYUQisHstz6NfnBcYMhmHg3c=)
 

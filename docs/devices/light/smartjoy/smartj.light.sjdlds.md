@@ -9,7 +9,7 @@ description : ''
 ---
 # SmartJoy智臻调光筒灯（蓝牙Mesh版）
 
-智臻 SmartJoy | 2021/1/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.light.sjdlds/) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.light.sjdlds&region=cn)
+智臻 SmartJoy | 2021/1/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smartj.light.sjdlds) | [说明书](https://home.mi.com/views/introduction.html?model=smartj.light.sjdlds&region=cn)
 
 ![smartj.light.sjdlds](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bc5106d83643b533efa7b2434058db87_168图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=g6bJgMj+ps2hYTmsy7Y4n5+gEes=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 欧普智能凉霸
 
-欧普 OPPLE | 2023/2/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.ven_fan.liba01/) | [说明书](https://home.mi.com/views/introduction.html?model=opple.ven_fan.liba01&region=cn)
+欧普 OPPLE | 2023/2/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=opple.ven_fan.liba01) | [说明书](https://home.mi.com/views/introduction.html?model=opple.ven_fan.liba01&region=cn)
 
 ![opple.ven_fan.liba01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/13c3a394fc018b60eee2df0d661cf1ea_1667353958675.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=7sE37S+FD1rWN0MGaeyzgfP57jc=)
 

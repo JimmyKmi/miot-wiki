@@ -9,7 +9,7 @@ description : ''
 ---
 # 西顿恒流智能驱动
 
-西顿 Cdn | 2021/6/21 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.light.wy0a04/) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.light.wy0a04&region=cn)
+西顿 Cdn | 2021/6/21 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=cdn.light.wy0a04) | [说明书](https://home.mi.com/views/introduction.html?model=cdn.light.wy0a04&region=cn)
 
 ![cdn.light.wy0a04](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047905033oGKcqUVU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=TGeDG+0EO+7c2ZIlTCLQfbAuCzs=)
 

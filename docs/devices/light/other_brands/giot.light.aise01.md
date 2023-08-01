@@ -9,7 +9,7 @@ description : ''
 ---
 # Ai智能情景WIFI双色灯
 
-其他品牌 | 2022/5/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.light.aise01/) | [说明书](https://home.mi.com/views/introduction.html?model=giot.light.aise01&region=cn)
+其他品牌 | 2022/5/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=giot.light.aise01) | [说明书](https://home.mi.com/views/introduction.html?model=giot.light.aise01&region=cn)
 
 ![giot.light.aise01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7f249b6cf22b9e665e3e8cb1794f25f6_1647316022269.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=X8Mg0dLy5zfuRIRQnIG2DCOc/YE=)
 

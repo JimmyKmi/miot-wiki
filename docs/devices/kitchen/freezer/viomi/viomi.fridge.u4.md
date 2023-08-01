@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米互联网冰箱对开门ilive 483L
 
-云米 Viomi | 2018/9/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u4/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u4&region=cn)
+云米 Viomi | 2018/9/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.fridge.u4) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.fridge.u4&region=cn)
 
 ![viomi.fridge.u4](https://static.home.mi.com/app/image/get/file/developer_15372348892ujxmwl2.png)
 

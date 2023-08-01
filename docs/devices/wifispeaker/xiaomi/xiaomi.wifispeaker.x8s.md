@@ -9,7 +9,7 @@ description : ''
 ---
 # Xiaomi 触屏音箱 8
 
-小米/米家 | 2023/5/12 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.x8s/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.x8s&region=cn)
+小米/米家 | 2023/5/12 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.wifispeaker.x8s) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.wifispeaker.x8s&region=cn)
 
 ![xiaomi.wifispeaker.x8s](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7bb439be21304cca680597e0cbc0a25f_1669884766522.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=50YzzhpMPRuBzIiKelodsQ7tm3I=)
 

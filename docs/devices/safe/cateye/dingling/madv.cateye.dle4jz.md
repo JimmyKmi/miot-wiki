@@ -9,7 +9,7 @@ description : ''
 ---
 # 叮零视频门铃E6
 
-叮零 | 2022/7/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.dle4jz/) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.dle4jz&region=cn)
+叮零 | 2022/7/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=madv.cateye.dle4jz) | [说明书](https://home.mi.com/views/introduction.html?model=madv.cateye.dle4jz&region=cn)
 
 ![madv.cateye.dle4jz](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/69e5efdbe614fb1a58cb154fb5235c6a_1642390446945.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=aj1kCHOux1kZQ3rOCIdmrtoEw1E=)
 

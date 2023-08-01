@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米电视 大师77吋 OLED
 
-小米/米家 | 2021/8/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.dso1h1/) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.dso1h1&region=cn)
+小米/米家 | 2021/8/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xiaomi.tv.dso1h1) | [说明书](https://home.mi.com/views/introduction.html?model=xiaomi.tv.dso1h1&region=cn)
 
 ![xiaomi.tv.dso1h1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/bf3c843df754fc4332934ccf7cc46ebc_1628781318070.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=U2wQxoix0RA527D3pWN460ItavA=)
 

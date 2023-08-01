@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能情景调光灯
 
-其他品牌 | 2023/3/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hcs.light.yssl01/) | [说明书](https://home.mi.com/views/introduction.html?model=hcs.light.yssl01&region=cn)
+其他品牌 | 2023/3/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=hcs.light.yssl01) | [说明书](https://home.mi.com/views/introduction.html?model=hcs.light.yssl01&region=cn)
 
 ![hcs.light.yssl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/594c8cf6e51933ffb2f092f88e203580_1676861313088.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=jS6XXiOUnytA6eWQGpJcxyai984=)
 

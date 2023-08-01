@@ -9,7 +9,7 @@ description : ''
 ---
 # XM智能电动窗帘
 
-小匠 | 2023/6/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjdh.curtain.xj001/) | [说明书](https://home.mi.com/views/introduction.html?model=zjdh.curtain.xj001&region=cn)
+小匠 | 2023/6/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zjdh.curtain.xj001) | [说明书](https://home.mi.com/views/introduction.html?model=zjdh.curtain.xj001&region=cn)
 
 ![zjdh.curtain.xj001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/0ea4f7244d896e12d1c7ccae7f81807f_1683702189898.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=qf7CVjNkqYAPwV7k7N44QU+uXW4=)
 

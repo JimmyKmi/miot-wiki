@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米室外摄像机电池版（摄像机）
 
-小米/米家 | 2021/4/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mxiang.camera.mwc11/) | [说明书](https://home.mi.com/views/introduction.html?model=mxiang.camera.mwc11&region=cn)
+小米/米家 | 2021/4/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mxiang.camera.mwc11) | [说明书](https://home.mi.com/views/introduction.html?model=mxiang.camera.mwc11&region=cn)
 
 ![mxiang.camera.mwc11](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/71c197b77af3aedd6d8eb7975b1b3cb9_camera168.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=d27uO94b2b+WUJsk3KzL3eTfqDk=)
 

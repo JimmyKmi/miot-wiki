@@ -9,7 +9,7 @@ description : ''
 ---
 # 儿童智能机器人
 
-米兔 | 2021/4/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jiqid.mistory.zjj/) | [说明书](https://home.mi.com/views/introduction.html?model=jiqid.mistory.zjj&region=cn)
+米兔 | 2021/4/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jiqid.mistory.zjj) | [说明书](https://home.mi.com/views/introduction.html?model=jiqid.mistory.zjj&region=cn)
 
 ![jiqid.mistory.zjj](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871036834xdfD61Uy.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=nlh9NhITHM0vf0+YX7IiGtLlWbY=)
 

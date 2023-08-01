@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米净水器500G/500G增强版
 
-小米/米家 | 2019/4/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx7/) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx7&region=cn)
+小米/米家 | 2019/4/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=yunmi.waterpuri.lx7) | [说明书](https://home.mi.com/views/introduction.html?model=yunmi.waterpuri.lx7&region=cn)
 
 ![yunmi.waterpuri.lx7](https://static.home.mi.com/app/image/get/file/developer_1551404440x7tgxayj.png)
 

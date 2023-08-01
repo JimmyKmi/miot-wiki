@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家高温无线洗地机
 
-小米/米家 | 2022/7/23 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=szkj.mop.mjhvc1/) | [说明书](https://home.mi.com/views/introduction.html?model=szkj.mop.mjhvc1&region=cn)
+小米/米家 | 2022/7/23 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=szkj.mop.mjhvc1) | [说明书](https://home.mi.com/views/introduction.html?model=szkj.mop.mjhvc1&region=cn)
 
 ![szkj.mop.mjhvc1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679068737246R78KDHq6.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=tvdV1/PyvqkZFbWDmp6NyERynQ4=)
 

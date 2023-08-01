@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米小爱智能闹钟
 
-小米/米家 | 2018/9/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.clock.myk01/) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.clock.myk01&region=cn)
+小米/米家 | 2018/9/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zimi.clock.myk01) | [说明书](https://home.mi.com/views/introduction.html?model=zimi.clock.myk01&region=cn)
 
 ![zimi.clock.myk01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047545062HQJWYllJ.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=O5gbHY6cbOgGSoaUC2KkdG014cI=)
 

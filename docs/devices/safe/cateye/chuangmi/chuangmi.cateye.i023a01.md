@@ -9,7 +9,7 @@ description : ''
 ---
 # 小白智能视频门铃
 
-创米小白 | 2020/7/13 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.cateye.i023a01/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.cateye.i023a01&region=cn)
+创米小白 | 2020/7/13 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.cateye.i023a01) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.cateye.i023a01&region=cn)
 
 ![chuangmi.cateye.i023a01](https://static.home.mi.com/app/image/get/file/developer_1585538062a05yo7x2.png)
 

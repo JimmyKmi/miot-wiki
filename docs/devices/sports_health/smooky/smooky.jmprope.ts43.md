@@ -9,7 +9,7 @@ description : ''
 ---
 # Smooky智能跳绳
 
-SMOOKY | 2023/3/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smooky.jmprope.ts43/) | [说明书](https://home.mi.com/views/introduction.html?model=smooky.jmprope.ts43&region=cn)
+SMOOKY | 2023/3/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=smooky.jmprope.ts43) | [说明书](https://home.mi.com/views/introduction.html?model=smooky.jmprope.ts43&region=cn)
 
 ![smooky.jmprope.ts43](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/5c28f9ae7e0ac775a6a7ff622ddb6d86_1671170317662.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=R4yXcCJUEc0iSLalKvFvU+u63+E=)
 

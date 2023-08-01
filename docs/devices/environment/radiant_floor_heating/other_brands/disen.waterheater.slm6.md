@@ -9,7 +9,7 @@ description : ''
 ---
 # 小松鼠壁挂炉
 
-其他品牌 | 2022/3/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=disen.waterheater.slm6/) | [说明书](https://home.mi.com/views/introduction.html?model=disen.waterheater.slm6&region=cn)
+其他品牌 | 2022/3/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=disen.waterheater.slm6) | [说明书](https://home.mi.com/views/introduction.html?model=disen.waterheater.slm6&region=cn)
 
 ![disen.waterheater.slm6](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/50594d934d442cf9bffaaa735f3afbb6_1631509529322.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=SwO9/ieUUjU+IjpvC+/AC4Jhe9c=)
 

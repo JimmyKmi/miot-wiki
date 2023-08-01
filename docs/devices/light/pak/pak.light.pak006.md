@@ -9,7 +9,7 @@ description : ''
 ---
 # 三雄极光智能灯泡
 
-三雄极光 | 2021/4/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.pak006/) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.pak006&region=cn)
+三雄极光 | 2021/4/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=pak.light.pak006) | [说明书](https://home.mi.com/views/introduction.html?model=pak.light.pak006&region=cn)
 
 ![pak.light.pak006](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/280971be4992838fbd3d6d6e4be37ebb_168-球泡.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=lEK4v/STRN5EI6VHOxKysk7jiYU=)
 

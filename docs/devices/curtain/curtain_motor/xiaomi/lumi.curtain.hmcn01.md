@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家智能窗帘
 
-小米/米家 | 2020/6/16 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.hmcn01/) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.hmcn01&region=cn)
+小米/米家 | 2020/6/16 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=lumi.curtain.hmcn01) | [说明书](https://home.mi.com/views/introduction.html?model=lumi.curtain.hmcn01&region=cn)
 
 ![lumi.curtain.hmcn01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047688183tZLQFkRd.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Bp27ws8GPtlQvjLRH51X7OArm+U=)
 

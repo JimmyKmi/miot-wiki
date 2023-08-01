@@ -9,7 +9,7 @@ description : ''
 ---
 # 大道梦想家 智能窗帘
 
-其他品牌 | 2022/9/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dotop.curtain.82/) | [说明书](https://home.mi.com/views/introduction.html?model=dotop.curtain.82&region=cn)
+其他品牌 | 2022/9/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dotop.curtain.82) | [说明书](https://home.mi.com/views/introduction.html?model=dotop.curtain.82&region=cn)
 
 ![dotop.curtain.82](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/fb0a54c723a9be76e05659689c1a48b8_1661409767778.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=oq04rSizfn3GksnuMLE157a5zYE=)
 

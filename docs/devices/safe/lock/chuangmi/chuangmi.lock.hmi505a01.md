@@ -9,7 +9,7 @@ description : ''
 ---
 # 创米小白智能门锁X7
 
-创米小白 | 2019/5/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.lock.hmi505a01/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.lock.hmi505a01&region=cn)
+创米小白 | 2019/5/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.lock.hmi505a01) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.lock.hmi505a01&region=cn)
 
 ![chuangmi.lock.hmi505a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678870890513JkfbCVic.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=2LxJx4r82O6Z9WkeP9xXkOMA+uM=)
 

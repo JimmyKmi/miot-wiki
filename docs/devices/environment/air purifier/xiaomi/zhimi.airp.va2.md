@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家空气净化器 4 Pro
 
-小米/米家 | 2021/9/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airp.va2/) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airp.va2&region=cn)
+小米/米家 | 2021/9/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=zhimi.airp.va2) | [说明书](https://home.mi.com/views/introduction.html?model=zhimi.airp.va2&region=cn)
 
 ![zhimi.airp.va2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047840510sugR67Ao.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CoDmevKEH7K4CRgqz3+ItVVX6/8=)
 

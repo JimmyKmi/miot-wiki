@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能晾衣机Lite2（错层晾晒版）
 
-云米 Viomi | 2021/8/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.vch100/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.vch100&region=cn)
+云米 Viomi | 2021/8/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.airer.vch100) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.airer.vch100&region=cn)
 
 ![viomi.airer.vch100](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047958941CIUrlSzv.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=CA5VbIPYiiJynycmYyRz42Ur5mk=)
 

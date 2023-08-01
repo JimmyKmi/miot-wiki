@@ -9,7 +9,7 @@ description : ''
 ---
 # 烘干毛巾架
 
-近远方 | 2022/7/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jyf.tow_w.ts03/) | [说明书](https://home.mi.com/views/introduction.html?model=jyf.tow_w.ts03&region=cn)
+近远方 | 2022/7/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=jyf.tow_w.ts03) | [说明书](https://home.mi.com/views/introduction.html?model=jyf.tow_w.ts03&region=cn)
 
 ![jyf.tow_w.ts03](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/38153ecbca51415ce1a01fdf01db8078_1645685745973.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=IjuTUxawBeyX4lXPz4fsPPfaamM=)
 

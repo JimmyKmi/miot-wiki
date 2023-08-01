@@ -9,7 +9,7 @@ description : ''
 ---
 # PIPA智能二键开关MESH
 
-其他品牌 | 2021/12/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mcosu.switch.pipam2/) | [说明书](https://home.mi.com/views/introduction.html?model=mcosu.switch.pipam2&region=cn)
+其他品牌 | 2021/12/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mcosu.switch.pipam2) | [说明书](https://home.mi.com/views/introduction.html?model=mcosu.switch.pipam2&region=cn)
 
 ![mcosu.switch.pipam2](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/edc1d34d86dc593f4dd3929f839dbad3_1635920187827.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Ppsazxq9juMGk//x6NskykSwqRM=)
 

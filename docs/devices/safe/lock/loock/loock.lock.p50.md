@@ -9,7 +9,7 @@ description : ''
 ---
 # 鹿客指静脉智能锁P50
 
-鹿客 Loock | 2022/2/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.p50/) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.p50&region=cn)
+鹿客 Loock | 2022/2/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=loock.lock.p50) | [说明书](https://home.mi.com/views/introduction.html?model=loock.lock.p50&region=cn)
 
 ![loock.lock.p50](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/b92c3f1b9fa81e567d8ff3ab8ae1e8a5_1640757785255.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=XxjTZ0YhYVWqq8IB3tjwFLH8tdQ=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 音乐律动焕彩灯带
 
-其他品牌 | 2023/3/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mkit.light.wyra01/) | [说明书](https://home.mi.com/views/introduction.html?model=mkit.light.wyra01&region=cn)
+其他品牌 | 2023/3/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mkit.light.wyra01) | [说明书](https://home.mi.com/views/introduction.html?model=mkit.light.wyra01&region=cn)
 
 ![mkit.light.wyra01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7f37b91c86734f2b3b9f9823dfbb89bf_1669865781898.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Uy1uXn4IOmRfR/SKOIYy6+RnYkU=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 即米智能灯
 
-即米 | 2022/11/15 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mjkj.light.wy0a01/) | [说明书](https://home.mi.com/views/introduction.html?model=mjkj.light.wy0a01&region=cn)
+即米 | 2022/11/15 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mjkj.light.wy0a01) | [说明书](https://home.mi.com/views/introduction.html?model=mjkj.light.wy0a01&region=cn)
 
 ![mjkj.light.wy0a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dba4da659971fd58b4d8b446ae9e97dc_1667612600751.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=OHeBoGUuZ8Dk2sTS4NZzp1txDy4=)
 

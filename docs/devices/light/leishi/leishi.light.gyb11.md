@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能光源模组（Mesh版）
 
-雷士 | 2023/6/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.gyb11/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.gyb11&region=cn)
+雷士 | 2023/6/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.light.gyb11) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.light.gyb11&region=cn)
 
 ![leishi.light.gyb11](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/a3db4ffe6f0f2e23525aabef2f0797ab_1683598264206.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Dd+9/n829M2VT+B2BNPyaRpKT4o=)
 

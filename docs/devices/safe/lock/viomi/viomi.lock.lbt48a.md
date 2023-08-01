@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能门锁eyeLink 2S
 
-云米 Viomi | 2022/5/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.lbt48a/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.lbt48a&region=cn)
+云米 Viomi | 2022/5/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.lbt48a) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.lbt48a&region=cn)
 
 ![viomi.lock.lbt48a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/9b6e7ccada3506a12f988ddb5e782db8_1644574150261.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=a224P+iR5WbAauPJ2PX7UbK1Cl8=)
 

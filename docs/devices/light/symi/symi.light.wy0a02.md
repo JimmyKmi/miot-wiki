@@ -9,7 +9,7 @@ description : ''
 ---
 # 亖米磁吸灯mesh版
 
-亖米 | 2022/6/27 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.light.wy0a02/) | [说明书](https://home.mi.com/views/introduction.html?model=symi.light.wy0a02&region=cn)
+亖米 | 2022/6/27 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=symi.light.wy0a02) | [说明书](https://home.mi.com/views/introduction.html?model=symi.light.wy0a02&region=cn)
 
 ![symi.light.wy0a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/dadcefef2c91eb83cde25e7f17618571_1655353359388.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=stl7u8NAMVoW0qyxPsdlXw10wIU=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # PGG颈椎按摩仪P7
 
-其他品牌 | 2021/2/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dtr.magic_touch.p7/) | [说明书](https://home.mi.com/views/introduction.html?model=dtr.magic_touch.p7&region=cn)
+其他品牌 | 2021/2/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=dtr.magic_touch.p7) | [说明书](https://home.mi.com/views/introduction.html?model=dtr.magic_touch.p7&region=cn)
 
 ![dtr.magic_touch.p7](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1f122242e8b1742766e51bbbacd90c45_产品拟物图.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=R5IG2omCjghTvcANBNKm3cbRrUA=)
 

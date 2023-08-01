@@ -9,7 +9,7 @@ description : ''
 ---
 # GSD三键智能开关
 
-其他品牌 | 2022/8/31 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gsd.switch.sw3a01/) | [说明书](https://home.mi.com/views/introduction.html?model=gsd.switch.sw3a01&region=cn)
+其他品牌 | 2022/8/31 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=gsd.switch.sw3a01) | [说明书](https://home.mi.com/views/introduction.html?model=gsd.switch.sw3a01&region=cn)
 
 ![gsd.switch.sw3a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/80e36f7a2a45b42531808b78398340e2_1656588230445.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Yby+7v651G+TdkX3A32gjt1Fq8s=)
 

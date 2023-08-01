@@ -9,7 +9,7 @@ description : ''
 ---
 # 小米智能插座基础版(已失效)
 
-小米/米家 | 1970/1/1 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.plug.v2/) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.plug.v2&region=cn)
+小米/米家 | 1970/1/1 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=chuangmi.plug.v2) | [说明书](https://home.mi.com/views/introduction.html?model=chuangmi.plug.v2&region=cn)
 
 ![chuangmi.plug.v2](https://cdn.cnbj0.fds.api.mi-img.com/miio_user_head/7w44a7vc_1441512002.png)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # inncap靓光LED灯泡（彩光版）
 
-其他品牌 | 2020/4/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viewx.light.101001/) | [说明书](https://home.mi.com/views/introduction.html?model=viewx.light.101001&region=cn)
+其他品牌 | 2020/4/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viewx.light.101001) | [说明书](https://home.mi.com/views/introduction.html?model=viewx.light.101001&region=cn)
 
 ![viewx.light.101001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1678871037180ond6cDt8.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=agoZynesZKDVctAbAFQk4+TLaGk=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # 一位开关-单火Mesh版
 
-其他品牌 | 2022/6/24 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=frfox.switch.bl01/) | [说明书](https://home.mi.com/views/introduction.html?model=frfox.switch.bl01&region=cn)
+其他品牌 | 2022/6/24 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=frfox.switch.bl01) | [说明书](https://home.mi.com/views/introduction.html?model=frfox.switch.bl01&region=cn)
 
 ![frfox.switch.bl01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/3351057785a107fcfef1ddd238fe85ab_1653900399638.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=RCKLeMko3raL5KNIQ4I5aAyFfvY=)
 

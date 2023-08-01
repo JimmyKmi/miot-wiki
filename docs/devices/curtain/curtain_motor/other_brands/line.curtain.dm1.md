@@ -9,7 +9,7 @@ description : ''
 ---
 # LineHope智能窗帘电机DM1
 
-其他品牌 | 2021/7/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.curtain.dm1/) | [说明书](https://home.mi.com/views/introduction.html?model=line.curtain.dm1&region=cn)
+其他品牌 | 2021/7/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=line.curtain.dm1) | [说明书](https://home.mi.com/views/introduction.html?model=line.curtain.dm1&region=cn)
 
 ![line.curtain.dm1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047905450LKR78kGu.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=UaWHQ9h9Cntqts4KpEkugVPMuIc=)
 

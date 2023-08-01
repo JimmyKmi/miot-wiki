@@ -9,7 +9,7 @@ description : ''
 ---
 # 云米AI智能门锁Smart 2
 
-云米 Viomi | 2022/4/20 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.lbt51a/) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.lbt51a&region=cn)
+云米 Viomi | 2022/4/20 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=viomi.lock.lbt51a) | [说明书](https://home.mi.com/views/introduction.html?model=viomi.lock.lbt51a&region=cn)
 
 ![viomi.lock.lbt51a](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/f0f05a2451d8a438eed5c70dbd2242f9_1648716348813.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fP1Uw7HMhJEwb8X6QYp80TXnl6I=)
 

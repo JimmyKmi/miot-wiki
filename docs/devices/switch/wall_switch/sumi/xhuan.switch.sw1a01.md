@@ -9,7 +9,7 @@ description : ''
 ---
 # 苏米T1智能开关（零火单键）
 
-苏米 | 2021/11/4 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.switch.sw1a01/) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.switch.sw1a01&region=cn)
+苏米 | 2021/11/4 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=xhuan.switch.sw1a01) | [说明书](https://home.mi.com/views/introduction.html?model=xhuan.switch.sw1a01&region=cn)
 
 ![xhuan.switch.sw1a01](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679048027355UkAtSdsc.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=luOFi0O4ygZpiyHF/M4kRYXuP3M=)
 

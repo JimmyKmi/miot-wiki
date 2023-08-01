@@ -9,7 +9,7 @@ description : ''
 ---
 # 绘睡一键舒眠水暖垫HS2201
 
-其他品牌 | 2021/8/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isleep.blanket.hs2201/) | [说明书](https://home.mi.com/views/introduction.html?model=isleep.blanket.hs2201&region=cn)
+其他品牌 | 2021/8/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=isleep.blanket.hs2201) | [说明书](https://home.mi.com/views/introduction.html?model=isleep.blanket.hs2201&region=cn)
 
 ![isleep.blanket.hs2201](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047957208ruWfXoWa.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=d2q6E4qlxMCkmMwhJN3v4skmTjE=)
 

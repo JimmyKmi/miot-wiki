@@ -9,7 +9,7 @@ description : ''
 ---
 # 雷士智能浴霸
 
-雷士 | 2020/9/30 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.bhf_light.yuba02/) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.bhf_light.yuba02&region=cn)
+雷士 | 2020/9/30 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=leishi.bhf_light.yuba02) | [说明书](https://home.mi.com/views/introduction.html?model=leishi.bhf_light.yuba02&region=cn)
 
 ![leishi.bhf_light.yuba02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047725250WuKruyze.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=90pd7NmfUPsK0gO0pwH5yY7lPTQ=)
 

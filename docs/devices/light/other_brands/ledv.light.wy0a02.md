@@ -9,7 +9,7 @@ description : ''
 ---
 # 朗德万斯溪柚卧室系列吸顶灯
 
-其他品牌 | 2021/6/7 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ledv.light.wy0a02/) | [说明书](https://home.mi.com/views/introduction.html?model=ledv.light.wy0a02&region=cn)
+其他品牌 | 2021/6/7 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ledv.light.wy0a02) | [说明书](https://home.mi.com/views/introduction.html?model=ledv.light.wy0a02&region=cn)
 
 ![ledv.light.wy0a02](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047809078Jw1hhjvU.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=fbY97hicn6JupcwkVHsxRQK20DQ=)
 

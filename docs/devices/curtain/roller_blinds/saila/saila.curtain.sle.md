@@ -9,7 +9,7 @@ description : ''
 ---
 # 智能卷帘电机
 
-柠檬赛拉 | 2022/12/9 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=saila.curtain.sle/) | [说明书](https://home.mi.com/views/introduction.html?model=saila.curtain.sle&region=cn)
+柠檬赛拉 | 2022/12/9 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=saila.curtain.sle) | [说明书](https://home.mi.com/views/introduction.html?model=saila.curtain.sle&region=cn)
 
 ![saila.curtain.sle](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/1e2b820a64580be41ae4a8c714221f8d_1662426900134.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=appdzycW4gDad0rDF/Hrgs4DXnE=)
 

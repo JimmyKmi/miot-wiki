@@ -9,7 +9,7 @@ description : ''
 ---
 # 未来居调光旋钮（亮度）
 
-未来居 Bymiot | 2023/6/25 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.controller.lumv1/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.controller.lumv1&region=cn)
+未来居 Bymiot | 2023/6/25 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.controller.lumv1) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.controller.lumv1&region=cn)
 
 ![bymiot.controller.lumv1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/624a2903a23156ef9ae7b0cf7cbfd9f9_1680860089241.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=PV/LvREqKZT5oFnLQps7bYvPx/k=)
 

@@ -9,7 +9,7 @@ description : ''
 ---
 # PIPA 智能浴霸M1
 
-其他品牌 | 2022/5/10 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mcosu.bhf_light.pipam1/) | [说明书](https://home.mi.com/views/introduction.html?model=mcosu.bhf_light.pipam1&region=cn)
+其他品牌 | 2022/5/10 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=mcosu.bhf_light.pipam1) | [说明书](https://home.mi.com/views/introduction.html?model=mcosu.bhf_light.pipam1&region=cn)
 
 ![mcosu.bhf_light.pipam1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/02330dfa231e2dbae4cb75fbc4e13824_1648551360745.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=0oMV62X3nlJckS6XYxbCKPTEHtU=)
 

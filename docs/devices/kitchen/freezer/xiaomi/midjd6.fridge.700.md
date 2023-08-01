@@ -9,7 +9,7 @@ description : ''
 ---
 # 米家冰箱 MAX 700L 墨青岩
 
-小米/米家 | 2023/5/29 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.700/) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.700&region=cn)
+小米/米家 | 2023/5/29 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=midjd6.fridge.700) | [说明书](https://home.mi.com/views/introduction.html?model=midjd6.fridge.700&region=cn)
 
 ![midjd6.fridge.700](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/7542b48f4d1db3cda15309241fedd3e1_1683191739567.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=OlfQuIVsnB5pYZMcOVAXaBOx84o=)
 

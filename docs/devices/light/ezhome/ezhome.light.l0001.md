@@ -9,7 +9,7 @@ description : ''
 ---
 # 智汇云全彩音乐律动控制器
 
-智汇云 | 2022/11/5 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ezhome.light.l0001/) | [说明书](https://home.mi.com/views/introduction.html?model=ezhome.light.l0001&region=cn)
+智汇云 | 2022/11/5 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ezhome.light.l0001) | [说明书](https://home.mi.com/views/introduction.html?model=ezhome.light.l0001&region=cn)
 
 ![ezhome.light.l0001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/8ea4f0067f8e9601132037402147195d_1666417602979.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=IOYuJUYKmwrFQHq4KMwpvsY9RUk=)
 

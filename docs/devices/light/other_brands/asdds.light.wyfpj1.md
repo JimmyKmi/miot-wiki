@@ -9,7 +9,7 @@ description : ''
 ---
 # 菲普家智能灯具
 
-其他品牌 | 2019/11/8 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=asdds.light.wyfpj1/) | [说明书](https://home.mi.com/views/introduction.html?model=asdds.light.wyfpj1&region=cn)
+其他品牌 | 2019/11/8 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=asdds.light.wyfpj1) | [说明书](https://home.mi.com/views/introduction.html?model=asdds.light.wyfpj1&region=cn)
 
 ![asdds.light.wyfpj1](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-user-center/developer_1679047655250KCJZacmd.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=Yn14lBaoHHZUr2SJu4bDriN6fug=)
 

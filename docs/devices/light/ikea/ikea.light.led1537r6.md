@@ -9,7 +9,7 @@ description : ''
 ---
 # 宜家 GU10 调温灯
 
-宜家 Ikea | 2018/12/28 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ikea.light.led1537r6/) | [说明书](https://home.mi.com/views/introduction.html?model=ikea.light.led1537r6&region=cn)
+宜家 Ikea | 2018/12/28 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=ikea.light.led1537r6) | [说明书](https://home.mi.com/views/introduction.html?model=ikea.light.led1537r6&region=cn)
 
 ![ikea.light.led1537r6](https://static.home.mi.com/app/image/get/file/developer_1544712554tviinzca.png)
 

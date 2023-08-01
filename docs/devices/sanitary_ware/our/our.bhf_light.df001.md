@@ -9,7 +9,7 @@ description : ''
 ---
 # 奥华取暖器
 
-奥华 | 2022/12/19 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=our.bhf_light.df001/) | [说明书](https://home.mi.com/views/introduction.html?model=our.bhf_light.df001&region=cn)
+奥华 | 2022/12/19 发布 | [米家百科](https://home.mi.com/webapp/content/baike/product/index.html?model=our.bhf_light.df001) | [说明书](https://home.mi.com/views/introduction.html?model=our.bhf_light.df001&region=cn)
 
 ![our.bhf_light.df001](https://cdn.cnbj1.fds.api.mi-img.com/iotweb-product-center/c61a6282695d61866bb98ac6f1679210_1667800835492.png?GalaxyAccessKeyId=AKVGLQWBOVIRQ3XLEW&Expires=9223372036854775807&Signature=HOg1HxRj+AiM6DTDewSZbDEal6U=)
 
