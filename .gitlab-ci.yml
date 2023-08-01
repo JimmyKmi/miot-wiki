@@ -3,5 +3,5 @@ stages:
 
 deploy:
   stage: deploy
-  script: git push miot-wiki HEAD:deploy
+  script: git checkout deploy
   when: manual
