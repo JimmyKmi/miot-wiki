@@ -16,7 +16,7 @@ description : ''
 ## 规格  
 > 
 **设备 ID** ：lumi.gateway.mcn001  
-**通讯协议** ：  
+**通讯协议** ：  WiFi 2.4Ghz/5G   以太网
 **极客版**  ： 待补充 
 
 
