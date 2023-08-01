@@ -56,7 +56,7 @@ export default function AdmonitionWrapper(props) {
 
 function getcode(props) {
 
-  if(props.children == null){
+  if (props.children == null) {
     return '<code>待补充</code>'
   }
 
@@ -65,5 +65,10 @@ function getcode(props) {
   data.map(item => {
     code += '<code>' + item + '</code>'
   })
-  return escape(code);
+  return html2Escape(code);
+}
+
+//勇于转义HTML字符串
+function html2Escape(sHtml) {
+  return sHtml.replace(/[<>&"]/g, function (c) { return { '<': '&lt;', '>': '&gt;', '&': '&amp;', '"': '&quot;' }[c]; });
 }
