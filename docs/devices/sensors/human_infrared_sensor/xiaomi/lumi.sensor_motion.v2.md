@@ -32,11 +32,11 @@ description : ''
 :::
 
 :::condition  
-
+有人移动、2分钟无人移动、5分钟无人移动、10分钟无人移动、20分钟无人移动、30分钟无人移动
 :::
 
 :::action   
-
+无
 :::
 
 ## 米家自动化极客版  
@@ -58,3 +58,6 @@ description : ''
 :::
 
         
+## 相关视频
+易举不易：拆解米家人体传感器，看看里面结构，讲解下为什么我不动就检测不到人，把灯给我关了  
+<iframe src="//player.bilibili.com/player.html?aid=329167655&bvid=BV1QA411Y7yK&cid=223557042&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

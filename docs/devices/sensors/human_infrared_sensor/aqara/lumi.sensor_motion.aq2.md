@@ -16,7 +16,7 @@ description : ''
 ## 规格  
 > 
 **设备 ID** ：lumi.sensor_motion.aq2  
-**通讯协议** ：zigbee3.0  
+**通讯协议** ：zigbee1.2
 **供电方式** ：CR2450电池  
 **官方续航** ：2年  
 **光照条件** ：数值，有人移动时附带上报  
@@ -32,11 +32,11 @@ description : ''
 :::
 
 :::condition  
-
+2分钟无人移动、5分钟无人移动、10分钟无人移动、20分钟无人移动、30分钟无人移动
 :::
 
 :::action   
-
+无
 :::
 
 ## 米家自动化极客版  
@@ -58,3 +58,6 @@ description : ''
 :::
 
         
+## 相关视频
+易举不易：绿米aqara人体传感器。zigbee1.2协议，带光照，支持小米米家，绿米aqarahome和苹果和HomeKit3个平台。
+<iframe src="//player.bilibili.com/player.html?aid=385288786&bvid=BV1xZ4y1i7Xa&cid=756350102&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

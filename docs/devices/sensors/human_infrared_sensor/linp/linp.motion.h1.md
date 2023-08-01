@@ -17,7 +17,7 @@ description : ''
 > 
 **设备 ID** ：linp.motion.h1  
 **通讯协议** ：蓝牙  
-**供电方式** ：CR2450电池  
+**供电方式** ：CR3032电池  
 **官方续航** ：2年  
 **光照条件** ：数值，有人移动时附带上报  
 **检测范围** ：120° 8m   
@@ -32,11 +32,11 @@ description : ''
 :::
 
 :::condition  
-
+无（2代支持状态条件，硬件其实一样的，固件改动太大，单独一个型号）
 :::
 
 :::action   
-
+无
 :::
 
 ## 米家自动化极客版  
@@ -58,3 +58,6 @@ description : ''
 :::
 
         
+## 相关视频
+易举不易：接入米家领普人体传感器，光照可调具体数值，支架很灵活，8米120度检测范围。
+<iframe src="//player.bilibili.com/player.html?aid=642524194&bvid=BV1HY4y1g718&cid=750095929&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

@@ -32,11 +32,11 @@ description : ''
 :::
 
 :::condition  
-
+无人移动 1 分钟、无人移动 2 分钟、无人移动 5 分钟、无人移动 10 分钟、无人移动 30 分钟、光照强度高于、光照强度低于、光照较强、光照较弱
 :::
 
 :::action   
-
+无
 :::
 
 ## 米家自动化极客版  
@@ -58,3 +58,6 @@ description : ''
 :::
 
         
+## 相关视频
+易举不易：接入米家的青萍蓝牙网关&青萍动作和环境光传感器。类似米家人体传感器2，模样有些新奇，双CR2450电池保证续航
+<iframe src="//player.bilibili.com/player.html?aid=715242429&bvid=BV1hQ4y1Z77n&cid=328784095&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

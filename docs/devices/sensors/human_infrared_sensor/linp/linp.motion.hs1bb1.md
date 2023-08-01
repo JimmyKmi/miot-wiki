@@ -17,7 +17,7 @@ description : ''
 > 
 **设备 ID** ：linp.motion.hs1bb1  
 **通讯协议** ：蓝牙  
-**供电方式** ：CR2450电池   
+**供电方式** ：CR3032电池   
 **官方续航** ：2年  
 **光照条件** ：数值，有人移动时附带上报  
 **检测范围** ：120° 8m   
@@ -32,11 +32,11 @@ description : ''
 :::
 
 :::condition  
-
+无人移动超过2分钟、无人移动超过5分钟、无人移动超过10分钟、无人移动超过30分钟、无人移动超过1分钟
 :::
 
 :::action   
-
+无
 :::
 
 ## 米家自动化极客版  
@@ -58,3 +58,6 @@ description : ''
 :::
 
         
+## 相关视频
+易举不易：接入米家的领普人体传感器2。其实和1代硬件一样，改动太大单独的sku了。新增5个状态条件
+<iframe src="//player.bilibili.com/player.html?aid=815021535&bvid=BV1KG4y1674j&cid=820200541&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

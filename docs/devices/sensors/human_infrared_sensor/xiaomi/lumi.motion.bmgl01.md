@@ -32,11 +32,11 @@ description : ''
 :::
 
 :::condition  
-
+2分钟无人移动、5分钟无人移动、超时无人移动、环境光亮、环境光暗
 :::
 
 :::action   
-
+无
 :::
 
 ## 米家自动化极客版  
@@ -58,3 +58,6 @@ description : ''
 :::
 
         
+## 相关视频
+易举不易：小米人体传感器2。协议改为蓝牙，增加了支架，光照条件，复位孔变成按键了
+<iframe src="//player.bilibili.com/player.html?aid=245436485&bvid=BV1Zv411t7WS&cid=261729239&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

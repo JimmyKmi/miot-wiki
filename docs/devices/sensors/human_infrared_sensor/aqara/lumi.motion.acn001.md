@@ -16,7 +16,7 @@ description : ''
 ## 规格  
 > 
 **设备 ID** ：lumi.motion.acn001  
-**通讯协议** ：zigbee1.2  
+**通讯协议** ：zigbee3.0 
 **供电方式** ：CR2450电池  
 **官方续航** ：2年  
 **光照条件** ：仅有：有人且关照暗  
@@ -32,11 +32,11 @@ description : ''
 :::
 
 :::condition  
-
+2分钟无人移动、5分钟无人移动、10分钟无人移动、20分钟无人移动、30分钟无人移动
 :::
 
 :::action   
-
+无
 :::
 
 ## 米家自动化极客版  
@@ -58,3 +58,6 @@ description : ''
 :::
 
         
+## 相关视频
+易举不易：绿米aqara人体传感器e1。zigbee3.0协议自带光照支架。接入小米米家/绿米aqarahome/苹果HomeKit3个平台
+<iframe src="//player.bilibili.com/player.html?aid=470861497&bvid=BV1wT411J7UG&cid=768469888&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
