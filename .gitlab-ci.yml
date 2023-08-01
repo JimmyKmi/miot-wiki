@@ -1,0 +1,7 @@
+stages:
+  - deploy
+
+deploy:
+  stage: deploy
+  script: git push miot-wiki HEAD:deploy
+  when: manual
