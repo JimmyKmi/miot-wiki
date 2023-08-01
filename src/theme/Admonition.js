@@ -63,9 +63,9 @@ function getcode(props) {
   var code = '';
   var data = props.children.props.children.toString().split('、');
   data.map(item => {
-    code += '<code>' + item + '</code>'
+    code += '<code>' + html2Escape(item) + '</code>';
   })
-  return html2Escape(code);
+  return code;
 }
 
 //勇于转义HTML字符串
