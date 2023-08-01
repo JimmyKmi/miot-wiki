@@ -1,19 +1,11 @@
 ---
 sidebar_label: '未来居强电插卡取电'
 ---
-<<<<<<< HEAD
 # 未来居强电插卡取电
 
 2021-02-01 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.sensor_occupy.v3/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.sensor_occupy.v3&region=cn)
 
 <!-- ![bymiot.sensor_occupy.v3]() -->
-=======
-# 小米人体传感器
-
-2021-02-01 发布 | [产品百科](https://home.mi.com/webapp/content/baike/product/index.html?model=bymiot.sensor_occupy.v3/) | [说明书](https://home.mi.com/views/introduction.html?model=bymiot.sensor_occupy.v3&region=cn)
-
-![lumi.sensor_motion.v2](#)
->>>>>>> 0f73d88c2b7efbf81efdd9d19d9fb77c8c2f8af2
 
 ## 规格  
 > 
