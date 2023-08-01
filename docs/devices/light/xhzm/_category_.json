@@ -1,0 +1,7 @@
+{
+    "label": "馨宏",
+    "position": 999,
+    "link": {
+        "type": "generated-index"
+    }
+} 
