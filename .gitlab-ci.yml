@@ -4,6 +4,6 @@ stages:
 deploy:
   stage: deploy
   script: 
-    - git pull https://jihulab.com/miot-wiki/miot-wiki/ main
+    - git clone https://jihulab.com/miot-wiki/miot-wiki/ main
     - git merge main
   when: manual
