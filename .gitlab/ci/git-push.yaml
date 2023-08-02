@@ -1,0 +1,55 @@
+.git:push:
+  #  请确保 extends 的 Job 中安装了 git，如果没有安装，可以使用类似 `apk add git` 命令来安装 git
+  #  image:
+  #    name: alpine/git:v2.32.0
+  #    entrypoint: ['']
+  before_script:
+    # fork
+    - |
+      git clone -b deploy "https://${GITLAB_USERNAME}:${GITLAB_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" "${CI_COMMIT_SHA}"
+      cd "${CI_COMMIT_SHA}"
+
+    # Check out branch if it's not master
+    - |
+      if [[ "${CI_COMMIT_BRANCH}" != "${CI_DEFAULT_BRANCH}" ]]; then
+        git fetch
+        git checkout -t "origin/${CI_COMMIT_BRANCH}"
+      fi
+
+    - git branch
+    # Set the displayed user with the commits that are about to be made
+    - git config --global user.name "${GIT_USER_NAME:-$GITLAB_USER_NAME}"
+    - git config --global user.email "${GIT_USER_EMAIL:-$GITLAB_USER_EMAIL}"
+
+    - cd "${CI_PROJECT_DIR}"
+  after_script:
+    # Go to the new directory
+    - cd "${CI_COMMIT_SHA}"
+
+    # Add all generated files to Git
+    - git add .
+
+    - |-
+      # Check if we have modifications to commit
+      CHANGES=$(git status --porcelain | wc -l)
+
+      if [ "$CHANGES" -gt "0" ]; then
+        # Show the status of files that are about to be created, updated or deleted
+        git status
+
+        # Commit all changes
+        git commit -m "${CI_COMMIT_MESSAGE}"
+
+        # Update the repository
+        if [ "${SKIP_CI}" -gt "0" ]; then
+          # Skip the pipeline create for this commit
+          echo "Skip"
+          git push -o ci.skip
+        else
+          echo "no Skip"
+          git push
+        fi
+        echo "Over"
+      else
+        echo "Nothing to commit"
+      fi
