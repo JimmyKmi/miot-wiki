@@ -1,0 +1,10 @@
+include:
+  - local: .gitlab/ci/git-push.yaml
+Git push:
+  stage: deploy
+  extends:
+    - .git:push
+  script:
+    - |
+      # Move some generated files
+      mv dist/* "${CI_COMMIT_SHA}"
