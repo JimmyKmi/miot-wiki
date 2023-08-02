@@ -1,4 +1,0 @@
-.git:push:
-  before_script:
-    - git checkout deploy
-    - git merge mian
