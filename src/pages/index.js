@@ -30,7 +30,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/devices/intro">
-            开始探索MiotWiki
+            开始探索 MiotWiki
           </Link>
         </div>
       </div>
