@@ -63,7 +63,7 @@ sidebar_position: 0
         </article>
         <article class="col col--6 margin-bottom--lg">
             <a class="card padding--lg cardContainer_fWXF" href="/docs/category/插座%2F插排">
-                <h2 class="text--truncate cardTitle_rnsV" title="插座/插排">🗃️ 插座/插排</h2>
+                <h2 class="text--truncate cardTitle_rnsV" title="插座/插排">🗃️ 插座插排</h2>
             </a>
         </article>
         <article class="col col--6 margin-bottom--lg">
@@ -103,7 +103,7 @@ sidebar_position: 0
         </article>
         <article class="col col--6 margin-bottom--lg">
             <a class="card padding--lg cardContainer_fWXF" href="/docs/category/开关%2F控制器">
-                <h2 class="text--truncate cardTitle_rnsV" title="开关/控制器">🗃️ 开关/控制器</h2>
+                <h2 class="text--truncate cardTitle_rnsV" title="开关/控制器">🗃️ 开关控制器</h2>
             </a>
         </article>
         <article class="col col--6 margin-bottom--lg">
